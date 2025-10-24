@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8871,Marco Carnesecchi,2025,Atalanta,GK,7,630,0,0,0,0.0,0,0,0,0,0,0,1.157137267291546,1.157137267291546
+8871,Marco Carnesecchi,2024,Atalanta,GK,34,3060,0,0,0,0.3005107939243316,0,1,1,0,0,0,6.58033574745059,6.279824946075678
+8871,Marco Carnesecchi,2023,Atalanta,GK,27,2427,0,0,0,0.0,0,0,0,0,0,0,2.1709901951253414,2.1709901951253414
+8871,Marco Carnesecchi,2022,Cremonese,GK,27,2430,0,1,0,0.4115757197141647,0,2,1,0,0,0,1.3965469785034657,1.0035979934036732

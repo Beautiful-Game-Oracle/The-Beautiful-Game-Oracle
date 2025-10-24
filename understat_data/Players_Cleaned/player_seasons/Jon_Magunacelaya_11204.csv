@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11204,Jon Magunacelaya,2024,Real Sociedad,Sub,2,5,0,0,0.0,0.0,0,0,0,0,0,0.0,0.6653539538383484,0.6653539538383484
+11204,Jon Magunacelaya,2023,Real Sociedad,Sub,5,112,0,0,0.236787412315607,0.4766339063644409,4,1,0,0,0,0.236787412315607,1.005659520626068,0.4522879421710968
+11204,Jon Magunacelaya,2022,Real Sociedad,Sub,2,58,0,0,0.0278300996869802,0.6553639769554138,1,2,0,0,0,0.0278300996869802,0.6553639769554138,0.0

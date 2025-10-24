@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13917,Mamadou Sangaré,2025,,MC,6,540,0,0,0.2564098034054041,0.2856002151966095,6,3,0,0,0,0.2564098034054041,2.211817412637174,1.8750810800120237
+13917,Mamadou Sangaré,2025,,Sub,1,28,0,0,0.0,0.0638256892561912,0,2,0,0,0,0.0,0.0638256892561912,0.0

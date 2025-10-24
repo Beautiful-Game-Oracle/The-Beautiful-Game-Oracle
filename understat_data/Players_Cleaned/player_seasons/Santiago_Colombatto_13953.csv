@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13953,Santiago Colombatto,2025,Real Oviedo,Sub,5,266,0,0,0.12364764790982,0.1796465255320072,3,3,1,0,0,0.12364764790982,0.8296378552913666,0.6331052556633949

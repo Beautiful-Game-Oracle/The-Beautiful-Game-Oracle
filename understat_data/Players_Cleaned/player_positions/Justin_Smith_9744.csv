@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9744,Justin Smith,2024,,MC,3,185,0,0,0,0.0280212052166461,0,1,0,0,0,0,0.0280212052166461,0.0
+9744,Justin Smith,2024,,Sub,2,24,0,0,0,0.0,0,0,0,0,0,0,0.0648330152034759,0.0648330152034759

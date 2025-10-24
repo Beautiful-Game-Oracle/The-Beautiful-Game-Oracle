@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10836,Karamoko Dembele,2023,Brest,Sub,1,11,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+10836,Karamoko Dembele,2022,Brest,Sub,15,141,0,0,0.3316854014992714,0.0854965969920158,4,3,0,0,0,0.3316854014992714,0.4919402040541172,0.0915582068264484

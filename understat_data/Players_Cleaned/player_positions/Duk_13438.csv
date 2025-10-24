@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13438,Duk,2024,,Sub,9,79,0,0,0.0116409203037619,0.5542192105203867,1,5,1,0,0,0.0116409203037619,0.5542192105203867,0
+13438,Duk,2024,,ML,1,70,0,0,0.0198650006204843,0.0,1,0,0,0,0,0.0198650006204843,0.0,0

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12895,Víctor Meseguer,2024,Real Valladolid,Sub,14,376,0,0,0.4323925329372287,0.0252116713672876,6,1,1,0,0,0.4323925329372287,1.2918654140084982,0.9241588413715364

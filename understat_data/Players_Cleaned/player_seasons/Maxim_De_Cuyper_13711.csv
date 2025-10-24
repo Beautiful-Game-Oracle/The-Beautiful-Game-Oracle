@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13711,Maxim De Cuyper,2025,Brighton,DL,7,348,1,0,0.5555662959814072,0.1650261208415031,3,3,1,0,1,0.5555662959814072,1.1647033020853996,1.095068298280239

@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13525,Wilfried Ndollo Bille,2024,,DR,3,229,0,0,0,0.0,0,0,0,0,0,0,0.4290200024843216,0.4290200024843216
+13525,Wilfried Ndollo Bille,2024,,Sub,5,161,0,0,0,0.0292285084724426,0,1,0,0,0,0,0.3579936623573303,0.3287651538848877

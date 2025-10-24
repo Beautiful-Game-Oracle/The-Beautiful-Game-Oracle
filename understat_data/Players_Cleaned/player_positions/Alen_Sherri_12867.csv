@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12867,Alen Sherri,2024,,GK,7,627,0,0,0,0.0228375680744647,0,1,0,0,0,0,0.1196601148694753,0.1196601148694753

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13716,Noah Sadiki,2025,Sunderland,MC,8,718,0,0,0.1230637319386005,0.0912126991897821,3,3,3,0,0,0.1230637319386005,1.461578831076622,1.2990950280800462

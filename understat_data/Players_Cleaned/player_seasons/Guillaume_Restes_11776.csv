@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11776,Guillaume Restes,2025,Toulouse,GK,8,720,0,0,0,0.0612147636711597,0,1,2,0,0,0,0.2957592979073524,0.2957592979073524
+11776,Guillaume Restes,2024,Toulouse,GK,29,2545,0,1,0,0.0531766414642334,0,1,2,0,0,0,1.9823221750557425,1.9823221750557425
+11776,Guillaume Restes,2023,Toulouse,GK,34,3060,0,0,0,0.0,0,0,3,0,0,0,2.860344873741269,2.860344873741269

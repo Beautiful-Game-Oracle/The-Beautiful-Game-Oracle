@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13955,Jakub Piotrowski,2025,Udinese,Sub,6,314,0,0,0.5701877120882273,0.1334066279232502,5,4,1,0,0,0.5701877120882273,1.2475000098347664,0.5439057052135468

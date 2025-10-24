@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13926,Alexander Røssing-Lelesiit,2025,,FWL,2,132,0,0,0.0295985750854015,0.0,1,0,0,0,0,0.0295985750854015,0.0652500577270984,0.0356514826416969
+13926,Alexander Røssing-Lelesiit,2025,,ML,1,52,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+13926,Alexander Røssing-Lelesiit,2025,,Sub,2,12,0,0,0.0,0.3746860325336456,0,1,0,0,0,0.0,0.3746860325336456,0.0

@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10707,Mounaim El Idrissy,2022,,FW,30,2455,6,0,6.864937058649957,1.2197585282847283,48,13,10,0,6,6.864937058649957,9.571537919342518,2.023346153087914
+10707,Mounaim El Idrissy,2022,,Sub,2,83,0,0,0.1841319948434829,0.0,3,0,0,0,0,0.1841319948434829,0.1841319948434829,0.0

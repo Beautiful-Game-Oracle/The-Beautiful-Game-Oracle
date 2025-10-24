@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13134,Ryan Manning,2024,Southampton,DL,24,1495,0,1,0.336783405393362,3.371531819924712,8,34,2,0,0,0.336783405393362,5.233867669478059,3.998649872839451

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+3660,Ismael Diallo,2022,Ajaccio,DL,28,2191,0,0,0.1192130986601114,0.4426664020866155,3,9,9,1,0,0.1192130986601114,3.212655746378005,2.737737056799233

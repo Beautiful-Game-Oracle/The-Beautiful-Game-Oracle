@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+14058,Cameron Puertas,2025,Werder Bremen,AMC,5,391,0,0,0.5245083086192608,0,11,0,3,0,0,0.5245083086192608,2.1651790160685778,1.730236740782857

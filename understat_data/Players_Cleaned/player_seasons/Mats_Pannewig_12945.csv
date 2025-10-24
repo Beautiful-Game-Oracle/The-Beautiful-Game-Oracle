@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12945,Mats Pannewig,2024,Bochum,Sub,14,243,0,0,0.3752986444160342,0.0683701187372207,9,1,1,0,0,0.3752986444160342,0.8740467093884945,0.5063304528594017

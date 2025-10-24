@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10706,Riad Nouri,2022,Ajaccio,ML,33,1669,1,1,2.0467834006994963,1.8304515033960345,17,25,3,0,1,1.2866887282580135,2.51437146961689,0.5631840582937002

@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12178,Niccolò Pierozzi,2023,,DC,8,621,1,0,0.2483679689466953,0.0,8,0,4,0,1,0.2483679689466953,0.7475397894158959,0.7290547788143158
+12178,Niccolò Pierozzi,2023,,DR,3,238,0,0,0.0,0.0571012906730175,0,1,2,0,0,0.0,0.0963114798069,0.0963114798069
+12178,Niccolò Pierozzi,2023,,Sub,1,19,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

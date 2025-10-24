@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13845,Valentín Gómez,2025,Real Betis,Sub,7,392,0,0,0.4293612129986286,0.019174063578248,5,1,1,0,0,0.4293612129986286,0.6851060502231121,0.4508911035954952

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11818,Ângelo,2023,Strasbourg,Sub,21,1065,0,3,0.5878619709983468,3.147912744898349,9,26,2,0,0,0.5878619709983468,6.498367574065924,4.074120530858636

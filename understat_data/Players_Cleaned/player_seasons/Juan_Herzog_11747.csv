@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11747,Juan Herzog,2024,Las Palmas,DC,19,1321,0,0,0.586847435683012,0,10,0,1,0,0,0.586847435683012,2.7008586302399635,2.597265738993883
+11747,Juan Herzog,2023,Las Palmas,DC,4,290,2,0,0.6798617094755173,0,3,0,1,0,2,0.6798617094755173,0.2586515843868255,0.2586515843868255

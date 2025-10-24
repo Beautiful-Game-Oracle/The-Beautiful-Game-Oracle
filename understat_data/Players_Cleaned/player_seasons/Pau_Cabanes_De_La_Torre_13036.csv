@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13036,Pau Cabanes De La Torre,2024,Alaves,Sub,6,179,0,0,0.0674827434122562,0.0267037395387887,2,1,1,0,0,0.0674827434122562,0.2679819539189338,0.1992114931344986
+13036,Pau Cabanes De La Torre,2024,Villarreal,Sub,10,132,1,0,0.5390407964587212,0.5917930183932185,4,4,0,0,1,0.5390407964587212,2.204282554797828,1.087194207124412

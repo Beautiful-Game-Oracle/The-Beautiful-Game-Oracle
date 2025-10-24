@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12303,Farès Ghedjemis,2023,Frosinone,Sub,6,159,0,0,0.2441481687128543,0.1187944477424025,3,2,1,0,0,0.2441481687128543,2.241150489076972,1.878207853063941

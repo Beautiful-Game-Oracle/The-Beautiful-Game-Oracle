@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10828,Ilyés Chétti,2022,Angers,Sub,6,202,0,0,0,0.3183139860630035,0,1,1,0,0,0,0.8261306118220091,0.5078172069042921

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12836,Stefan Dzodic,2024,Montpellier,DC,7,232,0,0,0.0974617833271622,0,3,0,2,1,0,0.0974617833271622,0.3797924555838108,0.2996872328221798

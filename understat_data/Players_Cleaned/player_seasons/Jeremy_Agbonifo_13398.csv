@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13398,Jeremy Agbonifo,2024,Lens,Sub,8,277,1,0,1.2059635091573,0.2067946828901767,6,3,1,0,1,1.2059635091573,3.8567132242023945,2.502289552241564

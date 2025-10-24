@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11021,Joaquín Sosa,2022,Bologna,DC,10,682,0,0,0.0381173137575387,0,3,0,2,0,0,0.0381173137575387,0.8887905506417155,0.882485150359571

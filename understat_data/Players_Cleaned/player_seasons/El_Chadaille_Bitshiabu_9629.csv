@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9629,El Chadaille Bitshiabu,2024,RasenBallsport Leipzig,DC,21,1125,0,0,0.2994107417762279,0.2835954241454601,5,5,2,1,0,0.2994107417762279,3.2514192443341017,3.1303545143455267
+9629,El Chadaille Bitshiabu,2023,RasenBallsport Leipzig,Sub,6,15,0,0,0.0,0.0,0,0,0,0,0,0.0,0.1743035651743412,0.1743035651743412
+9629,El Chadaille Bitshiabu,2022,Paris Saint Germain,Sub,13,581,0,0,0.0,0.0349242016673088,0,1,2,0,0,0.0,2.368093878030777,2.368093878030777
+9629,El Chadaille Bitshiabu,2021,Paris Saint Germain,Sub,1,2,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

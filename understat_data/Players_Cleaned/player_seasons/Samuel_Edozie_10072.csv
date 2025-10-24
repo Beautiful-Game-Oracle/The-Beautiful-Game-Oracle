@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10072,Samuel Edozie,2024,Southampton,Sub,2,57,0,0,0.0,0.0817131176590919,0,1,1,0,0,0.0,0.6017810702323914,0.5200679302215576
+10072,Samuel Edozie,2022,Southampton,Sub,17,540,0,0,1.0850969199091196,0.3165547512471676,8,8,0,0,0,1.0850969199091196,2.7462167609483004,1.4620534982532265

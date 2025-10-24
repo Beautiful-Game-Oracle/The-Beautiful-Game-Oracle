@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12896,Chuki,2024,Real Valladolid,Sub,18,720,2,0,2.6113636139780283,1.4040046986192465,16,8,1,0,2,2.6113636139780283,4.210758607834578,0.8702943343669176

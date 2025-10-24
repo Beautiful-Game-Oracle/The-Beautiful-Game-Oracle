@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12299,Bruno Méndez,2023,Granada,DC,17,1339,2,0,0.3977752877399325,0.1248152693733573,8,4,4,0,2,0.3977752877399325,1.7927039675414562,1.6345273982733488

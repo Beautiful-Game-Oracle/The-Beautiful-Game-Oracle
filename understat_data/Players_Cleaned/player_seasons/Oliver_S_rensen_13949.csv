@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13949,Oliver Sørensen,2025,Parma Calcio 1913,Sub,7,379,0,0,0.0805133953690528,0.0780604053288698,1,2,1,0,0,0.0805133953690528,0.654651802033186,0.4960780143737793

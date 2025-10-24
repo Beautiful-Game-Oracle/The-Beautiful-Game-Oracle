@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13800,Samir Chergui,2025,Paris FC,DR,7,554,0,0,0.0913197547197341,0.0917504355311393,4,1,0,0,0,0.0913197547197341,2.4275009259581566,2.2790179923176765

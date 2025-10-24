@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13825,Tylel Tati,2025,Nantes,DC,7,610,0,0,0.0127326156944036,0.0154627989977598,1,1,1,0,0,0.0127326156944036,1.3474764227867126,1.319281056523323

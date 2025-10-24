@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13939,Stefano Moreo,2025,Pisa,AMC,6,324,0,0,1.1237409561872482,0.1126331835985183,5,3,0,0,0,1.1237409561872482,1.6909779980778694,0.5346775576472282

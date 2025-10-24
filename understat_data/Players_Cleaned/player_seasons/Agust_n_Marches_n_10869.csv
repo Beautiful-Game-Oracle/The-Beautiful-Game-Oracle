@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10869,Agustín Marchesín,2022,Celta Vigo,GK,19,1710,0,0,0,0,0,0,2,0,0,0,1.0831859931349754,1.0831859931349754

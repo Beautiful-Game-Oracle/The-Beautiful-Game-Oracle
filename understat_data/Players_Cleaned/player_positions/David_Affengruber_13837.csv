@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13837,David Affengruber,2025,,DC,7,621,0,0,0,0.1093732714653015,0,1,2,1,0,0,2.12278250604868,2.013409234583378
+13837,David Affengruber,2025,,Sub,1,39,0,0,0,0.0,0,0,0,0,0,0,0.1590304523706436,0.1590304523706436

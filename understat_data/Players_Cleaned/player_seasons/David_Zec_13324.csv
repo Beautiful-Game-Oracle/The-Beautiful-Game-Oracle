@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13324,David Zec,2024,Holstein Kiel,DC,17,1462,1,0,0.5786341531202197,0.3314972016960382,8,7,4,0,1,0.5786341531202197,5.395797312259674,5.081696808338165

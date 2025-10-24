@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12371,Adam Aznou,2024,Real Valladolid,Sub,13,884,0,0,0.2700843885540962,0.5333969108760357,4,6,2,0,0,0.2700843885540962,2.35653112642467,1.700465090572834
+12371,Adam Aznou,2024,Bayern Munich,Sub,2,9,0,0,0.0,0.0,0,0,0,0,0,0.0,0.1140698343515396,0.1140698343515396

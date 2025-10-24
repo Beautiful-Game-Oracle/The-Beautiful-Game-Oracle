@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12249,Fabio Torsiello,2023,Darmstadt,Sub,10,116,0,0,0.4996874183416366,0.07237359136343,4,1,0,0,0,0.4996874183416366,0.5928282178938389,0.0658443346619606

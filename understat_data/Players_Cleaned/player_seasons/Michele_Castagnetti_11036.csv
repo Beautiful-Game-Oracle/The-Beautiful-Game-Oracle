@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11036,Michele Castagnetti,2022,Cremonese,Sub,27,1402,0,1,0.4735700115561485,1.772659558802843,12,25,2,0,0,0.4735700115561485,4.723732424899936,3.4107125028967857

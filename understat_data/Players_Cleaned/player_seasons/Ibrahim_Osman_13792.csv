@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13792,Ibrahim Osman,2025,Auxerre,ML,7,332,0,2,0.6441666670143604,0.5987242422997952,8,5,0,0,0,0.6441666670143604,1.855132214725017,1.0393902398645878

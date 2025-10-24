@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8569,Botond Balogh,2024,,DC,23,1890,0,1,0.5026530101895332,0.3208771962672472,3,2,4,0,0,0.5026530101895332,4.25353516638279,4.232133310288191
+8569,Botond Balogh,2024,,Sub,6,165,0,0,0.0,0.0,0,0,1,0,0,0.0,0.0,0.0
+8569,Botond Balogh,2020,,DC,1,90,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+8569,Botond Balogh,2020,,Sub,2,73,0,0,0.0,0.0,0,0,1,0,0,0.0,0.0,0.0

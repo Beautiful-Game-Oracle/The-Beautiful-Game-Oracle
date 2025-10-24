@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12023,Thomas Keller,2024,,DMC,1,61,0,0,0.0,0,0,0,1,0,0,0.0,0.0,0.0
+12023,Thomas Keller,2024,,DC,1,46,0,0,0.0,0,0,0,0,0,0,0.0,0.1034427210688591,0.1034427210688591
+12023,Thomas Keller,2024,,Sub,4,34,0,0,0.0097251441329717,0,1,0,1,0,0,0.0097251441329717,0.5000929143279791,0.4903677701950073
+12023,Thomas Keller,2023,,Sub,2,2,0,0,0.0,0,0,0,0,0,0,0.0,0.0,0.0

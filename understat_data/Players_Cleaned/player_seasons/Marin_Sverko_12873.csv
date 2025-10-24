@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12873,Marin Sverko,2024,Venezia,DC,16,1123,1,0,0.2006810456514358,0.3804778158664703,3,2,3,0,1,0.2006810456514358,2.041018757969141,1.827217359095812

@@ -1,0 +1,6 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9756,Dominik Greif,2025,,GK,4,360,0,0,0,0,0,0,0,0,0,0,0.5693965889513493,0.5693965889513493
+9756,Dominik Greif,2024,,GK,31,2790,0,0,0,0,0,0,1,0,0,0,2.511147951707244,2.511147951707244
+9756,Dominik Greif,2023,,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.073220394551754,0.073220394551754
+9756,Dominik Greif,2022,,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+9756,Dominik Greif,2021,,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.0,0.0

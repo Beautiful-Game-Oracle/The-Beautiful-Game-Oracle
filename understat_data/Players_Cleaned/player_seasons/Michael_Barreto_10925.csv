@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10925,Michael Barreto,2022,Ajaccio,ML,20,1320,1,1,0.8244065353646874,1.3062411481514573,19,18,1,0,1,0.8244065353646874,2.460897535085678,0.8370166914537549

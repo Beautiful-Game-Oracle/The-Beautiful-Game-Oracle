@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13092,Carlos Forbs,2024,Wolverhampton Wanderers,Sub,10,210,0,0,0.1455498486757278,0.0350774861872196,2,1,2,0,0,0.1455498486757278,0.452562496997416,0.3067525858059525

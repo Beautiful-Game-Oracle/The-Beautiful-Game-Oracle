@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13496,Karim Coulibaly,2025,Werder Bremen,Sub,7,550,1,0,0.9836210906505584,0.05833400785923,3,3,0,0,1,0.9836210906505584,1.174860430881381,1.1339073088020086

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13840,Martim Neto,2025,Elche,Sub,7,347,0,2,0.2680322658270597,1.1512199379503727,6,5,0,0,0,0.2680322658270597,1.6568120382726192,1.4360210001468658

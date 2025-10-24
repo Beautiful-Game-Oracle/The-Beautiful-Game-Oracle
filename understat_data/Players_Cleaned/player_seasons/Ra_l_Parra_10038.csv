@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10038,Raúl Parra,2022,Cadiz,Sub,6,310,0,0,0,0.0252426993101835,0,1,1,0,0,0,0.1581415012478828,0.1581415012478828
+10038,Raúl Parra,2021,Cadiz,Sub,2,88,0,0,0,0.0,0,0,0,0,0,0,0.0586092993617057,0.0586092993617057

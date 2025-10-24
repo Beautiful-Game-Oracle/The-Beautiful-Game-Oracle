@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13933,Nicolas Kühn,2025,,AMR,2,123,0,0,0.4957261383533478,0.1842864900827407,3,3,0,0,0,0.4957261383533478,0.7996043264865875,0.1952981874346733
+13933,Nicolas Kühn,2025,,AML,1,68,0,0,0.0,0.3337401747703552,0,2,0,0,0,0.0,0.4105149805545807,0.0964422300457954
+13933,Nicolas Kühn,2025,,Sub,2,33,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

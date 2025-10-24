@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11779,César Gelabert,2023,Toulouse,Sub,16,771,1,2,0.9986520819365978,1.647264525294304,14,14,1,0,1,0.9986520819365978,4.528431281447411,2.194010909646749

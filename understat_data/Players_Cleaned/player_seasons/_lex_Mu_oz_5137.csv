@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+5137,Álex Muñoz,2024,Las Palmas,DL,21,1443,3,0,1.1511703273281455,0.5306877195835114,9,7,3,0,3,1.1511703273281455,5.856701044365764,4.921549832448363

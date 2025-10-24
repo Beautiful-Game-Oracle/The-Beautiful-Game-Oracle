@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12364,Chris Bedia,2023,Union Berlin,Sub,7,113,1,0,0.4426194690167904,0.1566397733986377,3,3,0,0,1,0.4426194690167904,1.201132521033287,0.6252865009009838

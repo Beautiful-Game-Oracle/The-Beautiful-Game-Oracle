@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12749,Wes Burns,2024,Ipswich,AMR,18,962,0,1,0.4133827127516269,2.204632848501205,7,10,1,0,0,0.4133827127516269,3.0202110949903727,0.9018877614289522

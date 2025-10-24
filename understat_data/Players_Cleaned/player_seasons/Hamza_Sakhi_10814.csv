@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10814,Hamza Sakhi,2022,Auxerre,MC,27,1673,1,2,1.1172521393746138,2.826298099011183,30,38,1,0,1,1.1172521393746138,5.135480003431439,2.692696863785386

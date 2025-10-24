@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13917,Mamadou Sangaré,2025,Lens,Sub,7,568,0,0,0.2564098034054041,0.3494259044528007,6,5,0,0,0,0.2564098034054041,2.2756431018933654,1.8750810800120237

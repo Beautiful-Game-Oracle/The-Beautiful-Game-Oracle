@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10882,Lorenzo Malagrida,2022,,Sub,6,99,0,0,0.1508172526955604,0.0699507817625999,2,2,2,0,0,0.1508172526955604,0.3057148214429617,0.1548975687474012

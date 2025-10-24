@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+5283,Daniel Heuer Fernandes,2025,Hamburger SV,GK,7,630,0,0,0,0,0,0,1,0,0,0,0.8640330098569393,0.8640330098569393
+5283,Daniel Heuer Fernandes,2016,Darmstadt,GK,7,574,0,0,0,0,0,0,0,0,0,0,0.6605381034314632,0.6605381034314632

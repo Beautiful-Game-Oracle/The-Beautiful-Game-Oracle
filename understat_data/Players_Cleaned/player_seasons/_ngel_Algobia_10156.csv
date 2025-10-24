@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10156,Ángel Algobia,2022,Getafe,MC,26,1120,0,0,0.2677507055923342,0.4198981858789921,7,5,3,0,0,0.2677507055923342,2.4849816551432014,1.8904126640409231

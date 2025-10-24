@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13435,Kazeem Olaigbe,2024,Rennes,Sub,10,288,0,2,0.2323513310402631,2.37851420417428,6,15,0,0,0,0.2323513310402631,4.121159626170993,1.8357375599443917

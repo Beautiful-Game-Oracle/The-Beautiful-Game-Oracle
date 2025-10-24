@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13368,Koka,2024,Le Havre,Sub,16,863,3,1,4.940051291137934,0.9838768728077412,20,5,2,0,2,4.179956119507551,4.267227206379175,1.104890253394842

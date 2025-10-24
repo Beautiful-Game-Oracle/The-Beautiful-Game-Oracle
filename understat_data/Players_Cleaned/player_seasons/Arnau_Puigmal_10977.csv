@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10977,Arnau Puigmal,2023,Almeria,Sub,11,232,0,0,0.0,0.2230001837015152,0,3,3,0,0,0.0,0.2777540870010853,0.1523254998028278
+10977,Arnau Puigmal,2022,Almeria,Sub,22,750,1,0,1.3081346424296498,0.4225325230509043,17,8,4,0,1,1.3081346424296498,2.551046405918896,1.1344574484974146

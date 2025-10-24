@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13400,Arvid Brorsson,2024,,DC,3,270,0,0,0,0,0,0,0,0,0,0,0.496194913983345,0.496194913983345
+13400,Arvid Brorsson,2024,,Sub,3,87,0,0,0,0,0,0,0,0,0,0,0.3223723862320184,0.3223723862320184

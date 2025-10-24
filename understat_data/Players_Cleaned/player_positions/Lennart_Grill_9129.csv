@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9129,Lennart Grill,2022,,GK,5,450,0,0,0,0,0,0,0,0,0,0,0.1133544985204935,0.1133544985204935
+9129,Lennart Grill,2021,,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+9129,Lennart Grill,2020,,GK,4,360,0,0,0,0,0,0,0,0,0,0,0.9059791043400764,0.9059791043400764

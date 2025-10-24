@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11134,Noah Holm,2022,Reims,Sub,8,184,0,0,0.5119747454300523,0.2233311086893081,2,3,1,0,0,0.5119747454300523,1.235813924111426,0.5461150854825974

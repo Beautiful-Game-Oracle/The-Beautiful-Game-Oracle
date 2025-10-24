@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11919,Fabian Schnellhardt,2023,Darmstadt,Sub,10,218,0,0,0.1420575659722089,0.0607444774359464,5,2,1,0,0,0.1420575659722089,0.6631640568375587,0.573362254537642

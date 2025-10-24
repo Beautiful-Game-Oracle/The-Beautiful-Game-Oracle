@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10027,Lewis Dobbin,2023,,Sub,11,130,1,0,0.1663352232426405,0.4989037085324526,4,4,1,0,1,0.1663352232426405,0.6766481157392263,0.1355219595134258
+10027,Lewis Dobbin,2023,,ML,1,68,0,0,0.3365820944309234,0.0,1,0,0,0,0,0.3365820944309234,0.0,0.0
+10027,Lewis Dobbin,2021,,Sub,3,29,0,0,0.0,0.0,0,0,1,0,0,0.0,0.0,0.0

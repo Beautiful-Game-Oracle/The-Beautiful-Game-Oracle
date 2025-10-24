@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13923,Nicolás Capaldo,2025,Hamburger SV,MC,6,401,0,1,0.0206337226554751,0.8037348613142967,2,4,2,0,0,0.0206337226554751,1.2984095215797424,0.4822910577058792

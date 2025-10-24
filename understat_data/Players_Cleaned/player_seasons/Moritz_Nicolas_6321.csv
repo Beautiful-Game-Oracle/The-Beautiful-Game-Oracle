@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+6321,Moritz Nicolas,2025,Borussia M.Gladbach,GK,7,630,0,0,0,0,0,0,0,0,0,0,0.567106457427144,0.567106457427144
+6321,Moritz Nicolas,2024,Borussia M.Gladbach,GK,19,1639,0,0,0,0,0,0,0,0,0,0,3.522726606577635,3.522726606577635
+6321,Moritz Nicolas,2023,Borussia M.Gladbach,GK,27,2430,0,0,0,0,0,0,2,0,0,0,3.909672226756811,3.909672226756811
+6321,Moritz Nicolas,2019,Union Berlin,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.0,0.0

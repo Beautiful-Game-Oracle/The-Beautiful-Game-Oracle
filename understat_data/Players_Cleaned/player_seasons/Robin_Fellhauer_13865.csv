@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13865,Robin Fellhauer,2025,Augsburg,MC,7,501,1,1,0.4075137190520763,0.2237025648355484,7,3,1,0,1,0.4075137190520763,0.9388004913926123,0.3767255246639251

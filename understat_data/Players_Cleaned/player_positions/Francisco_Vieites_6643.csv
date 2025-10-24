@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+6643,Francisco Vieites,2024,,GK,4,360,0,0,0.0262540355324745,0,1,0,0,0,0,0.0262540355324745,0.5004626885056496,0.5004626885056496
+6643,Francisco Vieites,2023,,GK,3,270,0,0,0.0,0,0,0,0,0,0,0.0,0.9083797307685018,0.9083797307685018
+6643,Francisco Vieites,2023,,Sub,1,41,0,0,0.0,0,0,0,0,0,0,0.0,0.0231317784637212,0.0231317784637212

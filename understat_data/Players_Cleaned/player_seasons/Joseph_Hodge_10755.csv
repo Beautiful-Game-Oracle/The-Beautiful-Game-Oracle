@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10755,Joseph Hodge,2022,Wolverhampton Wanderers,Sub,6,162,0,0,0.2323972880840301,0.0711171999573707,2,1,1,0,0,0.2323972880840301,0.4096744880080223,0.2439708858728408

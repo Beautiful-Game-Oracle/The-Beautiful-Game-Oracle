@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9623,Tanguy Zoukrou,2022,,DC,5,441,0,0,0.0,0.036168772727251,0,1,0,0,0,0.0,0.5666838474571705,0.5666838474571705
+9623,Tanguy Zoukrou,2022,,Sub,3,62,0,0,0.0,0.0,0,0,0,0,0,0.0,0.4137122072279453,0.4137122072279453
+9623,Tanguy Zoukrou,2021,,Sub,4,63,0,0,0.05735420063138,0.0,1,0,1,0,0,0.05735420063138,0.0,0.0

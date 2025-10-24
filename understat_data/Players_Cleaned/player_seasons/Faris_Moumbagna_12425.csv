@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12425,Faris Moumbagna,2025,Cremonese,Sub,1,10,0,0,0.0670029893517494,0.0,1,0,0,0,0,0.0670029893517494,0.0,0.0
+12425,Faris Moumbagna,2024,Marseille,Sub,1,8,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+12425,Faris Moumbagna,2023,Marseille,Sub,13,532,3,1,2.297125905752182,0.9849253073334694,16,4,0,1,3,2.297125905752182,3.6564183309674254,0.9049820774234832

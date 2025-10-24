@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10425,Daniele Montevago,2022,Sampdoria,Sub,6,232,0,0,0.5798349939286709,0.1955647384747862,7,4,1,0,0,0.5798349939286709,0.7314657140523195,0

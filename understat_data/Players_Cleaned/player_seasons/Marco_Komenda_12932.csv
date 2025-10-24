@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12932,Marco Komenda,2024,Holstein Kiel,DC,18,1310,0,0,0.0461564660072326,0.5511205615475774,3,8,3,0,0,0.0461564660072326,5.781026259064674,5.20318390801549

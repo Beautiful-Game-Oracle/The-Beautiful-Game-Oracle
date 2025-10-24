@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13973,Albian Hajdari,2025,Hoffenheim,Sub,5,364,0,0,0.3980940207839012,0,2,0,1,0,0,0.3980940207839012,0.5214886665344238,0.423300813883543

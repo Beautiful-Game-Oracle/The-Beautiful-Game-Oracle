@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13904,Abdoulaye Faye,2025,Lorient,Sub,7,569,0,0,0.4847129695117473,0,6,0,5,0,0,0.4847129695117473,1.948235459625721,1.948235459625721

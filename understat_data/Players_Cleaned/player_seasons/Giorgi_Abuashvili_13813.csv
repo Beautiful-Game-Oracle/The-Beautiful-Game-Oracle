@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13813,Giorgi Abuashvili,2025,Metz,AML,5,199,0,0,0.1379231158643961,0.0933714378625154,6,2,1,0,0,0.1379231158643961,0.3256139047443867,0.1935855410993099

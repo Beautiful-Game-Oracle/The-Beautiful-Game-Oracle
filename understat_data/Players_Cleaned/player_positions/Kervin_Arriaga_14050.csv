@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+14050,Kervin Arriaga,2025,,MC,3,247,0,0,0.0218111742287874,0.1014613434672355,1,2,0,0,0,0.0218111742287874,0.8528700023889542,0.76025390625
+14050,Kervin Arriaga,2025,,Sub,3,37,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0950826928019523,0.0950826928019523

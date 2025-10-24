@@ -1,0 +1,27 @@
+id,isResult,side,h,a,goals,xG,datetime
+29610,False,h,"{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'id': '179', 'title': 'Lorient', 'short_title': 'LOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-26 15:15:00
+29620,False,a,"{'id': '164', 'title': 'Marseille', 'short_title': 'MAR'}","{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-29 19:05:00
+29631,False,a,"{'id': '160', 'title': 'Lille', 'short_title': 'LIL'}","{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-02 12:00:00
+29637,False,h,"{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'id': '275', 'title': 'Auxerre', 'short_title': 'AUX'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-09 12:00:00
+29654,False,a,"{'id': '174', 'title': 'Toulouse', 'short_title': 'TOU'}","{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-23 12:00:00
+29655,False,h,"{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'id': '210', 'title': 'Lens', 'short_title': 'LEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-30 12:00:00
+29670,False,a,"{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-07 12:00:00
+29673,False,h,"{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-14 12:00:00
+29683,False,a,"{'id': '282', 'title': 'Le Havre', 'short_title': 'LHV'}","{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-04 12:00:00
+29691,False,h,"{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'id': '164', 'title': 'Marseille', 'short_title': 'MAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-18 12:00:00
+29707,False,a,"{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-25 12:00:00
+29709,False,h,"{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'id': '180', 'title': 'Metz', 'short_title': 'MET'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-01 12:00:00
+29718,False,h,"{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'id': '174', 'title': 'Toulouse', 'short_title': 'TOU'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-08 12:00:00
+29729,False,a,"{'id': '179', 'title': 'Lorient', 'short_title': 'LOR'}","{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-15 12:00:00
+29736,False,h,"{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'id': '160', 'title': 'Lille', 'short_title': 'LIL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-22 12:00:00
+29750,False,a,"{'id': '171', 'title': 'Monaco', 'short_title': 'MON'}","{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-01 12:00:00
+29759,False,a,"{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-08 12:00:00
+29763,False,h,"{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-15 12:00:00
+29773,False,a,"{'id': '210', 'title': 'Lens', 'short_title': 'LEN'}","{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-22 12:00:00
+29781,False,h,"{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'id': '178', 'title': 'Lyon', 'short_title': 'LYO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-05 12:00:00
+29797,False,a,"{'id': '163', 'title': 'Rennes', 'short_title': 'REN'}","{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-12 12:00:00
+29799,False,h,"{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'id': '282', 'title': 'Le Havre', 'short_title': 'LHV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-19 12:00:00
+29808,False,h,"{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'id': '161', 'title': 'Paris Saint Germain', 'short_title': 'PSG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-26 12:00:00
+29817,False,a,"{'id': '275', 'title': 'Auxerre', 'short_title': 'AUX'}","{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-03 12:00:00
+29826,False,h,"{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'id': '225', 'title': 'Strasbourg', 'short_title': 'STR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 12:00:00
+29835,False,a,"{'id': '241', 'title': 'Brest', 'short_title': 'BRE'}","{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-16 12:00:00

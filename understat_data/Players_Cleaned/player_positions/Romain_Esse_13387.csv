@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13387,Romain Esse,2025,,Sub,1,23,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+13387,Romain Esse,2024,,AMC,1,84,0,1,0.0,0.2182131260633468,0,2,0,0,0,0.0,0.286682516336441,0.0684693977236747
+13387,Romain Esse,2024,,Sub,6,40,1,0,0.5787168145179749,0.0825091227889061,1,1,0,0,1,0.5787168145179749,0.8949070274829865,0.2336810901761055

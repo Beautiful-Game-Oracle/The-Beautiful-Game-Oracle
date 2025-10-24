@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12325,Kamil Piatkowski,2023,Granada,DC,9,504,0,0,0.7196483574807644,0.0783949056640267,4,2,1,1,0,0.7196483574807644,0.4685151483863592,0.4547905083745718

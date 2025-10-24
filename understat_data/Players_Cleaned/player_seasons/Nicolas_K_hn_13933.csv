@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13933,Nicolas Kühn,2025,Como,Sub,5,224,0,0,0.4957261383533478,0.518026664853096,3,5,0,0,0,0.4957261383533478,1.2101193070411682,0.2917404174804687

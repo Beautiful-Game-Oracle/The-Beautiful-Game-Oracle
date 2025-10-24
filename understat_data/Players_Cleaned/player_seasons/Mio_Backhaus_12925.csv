@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12925,Mio Backhaus,2025,Werder Bremen,GK,5,450,0,0,0,0,0,0,0,0,0,0,0.1657082978636026,0.1657082978636026

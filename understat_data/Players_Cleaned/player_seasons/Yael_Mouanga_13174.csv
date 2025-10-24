@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13174,Yael Mouanga,2024,Montpellier,DC,14,941,0,0,0.3622781634330749,0.282533299177885,1,2,3,0,0,0.3622781634330749,2.5086481627076864,2.5086481627076864

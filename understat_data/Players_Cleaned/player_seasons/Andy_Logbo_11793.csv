@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11793,Andy Logbo,2024,Le Havre,Sub,1,22,0,0,0.3320036232471466,0.0,1,0,0,0,0,0.3320036232471466,0.3320036232471466,0
+11793,Andy Logbo,2023,Le Havre,Sub,10,225,0,0,0.3218677565455436,0.1005119942128658,4,3,0,0,0,0.3218677565455436,0.2554340958595276,0

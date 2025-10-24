@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10453,Odeluga Offiah,2023,,DR,1,79,0,0,0,0,0,0,0,0,0,0,0.1645195335149765,0.1645195335149765
+10453,Odeluga Offiah,2023,,Sub,3,43,0,0,0,0,0,0,0,0,0,0,0.3314413428306579,0.3314413428306579
+10453,Odeluga Offiah,2022,,Sub,2,17,0,0,0,0,0,0,0,0,0,0,0.0801775380969047,0.0801775380969047

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11722,Luke Berry,2023,Luton,Sub,17,272,2,1,1.1334221102297306,0.0616301111876964,8,1,1,0,2,1.1334221102297306,0.8148019686341286,0.2390769198536873

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12411,Junior Ndiaye,2024,Montpellier,Sub,15,410,0,0,0.8206368610262871,0.3226534109562635,5,5,0,0,0,0.8206368610262871,1.9936029464006424,0.9917767867445946

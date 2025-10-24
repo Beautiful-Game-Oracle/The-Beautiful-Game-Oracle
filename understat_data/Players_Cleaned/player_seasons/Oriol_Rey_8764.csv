@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8764,Oriol Rey,2025,Levante,MC,8,573,0,0,0.0202116770669817,0.0964548289775848,2,2,0,0,0,0.0202116770669817,3.197008900344372,3.1482018381357197
+8764,Oriol Rey,2020,Real Valladolid,Sub,1,13,0,0,0.0,0.0,0,0,0,0,0,0.0,0.3625940084457397,0.3625940084457397

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11376,Moussa Djitté,2022,Ajaccio,Sub,6,125,0,0,0.0890611000359058,0.0136647997424006,2,1,0,0,0,0.0890611000359058,0.118457700125873,0.0293966000899672

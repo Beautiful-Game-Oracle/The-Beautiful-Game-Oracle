@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+126,Michael Zetterer,2025,Eintracht Frankfurt,GK,3,270,0,0,0.0,0.0,0,0,0,0,0,0.0,0.2864028010517359,0.2864028010517359
+126,Michael Zetterer,2024,Werder Bremen,GK,34,3060,0,0,0.0,0.0,0,0,2,0,0,0.0,4.1273373067379,4.1273373067379
+126,Michael Zetterer,2023,Werder Bremen,GK,27,2430,0,0,0.0824050530791282,0.1456083320081234,1,3,2,0,0,0.0824050530791282,5.23376901820302,5.088160686194897
+126,Michael Zetterer,2022,Werder Bremen,Sub,2,152,0,0,0.0,0.0,0,0,0,0,0,0.0,0.3848069906234741,0.3848069906234741

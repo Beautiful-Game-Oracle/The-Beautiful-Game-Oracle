@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13112,Fellipe Jack,2024,Como,Sub,7,162,0,0,0,0.0991043522953987,0,1,2,0,0,0,0.1337760621681809,0.0346717098727822

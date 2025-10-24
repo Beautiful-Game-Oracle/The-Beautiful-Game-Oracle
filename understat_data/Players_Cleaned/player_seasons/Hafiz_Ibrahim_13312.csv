@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13312,Hafiz Ibrahim,2024,Reims,Sub,11,360,0,1,0.6023261696100235,0.4310402050614357,7,4,0,1,0,0.6023261696100235,1.41164605692029,0.4249996766448021

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13025,Pierre Cornud,2024,Saint-Etienne,DL,11,568,0,0,0,0.3982537277042866,0,3,2,0,0,0,1.8506680876016617,1.752265989780426

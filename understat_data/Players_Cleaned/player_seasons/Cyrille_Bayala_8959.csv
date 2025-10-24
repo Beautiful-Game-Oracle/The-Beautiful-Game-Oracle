@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8959,Cyrille Bayala,2022,Ajaccio,MR,33,2048,1,1,1.502429750747979,2.045092601329088,22,19,3,1,1,1.502429750747979,3.499245862476528,1.727933431044221

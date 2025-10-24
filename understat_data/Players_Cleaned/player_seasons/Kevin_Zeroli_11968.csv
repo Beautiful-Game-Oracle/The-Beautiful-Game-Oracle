@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11968,Kevin Zeroli,2024,Monza,Sub,8,395,0,1,0.4978923872113228,0.6236989796161652,6,2,0,0,0,0.4978923872113228,1.230505178682506,0.1731980396434664
+11968,Kevin Zeroli,2024,AC Milan,Sub,1,9,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0947782322764396,0.0947782322764396
+11968,Kevin Zeroli,2023,AC Milan,Sub,3,22,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

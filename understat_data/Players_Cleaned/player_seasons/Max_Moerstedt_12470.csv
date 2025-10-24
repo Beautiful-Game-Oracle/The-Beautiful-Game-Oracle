@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12470,Max Moerstedt,2025,Hoffenheim,Sub,4,61,0,0,0.0431102737784385,0.0,1,0,0,0,0,0.0431102737784385,0.7087290287017822,0.6656187474727631
+12470,Max Moerstedt,2024,Hoffenheim,Sub,12,445,0,0,0.850104920566082,0.4129458125680685,12,7,2,0,0,0.850104920566082,1.460295056924224,0.4161513280123472
+12470,Max Moerstedt,2023,Hoffenheim,Sub,1,10,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

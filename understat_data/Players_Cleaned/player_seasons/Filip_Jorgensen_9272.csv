@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9272,Filip Jorgensen,2025,Chelsea,Sub,1,85,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+9272,Filip Jorgensen,2024,Chelsea,GK,6,540,0,0,0,0,0,0,0,0,0,0,1.4331071376800537,1.4331071376800537
+9272,Filip Jorgensen,2023,Villarreal,GK,36,3240,0,0,0,0,0,0,4,0,0,0,7.287767574191093,7.287767574191093
+9272,Filip Jorgensen,2022,Villarreal,GK,2,180,0,0,0,0,0,0,0,0,0,0,0.0795657876878976,0.0795657876878976

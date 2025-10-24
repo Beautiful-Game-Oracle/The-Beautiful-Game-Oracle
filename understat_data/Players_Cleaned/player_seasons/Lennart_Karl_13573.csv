@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13573,Lennart Karl,2025,Bayern Munich,Sub,5,113,0,1,0.6880868449807167,0.2377090603113174,7,3,0,0,0,0.6880868449807167,1.3782924115657806,0.5019069444388151

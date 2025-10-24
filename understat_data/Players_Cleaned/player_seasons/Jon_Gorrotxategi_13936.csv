@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13936,Jon Gorrotxategi,2025,Real Sociedad,Sub,8,618,0,0,0.1162368329241871,0.1472315043210983,4,3,2,0,0,0.1162368329241871,2.527490675449372,2.28843791782856

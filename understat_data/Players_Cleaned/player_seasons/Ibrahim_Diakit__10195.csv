@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10195,Ibrahim Diakité,2023,Reims,Sub,5,100,0,0,0.0,0.0980342011898756,0,2,0,0,0,0.0,0.4709131345152855,0.3943038582801819
+10195,Ibrahim Diakité,2022,Reims,Sub,3,132,0,0,0.3794189989566803,0.0,1,0,1,0,0,0.3794189989566803,0.081533096730709,0.081533096730709
+10195,Ibrahim Diakité,2021,Reims,Sub,1,3,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

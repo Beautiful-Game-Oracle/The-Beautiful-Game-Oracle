@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12763,Nathan Wood,2024,Southampton,DC,11,780,0,0,0.2937855720520019,0.0214793030172586,2,1,2,0,0,0.2937855720520019,2.371581122279167,2.3501018211245537

@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13698,Rahim Alhassane,2025,,DL,7,629,0,0,0,0.5584078934043646,0,5,0,0,0,0,1.250696383416653,1.1662082597613337
+13698,Rahim Alhassane,2025,,DML,1,90,0,0,0,0.0,0,0,0,0,0,0,0.1741046905517578,0.1741046905517578
+13698,Rahim Alhassane,2025,,Sub,1,13,0,0,0,0.0,0,0,0,0,0,0,0.0,0.0

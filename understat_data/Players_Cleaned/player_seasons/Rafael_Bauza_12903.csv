@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12903,Rafael Bauza,2024,Espanyol,DMC,5,183,0,0,0.0838479502126574,0,3,0,1,0,0,0.0838479502126574,0.1827542660757899,0.0989063177257776

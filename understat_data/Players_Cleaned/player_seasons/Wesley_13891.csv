@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13891,Wesley,2025,Roma,DMR,6,505,1,0,0.5218285322189331,1.1081653088331225,4,5,2,0,1,0.5218285322189331,2.731006368994713,1.858147352933884

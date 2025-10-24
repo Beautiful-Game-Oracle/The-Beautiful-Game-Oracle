@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13741,Jhon Arias,2025,Wolverhampton Wanderers,Sub,8,435,0,0,0.4662030395120382,0.5131670571863651,8,8,0,0,0,0.4662030395120382,0.8878565598279238,0.1161873489618301

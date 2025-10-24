@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12189,Hugo Rincón,2025,Girona,Sub,8,491,0,0,0.1799808889627456,0.7999145332723856,2,5,1,0,0,0.1799808889627456,1.863794520497322,1.0785161200910809

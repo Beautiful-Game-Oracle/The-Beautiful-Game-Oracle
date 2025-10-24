@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+1926,Boris Radunovic,2023,Cagliari,GK,7,630,0,0,0,0,0,0,0,0,0,0,0.2149237003177404,0.2149237003177404
+1926,Boris Radunovic,2021,Cagliari,GK,3,270,0,0,0,0,0,0,0,0,0,0,0.0312811993062496,0.0312811993062496
+1926,Boris Radunovic,2019,Verona,GK,3,270,0,0,0,0,0,0,1,0,0,0,0.1874611973762512,0.1874611973762512
+1926,Boris Radunovic,2015,Atalanta,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.0,0.0

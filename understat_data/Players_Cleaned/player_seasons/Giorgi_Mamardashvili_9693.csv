@@ -1,0 +1,6 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9693,Giorgi Mamardashvili,2025,Liverpool,GK,2,180,0,0,0,0.0,0,0,0,0,0,0,1.1973633766174316,1.1973633766174316
+9693,Giorgi Mamardashvili,2024,Valencia,GK,34,3060,0,0,0,0.0685846544802188,0,2,2,0,0,0,2.814506022259593,2.745921360328793
+9693,Giorgi Mamardashvili,2023,Valencia,GK,37,3288,0,0,0,0.2702518608421087,0,2,3,1,0,0,2.166453121230006,1.896201251074672
+9693,Giorgi Mamardashvili,2022,Valencia,GK,38,3420,0,0,0,0.0,0,0,3,0,0,0,3.620587596669793,3.620587596669793
+9693,Giorgi Mamardashvili,2021,Valencia,GK,18,1620,0,0,0,0.0,0,0,2,0,0,0,0.8463422935456038,0.8463422935456038

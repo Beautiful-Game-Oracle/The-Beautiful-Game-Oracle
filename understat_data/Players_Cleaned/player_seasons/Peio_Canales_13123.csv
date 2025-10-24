@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13123,Peio Canales,2024,Athletic Club,Sub,8,247,0,0,0.1971820127218961,0.4887658208608627,3,6,0,0,0,0.1971820127218961,0.7809601724147797,0.5443078130483627

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11827,Xeber Alkain,2023,Alaves,MR,10,296,0,0,0.5093520395457745,0.6055785967037082,5,6,1,0,0,0.5093520395457745,1.1765547767281532,0.2446316108107566

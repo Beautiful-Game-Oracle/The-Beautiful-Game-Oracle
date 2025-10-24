@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13291,Patrice Covic,2025,Werder Bremen,Sub,7,200,0,0,0.4320827424526214,0.3388959523290396,1,2,1,0,0,0.4320827424526214,1.0619226451963186,0.3114176597446203

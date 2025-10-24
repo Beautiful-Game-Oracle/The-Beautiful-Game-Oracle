@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12944,Jakov Medic,2024,Bochum,DC,23,1608,1,0,1.0344128273427486,0.1414000671356916,13,3,2,0,1,1.0344128273427486,1.4296539649367332,1.1018930319696665

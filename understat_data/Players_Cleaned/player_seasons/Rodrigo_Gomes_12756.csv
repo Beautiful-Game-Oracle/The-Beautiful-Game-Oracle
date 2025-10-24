@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12756,Rodrigo Gomes,2025,Wolverhampton Wanderers,Sub,5,247,1,0,0.6232708040624857,0.0455640740692615,8,1,0,0,1,0.6232708040624857,0.8440556917339563,0.2207849081605672
+12756,Rodrigo Gomes,2024,Wolverhampton Wanderers,AML,25,756,2,0,0.6804056065157056,0.979415087029338,7,12,0,0,2,0.6804056065157056,1.9415704039856791,0.3165671061724424

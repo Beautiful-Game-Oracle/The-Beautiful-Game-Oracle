@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13403,Welington,2024,Southampton,DML,10,481,0,0,0.0432555852457881,0.0715155974030494,3,3,1,0,0,0.0432555852457881,0.4047743640840053,0.3332587666809559

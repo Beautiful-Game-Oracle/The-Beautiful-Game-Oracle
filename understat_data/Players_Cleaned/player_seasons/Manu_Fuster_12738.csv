@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12738,Manu Fuster,2024,Las Palmas,Sub,28,958,2,1,0.7450216170400381,1.388091037981212,18,28,2,0,2,0.7450216170400381,3.029275342822075,1.4052639389410615

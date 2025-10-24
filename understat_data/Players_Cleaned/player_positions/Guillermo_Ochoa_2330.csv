@@ -1,0 +1,6 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+2330,Guillermo Ochoa,2023,,GK,21,1890,0,0,0,0.0,0,0,0,0,0,0,1.476787043735385,1.476787043735385
+2330,Guillermo Ochoa,2022,,GK,20,1800,0,0,0,0.0,0,0,1,0,0,0,1.855428567156196,1.855428567156196
+2330,Guillermo Ochoa,2016,,GK,38,3420,0,0,0,0.1010542009025812,0,2,2,0,0,0,1.588868910446763,1.4878151137381792
+2330,Guillermo Ochoa,2015,,GK,10,900,0,0,0,0.0,0,0,0,0,0,0,0.6113333851099014,0.6113333851099014
+2330,Guillermo Ochoa,2015,,Sub,1,54,0,0,0,0.0,0,0,0,0,0,0,0.0,0.0

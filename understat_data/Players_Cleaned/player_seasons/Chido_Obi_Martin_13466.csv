@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13466,Chido Obi-Martin,2024,Manchester United,Sub,7,145,0,0,0.5575938895344734,0,5,0,1,0,0,0.5575938895344734,0.8561866730451584,0.3446618169546127

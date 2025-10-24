@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12780,Mehdi Taremi,2024,Inter,Sub,26,781,1,2,3.3251225762069225,1.829333458095789,14,15,1,0,0,2.563823733478785,6.388202100992203,2.292017860338092

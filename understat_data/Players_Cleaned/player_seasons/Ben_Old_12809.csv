@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12809,Ben Old,2024,Saint-Etienne,MC,13,503,0,0,1.067740261554718,0.6837401520460844,11,8,0,0,0,1.067740261554718,2.2481454219669104,0.6089571844786406

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13894,Torbjørn Heggem,2025,Bologna,DC,6,540,0,0,0.6493765935301781,0.0352222844958305,4,1,0,0,0,0.6493765935301781,0.7374722892418504,0.7374722892418504

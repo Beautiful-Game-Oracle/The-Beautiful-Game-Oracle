@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13018,Dani de Wit,2024,Bochum,AMC,27,1131,2,1,2.9426726028323174,0.4057057108730078,20,9,1,0,2,2.9426726028323174,4.026078104972839,1.7941139079630375

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+14049,Abu Francis,2025,Toulouse,MC,5,346,0,0,0.1457728780806064,0,4,0,1,0,0,0.1457728780806064,1.313048366457224,1.167275507003069

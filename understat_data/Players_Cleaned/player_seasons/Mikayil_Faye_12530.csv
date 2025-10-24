@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12530,Mikayil Faye,2025,Cremonese,Sub,1,31,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+12530,Mikayil Faye,2025,Rennes,Sub,1,5,0,0,0.0,0.0,0,0,0,0,0,0.0,0.1205417215824127,0.1205417215824127
+12530,Mikayil Faye,2024,Rennes,Sub,11,701,0,0,0.2133091790601611,0.0261528939008712,6,1,1,1,0,0.2133091790601611,1.241620533168316,1.14600882679224

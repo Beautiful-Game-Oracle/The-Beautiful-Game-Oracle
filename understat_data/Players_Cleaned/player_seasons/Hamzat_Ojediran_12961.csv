@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12961,Hamzat Ojediran,2024,Lens,Sub,17,376,1,0,0.9302560910582542,0.3495721258223057,10,2,5,0,1,0.9302560910582542,1.641879379749298,0.3620512038469314

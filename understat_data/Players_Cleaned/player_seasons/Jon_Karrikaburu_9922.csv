@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9922,Jon Karrikaburu,2025,Real Sociedad,Sub,4,55,0,0,0.2923268154263496,0.0238551869988441,4,1,0,0,0,0.2923268154263496,0.1263561695814132,0
+9922,Jon Karrikaburu,2023,Alaves,Sub,2,5,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0
+9922,Jon Karrikaburu,2022,Real Sociedad,Sub,6,72,0,0,0.2701809052377939,0.5026959776878357,5,1,1,0,0,0.2701809052377939,0.7728761928156018,0

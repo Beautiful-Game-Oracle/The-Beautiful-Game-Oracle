@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11376,Moussa Djitté,2022,,Sub,5,71,0,0,0.0890611000359058,0.0,2,0,0,0,0,0.0890611000359058,0.1047929003834724,0.0157318003475666
+11376,Moussa Djitté,2022,,FW,1,54,0,0,0.0,0.0136647997424006,0,1,0,0,0,0.0,0.0136647997424006,0.0136647997424006

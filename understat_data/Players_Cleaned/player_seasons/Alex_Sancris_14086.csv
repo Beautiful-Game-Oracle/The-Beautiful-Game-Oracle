@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+14086,Alex Sancris,2025,Getafe,Sub,5,267,0,0,0.0558269899338483,0.2474165484309196,3,3,0,1,0,0.0558269899338483,0.3347650375217199,0.2242185026407241

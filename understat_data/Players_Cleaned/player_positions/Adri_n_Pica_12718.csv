@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12718,Adrián Pica,2024,,DC,5,444,0,0,0.6004659123718739,0.0624145939946174,4,1,1,0,0,0.6004659123718739,0.512888902798295,0.512888902798295
+12718,Adrián Pica,2024,,Sub,4,45,0,0,0.0,0.0,0,0,0,0,0,0.0,0.4268379285931587,0.4268379285931587

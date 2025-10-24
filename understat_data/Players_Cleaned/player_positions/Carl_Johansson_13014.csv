@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13014,Carl Johansson,2024,,DC,7,533,0,0,0.021820617839694,0.5893798796460032,1,6,0,1,0,0.021820617839694,1.7405194640159607,1.6604828834533691
+13014,Carl Johansson,2024,,Sub,3,37,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

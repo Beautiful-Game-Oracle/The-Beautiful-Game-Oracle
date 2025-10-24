@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12430,Nnamdi Collins,2025,Eintracht Frankfurt,DC,5,421,0,0,0.0167764443904161,0.0,1,0,1,0,0,0.0167764443904161,2.579486787319184,2.562710341066122
+12430,Nnamdi Collins,2024,Eintracht Frankfurt,Sub,24,1483,1,1,1.088654726743698,0.9670564010739326,5,2,4,0,1,1.088654726743698,6.908555801957846,6.240201342850924
+12430,Nnamdi Collins,2023,Eintracht Frankfurt,DR,2,87,0,0,0.0,0.0,0,0,0,0,0,0.0,0.103748008608818,0.103748008608818

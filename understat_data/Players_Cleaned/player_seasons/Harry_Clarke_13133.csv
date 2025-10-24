@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13133,Harry Clarke,2024,Ipswich,Sub,7,378,0,0,0.0565143525600433,0.0654058307409286,1,1,1,1,0,0.0565143525600433,1.269033445045352,1.269033445045352

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13600,Andrés Castrín,2025,Sevilla,DC,5,334,0,0,0.1302137225866317,0.0332721732556819,3,1,1,0,0,0.1302137225866317,0.7994749397039413,0.7994749397039413

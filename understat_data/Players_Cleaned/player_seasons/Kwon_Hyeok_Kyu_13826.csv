@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13826,Kwon Hyeok-Kyu,2025,Nantes,DMC,6,306,0,0,0.0829495564103126,0,2,0,0,0,0,0.0829495564103126,0.0741947144269943,0.0741947144269943

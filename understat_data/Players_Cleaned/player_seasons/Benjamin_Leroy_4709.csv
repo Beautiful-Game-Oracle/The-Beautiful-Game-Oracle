@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+4709,Benjamin Leroy,2022,Ajaccio,GK,32,2798,0,0,0,0.0,0,0,1,0,0,0,1.102393228560686,1.102393228560686
+4709,Benjamin Leroy,2016,Dijon,GK,1,90,0,0,0,0.0,0,0,0,0,0,0,0.0,0.0
+4709,Benjamin Leroy,2014,Evian Thonon Gaillard,GK,23,2070,0,0,0,0.0347964018583297,0,1,0,0,0,0,1.584312917664647,1.549516113474965

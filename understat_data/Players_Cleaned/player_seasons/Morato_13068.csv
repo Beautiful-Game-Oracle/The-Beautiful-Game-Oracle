@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13068,Morato,2025,Nottingham Forest,DL,5,439,0,0,0.026082856580615,0,1,0,3,0,0,0.026082856580615,0.5125472992658615,0.4864644408226013
+13068,Morato,2024,Nottingham Forest,Sub,26,852,0,0,0.1037580780684948,0,2,0,5,0,0,0.1037580780684948,2.077718833461404,2.077718833461404

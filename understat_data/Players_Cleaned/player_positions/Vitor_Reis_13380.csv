@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13380,Vitor Reis,2025,,DC,7,592,0,0,0.1132263168692588,0.6487448960542679,3,2,2,1,0,0.1132263168692588,1.5196241810917854,1.511708177626133
+13380,Vitor Reis,2025,,Sub,1,25,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+13380,Vitor Reis,2024,,Sub,1,1,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

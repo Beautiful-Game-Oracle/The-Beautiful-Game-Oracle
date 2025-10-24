@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10709,Bevic Moussiti-Oko,2022,Ajaccio,Sub,17,679,1,0,1.7116208728402853,0.8071566894650459,20,5,1,0,1,1.7116208728402853,1.3251335928216577,0.2567647974938154

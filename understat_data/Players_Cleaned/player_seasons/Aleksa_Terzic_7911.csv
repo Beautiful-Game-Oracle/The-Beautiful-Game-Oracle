@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+7911,Aleksa Terzic,2022,Fiorentina,DL,22,902,1,1,0.7028216775506735,1.8126036245375872,9,25,2,0,1,0.7028216775506735,3.6827908903360367,2.1551080718636517
+7911,Aleksa Terzic,2021,Fiorentina,Sub,14,237,0,1,0.0,0.6666677221655846,0,5,1,0,0,0.0,0.9477820117026567,0.3875107057392597
+7911,Aleksa Terzic,2019,Fiorentina,Sub,2,5,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

@@ -1,0 +1,27 @@
+id,isResult,side,h,a,goals,xG,datetime
+29618,False,a,"{'id': '163', 'title': 'Rennes', 'short_title': 'REN'}","{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-26 15:15:00
+29623,False,h,"{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'id': '160', 'title': 'Lille', 'short_title': 'LIL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-29 17:00:00
+29634,False,a,"{'id': '161', 'title': 'Paris Saint Germain', 'short_title': 'PSG'}","{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-02 12:00:00
+29642,False,a,"{'id': '180', 'title': 'Metz', 'short_title': 'MET'}","{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-09 12:00:00
+29651,False,h,"{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'id': '164', 'title': 'Marseille', 'short_title': 'MAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-23 12:00:00
+29657,False,a,"{'id': '179', 'title': 'Lorient', 'short_title': 'LOR'}","{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-30 12:00:00
+29670,False,h,"{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-07 12:00:00
+29675,False,a,"{'id': '210', 'title': 'Lens', 'short_title': 'LEN'}","{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-14 12:00:00
+29688,False,h,"{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'id': '225', 'title': 'Strasbourg', 'short_title': 'STR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-04 12:00:00
+29699,False,a,"{'id': '174', 'title': 'Toulouse', 'short_title': 'TOU'}","{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-18 12:00:00
+29706,False,a,"{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-25 12:00:00
+29714,False,h,"{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'id': '241', 'title': 'Brest', 'short_title': 'BRE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-01 12:00:00
+29725,False,h,"{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'id': '171', 'title': 'Monaco', 'short_title': 'MON'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-08 12:00:00
+29730,False,a,"{'id': '178', 'title': 'Lyon', 'short_title': 'LYO'}","{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-15 12:00:00
+29741,False,h,"{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'id': '179', 'title': 'Lorient', 'short_title': 'LOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-22 12:00:00
+29751,False,a,"{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-01 12:00:00
+29760,False,h,"{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'id': '163', 'title': 'Rennes', 'short_title': 'REN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-08 12:00:00
+29763,False,a,"{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-15 12:00:00
+29777,False,h,"{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'id': '161', 'title': 'Paris Saint Germain', 'short_title': 'PSG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-22 12:00:00
+29789,False,a,"{'id': '225', 'title': 'Strasbourg', 'short_title': 'STR'}","{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-05 12:00:00
+29795,False,h,"{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'id': '282', 'title': 'Le Havre', 'short_title': 'LHV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-12 12:00:00
+29801,False,a,"{'id': '160', 'title': 'Lille', 'short_title': 'LIL'}","{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-19 12:00:00
+29813,False,a,"{'id': '164', 'title': 'Marseille', 'short_title': 'MAR'}","{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-26 12:00:00
+29822,False,h,"{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'id': '210', 'title': 'Lens', 'short_title': 'LEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-03 12:00:00
+29827,False,a,"{'id': '275', 'title': 'Auxerre', 'short_title': 'AUX'}","{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 12:00:00
+29841,False,h,"{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'id': '180', 'title': 'Metz', 'short_title': 'MET'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-16 12:00:00

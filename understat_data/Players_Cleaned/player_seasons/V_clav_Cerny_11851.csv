@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11851,Václav Cerny,2025,Wolfsburg,Sub,2,40,0,0,0.07103131711483,0.0,1,0,0,0,0,0.07103131711483,0.0934526398777961,0.0224213246256113
+11851,Václav Cerny,2023,Wolfsburg,FWR,22,937,4,0,2.5093976221978664,0.9179883785545826,20,14,2,0,4,2.5093976221978664,6.919606121256948,4.175301656126976

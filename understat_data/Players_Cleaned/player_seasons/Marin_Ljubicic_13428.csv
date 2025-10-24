@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13428,Marin Ljubicic,2024,Union Berlin,Sub,13,251,1,1,0.4213086869567632,0.5501003861427307,2,2,1,0,1,0.4213086869567632,1.0941104348748922,0.5515302568674088

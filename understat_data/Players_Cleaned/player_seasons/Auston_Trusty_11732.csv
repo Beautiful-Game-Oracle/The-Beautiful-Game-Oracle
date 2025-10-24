@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11732,Auston Trusty,2023,Sheffield United,Sub,32,2576,0,0,0.6636047475039959,1.102281242609024,8,8,4,0,0,0.6636047475039959,2.35319939814508,1.6658160258084536

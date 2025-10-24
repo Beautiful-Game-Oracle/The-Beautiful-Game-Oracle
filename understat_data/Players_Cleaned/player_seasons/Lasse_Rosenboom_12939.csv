@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12939,Lasse Rosenboom,2024,Holstein Kiel,Sub,25,1696,2,2,2.527016533538699,1.2265555588528514,11,14,3,0,2,2.527016533538699,6.791664517484605,3.046963484026492

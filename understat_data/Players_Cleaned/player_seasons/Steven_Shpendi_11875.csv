@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11875,Steven Shpendi,2023,Empoli,Sub,12,401,0,1,0.4600376039743423,0.7257909066975117,7,5,0,0,0,0.4600376039743423,1.7624393850564957,0.6312420908361673

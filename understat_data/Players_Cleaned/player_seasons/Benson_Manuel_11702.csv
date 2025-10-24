@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11702,Benson Manuel,2023,Burnley,Sub,8,91,0,0,0.098589944653213,0.0892248228192329,4,1,0,0,0,0.098589944653213,0.1630203500390052,0.1271920781582594

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11714,Tom Lockyer,2023,,DC,14,1185,1,1,1.6194254234433174,0.3757978826761246,7,3,4,0,1,1.6194254234433174,1.8655977360904217,0.990986067801714

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12754,Jack Taylor,2024,Ipswich,Sub,32,777,1,0,0.5857022814452648,0.7670453414320946,19,5,4,0,1,0.5857022814452648,2.72093062568456,2.4428652273491025

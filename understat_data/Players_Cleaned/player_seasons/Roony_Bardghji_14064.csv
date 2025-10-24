@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+14064,Roony Bardghji,2025,Barcelona,AMR,5,155,0,0,0.946762841194868,0.8982919603586197,9,5,0,0,0,0.946762841194868,2.318600073456764,1.664001453667879

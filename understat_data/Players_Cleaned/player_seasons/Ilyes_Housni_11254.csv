@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11254,Ilyes Housni,2024,Le Havre,Sub,12,222,0,0,0.2678281217813492,0.4824498342350125,5,2,0,0,0,0.2678281217813492,0.3481463463976979,0.1453414782881736
+11254,Ilyes Housni,2022,Paris Saint Germain,Sub,1,9,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

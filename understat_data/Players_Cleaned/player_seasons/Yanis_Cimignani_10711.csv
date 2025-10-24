@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10711,Yanis Cimignani,2022,Ajaccio,Sub,8,267,0,0,0.1533146984875202,0.054584969766438,6,3,0,0,0,0.1533146984875202,0.38008320517838,0.2267592083662748

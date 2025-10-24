@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11135,Cheick Keita,2022,Reims,DC,9,690,0,0,0.153246795758605,0.0157200992107391,3,1,1,0,0,0.153246795758605,1.7307641878724098,1.704258106648922

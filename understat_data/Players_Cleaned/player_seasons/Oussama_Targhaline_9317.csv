@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9317,Oussama Targhaline,2024,Le Havre,MC,14,997,0,0,0.157673180103302,0.6418087482452393,5,7,0,0,0,0.157673180103302,1.9886683002114296,1.4030463602393866
+9317,Oussama Targhaline,2023,Le Havre,MC,14,1053,0,0,0.1411428824067115,0.2876383680850267,6,8,3,1,0,0.1411428824067115,2.447756426408887,2.1989851035177708
+9317,Oussama Targhaline,2021,Marseille,Sub,2,2,0,0,0.0,0.0,0,0,1,0,0,0.0,0.0,0.0

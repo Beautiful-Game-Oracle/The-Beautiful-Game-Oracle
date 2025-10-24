@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13577,Rudy Matondo,2025,Auxerre,Sub,5,38,0,0,0,0,0,0,1,0,0,0,0.0593193881213665,0.0593193881213665
+13577,Rudy Matondo,2024,Auxerre,Sub,5,53,0,0,0,0,0,0,1,0,0,0,0.2317506670951843,0.2317506670951843

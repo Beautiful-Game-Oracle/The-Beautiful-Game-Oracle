@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12881,Henrik Meister,2025,Pisa,FW,6,321,0,0,1.091137319803238,0.0,4,0,1,0,0,1.091137319803238,1.6775376498699188,0.5864003524184227
+12881,Henrik Meister,2024,Rennes,Sub,4,49,1,0,0.1125578759238123,0.3763541877269745,2,2,0,0,1,0.1125578759238123,0.4799482375383377,0.0

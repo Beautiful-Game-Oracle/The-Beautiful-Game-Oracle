@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10932,Marcos Antônio,2022,Lazio,Sub,16,576,1,1,0.8832344114780426,0.4298343043774366,3,3,2,0,1,0.8832344114780426,4.065091667696834,3.1606449764221907

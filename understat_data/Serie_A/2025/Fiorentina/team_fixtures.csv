@@ -1,0 +1,32 @@
+id,isResult,side,h,a,goals,xG,datetime
+29917,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-26 16:00:00
+29929,False,a,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-29 18:45:00
+29935,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '243', 'title': 'Lecce', 'short_title': 'LEC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-02 12:00:00
+29947,False,a,"{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-09 12:00:00
+29957,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-23 12:00:00
+29964,False,a,"{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-30 12:00:00
+29980,False,a,"{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-07 12:00:00
+29986,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-14 12:00:00
+29996,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-21 12:00:00
+30008,False,a,"{'id': '230', 'title': 'Parma Calcio 1913', 'short_title': 'PAR'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-28 12:00:00
+30017,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '272', 'title': 'Cremonese', 'short_title': 'CRE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 12:00:00
+30026,False,a,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-06 17:45:00
+30036,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '111', 'title': 'AC Milan', 'short_title': 'MIL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-11 12:00:00
+30052,False,a,"{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-18 12:00:00
+30056,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-25 12:00:00
+30069,False,a,"{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-01 12:00:00
+30079,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-08 12:00:00
+30085,False,a,"{'id': '286', 'title': 'Como', 'short_title': 'COM'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-15 12:00:00
+30097,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '291', 'title': 'Pisa', 'short_title': 'PIS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-22 12:00:00
+30110,False,a,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-01 12:00:00
+30117,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '230', 'title': 'Parma Calcio 1913', 'short_title': 'PAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-08 12:00:00
+30125,False,a,"{'id': '272', 'title': 'Cremonese', 'short_title': 'CRE'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-15 12:00:00
+30138,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-22 12:00:00
+30153,False,a,"{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-04 12:00:00
+30158,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-12 12:00:00
+30166,False,a,"{'id': '243', 'title': 'Lecce', 'short_title': 'LEC'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-19 12:00:00
+30176,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-26 12:00:00
+30191,False,a,"{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-03 12:00:00
+30197,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-10 12:00:00
+30209,False,a,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 12:00:00
+30216,False,h,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 12:00:00

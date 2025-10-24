@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11342,Eduard Sobol,2024,Strasbourg,Sub,10,64,0,0,0.0,0.0,0,0,2,0,0,0.0,0.1682674437761306,0.1682674437761306
+11342,Eduard Sobol,2023,Strasbourg,Sub,3,16,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+11342,Eduard Sobol,2022,Strasbourg,DML,15,860,0,1,0.1216549016535282,0.9779322631657124,5,8,2,0,0,0.1216549016535282,2.685012398287654,2.183920001611113

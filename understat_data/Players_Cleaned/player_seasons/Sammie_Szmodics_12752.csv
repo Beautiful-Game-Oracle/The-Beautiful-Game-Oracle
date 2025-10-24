@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12752,Sammie Szmodics,2024,Ipswich,Sub,20,1025,4,0,4.5141482055187225,0.1944524906575679,21,5,2,0,4,4.5141482055187225,5.369531828910112,0.7284961454570293

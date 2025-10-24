@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13827,Yassine Benhattab,2025,,MR,3,200,0,0,0.1000592745840549,0.6575568914413452,2,5,0,0,0,0.1000592745840549,0.7576161846518517,0.0757802948355674
+13827,Yassine Benhattab,2025,,FWR,1,90,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+13827,Yassine Benhattab,2025,,Sub,3,82,0,0,0.0336329787969589,0.0,1,0,0,0,0,0.0336329787969589,0.0336329787969589,0.0

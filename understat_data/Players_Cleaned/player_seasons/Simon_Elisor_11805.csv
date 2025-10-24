@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11805,Simon Elisor,2023,Metz,FWR,14,785,1,0,2.0553249157965183,0.849286824464798,14,11,1,0,1,1.2952297963202,3.153650395572185,1.2594715869054198

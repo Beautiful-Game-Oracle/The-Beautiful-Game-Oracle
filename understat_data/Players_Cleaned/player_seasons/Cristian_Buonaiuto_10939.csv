@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10939,Cristian Buonaiuto,2022,Cremonese,Sub,29,957,1,0,2.8947981540113688,1.559725319966674,43,17,3,0,0,2.1334993224591017,4.385597541928291,1.850079108029604

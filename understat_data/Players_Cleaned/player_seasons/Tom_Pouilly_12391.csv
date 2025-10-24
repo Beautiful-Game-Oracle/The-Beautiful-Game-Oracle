@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12391,Tom Pouilly,2024,Lens,Sub,10,252,0,0,0.6400113068521023,0.5618034703657031,4,3,1,0,0,0.6400113068521023,1.6114612743258476,0.933405939489603

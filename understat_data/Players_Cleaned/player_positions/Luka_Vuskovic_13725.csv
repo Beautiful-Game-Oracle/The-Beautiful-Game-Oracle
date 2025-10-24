@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13725,Luka Vuskovic,2025,,DC,5,450,1,0,0.616578958928585,0.1648189965635538,4,4,0,0,1,0.616578958928585,1.5829036012291908,1.4180846214294434

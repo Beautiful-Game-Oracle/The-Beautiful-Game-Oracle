@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13334,Ismael Bekhoucha,2025,Getafe,DR,3,96,0,1,0,0.721170961856842,0,1,1,0,0,0,1.1573026180267334,0.4361315965652466
+13334,Ismael Bekhoucha,2024,Getafe,Sub,5,51,0,0,0,0.0,0,0,2,0,0,0,0.099449910223484,0.099449910223484

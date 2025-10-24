@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13701,Ilyas Chaira,2025,Real Oviedo,AML,8,433,0,0,0.5722113605588675,0.0144205158576369,8,1,0,0,0,0.5722113605588675,2.1365047805011272,1.7223472818732262

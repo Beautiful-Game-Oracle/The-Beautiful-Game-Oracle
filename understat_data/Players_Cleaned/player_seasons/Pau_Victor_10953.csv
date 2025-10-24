@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10953,Pau Victor,2024,Barcelona,Sub,21,273,2,1,2.9672163296490908,0.8769846558570862,14,8,2,0,2,2.9672163296490908,4.459078095853329,0.7532445453107357

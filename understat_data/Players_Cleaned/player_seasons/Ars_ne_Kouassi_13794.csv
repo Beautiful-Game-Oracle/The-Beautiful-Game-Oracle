@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13794,Arsène Kouassi,2025,Lorient,DML,8,662,1,2,0.0829298878088593,1.1102818995714188,2,9,2,0,1,0.0829298878088593,1.2371150627732277,0.9172645471990108

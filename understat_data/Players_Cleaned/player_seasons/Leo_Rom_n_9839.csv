@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9839,Leo Román,2025,Mallorca,GK,9,810,0,0,0,0,0,0,1,0,0,0,0.6582629103213549,0.6582629103213549
+9839,Leo Román,2024,Mallorca,GK,7,630,0,0,0,0,0,0,0,0,0,0,0.7954421639442444,0.7954421639442444
+9839,Leo Román,2022,Mallorca,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.391853928565979,0.391853928565979
+9839,Leo Román,2021,Mallorca,GK,2,180,0,0,0,0,0,0,0,0,0,0,0.0429989993572235,0.0429989993572235

@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12958,Alessandro Marcandalli,2025,Genoa,DC,3,177,0,0,0.0,0,0,0,1,0,0,0.0,0.0,0.0
+12958,Alessandro Marcandalli,2024,Venezia,DC,8,359,0,0,0.5659685600548983,0,2,0,2,0,0,0.5659685600548983,0.2606982812285423,0.2606982812285423
+12958,Alessandro Marcandalli,2024,Genoa,DC,2,48,0,0,0.0,0,0,0,0,0,0,0.0,0.0,0.0

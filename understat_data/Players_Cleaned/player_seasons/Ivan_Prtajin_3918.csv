@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+3918,Ivan Prtajin,2024,Union Berlin,Sub,5,151,0,0,1.1783978072926402,0.0537815019488334,8,1,0,0,0,1.1783978072926402,1.2372317984700203,0.057400831952691

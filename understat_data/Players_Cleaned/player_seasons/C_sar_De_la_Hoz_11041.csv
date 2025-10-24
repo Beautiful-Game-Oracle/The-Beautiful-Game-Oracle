@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11041,César De la Hoz,2022,Almeria,Sub,25,1673,1,0,0.3396235033869743,1.2134180702269075,7,5,6,0,1,0.3396235033869743,4.566949136555195,3.761141125112772

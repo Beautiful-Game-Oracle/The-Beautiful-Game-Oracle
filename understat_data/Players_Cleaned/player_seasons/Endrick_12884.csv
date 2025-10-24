@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12884,Endrick,2024,Real Madrid,Sub,22,324,1,0,2.928210226818919,0.664036899805069,24,5,1,0,1,2.928210226818919,3.389462307095528,0.2131688185036182

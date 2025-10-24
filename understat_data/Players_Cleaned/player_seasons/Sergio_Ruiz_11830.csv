@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11830,Sergio Ruiz,2023,Granada,MC,35,2536,0,4,0.914044759236276,1.7954023014754057,13,12,8,0,0,0.914044759236276,8.087164682336152,6.460835027508438

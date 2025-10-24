@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11327,Tio Cipot,2022,,Sub,8,120,0,0,0.030384000390768,0.1873133704066276,2,3,0,0,0,0.030384000390768,0.1248675435781478,0.0728736445307731

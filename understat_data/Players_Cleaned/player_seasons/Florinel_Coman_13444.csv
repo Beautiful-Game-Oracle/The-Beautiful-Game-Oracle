@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13444,Florinel Coman,2024,Cagliari,Sub,9,253,1,0,0.1312998887151479,0.0133624384179711,4,1,2,0,1,0.1312998887151479,0.4400611231103539,0.3507751170545816

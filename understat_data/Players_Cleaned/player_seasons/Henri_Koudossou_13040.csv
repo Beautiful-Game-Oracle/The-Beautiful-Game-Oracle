@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13040,Henri Koudossou,2024,Augsburg,Sub,21,710,0,0,0.0767879709601402,0.9423977639526128,2,10,1,0,0,0.0767879709601402,4.205359624698758,3.759394759312272

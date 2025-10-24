@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+7186,Juan Berrocal,2024,Getafe,DC,19,1061,0,0,0.5594088397920132,0.0098865032196044,4,1,6,1,0,0.5594088397920132,1.2938134968280792,1.2938134968280792

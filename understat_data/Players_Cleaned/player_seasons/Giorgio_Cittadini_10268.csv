@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10268,Giorgio Cittadini,2023,Genoa,Sub,5,103,0,0,0,0,0,0,0,0,0,0,0.0826758220791816,0.0826758220791816
+10268,Giorgio Cittadini,2023,Monza,Sub,1,14,0,0,0,0,0,0,1,0,0,0,0.0,0.0
+10268,Giorgio Cittadini,2021,Atalanta,Sub,2,2,0,0,0,0,0,0,0,0,0,0,0.0,0.0

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13888,Danny Namaso,2025,Auxerre,Sub,7,549,2,0,2.313680414110422,0.5845748968422413,14,9,1,0,2,2.313680414110422,3.4428399950265884,1.5119092110544443

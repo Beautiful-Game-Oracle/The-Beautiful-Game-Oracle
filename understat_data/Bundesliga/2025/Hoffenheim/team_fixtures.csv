@@ -1,0 +1,28 @@
+id,isResult,side,h,a,goals,xG,datetime
+30293,False,h,"{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'id': '280', 'title': 'FC Heidenheim', 'short_title': 'HEI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-25 13:30:00
+30304,False,a,"{'id': '131', 'title': 'Wolfsburg', 'short_title': 'WOL'}","{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 12:30:00
+30310,False,h,"{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'id': '136', 'title': 'RasenBallsport Leipzig', 'short_title': 'RBL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 12:30:00
+30319,False,a,"{'id': '125', 'title': 'Mainz 05', 'short_title': 'MAI'}","{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 12:30:00
+30329,False,h,"{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'id': '121', 'title': 'Augsburg', 'short_title': 'AUG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 12:30:00
+30335,False,a,"{'id': '129', 'title': 'Borussia Dortmund', 'short_title': 'DOR'}","{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 12:30:00
+30346,False,h,"{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'id': '118', 'title': 'Hamburger SV', 'short_title': 'HAM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 12:30:00
+30357,False,a,"{'id': '133', 'title': 'VfB Stuttgart', 'short_title': 'STU'}","{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 12:30:00
+30367,False,a,"{'id': '123', 'title': 'Werder Bremen', 'short_title': 'WER'}","{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-10 12:30:00
+30372,False,h,"{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'id': '130', 'title': 'Borussia M.Gladbach', 'short_title': 'BMG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-14 12:30:00
+30381,False,h,"{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'id': '119', 'title': 'Bayer Leverkusen', 'short_title': 'LEV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 12:30:00
+30389,False,a,"{'id': '132', 'title': 'Eintracht Frankfurt', 'short_title': 'EIN'}","{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 12:30:00
+30400,False,h,"{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 12:30:00
+30404,False,a,"{'id': '117', 'title': 'Bayern Munich', 'short_title': 'BAY'}","{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 12:30:00
+30418,False,h,"{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'id': '135', 'title': 'Freiburg', 'short_title': 'FRE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-14 12:30:00
+30423,False,a,"{'id': '134', 'title': 'FC Cologne', 'short_title': 'COL'}","{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 12:30:00
+30437,False,h,"{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 12:30:00
+30443,False,a,"{'id': '280', 'title': 'FC Heidenheim', 'short_title': 'HEI'}","{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-07 12:30:00
+30455,False,h,"{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'id': '131', 'title': 'Wolfsburg', 'short_title': 'WOL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 12:30:00
+30464,False,a,"{'id': '136', 'title': 'RasenBallsport Leipzig', 'short_title': 'RBL'}","{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 12:30:00
+30472,False,h,"{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'id': '125', 'title': 'Mainz 05', 'short_title': 'MAI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-04 12:30:00
+30476,False,a,"{'id': '121', 'title': 'Augsburg', 'short_title': 'AUG'}","{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 12:30:00
+30490,False,h,"{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'id': '129', 'title': 'Borussia Dortmund', 'short_title': 'DOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 12:30:00
+30497,False,a,"{'id': '118', 'title': 'Hamburger SV', 'short_title': 'HAM'}","{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 12:30:00
+30508,False,h,"{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'id': '133', 'title': 'VfB Stuttgart', 'short_title': 'STU'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 12:30:00
+30516,False,h,"{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'id': '123', 'title': 'Werder Bremen', 'short_title': 'WER'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 12:30:00
+30523,False,a,"{'id': '130', 'title': 'Borussia M.Gladbach', 'short_title': 'BMG'}","{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-16 12:30:00

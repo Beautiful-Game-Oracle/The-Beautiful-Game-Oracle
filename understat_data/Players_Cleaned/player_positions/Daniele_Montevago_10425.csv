@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10425,Daniele Montevago,2022,,FW,3,201,0,0,0.5798349939286709,0.0933317383751273,7,3,0,0,0,0.5798349939286709,0.6292327139526606,0
+10425,Daniele Montevago,2022,,Sub,3,31,0,0,0.0,0.1022330000996589,0,1,1,0,0,0.0,0.1022330000996589,0

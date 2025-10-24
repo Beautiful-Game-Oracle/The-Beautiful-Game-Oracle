@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10938,Emanuel Aiwu,2022,Cremonese,Sub,23,1637,0,0,0.0758662316948175,0.1516227712854743,3,4,3,0,0,0.0758662316948175,1.7030266216024756,1.5427827052772043

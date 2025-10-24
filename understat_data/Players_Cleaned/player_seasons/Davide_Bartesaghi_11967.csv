@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11967,Davide Bartesaghi,2025,AC Milan,Sub,3,210,0,0,0.0,0.2416301667690277,0,3,1,0,0,0.0,0.5821689516305923,0.3405387699604034
+11967,Davide Bartesaghi,2024,AC Milan,Sub,4,115,0,0,0.0303207039833068,0.1432030163705349,1,2,0,1,0,0.0303207039833068,0.9094470888376236,0.8431871682405472
+11967,Davide Bartesaghi,2023,AC Milan,Sub,6,61,0,0,0.0,0.0,0,0,0,0,0,0.0,0.1568979918956756,0.1568979918956756

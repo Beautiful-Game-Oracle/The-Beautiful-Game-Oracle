@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13885,Andréas Hountondji,2025,St. Pauli,FW,6,353,3,0,2.3171245022676885,0.0960232708603143,10,3,0,0,3,1.5593478842638433,0.9553613755851984,0

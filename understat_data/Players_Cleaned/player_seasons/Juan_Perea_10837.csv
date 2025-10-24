@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10837,Juan Perea,2022,VfB Stuttgart,Sub,16,397,1,0,0.1915536038577556,0.6523671969771385,2,2,0,0,1,0.1915536038577556,2.140662170946598,1.4293353743851185

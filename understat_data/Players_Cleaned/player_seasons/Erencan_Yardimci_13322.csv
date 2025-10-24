@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13322,Erencan Yardimci,2024,Hoffenheim,Sub,8,310,0,0,0.8402661681175232,0,5,0,2,0,0,0.8402661681175232,0.949959859251976,0.2570560574531555

@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+14052,Pathé Mboup,2025,,AML,2,145,0,0,0.217364877462387,0.7604267597198486,2,2,1,0,0,0.217364877462387,1.973319411277771,0.9955277889966964
+14052,Pathé Mboup,2025,,Sub,3,68,0,0,0.0776130482554435,0.0,1,0,0,0,0,0.0776130482554435,0.0776130482554435,0.0

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13795,Dermane Karim,2025,Lorient,Sub,6,406,0,1,0.2028420623391866,1.1996389776468277,3,4,3,0,0,0.2028420623391866,2.1353604421019554,0.744812086224556

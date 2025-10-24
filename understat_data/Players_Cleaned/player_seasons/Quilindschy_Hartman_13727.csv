@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13727,Quilindschy Hartman,2025,Burnley,DL,8,720,0,2,0.0633414452895522,0.6915765171870589,3,8,1,0,0,0.0633414452895522,0.6275933496654034,0.4020854979753494

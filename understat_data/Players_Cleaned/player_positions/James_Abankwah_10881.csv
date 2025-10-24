@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10881,James Abankwah,2024,,Sub,6,70,0,0,0.1146742552518844,0,1,0,1,0,0,0.1146742552518844,0.4268139153718948,0.3121396601200104
+10881,James Abankwah,2022,,DC,1,61,0,0,0.0,0,0,0,0,0,0,0.0,0.0,0.0
+10881,James Abankwah,2022,,Sub,1,1,0,0,0.0,0,0,0,0,0,0,0.0,0.0,0.0

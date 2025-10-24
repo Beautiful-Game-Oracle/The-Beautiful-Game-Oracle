@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12965,Bence Dárdai,2024,Wolfsburg,Sub,21,1333,1,1,1.1589803658425808,1.495081041008234,11,11,0,0,1,1.1589803658425808,3.533677311614156,1.5043751318007708

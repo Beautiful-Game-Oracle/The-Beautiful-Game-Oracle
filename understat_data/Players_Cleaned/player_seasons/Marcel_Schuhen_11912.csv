@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11912,Marcel Schuhen,2023,Darmstadt,GK,31,2790,0,0,0,0.0860880687832832,0,1,2,0,0,0,3.5562935806810856,3.470205519348383

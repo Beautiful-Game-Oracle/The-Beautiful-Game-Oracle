@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12017,Agustín Martegani,2023,Salernitana,Sub,18,717,1,0,0.7115944735705853,0.341152373701334,15,6,1,0,1,0.7115944735705853,1.9232338862493636,1.1300806105136871

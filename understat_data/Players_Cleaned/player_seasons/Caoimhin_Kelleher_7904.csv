@@ -1,0 +1,7 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+7904,Caoimhin Kelleher,2025,Brentford,GK,8,720,0,0,0,0.0250284057110548,0,1,1,0,0,0,0.9958341401070356,0.9708057343959808
+7904,Caoimhin Kelleher,2024,Liverpool,GK,10,900,0,0,0,0.0,0,0,0,0,0,0,1.939537651836872,1.939537651836872
+7904,Caoimhin Kelleher,2023,Liverpool,GK,10,900,0,0,0,0.0448078326880931,0,1,0,0,0,0,3.1609220281243324,3.1609220281243324
+7904,Caoimhin Kelleher,2022,Liverpool,GK,1,90,0,0,0,0.0,0,0,0,0,0,0,0.0,0.0
+7904,Caoimhin Kelleher,2021,Liverpool,GK,2,180,0,0,0,0.0,0,0,0,0,0,0,0.3326799944043159,0.3326799944043159
+7904,Caoimhin Kelleher,2020,Liverpool,GK,2,180,0,0,0,0.0,0,0,0,0,0,0,0.4479269981384277,0.4479269981384277

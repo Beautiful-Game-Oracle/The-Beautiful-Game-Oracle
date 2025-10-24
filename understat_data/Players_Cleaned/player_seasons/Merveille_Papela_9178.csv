@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9178,Merveille Papela,2023,Mainz 05,Sub,11,264,0,0,0.4438758082687855,0.5349623532965779,4,3,1,0,0,0.4438758082687855,1.5241789072752,1.0259344577789309
+9178,Merveille Papela,2021,Mainz 05,Sub,5,71,0,0,0.0157338995486497,0.0,1,0,0,0,0,0.0157338995486497,0.0157338995486497,0.0
+9178,Merveille Papela,2020,Mainz 05,Sub,1,1,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

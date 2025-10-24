@@ -1,0 +1,6 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10300,Jeanuël Belocian,2025,Bayer Leverkusen,Sub,1,1,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+10300,Jeanuël Belocian,2024,Bayer Leverkusen,DC,5,66,0,0,0.0,0.0,0,0,1,0,0,0.0,0.1247751824557781,0.1247751824557781
+10300,Jeanuël Belocian,2023,Rennes,DL,23,1459,0,1,0.4875206686556339,0.3548547849059105,3,6,0,0,0,0.4875206686556339,4.262160075828433,4.06894819997251
+10300,Jeanuël Belocian,2022,Rennes,Sub,8,514,0,0,0.0310445427894592,0.0558241158723831,1,1,1,0,0,0.0310445427894592,1.7220963761210442,1.6910518184304235
+10300,Jeanuël Belocian,2021,Rennes,Sub,1,9,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13778,Igor Jesus,2025,,Sub,7,133,0,0,0.8738670833408833,0.0747322440147399,5,1,0,0,0,0.8738670833408833,1.0193480141460896,0.1454809214919805

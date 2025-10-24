@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10263,Alaa Bellarouch,2023,Strasbourg,GK,15,1350,0,0,0,0.0334351919591426,0,1,1,0,0,0,1.6610604375600817,1.6610604375600817

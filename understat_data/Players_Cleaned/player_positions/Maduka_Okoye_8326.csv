@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8326,Maduka Okoye,2025,,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.3063108921051025,0.3063108921051025
+8326,Maduka Okoye,2024,,GK,25,2250,0,0,0,0,0,0,1,0,0,0,1.6492060236632824,1.6492060236632824
+8326,Maduka Okoye,2023,,GK,21,1890,0,0,0,0,0,0,2,0,0,0,0.213257934898138,0.213257934898138

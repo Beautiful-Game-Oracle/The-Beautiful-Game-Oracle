@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13404,Tamás Nikitscher,2024,Real Valladolid,Sub,13,853,0,0,0.0194152127951383,0.0304804667830467,1,2,2,0,0,0.0194152127951383,3.283312425017357,3.2515020966529846

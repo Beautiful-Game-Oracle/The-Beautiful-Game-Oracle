@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+5784,Quentin Bernard,2022,,DL,7,630,0,1,0.0,0.638192493468523,0,7,0,0,0,0.0,1.1470400989055634,0.9566320851445198
+5784,Quentin Bernard,2016,,DL,6,540,0,0,0.0092592798173427,0.0230490993708372,1,1,1,0,0,0.0092592798173427,0.5754113141447306,0.543103301897645
+5784,Quentin Bernard,2016,,Sub,1,13,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

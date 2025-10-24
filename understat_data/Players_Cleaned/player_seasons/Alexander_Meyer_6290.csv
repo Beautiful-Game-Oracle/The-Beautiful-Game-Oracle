@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+6290,Alexander Meyer,2024,Borussia Dortmund,GK,2,180,0,0,0,0.088520348072052,0,1,0,0,0,0,0.088520348072052,0.0
+6290,Alexander Meyer,2023,Borussia Dortmund,Sub,8,695,0,0,0,0.0,0,0,0,0,0,0,0.8985588029026985,0.8985588029026985
+6290,Alexander Meyer,2022,Borussia Dortmund,GK,7,630,0,0,0,0.0,0,0,0,0,0,0,1.3360484018921852,1.3360484018921852

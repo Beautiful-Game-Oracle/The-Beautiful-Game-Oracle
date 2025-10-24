@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13911,Said El Mala,2025,FC Cologne,Sub,7,230,3,1,1.381224351003766,0.492474265396595,14,3,0,0,3,1.381224351003766,2.0706591494381428,0.3235251642763614

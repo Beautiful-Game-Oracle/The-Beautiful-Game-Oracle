@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11804,Aboubacar Lô,2023,Metz,Sub,6,191,0,0,0.0490720570087432,0.2920311689376831,1,2,0,1,0,0.0490720570087432,0.2998045063577592,0.0369637380354106

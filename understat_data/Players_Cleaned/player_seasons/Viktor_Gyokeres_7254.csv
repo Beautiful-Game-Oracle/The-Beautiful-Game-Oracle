@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+7254,Viktor Gyokeres,2025,Arsenal,FW,8,676,3,0,4.149700254201889,0.2869485318660736,18,5,1,0,2,3.388531416654587,4.526234693825245,0.9360199607908726

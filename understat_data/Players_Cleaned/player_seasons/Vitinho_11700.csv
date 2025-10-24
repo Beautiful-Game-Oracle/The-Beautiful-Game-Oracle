@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11700,Vitinho,2023,Burnley,DL,32,2324,0,2,1.7635137159377337,1.0349685866385698,25,11,1,0,0,1.7635137159377337,6.745405659079552,4.7740294598042965

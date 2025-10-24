@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13789,Adrián Liso,2025,,FW,6,523,3,0,1.3045966401696203,0,10,0,1,0,3,1.3045966401696203,1.348658248782158,0.0853726174682378

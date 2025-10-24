@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10940,Giacomo Quagliata,2022,Cremonese,Sub,20,679,0,1,0.3579525062814355,0.705325985327363,9,13,0,1,0,0.3579525062814355,1.285959213040769,0.7513819970190525

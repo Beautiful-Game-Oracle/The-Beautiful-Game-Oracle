@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10793,Rafael Ratão,2022,Toulouse,AML,30,1906,5,4,5.592034317553043,5.587279949337244,31,30,2,0,5,5.592034317553043,14.931748054921629,7.16319733299315

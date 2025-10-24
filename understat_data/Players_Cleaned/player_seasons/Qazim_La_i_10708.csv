@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10708,Qazim Laçi,2022,Ajaccio,Sub,9,200,0,0,0.1022646985948085,0.1464167982339859,4,3,0,0,0,0.1022646985948085,0.0845236033201217,0.0572299007326364

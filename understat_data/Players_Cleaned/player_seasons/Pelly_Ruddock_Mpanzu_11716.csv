@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11716,Pelly Ruddock Mpanzu,2023,Luton,MC,27,1068,0,0,1.2606520606204867,0.5314477952197194,11,6,1,0,0,1.2606520606204867,2.659800674766302,1.222071398049593

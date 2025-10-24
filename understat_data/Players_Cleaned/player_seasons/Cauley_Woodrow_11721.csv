@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11721,Cauley Woodrow,2023,Luton,Sub,24,344,1,1,0.9773385636508464,1.1986291874200106,16,10,2,0,1,0.9773385636508464,2.1638130135834217,0.3437035791575908

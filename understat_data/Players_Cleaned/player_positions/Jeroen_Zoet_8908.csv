@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8908,Jeroen Zoet,2022,,GK,4,287,0,0,0,0,0,0,1,0,0,0,0.0169614404439926,0.0169614404439926
+8908,Jeroen Zoet,2022,,Sub,1,48,0,0,0,0,0,0,0,0,0,0,0.0530235990881919,0.0530235990881919
+8908,Jeroen Zoet,2021,,GK,7,630,0,0,0,0,0,0,0,0,0,0,0.1239273967221379,0.1239273967221379
+8908,Jeroen Zoet,2020,,GK,7,605,0,0,0,0,0,0,1,0,0,0,0.6374385301023722,0.6374385301023722

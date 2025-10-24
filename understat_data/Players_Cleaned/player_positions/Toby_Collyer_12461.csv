@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12461,Toby Collyer,2024,,Sub,6,159,0,0,0.0509475357830524,0.1618404779583215,1,2,0,0,0,0.0509475357830524,0.8362514898180962,0.6744109764695168

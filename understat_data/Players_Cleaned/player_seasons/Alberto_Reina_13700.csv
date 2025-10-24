@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13700,Alberto Reina,2025,Real Oviedo,DMC,8,448,1,0,0.2420816738158464,0.0705491062253713,6,2,2,1,1,0.2420816738158464,0.4257816355675459,0.2055956870317459

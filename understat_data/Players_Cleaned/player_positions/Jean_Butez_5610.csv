@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+5610,Jean Butez,2025,,GK,7,630,0,0,0,0.0,0,0,0,0,0,0,1.3107690289616585,1.3107690289616585
+5610,Jean Butez,2024,,GK,18,1620,0,0,0,0.0309079997241497,0,1,0,0,0,0,2.207460066303611,2.176552066579461
+5610,Jean Butez,2024,,Sub,1,43,0,0,0,0.0,0,0,0,0,0,0,0.200061559677124,0.200061559677124

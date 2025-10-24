@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12775,Kosta Nedeljkovic,2025,RasenBallsport Leipzig,Sub,2,7,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+12775,Kosta Nedeljkovic,2024,RasenBallsport Leipzig,Sub,10,479,0,0,0.6430388912558556,0.2849142178893089,4,3,1,0,0,0.6430388912558556,1.2428867742419245,0.5224717259407043
+12775,Kosta Nedeljkovic,2024,Aston Villa,Sub,5,109,0,0,0.0,0.0,0,0,0,0,0,0.0,0.1857971288263797,0.1857971288263797

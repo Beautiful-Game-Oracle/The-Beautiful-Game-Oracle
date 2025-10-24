@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11304,Moussa Soumano,2022,Ajaccio,Sub,14,487,1,0,0.6133632250130177,0.1804496981203556,6,5,3,0,1,0.6133632250130177,0.939219519495964,0.1454063113778829

@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12603,Mikey Moore,2024,Tottenham,Sub,10,351,0,1,0.1638267338275909,0.6736010685563087,3,3,0,0,0,0.1638267338275909,1.1337775886058807,0.846306886523962
+12603,Mikey Moore,2023,Tottenham,Sub,2,2,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

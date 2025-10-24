@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9322,Alessandro Bianco,2024,Monza,Sub,34,2621,1,0,1.3939758026972413,1.4734479561448095,26,18,9,0,1,1.3939758026972413,6.815836355090141,4.914733601734042
+9322,Alessandro Bianco,2024,Fiorentina,Sub,1,15,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+9322,Alessandro Bianco,2022,Fiorentina,DMC,7,148,0,0,0.0533926989883184,0.009255819953978,2,1,1,0,0,0.0533926989883184,0.3219158798456192,0.2592680901288986

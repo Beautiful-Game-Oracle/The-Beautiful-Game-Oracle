@@ -1,0 +1,30 @@
+id,isResult,side,h,a,goals,xG,datetime
+29255,False,a,"{'id': '157', 'title': 'Osasuna', 'short_title': 'OSA'}","{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-26 15:00:00
+29265,False,a,"{'id': '151', 'title': 'Levante', 'short_title': 'LEV'}","{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-02 14:00:00
+29274,False,h,"{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'id': '148', 'title': 'Barcelona', 'short_title': 'BAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-09 14:00:00
+29278,False,a,"{'id': '158', 'title': 'Alaves', 'short_title': 'ALA'}","{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-23 14:00:00
+29289,False,h,"{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'id': '141', 'title': 'Espanyol', 'short_title': 'ESP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-30 14:00:00
+29303,False,a,"{'id': '150', 'title': 'Real Madrid', 'short_title': 'RMA'}","{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-07 14:00:00
+29312,False,h,"{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'id': '147', 'title': 'Athletic Club', 'short_title': 'ATH'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-14 14:00:00
+29326,False,a,"{'id': '289', 'title': 'Real Oviedo', 'short_title': 'OVI'}","{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-21 14:00:00
+29329,False,h,"{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'id': '146', 'title': 'Valencia', 'short_title': 'VAL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-04 14:00:00
+29344,False,a,"{'id': '138', 'title': 'Sevilla', 'short_title': 'SEV'}","{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-11 14:00:00
+29353,False,h,"{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'id': '145', 'title': 'Rayo Vallecano', 'short_title': 'RVL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-18 14:00:00
+29362,False,a,"{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-25 14:00:00
+29374,False,a,"{'id': '142', 'title': 'Getafe', 'short_title': 'GET'}","{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-01 14:00:00
+29382,False,h,"{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'id': '157', 'title': 'Osasuna', 'short_title': 'OSA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-08 14:00:00
+29397,False,a,"{'id': '141', 'title': 'Espanyol', 'short_title': 'ESP'}","{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-15 14:00:00
+29403,False,h,"{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'id': '239', 'title': 'Mallorca', 'short_title': 'MAL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-22 14:00:00
+29415,False,a,"{'id': '223', 'title': 'Girona', 'short_title': 'GIR'}","{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-01 14:00:00
+29420,False,h,"{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'id': '150', 'title': 'Real Madrid', 'short_title': 'RMA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-08 14:00:00
+29431,False,a,"{'id': '153', 'title': 'Real Betis', 'short_title': 'BET'}","{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-15 14:00:00
+29445,False,h,"{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'id': '158', 'title': 'Alaves', 'short_title': 'ALA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-22 14:00:00
+29454,False,a,"{'id': '146', 'title': 'Valencia', 'short_title': 'VAL'}","{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-05 14:00:00
+29467,False,h,"{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'id': '289', 'title': 'Real Oviedo', 'short_title': 'OVI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-12 14:00:00
+29470,False,a,"{'id': '154', 'title': 'Villarreal', 'short_title': 'VIL'}","{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-19 14:00:00
+29479,False,a,"{'id': '148', 'title': 'Barcelona', 'short_title': 'BAR'}","{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-22 18:00:00
+29493,False,h,"{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'id': '207', 'title': 'Elche', 'short_title': 'ELC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-03 14:00:00
+29499,False,a,"{'id': '143', 'title': 'Atletico Madrid', 'short_title': 'ATL'}","{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-10 14:00:00
+29510,False,h,"{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'id': '151', 'title': 'Levante', 'short_title': 'LEV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-13 18:00:00
+29518,False,a,"{'id': '147', 'title': 'Athletic Club', 'short_title': 'ATH'}","{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 14:00:00
+29530,False,h,"{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'id': '138', 'title': 'Sevilla', 'short_title': 'SEV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 14:00:00

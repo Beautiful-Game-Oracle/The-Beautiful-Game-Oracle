@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8582,Ellis Simms,2022,,FW,2,134,0,0,0.5548364892601967,0.0746167004108429,5,2,0,0,0,0.5548364892601967,0.579850472509861,0.0
+8582,Ellis Simms,2022,,Sub,9,66,1,0,0.4903343915939331,0.0,3,0,0,0,1,0.4903343915939331,0.6379115916788578,0.1475772000849247
+8582,Ellis Simms,2021,,FW,1,63,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

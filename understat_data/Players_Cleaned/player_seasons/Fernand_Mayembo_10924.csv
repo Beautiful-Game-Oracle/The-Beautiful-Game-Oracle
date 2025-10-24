@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10924,Fernand Mayembo,2022,Ajaccio,DC,11,706,0,0,0.85418501496315,0.028935800306499,4,2,1,0,0,0.85418501496315,0.7620483925566077,0.7488443925976753

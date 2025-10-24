@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+7004,Leonardo Sernicola,2022,Cremonese,ML,32,2328,2,2,1.0741685228422284,2.183116588741541,25,25,11,0,2,1.0741685228422284,5.674621271900833,3.124750909395516
+7004,Leonardo Sernicola,2018,Sassuolo,Sub,1,1,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

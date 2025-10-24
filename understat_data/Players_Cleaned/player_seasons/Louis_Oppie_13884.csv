@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13884,Louis Oppie,2025,St. Pauli,ML,7,630,0,0,0.4955002870410681,0.1572389248758554,8,2,0,0,0,0.4955002870410681,1.9411976002156732,1.329631995409727

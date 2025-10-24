@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10075,Romano Floriani,2025,,Sub,4,79,0,0,0.045705821365118,0.1069188676774501,1,2,1,0,0,0.045705821365118,0.1658253893256187,0.0132007002830505
+10075,Romano Floriani,2025,,DR,1,75,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

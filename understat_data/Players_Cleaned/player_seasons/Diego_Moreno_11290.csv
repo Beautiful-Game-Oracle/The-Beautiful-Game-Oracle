@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11290,Diego Moreno,2022,Osasuna,DR,11,642,0,0,0.1970456968992948,0.3612918248400092,5,3,1,0,0,0.1970456968992948,1.7247503362596035,1.5277046523988247

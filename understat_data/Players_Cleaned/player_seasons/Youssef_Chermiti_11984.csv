@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11984,Youssef Chermiti,2024,Everton,Sub,4,33,0,0,0.1710504256188869,0.0,3,0,1,0,0,0.1710504256188869,0.1371285207569599,0.0751712769269943
+11984,Youssef Chermiti,2023,Everton,Sub,18,159,0,0,0.6035170843824744,0.4252763092517853,6,3,3,0,0,0.6035170843824744,1.2006155140697956,0.2379013262689113

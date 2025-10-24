@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10883,Gonzalo Plata,2022,Real Valladolid,MR,34,2323,1,5,4.737471722066402,2.532013976946473,37,37,1,0,1,4.737471722066402,11.411289884708822,5.493843943811953

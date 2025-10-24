@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9847,Luís Maximiano,2023,,GK,33,2970,0,0,0,0,0,0,1,0,0,0,3.2553159426897764,3.2553159426897764
+9847,Luís Maximiano,2022,,GK,1,5,0,0,0,0,0,0,0,1,0,0,0.0,0.0
+9847,Luís Maximiano,2021,,GK,35,3138,0,0,0,0,0,0,2,0,0,0,1.79647524561733,1.79647524561733

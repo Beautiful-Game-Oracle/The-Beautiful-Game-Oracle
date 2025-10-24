@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12908,Matthias Braunöder,2024,Como,MC,8,267,0,0,0.0626943130046129,0,2,0,1,1,0,0.0626943130046129,0.0412727184593677,0.0412727184593677

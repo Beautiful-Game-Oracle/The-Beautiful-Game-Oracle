@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11120,Nikola Soldo,2022,FC Cologne,DC,7,593,0,0,0.6820327043533325,0.0230500008910894,6,1,1,0,0,0.6820327043533325,0.9792268984019756,0.9448019079864024

@@ -1,0 +1,7 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+3283,Mathieu Gorgelin,2024,,GK,16,1440,0,0,0,0,0,0,2,0,0,0,1.2509176190942526,1.2509176190942526
+3283,Mathieu Gorgelin,2023,,GK,1,90,0,0,0,0,0,0,1,0,0,0,0.0,0.0
+3283,Mathieu Gorgelin,2018,,GK,4,360,0,0,0,0,0,0,0,0,0,0,0.4443118050694465,0.4443118050694465
+3283,Mathieu Gorgelin,2017,,GK,4,360,0,0,0,0,0,0,0,0,0,0,0.4161108899861574,0.4161108899861574
+3283,Mathieu Gorgelin,2016,,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.1636759936809539,0.1636759936809539
+3283,Mathieu Gorgelin,2015,,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.0288932994008064,0.0288932994008064

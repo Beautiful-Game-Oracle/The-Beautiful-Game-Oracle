@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12218,Francesco Camarda,2025,Lecce,FW,7,225,1,0,0.7220596186816692,0.0,5,0,1,0,1,0.7220596186816692,0.2848892994225025,0.1276703178882599
+12218,Francesco Camarda,2024,AC Milan,Sub,10,194,0,0,0.5220109783113003,0.2813009992241859,8,5,0,0,0,0.5220109783113003,1.516376305371523,0.8795242458581924
+12218,Francesco Camarda,2023,AC Milan,Sub,2,8,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

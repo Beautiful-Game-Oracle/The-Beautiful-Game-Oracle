@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13962,Rafik Belghali,2025,Verona,Sub,7,413,0,0,0.1196656608954072,0.6888802759349346,3,8,3,0,0,0.1196656608954072,0.9839621149003506,0.580885749310255

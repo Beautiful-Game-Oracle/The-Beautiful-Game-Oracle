@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12403,Bruno Langa,2023,Almeria,Sub,11,821,1,0,0.3603680580854416,0.344120305031538,8,7,1,1,1,0.3603680580854416,1.9400840550661087,1.3523537842556834

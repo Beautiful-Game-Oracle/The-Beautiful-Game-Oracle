@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11167,Chadi Riad,2024,Crystal Palace,DC,1,90,0,0,0.0,0.0,0,0,0,0,0,0.0,0.3966957628726959,0.3966957628726959
+11167,Chadi Riad,2023,Real Betis,DC,26,2160,0,0,0.6348644411191344,0.1388264000415802,11,2,1,0,0,0.6348644411191344,3.816927118226886,3.80872711353004
+11167,Chadi Riad,2022,Barcelona,Sub,1,1,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

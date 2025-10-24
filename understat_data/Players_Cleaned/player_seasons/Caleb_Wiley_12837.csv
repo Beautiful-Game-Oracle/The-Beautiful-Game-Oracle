@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12837,Caleb Wiley,2024,Strasbourg,DML,6,266,0,1,0.0871211290359497,0.4157076366245746,1,2,1,0,0,0.0871211290359497,0.6362759806215763,0.170904491096735

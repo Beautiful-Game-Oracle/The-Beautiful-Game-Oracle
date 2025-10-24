@@ -1,0 +1,6 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9415,Jaden Philogene-Bidace,2024,Ipswich,Sub,10,478,2,0,2.196989931166172,0.2442980818450451,12,5,1,0,2,2.196989931166172,1.3359068632125854,0.2126384321600198
+9415,Jaden Philogene-Bidace,2024,Aston Villa,Sub,11,308,0,0,0.5981500707566738,0.0888913124799728,7,1,2,1,0,0.5981500707566738,1.718831205740571,1.3916381560266018
+9415,Jaden Philogene-Bidace,2023,Aston Villa,Sub,1,1,0,0,0.0,0.0,0,0,0,0,0,0.0,0.1071313694119453,0.1071313694119453
+9415,Jaden Philogene-Bidace,2021,Aston Villa,Sub,1,1,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+9415,Jaden Philogene-Bidace,2020,Aston Villa,Sub,1,1,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0560439005494117,0.0560439005494117

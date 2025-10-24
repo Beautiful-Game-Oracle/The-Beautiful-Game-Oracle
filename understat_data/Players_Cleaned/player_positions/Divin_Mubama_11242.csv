@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11242,Divin Mubama,2024,,Sub,1,26,0,0,0.0625510141253471,0.0,1,0,0,0,0,0.0625510141253471,0.0,0.0
+11242,Divin Mubama,2023,,Sub,5,67,0,0,0.0542812757194042,0.0,1,0,0,0,0,0.0542812757194042,0.0542812757194042,0.0
+11242,Divin Mubama,2022,,Sub,3,30,0,0,0.0,0.0591654740273952,0,1,0,0,0,0.0,0.3962714932858944,0.3371060192584991

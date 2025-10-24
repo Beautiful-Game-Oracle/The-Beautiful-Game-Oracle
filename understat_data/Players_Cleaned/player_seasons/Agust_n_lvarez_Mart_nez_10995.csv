@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10995,Agustín Álvarez Martínez,2022,Sassuolo,Sub,22,322,1,1,1.261269999668002,0.4209319874644279,14,2,1,0,1,1.261269999668002,1.5799549892544746,0.3441750109195709

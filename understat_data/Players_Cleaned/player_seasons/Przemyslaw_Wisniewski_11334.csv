@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11334,Przemyslaw Wisniewski,2022,Spezia,Sub,14,995,1,0,1.2363750925287604,0.5738783143460751,6,3,3,0,1,1.2363750925287604,2.800093926489353,2.336135394871235

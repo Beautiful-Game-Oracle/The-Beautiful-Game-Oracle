@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9616,Grégoire Coudert,2025,Brest,Sub,3,208,0,0,0,0,0,0,0,0,0,0,0.0555637516081333,0.0555637516081333
+9616,Grégoire Coudert,2024,Brest,GK,2,180,0,0,0,0,0,0,0,0,0,0,0.3921250365674495,0.3921250365674495
+9616,Grégoire Coudert,2023,Brest,Sub,3,181,0,0,0,0,0,0,0,0,0,0,0.3693810403347015,0.3693810403347015

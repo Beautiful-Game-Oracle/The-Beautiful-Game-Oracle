@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12392,Arthur Vermeeren,2025,Marseille,Sub,2,8,0,1,0.0,0.021765923127532,0,1,0,0,0,0.0,0.124106153845787,0.124106153845787
+12392,Arthur Vermeeren,2024,RasenBallsport Leipzig,Sub,28,1591,0,2,0.2179020345211029,0.9440235085785388,4,12,7,0,0,0.2179020345211029,6.024250455200672,5.125127360224724
+12392,Arthur Vermeeren,2023,Atletico Madrid,MC,5,161,0,0,0.0,0.1251713931560516,0,2,2,0,0,0.0,0.510745570063591,0.4320101514458656

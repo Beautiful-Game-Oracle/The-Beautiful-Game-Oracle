@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10160,Noah Atubolu,2025,,GK,7,630,0,0,0,0,0,0,0,0,0,0,0.7501031309366226,0.7501031309366226
+10160,Noah Atubolu,2024,,GK,26,2311,0,0,0,0,0,0,2,0,0,0,4.215585736557841,4.215585736557841
+10160,Noah Atubolu,2023,,GK,34,3060,0,0,0,0,0,0,0,0,0,0,5.104440525174141,5.104440525174141

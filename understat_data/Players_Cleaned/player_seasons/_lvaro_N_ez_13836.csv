@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13836,Álvaro Núñez,2025,Elche,DR,9,809,0,0,0.0334926135838031,0.7330966833978891,2,9,0,0,0,0.0334926135838031,3.3607862163335085,2.882612677291036

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13782,Nathan Ngoy,2025,,DC,7,630,0,1,0.8360990174114704,0.9425815641880037,9,3,1,0,0,0.8360990174114704,2.653309389948845,2.4998248517513275

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+2592,Lazo,2022,,Sub,11,137,1,1,0.2645194008946419,0.6758679896593094,6,2,0,0,1,0.2645194008946419,0.4720181953161955,0.2538841944187879

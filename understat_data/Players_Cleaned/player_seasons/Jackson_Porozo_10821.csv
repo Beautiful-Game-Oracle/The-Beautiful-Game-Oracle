@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10821,Jackson Porozo,2022,Troyes,DC,22,1613,2,0,1.6542379520833492,0.1332134418189525,22,2,3,0,2,1.6542379520833492,2.88828232139349,1.8440935015678408

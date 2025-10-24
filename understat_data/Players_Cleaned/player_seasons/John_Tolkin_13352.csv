@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13352,John Tolkin,2024,Holstein Kiel,Sub,10,655,0,1,0.0259273769333958,0.6694819126278162,2,10,0,0,0,0.0259273769333958,3.197853185236454,2.965859323740005

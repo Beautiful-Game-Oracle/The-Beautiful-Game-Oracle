@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13809,Giorgi Tsitaishvili,2025,Metz,DL,8,364,0,1,0.3260175976902246,0.8157134745270014,7,7,0,0,0,0.3260175976902246,1.0779686020687222,0.1363061629235744

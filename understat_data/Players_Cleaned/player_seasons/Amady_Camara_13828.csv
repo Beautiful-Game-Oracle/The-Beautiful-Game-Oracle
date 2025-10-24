@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13828,Amady Camara,2025,Nantes,Sub,5,108,0,0,0.5916450191289186,0,3,0,0,0,0,0.5916450191289186,0.6367722153663635,0.045127173885703

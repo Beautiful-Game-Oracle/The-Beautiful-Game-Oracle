@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11210,Nathan Fraser,2023,Wolverhampton Wanderers,Sub,7,175,0,0,0.4309285432100296,0.0660940874367952,3,2,1,0,0,0.4309285432100296,0.6629210263490677,0.1658984124660492

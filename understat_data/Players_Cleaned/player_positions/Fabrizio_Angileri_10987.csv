@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10987,Fabrizio Angileri,2023,,DL,3,172,0,0,0.0,0.0,0,0,1,0,0,0.0,0.0084199449047446,0.0084199449047446
+10987,Fabrizio Angileri,2023,,Sub,9,43,0,0,0.0,1.3041672706604004,0,4,1,0,0,0.0,1.18098733574152,0.6597610861063004
+10987,Fabrizio Angileri,2022,,DL,7,501,0,0,0.0761368982493877,0.0,3,0,2,1,0,0.0761368982493877,0.2932116957381367,0.2427912959828972
+10987,Fabrizio Angileri,2022,,Sub,8,77,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

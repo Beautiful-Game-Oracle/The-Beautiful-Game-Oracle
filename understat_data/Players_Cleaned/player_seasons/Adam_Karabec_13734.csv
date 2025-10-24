@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13734,Adam Karabec,2025,Lyon,Sub,8,495,1,0,1.29180009663105,0.7703421413898468,6,10,1,0,1,1.29180009663105,4.137981787323952,3.148124977946281

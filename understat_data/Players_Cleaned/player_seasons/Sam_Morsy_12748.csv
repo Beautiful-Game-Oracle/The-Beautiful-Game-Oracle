@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12748,Sam Morsy,2024,Ipswich,DMC,33,2767,1,1,0.2957767499610781,1.4169819168746471,13,24,9,0,1,0.2957767499610781,9.255466464906933,8.384842346422374

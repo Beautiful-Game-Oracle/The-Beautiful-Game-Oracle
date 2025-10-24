@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12559,Harry Amass,2024,Manchester United,Sub,5,347,0,0,0.0897043105214834,0.0491649769246578,3,1,0,0,0,0.0897043105214834,1.3546761870384216,1.2308019548654556

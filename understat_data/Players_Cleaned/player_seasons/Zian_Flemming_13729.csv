@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13729,Zian Flemming,2025,Burnley,Sub,5,102,0,0,0.0912407152354717,0.0540143996477127,2,1,0,0,0,0.0912407152354717,0.0709641836583614,0

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10833,Lukasz Poreba,2022,Lens,MC,10,259,0,1,0.201534004881978,0.3871073955669999,3,5,1,0,0,0.201534004881978,1.2833721041679382,0.7901201024651527

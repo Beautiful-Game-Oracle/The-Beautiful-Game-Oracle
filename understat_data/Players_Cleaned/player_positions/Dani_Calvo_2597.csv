@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+2597,Dani Calvo,2025,,DC,6,540,0,0,0.0,0,0,0,2,0,0,0.0,0.4524076338857412,0.4524076338857412
+2597,Dani Calvo,2020,,DC,19,1666,2,0,1.300446379929781,0,8,0,3,0,2,1.300446379929781,0.2854110039770603,0.2854110039770603
+2597,Dani Calvo,2020,,Sub,4,105,0,0,0.0,0,0,0,0,0,0,0.0,0.0,0.0

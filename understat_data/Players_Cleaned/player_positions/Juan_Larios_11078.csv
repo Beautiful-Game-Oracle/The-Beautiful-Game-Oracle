@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11078,Juan Larios,2022,,DL,1,60,0,0,0,0,0,0,0,0,0,0,0.0783459991216659,0.0783459991216659
+11078,Juan Larios,2022,,Sub,3,51,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+11078,Juan Larios,2022,,DR,1,33,0,0,0,0,0,0,0,0,0,0,0.0,0.0

@@ -1,0 +1,31 @@
+id,isResult,side,h,a,goals,xG,datetime
+28863,False,a,"{'id': '72', 'title': 'Everton', 'short_title': 'EVE'}","{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-26 15:30:00
+28876,False,h,"{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'id': '80', 'title': 'Chelsea', 'short_title': 'CHE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 13:00:00
+28886,False,h,"{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'id': '89', 'title': 'Manchester United', 'short_title': 'MUN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 13:00:00
+28889,False,a,"{'id': '83', 'title': 'Arsenal', 'short_title': 'ARS'}","{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 13:00:00
+28906,False,h,"{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'id': '228', 'title': 'Fulham', 'short_title': 'FLH'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 13:00:00
+28916,False,a,"{'id': '86', 'title': 'Newcastle United', 'short_title': 'NEW'}","{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 18:00:00
+28926,False,h,"{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'id': '244', 'title': 'Brentford', 'short_title': 'BRE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 13:00:00
+28935,False,a,"{'id': '249', 'title': 'Nottingham Forest', 'short_title': 'NOT'}","{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 13:00:00
+28946,False,h,"{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'id': '87', 'title': 'Liverpool', 'short_title': 'LIV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 13:00:00
+28952,False,a,"{'id': '78', 'title': 'Crystal Palace', 'short_title': 'CRY'}","{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 13:00:00
+28959,False,a,"{'id': '244', 'title': 'Brentford', 'short_title': 'BRE'}","{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 18:00:00
+28969,False,h,"{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'id': '77', 'title': 'Sunderland', 'short_title': 'SUN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 13:00:00
+28979,False,a,"{'id': '73', 'title': 'Bournemouth', 'short_title': 'BOU'}","{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 18:00:00
+28996,False,h,"{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'id': '81', 'title': 'West Ham', 'short_title': 'WHU'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 13:00:00
+29001,False,a,"{'id': '92', 'title': 'Burnley', 'short_title': 'BUR'}","{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 13:00:00
+29016,False,h,"{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'id': '88', 'title': 'Manchester City', 'short_title': 'MCI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 13:00:00
+29025,False,a,"{'id': '89', 'title': 'Manchester United', 'short_title': 'MUN'}","{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 13:00:00
+29036,False,h,"{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'id': '86', 'title': 'Newcastle United', 'short_title': 'NEW'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 18:00:00
+29046,False,h,"{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'id': '83', 'title': 'Arsenal', 'short_title': 'ARS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 13:00:00
+29052,False,a,"{'id': '228', 'title': 'Fulham', 'short_title': 'FLH'}","{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 13:00:00
+29066,False,h,"{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'id': '78', 'title': 'Crystal Palace', 'short_title': 'CRY'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 18:00:00
+29073,False,a,"{'id': '87', 'title': 'Liverpool', 'short_title': 'LIV'}","{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 13:00:00
+29086,False,h,"{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'id': '249', 'title': 'Nottingham Forest', 'short_title': 'NOT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 13:00:00
+29090,False,a,"{'id': '77', 'title': 'Sunderland', 'short_title': 'SUN'}","{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 13:00:00
+29107,False,h,"{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'id': '220', 'title': 'Brighton', 'short_title': 'BRI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 13:00:00
+29117,False,a,"{'id': '229', 'title': 'Wolverhampton Wanderers', 'short_title': 'WOL'}","{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 13:00:00
+29120,False,a,"{'id': '71', 'title': 'Aston Villa', 'short_title': 'AVL'}","{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 13:00:00
+29136,False,h,"{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'id': '245', 'title': 'Leeds', 'short_title': 'LED'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 13:00:00
+29142,False,a,"{'id': '80', 'title': 'Chelsea', 'short_title': 'CHE'}","{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 13:00:00
+29156,False,h,"{'id': '82', 'title': 'Tottenham', 'short_title': 'TOT'}","{'id': '72', 'title': 'Everton', 'short_title': 'EVE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 14:00:00

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10388,Luka Ilic,2025,Real Oviedo,AMC,8,492,1,0,1.162211550399661,0.0591045543551445,4,1,2,1,1,1.162211550399661,1.0812596678733826,0.4379870444536209

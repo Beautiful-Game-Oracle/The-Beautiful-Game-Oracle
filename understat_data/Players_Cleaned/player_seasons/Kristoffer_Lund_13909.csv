@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13909,Kristoffer Lund,2025,FC Cologne,DML,6,400,0,0,0.1159068457782268,0.0554134547710418,6,2,1,0,0,0.1159068457782268,1.6281091570854187,1.4844114854931831

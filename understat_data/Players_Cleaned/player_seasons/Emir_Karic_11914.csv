@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11914,Emir Karic,2023,Darmstadt,DMR,27,1789,0,0,0.4390908014029264,1.406511797569692,12,20,4,0,0,0.4390908014029264,5.251124709844589,4.494702987372875

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13033,Ümit Akdag,2024,Toulouse,DC,9,514,0,0,0.0767529448494315,0.054871579632163,2,2,2,0,0,0.0767529448494315,0.6236050240695477,0.587440725415945

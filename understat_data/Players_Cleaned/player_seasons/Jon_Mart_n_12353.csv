@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12353,Jon Martín,2025,Real Sociedad,DC,1,90,0,0,0.049739234149456,0.0347300544381141,1,1,1,0,0,0.049739234149456,0.3634198009967804,0.3286897242069244
+12353,Jon Martín,2024,Real Sociedad,Sub,13,884,0,1,0.5016385391354561,0.157421501353383,9,4,2,0,0,0.5016385391354561,1.80347996391356,1.7860948592424393
+12353,Jon Martín,2023,Real Sociedad,Sub,1,20,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

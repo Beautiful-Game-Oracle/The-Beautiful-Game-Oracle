@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11274,Flavio Paoletti,2022,,Sub,11,172,0,0,0,0.0294646006077528,0,1,1,0,0,0,0.3903614040464163,0.3903614040464163
+11274,Flavio Paoletti,2022,,MC,1,89,0,0,0,0.0,0,0,0,0,0,0,0.1275793761014938,0.1275793761014938

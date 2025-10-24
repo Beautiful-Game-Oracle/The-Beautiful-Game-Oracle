@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13850,Johan Bakayoko,2025,RasenBallsport Leipzig,FWR,7,537,2,0,1.5850097611546516,0.8299841433763504,14,7,0,0,2,1.5850097611546516,4.004958845674992,1.7124177291989326

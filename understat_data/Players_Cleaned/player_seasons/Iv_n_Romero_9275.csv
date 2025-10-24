@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9275,Iván Romero,2025,Levante,FW,9,742,4,0,3.8805624544620514,0.887079942971468,22,8,1,0,4,3.8805624544620514,4.81508319079876,0.6052074283361435
+9275,Iván Romero,2022,Sevilla,Sub,1,7,0,0,0.0,0.0,0,0,1,0,0,0.0,0.0,0.0
+9275,Iván Romero,2021,Sevilla,Sub,5,178,0,0,0.614471971988678,0.0,2,0,0,0,0,0.614471971988678,0.614471971988678,0.0

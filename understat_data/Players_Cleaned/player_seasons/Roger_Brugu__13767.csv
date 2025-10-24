@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13767,Roger Brugué,2025,Levante,ML,9,623,0,1,2.200616244226694,0.5783243700861931,14,4,0,0,0,2.200616244226694,3.913489419966936,1.338942438364029

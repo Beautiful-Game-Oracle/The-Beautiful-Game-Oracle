@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12935,Benedikt Pichler,2024,Holstein Kiel,FW,18,751,1,2,2.162652373313904,1.2777384547516704,20,11,1,0,1,2.162652373313904,4.0694943331182,1.8049968853592877

@@ -1,0 +1,6 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9824,Julen Agirrezabala,2025,Valencia,GK,9,810,0,0,0,0.0134038729593157,0,1,1,0,0,0,0.2512644864618778,0.2512644864618778
+9824,Julen Agirrezabala,2024,Athletic Club,GK,14,1212,0,0,0,0.0,0,0,1,1,0,0,3.1538388207554817,3.1538388207554817
+9824,Julen Agirrezabala,2023,Athletic Club,GK,4,234,0,0,0,0.0,0,0,0,0,0,0,0.1301006227731704,0.1301006227731704
+9824,Julen Agirrezabala,2022,Athletic Club,GK,8,672,0,0,0,0.0,0,0,0,0,0,0,0.4417726173996925,0.4417726173996925
+9824,Julen Agirrezabala,2021,Athletic Club,GK,4,360,0,0,0,0.0,0,0,0,0,0,0,0.1048934012651443,0.1048934012651443

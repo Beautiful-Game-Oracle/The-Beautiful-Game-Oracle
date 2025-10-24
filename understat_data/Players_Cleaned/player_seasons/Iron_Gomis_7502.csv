@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+7502,Iron Gomis,2023,Salernitana,Sub,5,124,0,0,0.4435039106756449,0.1669863751158118,3,3,0,0,0,0.4435039106756449,0.6771704601123929,0.2401133980602026

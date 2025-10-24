@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13056,Almugera Kabar,2024,Borussia Dortmund,Sub,5,125,0,0,0,0.6894889920949936,0,3,0,1,0,0,0.7676253989338875,0.1263511329889297

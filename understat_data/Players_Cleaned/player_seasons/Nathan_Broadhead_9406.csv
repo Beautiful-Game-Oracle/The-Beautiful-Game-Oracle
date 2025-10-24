@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9406,Nathan Broadhead,2024,Ipswich,Sub,18,677,2,0,1.828265825286508,0.8385746516287327,13,7,1,0,2,1.828265825286508,4.232192199677229,2.159004925750196
+9406,Nathan Broadhead,2020,Everton,Sub,1,1,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

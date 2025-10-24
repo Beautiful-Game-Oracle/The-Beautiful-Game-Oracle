@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+6257,Juan Soriano,2024,Leganes,GK,6,540,0,0,0.0,0,0,0,1,0,0,0.0,0.3865733314305544,0.3865733314305544
+6257,Juan Soriano,2019,Leganes,GK,11,990,0,0,0.5701469779014587,0,1,0,2,0,0,0.5701469779014587,0.559912696480751,0.559912696480751
+6257,Juan Soriano,2018,Sevilla,GK,4,360,0,0,0.0,0,0,0,0,1,0,0.0,0.2268946953117847,0.2268946953117847

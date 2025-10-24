@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+1018,Josh Cullen,2025,Burnley,MC,8,688,1,1,0.070839462801814,0.7540347389876842,2,8,0,0,1,0.070839462801814,2.588953645899892,1.8884563595056532
+1018,Josh Cullen,2023,Burnley,MC,25,2072,2,3,0.532621605321765,1.9263525325804949,16,26,9,0,2,0.532621605321765,8.981078654527664,7.6769237499684095
+1018,Josh Cullen,2017,West Ham,Sub,2,5,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+1018,Josh Cullen,2015,West Ham,Sub,1,1,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

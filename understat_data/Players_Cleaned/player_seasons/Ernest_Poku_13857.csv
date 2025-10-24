@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13857,Ernest Poku,2025,Bayer Leverkusen,Sub,6,279,2,1,1.107225924730301,0.5943146981298923,6,6,0,0,2,1.107225924730301,1.86611607670784,0.214637566357851

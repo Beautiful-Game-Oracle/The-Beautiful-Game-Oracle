@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11540,Carlos Dotor,2023,Celta Vigo,Sub,17,690,0,0,0.1885063024237752,0.1095287278294563,4,1,2,0,0,0.1885063024237752,0.97998889349401,0.7698276322335005

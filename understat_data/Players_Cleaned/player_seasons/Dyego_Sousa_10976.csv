@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10976,Dyego Sousa,2022,Almeria,Sub,20,476,0,1,0.9425421776250004,0.9455130640417336,13,10,1,0,0,0.9425421776250004,1.875226754695177,0.6038508117198944

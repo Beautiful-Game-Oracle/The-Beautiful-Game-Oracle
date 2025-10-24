@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10964,Diego Valencia,2022,Salernitana,Sub,12,203,0,0,0.0408505983650684,0.0962239988148212,1,2,1,0,0,0.0408505983650684,0.2493155021220445,0.1122411992400884

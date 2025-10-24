@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12178,Niccolò Pierozzi,2023,Salernitana,Sub,12,878,1,0,0.2483679689466953,0.0571012906730175,8,1,6,0,1,0.2483679689466953,0.843851269222796,0.8253662586212158

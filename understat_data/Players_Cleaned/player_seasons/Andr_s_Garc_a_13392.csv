@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13392,Andrés García,2024,Aston Villa,DR,7,325,0,0,0.0354386642575264,0.2688065897673368,2,3,0,0,0,0.0354386642575264,1.4220801051706076,1.2403724566102028

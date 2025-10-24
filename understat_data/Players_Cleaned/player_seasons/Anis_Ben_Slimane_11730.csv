@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11730,Anis Ben Slimane,2023,Sheffield United,Sub,15,394,0,0,0.8026072084903717,0.4848009049892425,8,3,2,0,0,0.8026072084903717,1.5446888133883476,0.4106670431792736

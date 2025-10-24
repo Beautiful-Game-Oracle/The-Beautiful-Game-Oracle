@@ -1,0 +1,7 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+3591,Dimitry Bertaud,2024,Montpellier,GK,4,360,0,0,0,0,0,0,0,0,0,0,0.0578339807689189,0.0578339807689189
+3591,Dimitry Bertaud,2023,Montpellier,GK,4,360,0,0,0,0,0,0,0,0,0,0,0.0739739779382944,0.0739739779382944
+3591,Dimitry Bertaud,2021,Montpellier,GK,11,831,0,0,0,0,0,0,0,0,0,0,0.3838343024253845,0.3838343024253845
+3591,Dimitry Bertaud,2020,Montpellier,Sub,9,742,0,0,0,0,0,0,0,0,0,0,0.499858308583498,0.499858308583498
+3591,Dimitry Bertaud,2019,Montpellier,GK,3,196,0,0,0,0,0,0,0,1,0,0,0.0318439006805419,0.0318439006805419
+3591,Dimitry Bertaud,2018,Montpellier,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.0444554984569549,0.0444554984569549

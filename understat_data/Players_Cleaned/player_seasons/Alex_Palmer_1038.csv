@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+1038,Alex Palmer,2024,Ipswich,GK,13,1170,0,0,0,0.0210703182965517,0,1,2,0,0,0,2.139107011258602,2.139107011258602

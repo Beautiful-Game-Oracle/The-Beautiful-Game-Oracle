@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13882,Arkadiusz Pyrka,2025,St. Pauli,MR,6,361,0,0,0.2530173398554325,0.1758347889408469,4,4,2,0,0,0.2530173398554325,0.9246384426951408,0.5203749593347311

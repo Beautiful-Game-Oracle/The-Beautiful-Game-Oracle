@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13851,Ezechiel Banzuzi,2025,RasenBallsport Leipzig,Sub,7,243,0,1,0.4706059843301773,0.2092260085046291,6,4,2,0,0,0.4706059843301773,1.0125853791832924,0.6362052746117115

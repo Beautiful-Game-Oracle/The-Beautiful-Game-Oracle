@@ -1,0 +1,32 @@
+id,isResult,side,h,a,goals,xG,datetime
+29914,False,h,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '243', 'title': 'Lecce', 'short_title': 'LEC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-25 13:00:00
+29930,False,a,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-29 16:30:00
+29942,False,h,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-02 12:00:00
+29953,False,a,"{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-09 12:00:00
+29963,False,h,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-23 12:00:00
+29971,False,a,"{'id': '230', 'title': 'Parma Calcio 1913', 'short_title': 'PAR'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-30 12:00:00
+29982,False,h,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-07 12:00:00
+29993,False,h,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-14 12:00:00
+29996,False,a,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-21 12:00:00
+30012,False,h,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-28 12:00:00
+30016,False,a,"{'id': '286', 'title': 'Como', 'short_title': 'COM'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 12:00:00
+30033,False,a,"{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-06 17:45:00
+30042,False,h,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '291', 'title': 'Pisa', 'short_title': 'PIS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-11 12:00:00
+30051,False,h,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-18 12:00:00
+30063,False,a,"{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-25 12:00:00
+30073,False,h,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-01 12:00:00
+30082,False,a,"{'id': '243', 'title': 'Lecce', 'short_title': 'LEC'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-08 12:00:00
+30093,False,h,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-15 12:00:00
+30095,False,a,"{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-22 12:00:00
+30110,False,h,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-01 12:00:00
+30115,False,a,"{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-08 12:00:00
+30132,False,h,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-15 12:00:00
+30139,False,a,"{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-22 12:00:00
+30152,False,h,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '286', 'title': 'Como', 'short_title': 'COM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-04 12:00:00
+30160,False,a,"{'id': '111', 'title': 'AC Milan', 'short_title': 'MIL'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-12 12:00:00
+30171,False,h,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '230', 'title': 'Parma Calcio 1913', 'short_title': 'PAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-19 12:00:00
+30178,False,a,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-26 12:00:00
+30193,False,h,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-03 12:00:00
+30195,False,a,"{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-10 12:00:00
+30213,False,h,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '272', 'title': 'Cremonese', 'short_title': 'CRE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 12:00:00
+30220,False,a,"{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 12:00:00

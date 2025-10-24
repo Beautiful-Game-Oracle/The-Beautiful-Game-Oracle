@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13406,David Preu,2024,Union Berlin,Sub,5,113,0,0,0.106883555650711,0,2,0,1,0,0,0.106883555650711,0.1738826185464859,0.0669990703463554

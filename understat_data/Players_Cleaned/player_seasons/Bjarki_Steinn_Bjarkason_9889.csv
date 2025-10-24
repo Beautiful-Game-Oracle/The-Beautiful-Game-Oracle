@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9889,Bjarki Steinn Bjarkason,2024,Venezia,Sub,9,153,0,0,0,0.0505398325622081,0,1,2,0,0,0,0.0682868808507919,0.0682868808507919
+9889,Bjarki Steinn Bjarkason,2021,Venezia,Sub,1,2,0,0,0,0.0,0,0,0,0,0,0,0.0,0.0

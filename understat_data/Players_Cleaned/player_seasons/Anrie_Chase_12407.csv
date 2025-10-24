@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12407,Anrie Chase,2024,VfB Stuttgart,Sub,12,719,0,0,0.1970731057226658,0.0516038835048675,5,1,1,0,0,0.1970731057226658,6.079055428504944,6.04193802177906

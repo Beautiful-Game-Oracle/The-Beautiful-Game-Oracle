@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13001,Álvaro Djaló,2024,Athletic Club,AML,17,637,1,0,0.9031668566167356,1.0898361578583715,15,4,2,0,1,0.9031668566167356,3.104129819199443,1.2030200082808733

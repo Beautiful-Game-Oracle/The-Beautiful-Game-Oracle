@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10723,Stefan Bajcetic,2024,Las Palmas,Sub,14,986,1,0,0.1618144428357482,0.2184264194220304,5,7,4,0,1,0.1618144428357482,1.4333512708544731,1.2132029794156551
+10723,Stefan Bajcetic,2023,Liverpool,Sub,1,23,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+10723,Stefan Bajcetic,2022,Liverpool,Sub,11,534,1,0,0.9587988276034594,0.7506909966468811,6,4,2,0,1,0.9587988276034594,3.478168949484825,2.3341952990740538

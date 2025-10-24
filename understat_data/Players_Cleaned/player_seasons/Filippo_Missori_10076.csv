@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10076,Filippo Missori,2023,Sassuolo,Sub,8,254,0,0,0.2369240745902061,0.0446176175028085,4,2,0,0,0,0.2369240745902061,0.5472197216004133,0.2991007026284933
+10076,Filippo Missori,2022,Roma,Sub,3,181,0,0,0.0,0.0,0,0,1,0,0,0.0,0.7619778290390968,0.7619778290390968

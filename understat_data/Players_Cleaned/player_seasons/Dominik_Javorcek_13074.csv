@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13074,Dominik Javorcek,2024,Holstein Kiel,DL,13,367,0,2,0.0117572667077183,0.8435535877943039,1,4,2,0,0,0.0117572667077183,1.4395538344979286,0.7678313702344894

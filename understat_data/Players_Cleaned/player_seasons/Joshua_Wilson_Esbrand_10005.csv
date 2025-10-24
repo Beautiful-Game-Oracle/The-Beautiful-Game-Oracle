@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10005,Joshua Wilson-Esbrand,2023,Reims,DL,11,460,1,1,0.1910467967391014,1.2285603545606136,4,5,1,0,1,0.1910467967391014,1.47712392359972,0.968093179166317

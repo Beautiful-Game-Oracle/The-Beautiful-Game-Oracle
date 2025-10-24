@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11804,Aboubacar Lô,2023,,MC,1,83,0,0,0.0,0.2920311689376831,0,2,0,0,0,0.0,0.2920311689376831,0.0291904006153345
+11804,Aboubacar Lô,2023,,DC,1,61,0,0,0.0,0.0,0,0,0,1,0,0.0,0.0077733374200761,0.0077733374200761
+11804,Aboubacar Lô,2023,,Sub,4,47,0,0,0.0490720570087432,0.0,1,0,0,0,0,0.0490720570087432,0.0,0.0

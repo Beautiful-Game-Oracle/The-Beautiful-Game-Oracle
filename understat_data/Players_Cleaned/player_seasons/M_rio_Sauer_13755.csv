@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13755,Mário Sauer,2025,Toulouse,MC,8,386,0,0,0.1064786072820425,0.0655167922377586,5,1,1,0,0,0.1064786072820425,0.4514143085107207,0.3366644866764545

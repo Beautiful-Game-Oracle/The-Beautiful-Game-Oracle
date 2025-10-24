@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11994,Marco Pellegrino,2023,Salernitana,Sub,10,537,0,0,0.0386241227388381,0.083368957042694,2,1,1,0,0,0.0386241227388381,0.7909659221768379,0.7909659221768379
+11994,Marco Pellegrino,2023,AC Milan,Sub,1,72,0,0,0.0742653012275695,0.0,1,0,0,0,0,0.0742653012275695,0.9582759737968444,0.9582759737968444

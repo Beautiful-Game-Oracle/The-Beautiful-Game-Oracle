@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12751,Ali Al-Hamadi,2024,Ipswich,Sub,11,98,0,0,0.5323996320366859,0.0784954708069562,4,2,3,0,0,0.5323996320366859,0.6907828329131007,0.2454970953986048

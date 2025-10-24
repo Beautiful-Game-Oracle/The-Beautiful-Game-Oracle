@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13461,Giorgos Masouras,2024,Bochum,FW,13,986,2,0,4.799098733812571,1.1169241517782211,27,7,1,0,2,4.799098733812571,7.32676961645484,1.6001515593379736

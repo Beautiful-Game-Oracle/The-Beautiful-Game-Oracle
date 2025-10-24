@@ -1,0 +1,27 @@
+id,isResult,side,h,a,goals,xG,datetime
+29614,False,a,"{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-24 18:45:00
+29624,False,h,"{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'id': '171', 'title': 'Monaco', 'short_title': 'MON'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-29 19:05:00
+29633,False,h,"{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'id': '180', 'title': 'Metz', 'short_title': 'MET'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-02 12:00:00
+29638,False,a,"{'id': '282', 'title': 'Le Havre', 'short_title': 'LHV'}","{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-09 12:00:00
+29650,False,h,"{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'id': '179', 'title': 'Lorient', 'short_title': 'LOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-23 12:00:00
+29658,False,a,"{'id': '178', 'title': 'Lyon', 'short_title': 'LYO'}","{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-30 12:00:00
+29669,False,h,"{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'id': '210', 'title': 'Lens', 'short_title': 'LEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-07 12:00:00
+29673,False,a,"{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-14 12:00:00
+29686,False,a,"{'id': '164', 'title': 'Marseille', 'short_title': 'MAR'}","{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-04 12:00:00
+29695,False,h,"{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-18 12:00:00
+29706,False,h,"{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-25 12:00:00
+29711,False,a,"{'id': '179', 'title': 'Lorient', 'short_title': 'LOR'}","{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-01 12:00:00
+29724,False,h,"{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'id': '178', 'title': 'Lyon', 'short_title': 'LYO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-08 12:00:00
+29733,False,a,"{'id': '171', 'title': 'Monaco', 'short_title': 'MON'}","{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-15 12:00:00
+29740,False,h,"{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'id': '282', 'title': 'Le Havre', 'short_title': 'LHV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-22 12:00:00
+29746,False,a,"{'id': '160', 'title': 'Lille', 'short_title': 'LIL'}","{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-01 12:00:00
+29759,False,h,"{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-08 12:00:00
+29769,False,a,"{'id': '161', 'title': 'Paris Saint Germain', 'short_title': 'PSG'}","{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-15 12:00:00
+29776,False,h,"{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'id': '225', 'title': 'Strasbourg', 'short_title': 'STR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-22 12:00:00
+29786,False,a,"{'id': '180', 'title': 'Metz', 'short_title': 'MET'}","{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-05 12:00:00
+29790,False,a,"{'id': '275', 'title': 'Auxerre', 'short_title': 'AUX'}","{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-12 12:00:00
+29805,False,h,"{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'id': '241', 'title': 'Brest', 'short_title': 'BRE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-19 12:00:00
+29815,False,a,"{'id': '163', 'title': 'Rennes', 'short_title': 'REN'}","{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-26 12:00:00
+29821,False,h,"{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'id': '164', 'title': 'Marseille', 'short_title': 'MAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-03 12:00:00
+29829,False,a,"{'id': '210', 'title': 'Lens', 'short_title': 'LEN'}","{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 12:00:00
+29840,False,h,"{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'id': '174', 'title': 'Toulouse', 'short_title': 'TOU'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-16 12:00:00

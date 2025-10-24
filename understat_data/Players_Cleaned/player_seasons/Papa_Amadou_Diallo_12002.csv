@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12002,Papa Amadou Diallo,2023,Metz,Sub,16,883,2,1,2.509009497705847,0.9904705602675676,13,12,1,0,2,2.509009497705847,3.749064877163619,0.8549030525609851

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13736,Khalis Merah,2025,Lyon,Sub,6,335,0,0,0.6324852705001831,0.5053598061203957,2,5,1,0,0,0.6324852705001831,2.3362328186631203,1.6141867637634275

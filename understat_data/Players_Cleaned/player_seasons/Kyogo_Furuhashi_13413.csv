@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13413,Kyogo Furuhashi,2024,Rennes,FW,6,110,0,0,0.0372933708131313,0,1,0,0,0,0,0.0372933708131313,0.1053620502352714,0.0680686831474304

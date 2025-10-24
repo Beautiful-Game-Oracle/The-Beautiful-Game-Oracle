@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12419,Karol Swiderski,2023,Verona,Sub,15,484,2,0,2.0812334790825844,0.3934734687209129,15,8,0,0,2,2.0812334790825844,2.516543637961149,0.1879445556551218

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10707,Mounaim El Idrissy,2022,Ajaccio,FW,32,2538,6,0,7.04906905349344,1.2197585282847283,51,13,10,0,6,7.04906905349344,9.755669914186,2.023346153087914

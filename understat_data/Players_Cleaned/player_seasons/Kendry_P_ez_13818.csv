@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13818,Kendry Páez,2025,Strasbourg,Sub,7,273,1,0,0.9177395179867744,0.1216013133525848,7,2,0,0,1,0.9177395179867744,1.8049162570387125,0.8827564660459757

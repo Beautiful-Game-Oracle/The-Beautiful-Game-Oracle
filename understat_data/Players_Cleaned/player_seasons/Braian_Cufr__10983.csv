@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10983,Braian Cufré,2022,Mallorca,Sub,5,215,0,0,0.0992036014795303,0.0471406988799572,3,1,0,0,0,0.0992036014795303,0.1658258959650993,0.0666222982108593

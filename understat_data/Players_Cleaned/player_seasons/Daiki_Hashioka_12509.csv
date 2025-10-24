@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12509,Daiki Hashioka,2023,Luton,Sub,10,583,0,0,0.1002131290733814,0.5188488382846117,2,3,0,0,0,0.1002131290733814,2.0648620426654816,1.5119032934308052

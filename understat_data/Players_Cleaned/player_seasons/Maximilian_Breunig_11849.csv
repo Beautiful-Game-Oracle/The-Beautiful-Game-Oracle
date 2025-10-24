@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11849,Maximilian Breunig,2024,FC Heidenheim,FW,13,322,2,0,3.002769211307168,0.1914702635258436,11,4,0,0,1,2.244992533698678,2.735860446467996,0.3419247008860111
+11849,Maximilian Breunig,2023,Freiburg,Sub,2,4,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

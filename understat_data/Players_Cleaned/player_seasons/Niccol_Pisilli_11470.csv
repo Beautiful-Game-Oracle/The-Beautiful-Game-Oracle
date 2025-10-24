@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11470,Niccolò Pisilli,2025,Roma,Sub,2,35,0,0,0.0524430833756923,0.1604006737470626,1,2,0,0,0,0.0524430833756923,0.2417237684130668,0.0813230946660041
+11470,Niccolò Pisilli,2024,Roma,DMC,28,1198,2,1,3.067274132743478,0.9415066838264464,27,10,7,0,2,3.067274132743478,5.933968747034669,3.9242928493767977
+11470,Niccolò Pisilli,2023,Roma,Sub,1,8,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+11470,Niccolò Pisilli,2022,Roma,Sub,1,1,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

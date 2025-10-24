@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11849,Maximilian Breunig,2024,,Sub,11,178,2,0,3.002769211307168,0.172705091536045,11,3,0,0,1,2.244992533698678,2.5905030500143766,0.2153324782848358
+11849,Maximilian Breunig,2024,,FW,2,144,0,0,0.0,0.0187651719897985,0,1,0,0,0,0.0,0.145357396453619,0.1265922226011753
+11849,Maximilian Breunig,2023,,Sub,2,4,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10038,Raúl Parra,2022,,DR,4,287,0,0,0,0.0252426993101835,0,1,1,0,0,0,0.0676802024245262,0.0676802024245262
+10038,Raúl Parra,2022,,Sub,2,23,0,0,0,0.0,0,0,0,0,0,0,0.0904612988233566,0.0904612988233566
+10038,Raúl Parra,2021,,DR,1,76,0,0,0,0.0,0,0,0,0,0,0,0.0,0.0
+10038,Raúl Parra,2021,,Sub,1,12,0,0,0,0.0,0,0,0,0,0,0,0.0586092993617057,0.0586092993617057

@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+7600,Luca De La Torre,2024,Celta Vigo,Sub,1,1,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+7600,Luca De La Torre,2023,Celta Vigo,Sub,31,1968,1,4,2.601727206259966,1.6357177440077066,24,17,2,1,1,2.601727206259966,9.558848209679129,6.624843729659915
+7600,Luca De La Torre,2022,Celta Vigo,Sub,28,1474,0,2,1.5264150286093354,1.2409016788005829,17,13,6,0,0,1.5264150286093354,4.160889005288482,1.574194710701704

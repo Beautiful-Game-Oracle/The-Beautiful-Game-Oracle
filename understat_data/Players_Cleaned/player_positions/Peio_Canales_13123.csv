@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13123,Peio Canales,2024,,Sub,6,124,0,0,0.1971820127218961,0.0705431848764419,3,2,0,0,0,0.1971820127218961,0.7809601724147797,0.5443078130483627
+13123,Peio Canales,2024,,AMC,2,123,0,0,0.0,0.4182226359844208,0,4,0,0,0,0.0,0.0,0.0

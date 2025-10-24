@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+1544,Federico Ravaglia,2025,Bologna,GK,1,90,0,0,0,0.0,0,0,0,0,0,0,0.0175445396453142,0.0175445396453142
+1544,Federico Ravaglia,2024,Bologna,GK,12,1056,0,0,0,0.044319562613964,0,1,0,0,0,0,1.1570559367537498,1.1127363666892052
+1544,Federico Ravaglia,2023,Bologna,GK,6,538,0,0,0,0.0,0,0,0,0,0,0,1.5675542280077934,1.5675542280077934
+1544,Federico Ravaglia,2020,Bologna,GK,4,360,0,0,0,0.0,0,0,0,0,0,0,0.0,0.0

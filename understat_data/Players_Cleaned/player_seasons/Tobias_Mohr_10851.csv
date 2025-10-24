@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10851,Tobias Mohr,2022,Schalke 04,ML,18,816,0,3,0.7133287824690342,2.1852673646062613,12,21,0,0,0,0.7133287824690342,3.0131134409457445,1.200985288247466

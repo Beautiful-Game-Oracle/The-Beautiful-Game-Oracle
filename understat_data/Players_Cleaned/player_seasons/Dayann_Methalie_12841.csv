@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12841,Dayann Methalie,2025,Toulouse,DML,8,539,0,0,0.6864244043827057,0.6179057657718658,5,3,2,0,0,0.6864244043827057,1.6704258285462856,0.5925288125872612

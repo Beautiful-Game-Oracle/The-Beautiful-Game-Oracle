@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8392,Julian Justvan,2023,Darmstadt,FWR,14,1011,2,2,0.6589608583599329,2.7966008381918077,16,24,1,0,2,0.6589608583599329,3.511809999123216,0.7936986675485969
+8392,Julian Justvan,2023,Hoffenheim,Sub,4,35,0,0,0.0248188041150569,0.0,1,0,0,0,0,0.0248188041150569,0.0463626012206077,0.0215437952429056

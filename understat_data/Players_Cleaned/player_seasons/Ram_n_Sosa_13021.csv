@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13021,Ramón Sosa,2024,Nottingham Forest,Sub,19,246,1,0,1.1310514248907566,0.6833146139979362,11,8,1,0,1,1.1310514248907566,2.070654297247529,0.2562882862985134

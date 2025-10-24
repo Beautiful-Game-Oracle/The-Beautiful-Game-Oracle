@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12004,Joel Mvuka,2025,Lorient,DMR,7,253,0,0,0.2209632880985736,0.0774846151471138,3,1,0,0,0,0.2209632880985736,0.2984479032456875,0.1343124248087406
+12004,Joel Mvuka,2023,Lorient,Sub,7,189,0,0,0.0294810887426137,0.0,1,0,1,0,0,0.0294810887426137,0.0294810887426137,0.0

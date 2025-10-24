@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13781,Berke Özer,2025,,GK,7,630,0,1,0,0.0377780124545097,0,1,0,0,0,0,1.2938645407557487,1.2560865208506584

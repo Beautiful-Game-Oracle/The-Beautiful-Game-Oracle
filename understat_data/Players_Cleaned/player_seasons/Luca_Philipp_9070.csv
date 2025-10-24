@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9070,Luca Philipp,2024,Hoffenheim,GK,6,540,0,0,0,0,0,0,0,0,0,0,0.1524892058223486,0.1524892058223486

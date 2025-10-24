@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8548,Arnau Tenas,2025,Villarreal,GK,3,270,0,0,0,0.0,0,0,0,0,0,0,0.1706001982092857,0.1706001982092857
+8548,Arnau Tenas,2024,Paris Saint Germain,GK,1,90,0,1,0,0.1297594010829925,0,2,0,0,0,0,0.5017589330673218,0.3719995319843292
+8548,Arnau Tenas,2023,Paris Saint Germain,Sub,6,529,0,1,0,0.2893681228160858,0,1,0,0,0,0,0.8662592172622681,0.5768910944461823

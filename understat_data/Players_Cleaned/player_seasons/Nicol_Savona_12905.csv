@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12905,Nicolò Savona,2025,Nottingham Forest,Sub,3,159,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0621115826070308,0.0621115826070308
+12905,Nicolò Savona,2024,Juventus,Sub,28,1724,2,1,0.6217741407454014,1.6131829097867012,6,16,5,0,2,0.6217741407454014,6.450548764318228,5.277569431811571

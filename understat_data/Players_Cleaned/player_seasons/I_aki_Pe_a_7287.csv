@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+7287,Iñaki Peña,2025,Elche,GK,4,360,0,0,0,0,0,0,0,0,0,0,0.4257543943822384,0.4257543943822384
+7287,Iñaki Peña,2024,Barcelona,Sub,16,1393,0,0,0,0,0,0,1,0,0,0,3.906119585037232,3.906119585037232
+7287,Iñaki Peña,2023,Barcelona,GK,10,900,0,0,0,0,0,0,0,0,0,0,3.1926888525485992,3.1926888525485992
+7287,Iñaki Peña,2022,Barcelona,Sub,2,68,0,0,0,0,0,0,0,0,0,0,0.0,0.0

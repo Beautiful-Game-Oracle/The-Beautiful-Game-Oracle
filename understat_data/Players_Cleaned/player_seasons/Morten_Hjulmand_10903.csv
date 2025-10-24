@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10903,Morten Hjulmand,2022,Lecce,MC,35,2967,0,4,0.491272771731019,1.794936815276742,17,25,9,1,0,0.491272771731019,7.871476680040359,6.6831129267811775

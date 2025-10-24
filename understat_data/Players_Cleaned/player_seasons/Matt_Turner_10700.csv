@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10700,Matt Turner,2023,Nottingham Forest,GK,17,1530,0,0,0,0,0,0,1,0,0,0,1.997135661542416,1.997135661542416

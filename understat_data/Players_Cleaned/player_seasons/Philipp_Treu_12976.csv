@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12976,Philipp Treu,2025,Freiburg,Sub,4,163,0,0,0.0,0.0854873657226562,0,1,0,0,0,0.0,0.5454834513366222,0.459996085613966
+12976,Philipp Treu,2024,St. Pauli,DMR,33,2894,0,2,1.0967688458040357,2.7964528873562813,18,22,2,0,0,1.0967688458040357,10.973553114570676,8.870090406388044

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13866,Ilyas Ansah,2025,Union Berlin,FW,7,496,4,0,1.616765064187348,0.2398515976965427,9,4,0,0,4,1.616765064187348,2.729288946837187,1.2601581811904907

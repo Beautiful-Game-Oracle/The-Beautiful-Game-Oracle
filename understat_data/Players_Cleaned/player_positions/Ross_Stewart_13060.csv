@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13060,Ross Stewart,2024,,FW,4,223,1,0,0.411195695400238,0,4,0,0,0,1,0.411195695400238,0.2132088169455528,0.0
+13060,Ross Stewart,2024,,Sub,8,156,0,0,0.4694999642670154,0,5,0,1,0,0,0.4694999642670154,1.481611255556345,1.2228461802005768

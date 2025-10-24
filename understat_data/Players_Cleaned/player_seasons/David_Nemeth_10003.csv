@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10003,David Nemeth,2024,St. Pauli,DC,24,2147,0,1,0.1715667424723506,0.1151886824518442,5,3,3,0,0,0.1715667424723506,5.116796931251884,4.970173241570592
+10003,David Nemeth,2021,Mainz 05,Sub,6,307,0,0,0.0,0.0,0,0,0,0,0,0.0,0.9047420024871826,0.9047420024871826

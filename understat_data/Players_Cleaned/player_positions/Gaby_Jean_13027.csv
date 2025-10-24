@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13027,Gaby Jean,2024,,DC,16,1338,0,0,0.0758519172668457,0.0571330264210701,1,1,0,0,0,0.0758519172668457,1.734832664951682,1.734832664951682
+13027,Gaby Jean,2024,,Sub,3,46,0,0,0.0,0.0,0,0,0,0,0,0.0,0.2810057401657104,0.2810057401657104

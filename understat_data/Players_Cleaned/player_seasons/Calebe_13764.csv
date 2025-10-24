@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13764,Calebe,2025,Alaves,Sub,6,162,0,0,0.0309727918356657,0.2507884791120887,1,6,1,0,0,0.0309727918356657,0.3219423582777381,0.0846805721521377

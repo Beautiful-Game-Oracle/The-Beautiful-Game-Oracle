@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+6929,Adrian Semper,2025,,GK,7,630,0,0,0,0,0,0,0,0,0,0,0.2301166281104087,0.2301166281104087
+6929,Adrian Semper,2021,,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+6929,Adrian Semper,2018,,GK,6,540,0,0,0,0,0,0,0,0,0,0,0.473201310262084,0.473201310262084

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11854,Florian Pick,2023,FC Heidenheim,MC,22,281,0,1,0.3018327918834984,0.9613195285201072,8,9,2,0,0,0.3018327918834984,1.318059837911278,0.337092537432909

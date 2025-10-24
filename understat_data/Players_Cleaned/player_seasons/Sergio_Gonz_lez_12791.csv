@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12791,Sergio González,2024,Leganes,DC,36,2966,2,0,1.9580097878351808,0.5771256238222122,13,4,2,1,2,1.9580097878351808,2.742747124284506,2.678178194910288

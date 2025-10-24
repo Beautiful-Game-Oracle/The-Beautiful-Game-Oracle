@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10245,Paul Wanner,2024,FC Heidenheim,AMC,29,1796,3,2,4.244851130992174,1.4708796814084053,25,20,2,0,2,3.487074453383684,7.205643737688661,3.0005939584225416
+10245,Paul Wanner,2022,Bayern Munich,Sub,2,19,0,0,0.0,0.0487035997211933,0,1,1,0,0,0.0,0.0,0.0
+10245,Paul Wanner,2021,Bayern Munich,Sub,4,27,0,0,0.0,0.0292018000036478,0,1,0,0,0,0.0,0.7455363962799311,0.7163345962762833

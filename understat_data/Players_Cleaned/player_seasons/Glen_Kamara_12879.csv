@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12879,Glen Kamara,2024,Rennes,MC,13,669,0,1,0.0705003067851066,0.342876736074686,1,6,0,0,0,0.0705003067851066,2.294796884059906,1.981876434758305

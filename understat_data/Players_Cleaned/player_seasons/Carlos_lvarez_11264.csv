@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11264,Carlos Álvarez,2025,Levante,Sub,9,578,2,1,0.76165512483567,1.7257579993456602,10,10,1,0,2,0.76165512483567,4.078162436373532,2.2517535760998726
+11264,Carlos Álvarez,2022,Sevilla,Sub,1,5,0,0,0.0,0.0,0,0,1,0,0,0.0,0.1165859997272491,0.1165859997272491

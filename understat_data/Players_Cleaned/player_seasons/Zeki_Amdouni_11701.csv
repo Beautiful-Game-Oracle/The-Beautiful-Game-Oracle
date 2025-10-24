@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11701,Zeki Amdouni,2023,Burnley,FW,34,2025,5,1,6.100483123213053,1.494755046442151,49,16,2,0,4,5.339314285665751,7.888359908014536,2.6891510486602783

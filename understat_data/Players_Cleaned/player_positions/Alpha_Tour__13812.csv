@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13812,Alpha Touré,2025,,Sub,6,94,0,0,0,0.0472625531256198,0,1,0,0,0,0,0.0,0.0
+13812,Alpha Touré,2025,,DL,1,90,0,0,0,0.0,0,0,0,0,0,0,0.0645284354686737,0.0645284354686737
+13812,Alpha Touré,2025,,MC,1,90,0,0,0,0.0,0,0,0,0,0,0,0.0340414606034755,0.0340414606034755

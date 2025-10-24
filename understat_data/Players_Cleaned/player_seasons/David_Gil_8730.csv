@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8730,David Gil,2023,Cadiz,Sub,5,368,0,0,0,0,0,0,1,0,0,0,0.0378633290529251,0.0378633290529251
+8730,David Gil,2022,Cadiz,GK,4,360,0,0,0,0,0,0,0,0,0,0,0.0941959992051124,0.0941959992051124
+8730,David Gil,2020,Cadiz,GK,4,360,0,0,0,0,0,0,0,0,0,0,0.0,0.0

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+6737,Maxime Bernauer,2024,Saint-Etienne,Sub,11,759,0,0,0.0417304644361138,0.0400794185698032,2,1,2,1,0,0.0417304644361138,2.282454239204526,2.2006443552672863

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13723,El Hadji Malick Diouf,2025,West Ham,ML,8,665,0,3,0.1715734638273716,0.6706114392727613,5,7,1,0,0,0.1715734638273716,1.1998236440122128,0.591951847076416

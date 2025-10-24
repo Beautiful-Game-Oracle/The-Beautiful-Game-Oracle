@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11923,Jannik Müller,2023,Darmstadt,DC,16,1115,0,0,0.1272055692970752,0.062849273905158,3,2,5,0,0,0.1272055692970752,1.2896067099645734,1.2116989074274898

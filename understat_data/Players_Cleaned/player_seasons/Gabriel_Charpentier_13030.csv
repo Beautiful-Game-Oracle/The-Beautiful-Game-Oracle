@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13030,Gabriel Charpentier,2024,Parma Calcio 1913,Sub,10,242,1,2,0.852648101747036,0.6286597438156605,9,6,1,0,1,0.852648101747036,1.3949673753231764,0.0456237904727458

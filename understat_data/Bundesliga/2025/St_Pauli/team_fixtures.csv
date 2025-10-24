@@ -1,0 +1,28 @@
+id,isResult,side,h,a,goals,xG,datetime
+30291,False,a,"{'id': '132', 'title': 'Eintracht Frankfurt', 'short_title': 'EIN'}","{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-25 13:30:00
+30302,False,h,"{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'id': '130', 'title': 'Borussia M.Gladbach', 'short_title': 'BMG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 12:30:00
+30308,False,a,"{'id': '135', 'title': 'Freiburg', 'short_title': 'FRE'}","{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 12:30:00
+30321,False,h,"{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 12:30:00
+30324,False,a,"{'id': '117', 'title': 'Bayern Munich', 'short_title': 'BAY'}","{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 12:30:00
+30336,False,a,"{'id': '134', 'title': 'FC Cologne', 'short_title': 'COL'}","{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 12:30:00
+30347,False,h,"{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'id': '280', 'title': 'FC Heidenheim', 'short_title': 'HEI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 12:30:00
+30355,False,a,"{'id': '125', 'title': 'Mainz 05', 'short_title': 'MAI'}","{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 12:30:00
+30365,False,h,"{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'id': '136', 'title': 'RasenBallsport Leipzig', 'short_title': 'RBL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-10 12:30:00
+30376,False,a,"{'id': '131', 'title': 'Wolfsburg', 'short_title': 'WOL'}","{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-14 12:30:00
+30378,False,a,"{'id': '129', 'title': 'Borussia Dortmund', 'short_title': 'DOR'}","{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 12:30:00
+30393,False,h,"{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'id': '118', 'title': 'Hamburger SV', 'short_title': 'HAM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 12:30:00
+30395,False,a,"{'id': '121', 'title': 'Augsburg', 'short_title': 'AUG'}","{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 12:30:00
+30410,False,h,"{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'id': '133', 'title': 'VfB Stuttgart', 'short_title': 'STU'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 12:30:00
+30414,False,a,"{'id': '119', 'title': 'Bayer Leverkusen', 'short_title': 'LEV'}","{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-14 12:30:00
+30428,False,h,"{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'id': '123', 'title': 'Werder Bremen', 'short_title': 'WER'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 12:30:00
+30437,False,a,"{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 12:30:00
+30446,False,h,"{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'id': '132', 'title': 'Eintracht Frankfurt', 'short_title': 'EIN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-07 12:30:00
+30450,False,a,"{'id': '130', 'title': 'Borussia M.Gladbach', 'short_title': 'BMG'}","{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 12:30:00
+30465,False,h,"{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'id': '135', 'title': 'Freiburg', 'short_title': 'FRE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 12:30:00
+30474,False,a,"{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-04 12:30:00
+30482,False,h,"{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'id': '117', 'title': 'Bayern Munich', 'short_title': 'BAY'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 12:30:00
+30491,False,h,"{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'id': '134', 'title': 'FC Cologne', 'short_title': 'COL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 12:30:00
+30498,False,a,"{'id': '280', 'title': 'FC Heidenheim', 'short_title': 'HEI'}","{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 12:30:00
+30509,False,h,"{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'id': '125', 'title': 'Mainz 05', 'short_title': 'MAI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 12:30:00
+30518,False,a,"{'id': '136', 'title': 'RasenBallsport Leipzig', 'short_title': 'RBL'}","{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 12:30:00
+30527,False,h,"{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'id': '131', 'title': 'Wolfsburg', 'short_title': 'WOL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-16 12:30:00

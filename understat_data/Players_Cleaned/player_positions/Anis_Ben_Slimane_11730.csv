@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11730,Anis Ben Slimane,2023,,AMC,2,146,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+11730,Anis Ben Slimane,2023,,Sub,11,136,0,0,0.8026072084903717,0.4848009049892425,8,3,2,0,0,0.8026072084903717,1.5152169167995453,0.3811951465904712
+11730,Anis Ben Slimane,2023,,ML,1,62,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+11730,Anis Ben Slimane,2023,,MC,1,50,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0294718965888023,0.0294718965888023

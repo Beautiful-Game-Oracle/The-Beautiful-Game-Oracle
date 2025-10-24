@@ -1,0 +1,32 @@
+id,isResult,side,h,a,goals,xG,datetime
+29918,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-26 18:45:00
+29932,False,a,"{'id': '291', 'title': 'Pisa', 'short_title': 'PIS'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-30 18:45:00
+29936,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-02 12:00:00
+29948,False,a,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-09 12:00:00
+29959,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '243', 'title': 'Lecce', 'short_title': 'LEC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-23 12:00:00
+29970,False,a,"{'id': '111', 'title': 'AC Milan', 'short_title': 'MIL'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-30 12:00:00
+29977,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-07 12:00:00
+29990,False,a,"{'id': '230', 'title': 'Parma Calcio 1913', 'short_title': 'PAR'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-14 12:00:00
+30000,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '272', 'title': 'Cremonese', 'short_title': 'CRE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-21 12:00:00
+30012,False,a,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-28 12:00:00
+30021,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 12:00:00
+30026,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-06 17:45:00
+30043,False,a,"{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-11 12:00:00
+30045,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '286', 'title': 'Como', 'short_title': 'COM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-18 12:00:00
+30060,False,a,"{'id': '243', 'title': 'Lecce', 'short_title': 'LEC'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-25 12:00:00
+30068,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-01 12:00:00
+30081,False,a,"{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-08 12:00:00
+30088,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-15 12:00:00
+30096,False,a,"{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-22 12:00:00
+30111,False,a,"{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-01 12:00:00
+30120,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-08 12:00:00
+30127,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '111', 'title': 'AC Milan', 'short_title': 'MIL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-15 12:00:00
+30135,False,a,"{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-22 12:00:00
+30147,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '230', 'title': 'Parma Calcio 1913', 'short_title': 'PAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-04 12:00:00
+30158,False,a,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-12 12:00:00
+30167,False,a,"{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-19 12:00:00
+30178,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-26 12:00:00
+30187,False,a,"{'id': '272', 'title': 'Cremonese', 'short_title': 'CRE'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-03 12:00:00
+30198,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-10 12:00:00
+30211,False,a,"{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 12:00:00
+30217,False,h,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '291', 'title': 'Pisa', 'short_title': 'PIS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 12:00:00

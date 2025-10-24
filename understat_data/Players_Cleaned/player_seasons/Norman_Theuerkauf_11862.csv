@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11862,Norman Theuerkauf,2024,FC Heidenheim,Sub,1,19,0,0,0.0378666035830974,0.0,1,0,0,0,0,0.0378666035830974,0.0,0.0
+11862,Norman Theuerkauf,2023,FC Heidenheim,DL,25,1261,0,1,0.5631319470703602,0.7616560496389866,7,11,3,0,0,0.5631319470703602,2.716423327103257,1.8859585616737604

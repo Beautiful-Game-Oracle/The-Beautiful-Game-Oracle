@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11803,Jean N&#039;Guessan,2023,Metz,Sub,6,103,0,0,0.0594624429941177,0,3,0,0,0,0,0.0594624429941177,0.0973541736602783,0.0758016668260097

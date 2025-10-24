@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13075,Phil Harres,2024,Holstein Kiel,Sub,25,1461,8,1,6.069004004821181,1.687046148814261,37,10,3,0,8,6.069004004821181,8.803555831313133,2.012516127899289

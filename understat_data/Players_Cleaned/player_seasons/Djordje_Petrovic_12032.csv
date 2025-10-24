@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12032,Djordje Petrovic,2025,Bournemouth,GK,8,720,0,0,0,0,0,0,1,0,0,0,0.520236836746335,0.520236836746335
+12032,Djordje Petrovic,2024,Strasbourg,GK,31,2790,0,0,0,0,0,0,2,0,0,0,6.611872253939509,6.611872253939509
+12032,Djordje Petrovic,2023,Chelsea,Sub,23,1982,0,0,0,0,0,0,2,0,0,0,3.312307056039572,3.312307056039572

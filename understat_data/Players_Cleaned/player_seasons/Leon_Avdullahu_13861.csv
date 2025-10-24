@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13861,Leon Avdullahu,2025,Hoffenheim,MC,7,597,0,1,0.1034004762768745,0.4577546790242195,3,6,1,0,0,0.1034004762768745,1.6539572589099407,1.2360356114804745

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13698,Rahim Alhassane,2025,Real Oviedo,DL,9,732,0,0,0,0.5584078934043646,0,5,0,0,0,0,1.4248010739684105,1.3403129503130913

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9861,Jonas Urbig,2024,Bayern Munich,GK,8,720,0,0,0,0,0,0,0,0,0,0,1.825435906648636,1.825435906648636

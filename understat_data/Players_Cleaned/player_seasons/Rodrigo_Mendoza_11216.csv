@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11216,Rodrigo Mendoza,2025,Elche,FWL,6,380,1,0,0.2539563253521919,0.4180095698684454,5,6,2,0,1,0.2539563253521919,1.5937461871653795,1.277406066656113

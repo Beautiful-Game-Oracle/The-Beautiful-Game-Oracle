@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11026,Luka Lochoshvili,2022,Cremonese,DC,25,1878,1,2,0.9533305000513792,1.1276969406753778,9,5,4,0,1,0.9533305000513792,1.8814018331468103,1.3135414430871606

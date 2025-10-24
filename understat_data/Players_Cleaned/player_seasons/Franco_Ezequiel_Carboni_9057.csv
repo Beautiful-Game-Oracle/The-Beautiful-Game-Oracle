@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9057,Franco Ezequiel Carboni,2024,Venezia,Sub,8,220,0,0,0.0143228555098176,0.0930403778329491,1,2,2,0,0,0.0143228555098176,0.2046486185863614,0.1956575401127338
+9057,Franco Ezequiel Carboni,2022,Monza,Sub,3,57,0,0,0.0904330015182495,0.0204239003360271,1,1,0,0,0,0.0904330015182495,0.1108569018542766,0.0

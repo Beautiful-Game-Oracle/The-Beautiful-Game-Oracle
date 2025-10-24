@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12978,Jackson Irvine,2024,St. Pauli,MC,29,2610,0,6,3.682750564068556,4.798954357858747,41,33,2,0,0,3.682750564068556,9.905083059333265,4.877807507291436

@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8890,Edgar Badía,2022,Elche,GK,36,3240,0,0,0,0,0,0,2,0,0,0,2.0145446453243494,2.0145446453243494
+8890,Edgar Badía,2021,Elche,GK,24,2160,0,0,0,0,0,0,2,0,0,0,1.6923947874456644,1.6923947874456644
+8890,Edgar Badía,2020,Elche,GK,30,2700,0,0,0,0,0,0,0,0,0,0,0.9792687017470598,0.9792687017470598

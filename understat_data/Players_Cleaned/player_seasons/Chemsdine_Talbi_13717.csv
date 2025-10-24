@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13717,Chemsdine Talbi,2025,Sunderland,FWR,8,533,0,1,0.9227885492146016,0.2356234174221754,8,5,0,0,0,0.9227885492146016,1.4005840942263603,0.3869536370038986

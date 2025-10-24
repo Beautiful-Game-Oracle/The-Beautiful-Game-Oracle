@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11802,Malick Mbaye,2023,Metz,Sub,5,144,0,0,0.5085585154592991,0.0802886765450239,4,2,1,0,0,0.5085585154592991,0.5456038936972618,0.0505504263564944

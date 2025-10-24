@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12152,Matheus França,2024,Crystal Palace,Sub,4,45,1,0,0.4079460725188255,0.0,6,0,0,0,1,0.4079460725188255,0.5714588239789009,0.1635127514600753
+12152,Matheus França,2023,Crystal Palace,Sub,10,197,0,1,0.2915826556272805,0.8639639485627413,8,6,1,0,0,0.2915826556272805,1.1256566774100063,0.5917453020811081

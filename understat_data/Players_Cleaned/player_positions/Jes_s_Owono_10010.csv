@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10010,Jesús Owono,2024,,GK,5,450,0,0,0,0,0,0,0,0,0,0,0.0644543133676052,0.0644543133676052
+10010,Jesús Owono,2024,,Sub,1,32,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+10010,Jesús Owono,2023,,GK,4,360,0,0,0,0,0,0,1,0,0,0,1.3290287256240845,1.3290287256240845
+10010,Jesús Owono,2021,,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.0,0.0

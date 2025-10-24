@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12174,Jordi Martín,2023,Getafe,ML,13,563,0,0,1.69226436316967,0.5328456927090883,7,7,1,0,0,1.69226436316967,3.972078252583742,1.7684292905032637

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11760,Imanol García de Albéniz,2023,Athletic Club,Sub,9,529,0,0,0.0145702976733446,0.1408717706799507,1,2,2,0,0,0.0145702976733446,2.20159275829792,2.125772215425968

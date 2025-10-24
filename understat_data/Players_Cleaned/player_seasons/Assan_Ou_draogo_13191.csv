@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13191,Assan Ouédraogo,2025,RasenBallsport Leipzig,Sub,7,265,1,1,1.5311338882893324,0.7567894756793976,5,4,0,0,1,1.5311338882893324,1.520310878753662,1.2367854416370392
+13191,Assan Ouédraogo,2024,RasenBallsport Leipzig,Sub,3,41,0,0,0.0276831053197383,0.0,1,0,0,0,0,0.0276831053197383,0.0276831053197383,0.0

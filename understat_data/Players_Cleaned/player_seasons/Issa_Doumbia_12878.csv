@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12878,Issa Doumbia,2024,Venezia,Sub,24,922,0,0,1.5646562036126852,0.1171914394944906,17,3,0,0,0,1.5646562036126852,2.518975531682372,1.2910603070631623

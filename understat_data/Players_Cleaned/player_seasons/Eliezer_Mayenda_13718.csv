@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13718,Eliezer Mayenda,2025,Sunderland,FW,6,253,1,0,0.722465954720974,0.5885621905326843,4,2,0,0,1,0.722465954720974,0.6910533905029297,0

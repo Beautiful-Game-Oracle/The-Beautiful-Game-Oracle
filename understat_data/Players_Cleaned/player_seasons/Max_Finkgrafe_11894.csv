@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11894,Max Finkgrafe,2023,FC Cologne,Sub,24,1748,1,0,1.0378976929932833,1.3866049107164145,12,23,4,0,1,1.0378976929932833,4.175446494482458,2.4810542771592736

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13879,Tarik Muharemovic,2025,,DC,6,540,0,1,0.0292235589586198,0.7615432143211365,2,2,2,0,0,0.0292235589586198,0.7736422675661743,0.7487518284469843

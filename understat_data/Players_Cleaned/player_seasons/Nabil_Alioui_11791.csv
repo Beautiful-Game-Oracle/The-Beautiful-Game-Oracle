@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11791,Nabil Alioui,2023,Le Havre,FW,18,1026,4,1,2.152775105088949,1.971198357641697,28,24,1,0,4,2.152775105088949,3.7549580624327055,1.0701203802600503

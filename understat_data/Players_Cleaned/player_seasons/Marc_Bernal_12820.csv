@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12820,Marc Bernal,2025,Barcelona,Sub,2,9,0,1,0.0,0.5099553465843201,0,1,0,0,0,0.0,0.5099553465843201,0.5099553465843201
+12820,Marc Bernal,2024,Barcelona,DMC,3,256,0,0,0.0560634769499301,0.0110369473695755,2,1,2,0,0,0.0560634769499301,1.5139116048812866,1.4468111991882324

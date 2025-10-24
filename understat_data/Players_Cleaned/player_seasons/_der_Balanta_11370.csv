@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11370,Éder Balanta,2022,Schalke 04,DMC,6,236,0,0,0.0580646991729736,0.1794970985502004,1,4,3,0,0,0.0580646991729736,0.7667979076504707,0.6726402118802071

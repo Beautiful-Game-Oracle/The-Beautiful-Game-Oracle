@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12406,Pep Biel,2023,Augsburg,Sub,11,242,0,0,0.9485033508390188,0.17878810595721,6,4,1,0,0,0.9485033508390188,1.212286819703877,0.1036668643355369

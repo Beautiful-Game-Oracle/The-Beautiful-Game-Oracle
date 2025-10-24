@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11119,Yoann Cathline,2022,Lorient,Sub,23,1082,1,1,1.1199938328936696,0.6137660928070545,27,6,0,0,1,1.1199938328936696,2.9536380311474204,1.80152827128768

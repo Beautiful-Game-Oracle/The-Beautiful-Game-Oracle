@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11121,Nicolás Fernández Mercau,2022,Elche,DL,18,451,0,1,0.4591419603675604,0.8877744702622294,5,13,2,0,0,0.4591419603675604,1.287952252663672,0.7780531579628587

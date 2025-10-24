@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13456,Amar Dedic,2024,Marseille,Sub,10,289,0,1,0.715293537825346,0.8562837615609169,6,4,1,0,0,0.715293537825346,4.042155163362622,3.114167021587491

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11860,Kevin Sessa,2023,FC Heidenheim,Sub,30,954,3,0,2.825762929394841,1.507950717583299,29,17,1,0,3,2.825762929394841,5.80783118866384,3.043549472466111

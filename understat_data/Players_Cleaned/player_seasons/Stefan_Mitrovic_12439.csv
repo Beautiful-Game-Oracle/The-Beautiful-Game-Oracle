@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12439,Stefan Mitrovic,2023,Verona,Sub,10,377,0,0,0.4080480439588427,0.066924987360835,7,3,0,0,0,0.4080480439588427,0.5978282410651445,0.2118185115978121

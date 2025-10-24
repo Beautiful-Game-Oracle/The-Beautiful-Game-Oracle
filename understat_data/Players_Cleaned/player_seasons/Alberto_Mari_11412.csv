@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11412,Alberto Mari,2024,Valencia,Sub,1,2,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+11412,Alberto Mari,2023,Valencia,Sub,16,229,1,1,1.9944591969251635,0.9537389390170574,7,6,0,0,0,1.2511815503239632,2.6446703039109707,0.6212776899337769
+11412,Alberto Mari,2022,Valencia,Sub,5,67,1,0,0.3527105562388897,0.0,2,0,1,0,1,0.3527105562388897,0.3680018689483404,0.0152913127094507

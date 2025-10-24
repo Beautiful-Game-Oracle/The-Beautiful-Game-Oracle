@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13057,Lucas Stassin,2024,Saint-Etienne,FW,28,1916,12,4,8.409047394990921,3.849006508477032,44,18,4,0,12,8.409047394990921,12.509913020767272,3.665977276861668

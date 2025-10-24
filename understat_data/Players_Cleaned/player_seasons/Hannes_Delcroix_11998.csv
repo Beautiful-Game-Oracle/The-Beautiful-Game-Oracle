@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11998,Hannes Delcroix,2023,Burnley,DL,12,575,0,0,0.2327943220734596,0.2035211659967899,4,4,2,0,0,0.2327943220734596,1.6811544448137283,1.477633286267519

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10823,Kyliane Dong,2022,Troyes,Sub,6,206,0,0,0.0906563624739646,0.1553262993693351,2,2,0,0,0,0.0906563624739646,0.3190440870821476,0.1260267589241266

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12750,Conor Chaplin,2024,Ipswich,AMC,22,851,1,1,1.434986375272274,0.7888719039037824,16,8,2,0,1,1.434986375272274,3.172867614775896,1.4127340912818909

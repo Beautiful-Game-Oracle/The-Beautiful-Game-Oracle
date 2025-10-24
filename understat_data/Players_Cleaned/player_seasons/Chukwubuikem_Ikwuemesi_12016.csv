@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12016,Chukwubuikem Ikwuemesi,2023,Salernitana,Sub,25,1039,1,1,2.5094009581953287,0.4941993914544582,22,8,2,0,1,2.5094009581953287,3.6371622374281287,0.6929538110271096

@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13983,David Carmo,2025,,DC,5,450,0,0,0.2507934421300888,0.035605039447546,3,1,1,0,0,0.2507934421300888,0.4565703794360161,0.4565703794360161
+13983,David Carmo,2025,,Sub,1,1,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

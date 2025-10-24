@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12308,Lovro Zvonarek,2023,Bayern Munich,Sub,5,157,1,0,0.0661834999918937,0.2421567142009735,1,2,0,0,1,0.0661834999918937,0.6256715133786201,0.5014762952923775

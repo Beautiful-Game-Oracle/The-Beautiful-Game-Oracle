@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13278,Youssef Lekhedim,2025,Alaves,Sub,6,310,0,0,0.2629311066120863,0.1107028052210807,4,1,2,0,0,0.2629311066120863,1.005142468959093,0.6885253228247166

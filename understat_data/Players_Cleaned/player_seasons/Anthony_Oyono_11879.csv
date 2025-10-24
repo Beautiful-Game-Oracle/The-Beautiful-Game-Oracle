@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11879,Anthony Oyono,2023,Frosinone,DR,16,1193,0,1,0.2424544477835297,1.1169285383075476,4,10,4,0,0,0.2424544477835297,3.0323795918375254,2.335448293015361

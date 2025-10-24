@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11416,Ayoub Amraoui,2022,Nice,DL,7,290,0,0,0.011162900365889,0.0854288972914218,1,2,1,0,0,0.011162900365889,1.3109865970909595,1.2603707984089851

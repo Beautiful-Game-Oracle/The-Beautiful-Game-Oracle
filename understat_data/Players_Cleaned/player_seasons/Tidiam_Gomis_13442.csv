@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13442,Tidiam Gomis,2024,RasenBallsport Leipzig,Sub,8,135,0,1,0.3557802066206932,0.9084494970738888,5,3,2,0,0,0.3557802066206932,1.8082721084356308,0.6518878042697906

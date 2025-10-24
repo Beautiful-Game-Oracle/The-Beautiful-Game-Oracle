@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10735,Lee Buchanan,2022,,Sub,19,271,1,0,0.2125663654878735,1.0233589708805084,5,4,1,0,1,0.2125663654878735,1.4273520605638623,0.909885162487626
+10735,Lee Buchanan,2022,,DML,1,89,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+10735,Lee Buchanan,2022,,ML,1,65,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0082463705912232,0.0082463705912232

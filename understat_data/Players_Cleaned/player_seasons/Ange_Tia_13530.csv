@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13530,Ange Tia,2024,Reims,Sub,6,166,0,0,0.5016257017850876,0.0226415833458304,4,2,0,0,0,0.5016257017850876,0.6419016038998961,0.1584640843793749

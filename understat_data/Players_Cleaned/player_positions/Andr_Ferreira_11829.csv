@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11829,André Ferreira,2024,,GK,6,540,0,0,0,0,0,0,0,0,0,0,0.5378006994724274,0.5378006994724274
+11829,André Ferreira,2023,,GK,14,1260,0,0,0,0,0,0,1,0,0,0,2.289650324732065,2.289650324732065
+11829,André Ferreira,2023,,Sub,1,80,0,0,0,0,0,0,0,0,0,0,0.0,0.0

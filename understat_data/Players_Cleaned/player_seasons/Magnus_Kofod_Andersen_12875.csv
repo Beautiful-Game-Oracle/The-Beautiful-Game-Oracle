@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12875,Magnus Kofod Andersen,2024,Venezia,MC,14,692,1,1,0.2297064270824194,0.4962088577449322,8,10,1,0,1,0.2297064270824194,1.7651554197072985,1.3734811171889303

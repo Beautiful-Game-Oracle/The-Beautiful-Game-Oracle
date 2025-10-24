@@ -1,0 +1,7 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+214,Tobias Sippel,2024,Borussia M.Gladbach,Sub,1,59,0,0,0,0.0,0,0,0,0,0,0,0.0,0.0
+214,Tobias Sippel,2022,Borussia M.Gladbach,GK,6,510,0,0,0,0.0,0,0,1,0,0,0,1.0768810138106346,1.0768810138106346
+214,Tobias Sippel,2021,Borussia M.Gladbach,GK,1,90,0,0,0,0.0,0,0,0,0,0,0,0.1124579980969429,0.1124579980969429
+214,Tobias Sippel,2020,Borussia M.Gladbach,GK,4,344,0,0,0,0.0,0,0,0,0,0,0,0.0204619001597166,0.0204619001597166
+214,Tobias Sippel,2017,Borussia M.Gladbach,GK,5,434,0,0,0,0.0099983997642993,0,1,0,0,0,0,0.2745331041514873,0.2645347043871879
+214,Tobias Sippel,2015,Borussia M.Gladbach,GK,2,180,0,0,0,0.0,0,0,0,0,0,0,0.023123599588871,0.023123599588871

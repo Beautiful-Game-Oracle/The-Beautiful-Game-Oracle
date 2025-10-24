@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10726,Ivan Sunjic,2022,Hertha Berlin,MC,18,989,0,0,0.3220673054456711,0.1665801964700222,6,4,4,0,0,0.3220673054456711,1.9094921071082356,1.4408858120441437

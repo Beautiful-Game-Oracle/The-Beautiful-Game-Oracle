@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9543,Henning Matriciani,2022,Schalke 04,DR,22,1883,0,0,0.1609551133587956,0.1243749856948852,3,3,1,0,0,0.1609551133587956,3.794903700239957,3.654976829886437

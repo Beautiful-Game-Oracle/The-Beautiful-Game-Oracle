@@ -1,0 +1,7 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+3414,Maxime Dupé,2022,Toulouse,GK,38,3420,0,0,0,0,0,0,2,0,0,0,4.782864699140191,4.782864699140191
+3414,Maxime Dupé,2018,Nantes,Sub,11,938,0,0,0,0,0,0,1,0,0,0,1.129670526832342,1.129670526832342
+3414,Maxime Dupé,2017,Nantes,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+3414,Maxime Dupé,2016,Nantes,GK,16,1440,0,0,0,0,0,0,1,0,0,0,0.3516636975109577,0.3516636975109577
+3414,Maxime Dupé,2015,Nantes,GK,7,630,0,0,0,0,0,0,0,0,0,0,0.3869490846991539,0.3869490846991539
+3414,Maxime Dupé,2014,Nantes,GK,6,540,0,0,0,0,0,0,0,0,0,0,0.8736816868185997,0.8736816868185997

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11723,Alfie Doughty,2023,Luton,Sub,37,2980,2,8,1.831780318170786,6.612265331670642,26,70,5,0,2,1.831780318170786,11.054738521575928,7.9952765721827745

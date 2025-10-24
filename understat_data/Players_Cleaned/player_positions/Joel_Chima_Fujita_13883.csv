@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13883,Joel Chima Fujita,2025,,MC,7,619,0,1,0.2072012452408671,1.7962432820349932,6,12,1,0,0,0.2072012452408671,3.253765918314457,1.6227659583091736

@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11962,Oussama El Azzouzi,2025,Auxerre,Sub,2,94,0,0,0.0,0.0,0,0,1,0,0,0.0,0.0,0.0
+11962,Oussama El Azzouzi,2024,Bologna,Sub,2,11,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0556897111237049,0.0556897111237049
+11962,Oussama El Azzouzi,2023,Bologna,Sub,18,520,2,2,0.4724064394831657,0.9569269753992558,2,6,4,0,2,0.4724064394831657,2.4028254486620426,1.3159676501527429

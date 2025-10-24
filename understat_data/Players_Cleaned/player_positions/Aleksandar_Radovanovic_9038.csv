@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9038,Aleksandar Radovanovic,2023,,DC,8,569,0,0,0.0509594492614269,0.0161808338016271,1,1,2,0,0,0.0509594492614269,0.6352320574223995,0.6352320574223995
+9038,Aleksandar Radovanovic,2023,,Sub,1,6,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+9038,Aleksandar Radovanovic,2020,,DC,1,90,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

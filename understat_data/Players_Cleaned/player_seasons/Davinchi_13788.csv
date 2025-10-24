@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13788,Davinchi,2025,Getafe,DL,7,416,0,0,0.1721816435456276,0.0291446186602115,3,2,1,0,0,0.1721816435456276,0.3509474098682403,0.1916308961808681

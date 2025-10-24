@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12909,Alessandro Gabrielloni,2024,Como,Sub,15,109,1,1,0.2875324171036482,0.6300930082798004,5,4,1,0,1,0.2875324171036482,0.7825651317834854,0.0117887826636433

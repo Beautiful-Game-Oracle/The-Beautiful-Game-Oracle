@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12995,Bojan Miovski,2025,Girona,FW,1,44,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+12995,Bojan Miovski,2024,Girona,Sub,17,898,2,1,2.675680473446846,0.1712184799835086,14,4,0,0,2,2.675680473446846,3.248766012489796,0.715272213332355

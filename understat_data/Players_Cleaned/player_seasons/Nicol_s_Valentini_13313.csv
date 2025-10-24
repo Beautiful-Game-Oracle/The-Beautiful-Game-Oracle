@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13313,Nicolás Valentini,2025,Verona,DC,1,90,0,0,0.0341999419033527,0.0,1,0,0,0,0,0.0341999419033527,0.1874169409275055,0.153217002749443
+13313,Nicolás Valentini,2024,Verona,Sub,14,1139,0,0,0.2727090008556843,0.7699992805719376,8,6,3,1,0,0.2727090008556843,1.0628653690218923,0.4007140025496483

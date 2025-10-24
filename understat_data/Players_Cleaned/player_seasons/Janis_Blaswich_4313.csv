@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+4313,Janis Blaswich,2023,RasenBallsport Leipzig,GK,21,1890,0,0,0,0.0375545546412467,0,1,0,0,0,0,4.854983039200306,4.817428477108479
+4313,Janis Blaswich,2022,RasenBallsport Leipzig,GK,26,2340,0,0,0,0.0389438010752201,0,1,0,0,0,0,4.356674913316965,4.356674913316965

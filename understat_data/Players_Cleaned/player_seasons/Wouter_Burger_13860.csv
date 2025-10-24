@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13860,Wouter Burger,2025,Hoffenheim,MC,6,493,0,1,0.0845741778612136,1.0943484418094158,3,9,2,0,0,0.0845741778612136,1.9877378270030024,1.1641613990068436

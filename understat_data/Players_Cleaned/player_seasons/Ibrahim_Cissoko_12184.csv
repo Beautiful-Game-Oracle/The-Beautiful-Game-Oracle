@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12184,Ibrahim Cissoko,2023,Toulouse,Sub,11,221,1,1,0.9265930280089378,0.3685957323759794,8,6,1,0,1,0.9265930280089378,1.3401853032410145,0.4691749643534422

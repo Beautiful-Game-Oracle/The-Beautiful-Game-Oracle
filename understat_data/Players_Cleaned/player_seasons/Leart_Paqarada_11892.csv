@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11892,Leart Paqarada,2025,FC Heidenheim,DL,1,6,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+11892,Leart Paqarada,2023,FC Cologne,DL,17,1064,0,0,0.3291083248332143,1.96383623406291,10,21,0,0,0,0.3291083248332143,1.4707817286252975,1.0354264453053474

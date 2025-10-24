@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10545,Julian Jeanvier,2022,Auxerre,DC,22,1768,1,0,1.3331746757030487,0,8,0,3,1,1,1.3331746757030487,3.982489202171564,3.894733224064112

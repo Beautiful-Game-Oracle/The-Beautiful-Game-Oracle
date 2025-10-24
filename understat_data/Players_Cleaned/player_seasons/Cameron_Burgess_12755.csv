@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12755,Cameron Burgess,2024,Ipswich,DC,18,1538,0,2,0.9312757514417171,0.376679259352386,10,7,0,0,0,0.9312757514417171,4.114149808883667,3.429916113615036

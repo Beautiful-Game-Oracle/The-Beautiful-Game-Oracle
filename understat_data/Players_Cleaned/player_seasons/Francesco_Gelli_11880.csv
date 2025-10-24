@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11880,Francesco Gelli,2023,Frosinone,MC,27,1562,0,0,0.7696660403162241,3.516356298699975,10,25,3,0,0,0.7696660403162241,4.08471822924912,2.201621536165476

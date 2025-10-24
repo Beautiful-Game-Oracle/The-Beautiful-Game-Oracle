@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12806,Dylan Batubinsika,2024,Saint-Etienne,DC,25,2006,1,0,0.6802393477410078,0.2829701006412506,7,4,3,1,1,0.6802393477410078,4.040669661015272,3.841375146061182

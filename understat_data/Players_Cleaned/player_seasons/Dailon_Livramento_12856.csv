@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12856,Dailon Livramento,2024,Verona,FWL,29,922,1,1,2.382310029119253,1.0129290595650673,13,8,2,1,1,2.382310029119253,4.684611141681671,1.432822888717055

@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11401,Haissem Hassan,2025,Real Oviedo,AMR,9,613,0,1,0.665000781416893,0.34449502825737,14,4,1,0,0,0.665000781416893,1.4299251437187197,0.5577168464660645
+11401,Haissem Hassan,2022,Villarreal,Sub,2,42,0,0,0.0,0.0178318005055189,0,1,0,0,0,0.0,0.3794905506074428,0.3616586523130536

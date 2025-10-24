@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8495,Taylor Harwood-Bellis,2024,Southampton,DC,34,2832,1,0,2.1951861269772053,1.9898590259253977,20,14,9,0,1,2.1951861269772053,7.381218569353223,6.122977705672383

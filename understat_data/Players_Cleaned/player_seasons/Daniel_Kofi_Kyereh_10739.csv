@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10739,Daniel-Kofi Kyereh,2022,Freiburg,Sub,12,564,2,0,2.88252479583025,0.1773829013109207,12,3,2,0,2,2.88252479583025,4.313074983656406,1.522851487621665

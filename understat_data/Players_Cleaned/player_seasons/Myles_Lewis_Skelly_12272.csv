@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12272,Myles Lewis-Skelly,2025,Arsenal,Sub,5,66,0,0,0.0,0.0,0,0,1,0,0,0.0,0.0687840059399604,0.0687840059399604
+12272,Myles Lewis-Skelly,2024,Arsenal,Sub,23,1371,1,0,0.2544533908367157,0.4991668798029423,3,8,3,2,1,0.2544533908367157,5.465138830244541,5.074087254703045

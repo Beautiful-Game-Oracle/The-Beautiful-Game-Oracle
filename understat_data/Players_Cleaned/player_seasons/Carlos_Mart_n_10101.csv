@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10101,Carlos Martín,2024,Alaves,Sub,26,1367,2,2,2.4801127864047885,2.588020442053676,26,12,3,0,2,2.4801127864047885,4.012961556203663,1.1108323587104678
+10101,Carlos Martín,2022,Atletico Madrid,Sub,4,20,0,0,0.0604281090199947,0.0,1,0,1,0,0,0.0604281090199947,0.0941899009048938,0.0337617918848991
+10101,Carlos Martín,2021,Atletico Madrid,Sub,1,1,0,0,0.0,0.0,0,0,1,0,0,0.0,0.0,0.0

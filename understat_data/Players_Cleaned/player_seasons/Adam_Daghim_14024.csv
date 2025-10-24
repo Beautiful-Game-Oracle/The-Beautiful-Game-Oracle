@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+14024,Adam Daghim,2025,Wolfsburg,Sub,5,263,1,0,0.5695409700274467,0,6,0,0,0,1,0.5695409700274467,1.3307966515421867,0.845178060233593

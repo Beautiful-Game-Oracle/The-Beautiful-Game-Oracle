@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12139,Yarek Gasiorowski,2024,Valencia,DC,15,944,0,0,1.0283358693122864,0.1623669546097517,3,3,1,0,0,1.0283358693122864,1.634927068836987,1.6144409673288465
+12139,Yarek Gasiorowski,2023,Valencia,Sub,14,714,0,0,0.0372236147522926,0.0,1,0,1,0,0,0.0372236147522926,0.8483194578438997,0.8483194578438997

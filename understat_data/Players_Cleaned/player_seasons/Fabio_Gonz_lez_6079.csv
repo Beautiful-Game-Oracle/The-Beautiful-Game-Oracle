@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+6079,Fabio González,2024,Las Palmas,Sub,2,44,0,0,0.0749905183911323,0.0,2,0,0,0,0,0.0749905183911323,0.0344765707850456,0.0
+6079,Fabio González,2023,Las Palmas,Sub,6,111,0,0,0.0,0.0,0,0,1,0,0,0.0,0.1532762944698333,0.1532762944698333
+6079,Fabio González,2017,Las Palmas,DMC,1,65,0,0,0.0,0.0414051003754138,0,1,1,0,0,0.0,0.0261195991188287,0.0261195991188287

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12911,Abdul Fatawu,2024,Leicester,AMR,11,571,0,2,0.466048689559102,1.4724965319037435,13,6,0,0,0,0.466048689559102,2.3615895370021462,1.3566849753260612

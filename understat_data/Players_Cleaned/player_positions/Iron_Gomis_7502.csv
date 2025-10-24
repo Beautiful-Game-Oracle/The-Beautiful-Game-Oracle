@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+7502,Iron Gomis,2023,,Sub,4,77,0,0,0.4435039106756449,0.1541541293263435,3,2,0,0,0,0.4435039106756449,0.6643382143229246,0.2401133980602026
+7502,Iron Gomis,2023,,MC,1,47,0,0,0.0,0.0128322457894682,0,1,0,0,0,0.0,0.0128322457894682,0.0

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11018,Jean Botué,2022,Ajaccio,Sub,8,221,0,0,0.2399590015411377,0.0945592001080513,6,3,0,0,0,0.2399590015411377,0.2351002991199493,0

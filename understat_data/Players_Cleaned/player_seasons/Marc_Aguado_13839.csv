@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13839,Marc Aguado,2025,Elche,MC,8,488,0,0,0.0593665391206741,0.0265332721173763,1,1,0,0,0,0.0593665391206741,1.0907237641513348,1.0641904920339584

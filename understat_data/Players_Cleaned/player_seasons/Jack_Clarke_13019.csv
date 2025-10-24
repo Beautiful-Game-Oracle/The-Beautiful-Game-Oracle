@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13019,Jack Clarke,2024,Ipswich,Sub,32,1151,0,4,1.3016396705061195,2.666540065780282,17,28,2,0,0,1.3016396705061195,5.49640105292201,1.9239521846175196

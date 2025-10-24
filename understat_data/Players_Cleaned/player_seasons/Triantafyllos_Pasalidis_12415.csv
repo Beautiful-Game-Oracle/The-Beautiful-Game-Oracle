@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12415,Triantafyllos Pasalidis,2023,Salernitana,DC,8,453,0,0,0,0.0316847469657659,0,2,3,0,0,0,0.3679116126149893,0.3679116126149893

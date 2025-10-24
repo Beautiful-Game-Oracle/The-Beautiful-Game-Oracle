@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13552,Hamidou Makalou,2025,,MC,1,70,0,0,0.0411848463118076,0.0,2,0,0,0,0,0.0411848463118076,0.0208419188857078,0.0099640311673283
+13552,Hamidou Makalou,2025,,Sub,5,37,0,0,0.0,0.1515110582113266,0,3,0,0,0,0.0,0.0219500791281461,0.0
+13552,Hamidou Makalou,2024,,Sub,4,20,0,0,0.0,0.0,0,0,0,0,0,0.0,0.1229897066950798,0.1229897066950798

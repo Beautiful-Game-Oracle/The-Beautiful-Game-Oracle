@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13882,Arkadiusz Pyrka,2025,,MR,5,355,0,0,0.1239126212894916,0.1758347889408469,3,4,2,0,0,0.1239126212894916,0.7955337241292,0.5203749593347311
+13882,Arkadiusz Pyrka,2025,,Sub,1,6,0,0,0.1291047185659408,0.0,1,0,0,0,0,0.1291047185659408,0.1291047185659408,0.0

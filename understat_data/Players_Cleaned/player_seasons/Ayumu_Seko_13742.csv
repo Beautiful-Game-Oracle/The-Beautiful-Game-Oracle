@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13742,Ayumu Seko,2025,Le Havre,DC,8,649,0,0,0.2710718940943479,0.0104203233495354,3,1,1,0,0,0.2710718940943479,0.6286239204928279,0.5978912524878979

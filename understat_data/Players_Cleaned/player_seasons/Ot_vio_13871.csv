@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13871,Otávio,2025,Paris FC,DC,6,536,0,0,0.0536862597800791,0.0293011181056499,2,1,1,1,0,0.0536862597800791,1.7143733948469162,1.678713671863079

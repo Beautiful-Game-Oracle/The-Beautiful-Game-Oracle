@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13699,Kwasi Sibo,2025,Real Oviedo,DMC,5,289,0,0,0.0677895247936248,0.0164593700319528,2,1,0,0,0,0.0677895247936248,0.5871401820331812,0.5028912797570229

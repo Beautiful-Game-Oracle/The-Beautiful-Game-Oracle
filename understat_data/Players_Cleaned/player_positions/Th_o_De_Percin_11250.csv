@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11250,Théo De Percin,2025,,GK,2,180,0,0,0,0,0,0,0,0,0,0,0.1040978282690048,0.1040978282690048
+11250,Théo De Percin,2025,,Sub,1,41,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+11250,Théo De Percin,2024,,GK,2,180,0,0,0,0,0,0,0,0,0,0,0.336399307474494,0.336399307474494

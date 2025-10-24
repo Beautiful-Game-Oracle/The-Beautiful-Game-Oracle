@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10826,Miha Blazic,2022,Angers,DC,24,1979,2,0,1.4864434469491243,0.0690288990736007,8,1,4,0,2,1.4864434469491243,4.358518810942769,4.311518615111709

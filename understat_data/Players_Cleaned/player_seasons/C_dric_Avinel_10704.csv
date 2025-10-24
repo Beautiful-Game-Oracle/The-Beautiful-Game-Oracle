@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10704,Cédric Avinel,2022,Ajaccio,DC,24,1780,1,0,1.4256590269505978,0,3,0,2,1,1,1.4256590269505978,2.124960911460221,2.124960911460221

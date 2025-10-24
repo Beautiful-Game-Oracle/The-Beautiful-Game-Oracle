@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10268,Giorgio Cittadini,2023,,DC,1,79,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+10268,Giorgio Cittadini,2023,,Sub,5,38,0,0,0,0,0,0,1,0,0,0,0.0826758220791816,0.0826758220791816
+10268,Giorgio Cittadini,2021,,Sub,2,2,0,0,0,0,0,0,0,0,0,0,0.0,0.0

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12055,Berkan Kutlu,2023,,Sub,6,182,0,0,0.2186781093478202,0.2188671566545963,4,5,0,0,0,0.2186781093478202,0.4601022694259882,0.0957148354500532

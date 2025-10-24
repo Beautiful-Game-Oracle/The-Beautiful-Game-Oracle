@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10913,André Onana,2024,Manchester United,GK,34,3060,0,0,0,0.3146860003471374,0,1,0,0,0,0,5.308094757609069,4.993408787064254
+10913,André Onana,2023,Manchester United,GK,38,3420,0,0,0,0.1317380405962467,0,3,5,0,0,0,4.992942536249757,4.861204484477639
+10913,André Onana,2022,Inter,GK,24,2160,0,0,0,0.0979619733989238,0,3,1,0,0,0,5.456124410033226,5.393919620662928

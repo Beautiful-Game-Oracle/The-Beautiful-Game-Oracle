@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12810,Ibrahim Sissoko,2024,Saint-Etienne,FW,20,808,3,1,4.034132689237595,0.8489692844450474,22,7,1,0,2,3.274037554860115,4.863001003861427,1.6858460363000631

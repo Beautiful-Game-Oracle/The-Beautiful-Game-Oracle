@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10091,Tyler Morton,2025,,DMC,7,608,1,0,0.5824028439819813,0.7449428029358387,6,11,0,1,1,0.5824028439819813,4.283659189939499,3.765409454703331
+10091,Tyler Morton,2021,,MC,1,63,0,0,0.0,0.0,0,0,1,0,0,0.0,0.0286305006593465,0.0286305006593465
+10091,Tyler Morton,2021,,Sub,1,5,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

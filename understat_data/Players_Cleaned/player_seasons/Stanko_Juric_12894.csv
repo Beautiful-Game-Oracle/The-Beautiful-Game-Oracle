@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12894,Stanko Juric,2024,Real Valladolid,Sub,26,1757,0,0,0.3885128498077392,0.5273087993264198,8,4,5,1,0,0.3885128498077392,5.142895905300975,4.918737573549151

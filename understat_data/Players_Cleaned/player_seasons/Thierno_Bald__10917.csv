@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10917,Thierno Baldé,2022,Troyes,Sub,31,2176,0,1,0.3006730079650879,1.0243812911212444,7,19,1,0,0,0.3006730079650879,3.02766933105886,1.9873575288802383

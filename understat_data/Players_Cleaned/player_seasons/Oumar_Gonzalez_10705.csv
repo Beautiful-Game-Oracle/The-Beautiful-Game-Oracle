@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10705,Oumar Gonzalez,2022,Ajaccio,DC,30,2591,0,0,0.3994428562000394,0,11,0,10,0,0,0.3994428562000394,2.76820501498878,2.76820501498878

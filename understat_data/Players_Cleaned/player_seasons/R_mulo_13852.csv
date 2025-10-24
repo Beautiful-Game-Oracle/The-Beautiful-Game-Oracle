@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13852,Rômulo,2025,RasenBallsport Leipzig,Sub,7,567,2,2,3.0972581692039967,0.628448698669672,14,4,0,0,2,3.0972581692039967,4.522085163742304,1.0819200687110424

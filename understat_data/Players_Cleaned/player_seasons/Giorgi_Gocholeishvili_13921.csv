@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13921,Giorgi Gocholeishvili,2025,Hamburger SV,DMR,5,430,0,0,0.2765754843130708,0.1167525276541709,6,3,0,1,0,0.2765754843130708,1.690680280327797,1.423371620476246

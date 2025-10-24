@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+5768,Remy Descamps,2025,Lyon,GK,4,360,0,0,0,0,0,0,0,0,0,0,0.7219540178775787,0.7219540178775787
+5768,Remy Descamps,2024,Lyon,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.167078748345375,0.167078748345375
+5768,Remy Descamps,2023,Nantes,GK,6,540,0,0,0,0,0,0,1,0,0,0,0.4793882556259632,0.4793882556259632
+5768,Remy Descamps,2022,Nantes,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.0,0.0

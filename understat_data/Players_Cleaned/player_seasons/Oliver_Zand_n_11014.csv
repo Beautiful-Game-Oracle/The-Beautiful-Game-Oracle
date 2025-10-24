@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11014,Oliver Zandén,2022,Toulouse,Sub,5,137,0,0,0.1244513979181647,0.0598928984254598,2,2,0,0,0,0.1244513979181647,0.170306796208024,0.1104139983654022

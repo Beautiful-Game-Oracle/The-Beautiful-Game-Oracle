@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13999,Terry Yegbe,2025,Metz,DL,6,482,0,0,0.0453035086393356,0.0356570333242416,1,1,0,0,0,0.0453035086393356,0.6781934127211571,0.6781934127211571

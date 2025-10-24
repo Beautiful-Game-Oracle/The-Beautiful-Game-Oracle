@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12075,Kauã Santos,2025,,GK,4,360,0,0,0,0.0,0,0,0,0,0,0,0.527815967798233,0.527815967798233
+12075,Kauã Santos,2024,,GK,8,720,0,0,0,0.0484839901328086,0,1,0,0,0,0,1.4341822918504477,1.3856982942670584
+12075,Kauã Santos,2024,,Sub,1,42,0,0,0,0.0,0,0,0,0,0,0,0.0344877913594245,0.0344877913594245

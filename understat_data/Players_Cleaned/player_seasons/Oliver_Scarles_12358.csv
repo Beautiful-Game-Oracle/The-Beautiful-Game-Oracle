@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12358,Oliver Scarles,2025,West Ham,DR,1,55,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0290671605616807,0.0290671605616807
+12358,Oliver Scarles,2024,West Ham,Sub,15,644,0,0,0.1373369004577398,0.1161051169037818,3,3,1,0,0,0.1373369004577398,0.7346537318080664,0.5881846826523542

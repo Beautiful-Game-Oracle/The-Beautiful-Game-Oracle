@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11715,Mads Andersen,2023,Luton,DC,8,390,1,0,0.6939341500401497,0,3,0,1,0,1,0.6939341500401497,0.6146718375384808,0.0423168651759624

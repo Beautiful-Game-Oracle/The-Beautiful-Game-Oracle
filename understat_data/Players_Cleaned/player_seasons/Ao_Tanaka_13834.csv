@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13834,Ao Tanaka,2025,Leeds,MC,6,183,0,0,0.1117604449391365,0.1530448608100414,2,4,0,0,0,0.1117604449391365,0.4989198707044124,0.2684757970273494

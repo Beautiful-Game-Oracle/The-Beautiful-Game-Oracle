@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11915,Fabian Nürnberger,2023,Darmstadt,DML,21,1495,1,1,0.8428393397480249,1.755262432619929,19,30,2,0,1,0.8428393397480249,5.695529833436012,4.431067931465805

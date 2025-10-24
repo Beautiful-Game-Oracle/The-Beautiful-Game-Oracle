@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13376,Pablo García,2025,Real Betis,Sub,6,170,0,0,0.9902947917580605,0,5,0,1,0,0,0.9902947917580605,1.2239283621311188,0.2759768962860107
+13376,Pablo García,2024,Real Betis,Sub,3,29,0,0,0.0,0,0,0,0,0,0,0.0,0.083320565521717,0.083320565521717

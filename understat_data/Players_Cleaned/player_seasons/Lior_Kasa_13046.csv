@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13046,Lior Kasa,2024,Genoa,Sub,8,221,0,0,0.8909140527248383,0.038125853985548,5,2,2,0,0,0.8909140527248383,1.4693591110408306,0.6169382594525814

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13386,Jacob Ondrejka,2024,Parma Calcio 1913,Sub,12,408,5,0,1.3530066162347794,1.156918689608574,14,8,0,0,5,1.3530066162347794,2.6188761815428734,1.2010995410382748

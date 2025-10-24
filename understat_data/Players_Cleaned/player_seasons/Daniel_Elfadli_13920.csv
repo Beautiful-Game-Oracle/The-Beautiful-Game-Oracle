@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13920,Daniel Elfadli,2025,Hamburger SV,DC,7,564,0,0,0.0966776572167873,0.1704634763300418,2,2,2,0,0,0.0966776572167873,1.1840090453624723,1.087331399321556

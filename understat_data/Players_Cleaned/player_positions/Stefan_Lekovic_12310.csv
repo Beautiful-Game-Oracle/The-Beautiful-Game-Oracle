@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12310,Stefan Lekovic,2024,,DC,3,270,0,0,0.0367909744381904,0,1,0,0,0,0,0.0367909744381904,0.1668106690049171,0.1668106690049171
+12310,Stefan Lekovic,2024,,Sub,4,85,0,0,0.0283881025388836,0,2,0,0,0,0,0.0283881025388836,0.0637971889227628,0.0637971889227628
+12310,Stefan Lekovic,2023,,Sub,1,23,0,0,0.0,0,0,0,0,0,0,0.0,0.0,0.0

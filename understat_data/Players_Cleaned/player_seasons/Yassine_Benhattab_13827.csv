@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13827,Yassine Benhattab,2025,Nantes,MR,7,372,0,0,0.1336922533810138,0.6575568914413452,3,5,0,0,0,0.1336922533810138,0.7912491634488106,0.0757802948355674

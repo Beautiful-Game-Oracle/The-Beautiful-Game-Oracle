@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10930,Etta Eyong,2025,,FW,9,736,5,3,5.627143479883671,1.3667552936822176,22,5,1,0,5,5.627143479883671,5.28862688690424,0.3054979722946882
+10930,Etta Eyong,2024,,Sub,4,25,1,0,0.4321245662868023,0.0,2,0,0,0,1,0.4321245662868023,0.4321245662868023,0.0
+10930,Etta Eyong,2023,,Sub,1,19,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

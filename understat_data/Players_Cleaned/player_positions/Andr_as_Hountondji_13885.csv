@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13885,Andréas Hountondji,2025,,FW,5,329,3,0,2.3104103431105614,0.0756922960281372,9,2,0,0,3,1.5526337251067162,0.9283162411302328,0
+13885,Andréas Hountondji,2025,,Sub,1,24,0,0,0.0067141591571271,0.0203309748321771,1,1,0,0,0,0.0067141591571271,0.0270451344549655,0

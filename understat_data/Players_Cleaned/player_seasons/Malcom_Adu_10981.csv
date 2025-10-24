@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10981,Malcom Adu,2024,Athletic Club,Sub,1,12,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+10981,Malcom Adu,2023,Athletic Club,Sub,12,238,0,0,0.1142076216638088,0.021074978634715,4,1,2,0,0,0.1142076216638088,0.8945511411875486,0.7989534009248018
+10981,Malcom Adu,2022,Athletic Club,Sub,8,68,0,0,0.0363125363364815,0.1316871326416731,2,3,0,0,0,0.0363125363364815,0.2920263092964887,0.1699718162417411

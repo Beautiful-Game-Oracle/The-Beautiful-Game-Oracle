@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12284,Samir El Mourabet,2025,Strasbourg,MC,8,410,0,0,0.2190369889140129,0.4313017874956131,4,2,0,0,0,0.2190369889140129,1.2588554993271828,0.642827995121479

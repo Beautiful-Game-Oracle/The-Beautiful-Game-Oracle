@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11178,Benjamin Tahirovic,2022,,MC,3,196,0,0,0,0.0130781000480055,0,1,0,0,0,0,0.097358763217926,0.097358763217926
+11178,Benjamin Tahirovic,2022,,DMC,1,90,0,0,0,0.0,0,0,0,0,0,0,0.6139553189277649,0.6139553189277649
+11178,Benjamin Tahirovic,2022,,Sub,7,63,0,0,0,0.0928688701242208,0,3,1,0,0,0,0.2490214686840772,0.2093148976564407

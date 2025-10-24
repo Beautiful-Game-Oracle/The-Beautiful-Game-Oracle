@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12936,Alexander Bernhardsson,2024,Holstein Kiel,FW,19,1288,7,2,3.981335630640388,1.6960009150207045,27,15,3,0,7,3.981335630640388,7.800582721829414,2.906135031953454

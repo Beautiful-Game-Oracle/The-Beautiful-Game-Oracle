@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10905,Assan Ceesay,2022,Lecce,FW,34,1824,6,0,5.534616737626493,0.7234046012163162,43,8,2,0,5,4.773317902348936,6.192364240065217,1.173143593594432

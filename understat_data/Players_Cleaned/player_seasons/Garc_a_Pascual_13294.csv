@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13294,García Pascual,2024,Sevilla,Sub,7,372,1,0,0.9836342222988604,0.0287371724843978,11,2,0,0,1,0.9836342222988604,2.0151879340410237,1.121624585241079

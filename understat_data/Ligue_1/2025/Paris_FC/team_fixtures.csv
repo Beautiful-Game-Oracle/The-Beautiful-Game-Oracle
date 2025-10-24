@@ -1,0 +1,27 @@
+id,isResult,side,h,a,goals,xG,datetime
+29614,False,h,"{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-24 18:45:00
+29622,False,h,"{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'id': '178', 'title': 'Lyon', 'short_title': 'LYO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-29 19:05:00
+29632,False,a,"{'id': '171', 'title': 'Monaco', 'short_title': 'MON'}","{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-02 12:00:00
+29644,False,h,"{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'id': '163', 'title': 'Rennes', 'short_title': 'REN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-09 12:00:00
+29649,False,a,"{'id': '160', 'title': 'Lille', 'short_title': 'LIL'}","{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-23 12:00:00
+29662,False,h,"{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'id': '275', 'title': 'Auxerre', 'short_title': 'AUX'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-30 12:00:00
+29666,False,a,"{'id': '282', 'title': 'Le Havre', 'short_title': 'LHV'}","{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-07 12:00:00
+29676,False,h,"{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'id': '174', 'title': 'Toulouse', 'short_title': 'TOU'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-14 12:00:00
+29689,False,a,"{'id': '161', 'title': 'Paris Saint Germain', 'short_title': 'PSG'}","{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-04 12:00:00
+29695,False,a,"{'id': '168', 'title': 'Nantes', 'short_title': 'NAN'}","{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-18 12:00:00
+29707,False,h,"{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'id': '167', 'title': 'Angers', 'short_title': 'ANG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-25 12:00:00
+29715,False,h,"{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'id': '164', 'title': 'Marseille', 'short_title': 'MAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-01 12:00:00
+29719,False,a,"{'id': '275', 'title': 'Auxerre', 'short_title': 'AUX'}","{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-08 12:00:00
+29734,False,h,"{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'id': '210', 'title': 'Lens', 'short_title': 'LEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-15 12:00:00
+29744,False,a,"{'id': '174', 'title': 'Toulouse', 'short_title': 'TOU'}","{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-22 12:00:00
+29751,False,h,"{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'id': '170', 'title': 'Nice', 'short_title': 'NIC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-01 12:00:00
+29758,False,a,"{'id': '178', 'title': 'Lyon', 'short_title': 'LYO'}","{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-08 12:00:00
+29771,False,a,"{'id': '225', 'title': 'Strasbourg', 'short_title': 'STR'}","{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-15 12:00:00
+29778,False,h,"{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'id': '282', 'title': 'Le Havre', 'short_title': 'LHV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-22 12:00:00
+29785,False,a,"{'id': '179', 'title': 'Lorient', 'short_title': 'LOR'}","{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-05 12:00:00
+29796,False,h,"{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'id': '171', 'title': 'Monaco', 'short_title': 'MON'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-12 12:00:00
+29803,False,a,"{'id': '180', 'title': 'Metz', 'short_title': 'MET'}","{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-19 12:00:00
+29814,False,h,"{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'id': '160', 'title': 'Lille', 'short_title': 'LIL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-26 12:00:00
+29823,False,h,"{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'id': '241', 'title': 'Brest', 'short_title': 'BRE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-03 12:00:00
+29833,False,a,"{'id': '163', 'title': 'Rennes', 'short_title': 'REN'}","{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 12:00:00
+29842,False,h,"{'id': '290', 'title': 'Paris FC', 'short_title': 'PAR'}","{'id': '161', 'title': 'Paris Saint Germain', 'short_title': 'PSG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-16 12:00:00

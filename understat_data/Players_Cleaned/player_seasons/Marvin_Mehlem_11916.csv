@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11916,Marvin Mehlem,2023,Darmstadt,MC,20,1538,3,2,3.027790492400527,1.337923001497984,23,22,3,0,3,3.027790492400527,6.99539487157017,3.0663306284695864

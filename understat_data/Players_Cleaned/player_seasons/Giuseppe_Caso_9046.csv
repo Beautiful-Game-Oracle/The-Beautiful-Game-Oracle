@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9046,Giuseppe Caso,2023,Frosinone,FWL,14,381,0,0,0.33439452201128,0.1467023659497499,7,3,2,0,0,0.33439452201128,0.6358818951994181,0.1547850109636783
+9046,Giuseppe Caso,2020,Genoa,Sub,2,51,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

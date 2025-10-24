@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8923,Ivo Grbic,2023,Sheffield United,GK,9,776,0,0,0,0,0,0,1,0,0,0,0.5941517408937216,0.5941517408937216
+8923,Ivo Grbic,2022,Atletico Madrid,Sub,12,916,0,0,0,0,0,0,2,0,0,0,1.2085706405341623,1.2085706405341623
+8923,Ivo Grbic,2021,Lille,GK,21,1890,0,0,0,0,0,0,3,0,0,0,2.2709088791161776,2.2709088791161776

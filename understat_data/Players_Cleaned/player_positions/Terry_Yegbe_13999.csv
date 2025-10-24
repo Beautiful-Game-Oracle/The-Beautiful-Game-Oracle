@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13999,Terry Yegbe,2025,,DC,4,360,0,0,0.0453035086393356,0.0356570333242416,1,1,0,0,0,0.0453035086393356,0.5834725946187973,0.5834725946187973
+13999,Terry Yegbe,2025,,DL,1,81,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0947208181023597,0.0947208181023597
+13999,Terry Yegbe,2025,,Sub,1,41,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

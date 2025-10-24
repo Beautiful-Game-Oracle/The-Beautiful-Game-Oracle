@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13966,Martijn Kaars,2025,St. Pauli,Sub,6,259,0,0,1.175318967550993,0.1442213850095868,8,3,0,0,0,1.175318967550993,1.7646585265174508,0.4451182037591934

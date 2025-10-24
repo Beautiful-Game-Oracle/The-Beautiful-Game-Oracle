@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12984,Adam Dzwigala,2025,St. Pauli,DC,6,424,1,0,0.0630764663219451,0,1,0,3,0,1,0.0630764663219451,0.6169338002800941,0.6169338002800941
+12984,Adam Dzwigala,2024,St. Pauli,Sub,16,350,0,0,0.5729740587994456,0,6,0,2,1,0,0.5729740587994456,1.376060789451003,0.9805232640355824

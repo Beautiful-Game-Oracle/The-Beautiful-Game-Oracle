@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13812,Alpha Touré,2025,Metz,Sub,8,274,0,0,0,0.0472625531256198,0,1,0,0,0,0,0.0985698960721492,0.0985698960721492

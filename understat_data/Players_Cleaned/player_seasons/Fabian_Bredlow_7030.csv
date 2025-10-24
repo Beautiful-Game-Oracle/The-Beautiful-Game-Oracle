@@ -1,0 +1,6 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+7030,Fabian Bredlow,2023,VfB Stuttgart,GK,4,360,0,0,0,0,0,0,0,0,0,0,0.5643789768218994,0.5643789768218994
+7030,Fabian Bredlow,2022,VfB Stuttgart,GK,15,1350,0,0,0,0,0,0,2,0,0,0,0.9451732290908694,0.9451732290908694
+7030,Fabian Bredlow,2021,VfB Stuttgart,GK,4,360,0,0,0,0,0,0,0,0,0,0,0.5360388914123178,0.5360388914123178
+7030,Fabian Bredlow,2020,VfB Stuttgart,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.6642630100250244,0.6642630100250244
+7030,Fabian Bredlow,2018,Nuernberg,GK,13,1127,0,0,0,0,0,0,0,0,0,0,1.1091578248888254,1.1091578248888254

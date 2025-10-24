@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+14041,Vladyslav Vanat,2025,,FW,6,440,2,0,1.9042451828718183,0.7172680348157883,8,4,0,0,2,1.9042451828718183,2.7071066685020924,0.6645252406597137

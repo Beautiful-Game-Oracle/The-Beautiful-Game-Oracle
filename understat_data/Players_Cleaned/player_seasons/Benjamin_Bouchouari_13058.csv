@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13058,Benjamin Bouchouari,2024,Saint-Etienne,Sub,25,1794,1,0,0.6214983556419611,1.004872465506196,16,16,6,0,1,0.6214983556419611,7.28993059322238,6.03708615526557

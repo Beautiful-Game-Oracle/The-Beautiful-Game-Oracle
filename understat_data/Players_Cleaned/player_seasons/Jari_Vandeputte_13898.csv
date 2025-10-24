@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13898,Jari Vandeputte,2025,Cremonese,MC,7,385,0,3,0.0933332368731498,1.7169444989413023,2,11,1,0,0,0.0933332368731498,0.864619305357337,0.257677648216486

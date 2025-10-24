@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10765,Gavin Bazunu,2022,,GK,32,2880,0,0,0,0.0428376011550426,0,1,0,0,0,0,3.4182891845703125,3.375451184809208

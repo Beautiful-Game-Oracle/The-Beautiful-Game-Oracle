@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13006,Joël Schingtienne,2024,Venezia,DC,16,1124,0,0,0,0.0965624712407589,0,3,2,0,0,0,0.4356286553665995,0.4160086130723357

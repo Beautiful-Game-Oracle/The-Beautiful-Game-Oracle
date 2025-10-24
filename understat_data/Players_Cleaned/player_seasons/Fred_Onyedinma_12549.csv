@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12549,Fred Onyedinma,2023,Luton,Sub,8,419,0,0,0.1841092407703399,0.1307402979582548,5,2,1,0,0,0.1841092407703399,0.5668405517935753,0.2519910037517547

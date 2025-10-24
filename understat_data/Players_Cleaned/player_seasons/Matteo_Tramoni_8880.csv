@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8880,Matteo Tramoni,2025,Pisa,AMC,7,370,0,0,0.5301112979650497,0.1587557010352611,6,4,1,0,0,0.5301112979650497,1.154888667166233,0.6247773692011833
+8880,Matteo Tramoni,2020,Cagliari,Sub,6,65,0,0,0.0262704007327556,0.0,1,0,1,0,0,0.0262704007327556,0.0262704007327556,0.0

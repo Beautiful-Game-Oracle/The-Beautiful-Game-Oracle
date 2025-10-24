@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9638,Arthur Desmas,2024,,GK,18,1620,0,0,0,0.0407986566424369,0,1,2,0,0,0,2.1496369624510407,2.108838298358023
+9638,Arthur Desmas,2023,,GK,33,2970,0,0,0,0.1745983362197876,0,1,2,0,0,0,2.015949409455061,1.8413510732352731
+9638,Arthur Desmas,2021,,GK,15,1307,0,0,0,0.0,0,0,0,0,0,0,1.139230502769351,1.139230502769351

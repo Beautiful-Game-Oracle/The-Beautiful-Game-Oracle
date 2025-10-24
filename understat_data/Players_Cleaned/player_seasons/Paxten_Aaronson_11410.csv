@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11410,Paxten Aaronson,2023,Eintracht Frankfurt,Sub,7,83,0,1,0.0924492925405502,0.0662584900856018,2,1,0,0,0,0.0924492925405502,0.7425932139158249,0.5838854312896729
+11410,Paxten Aaronson,2022,Eintracht Frankfurt,Sub,7,151,0,0,0.1830796971917152,0.0383976958692073,4,1,1,0,0,0.1830796971917152,0.3182397484779358,0.1995541602373123

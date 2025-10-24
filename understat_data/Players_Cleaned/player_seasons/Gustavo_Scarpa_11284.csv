@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11284,Gustavo Scarpa,2022,Nottingham Forest,Sub,6,173,0,0,0.2078698715195059,0.0278489999473094,7,1,1,0,0,0.2078698715195059,0.4971910044550895,0.2983762994408607

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11925,Thomas Isherwood,2023,Darmstadt,DC,12,649,0,0,0,0.0350511409342289,0,1,1,0,0,0,0.8119191695004702,0.8119191695004702

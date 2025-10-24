@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+14031,Charles Vanhoutte,2025,Nice,MC,5,437,0,1,0.0757698845118284,0.3577098548412323,2,3,2,0,0,0.0757698845118284,2.005742184817791,1.5887718126177788

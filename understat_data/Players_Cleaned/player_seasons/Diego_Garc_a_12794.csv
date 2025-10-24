@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12794,Diego García,2024,Leganes,Sub,28,1171,3,0,4.401241090148687,0.2550247954204678,29,6,2,0,3,4.401241090148687,4.547595828771591,0.9056342523545028

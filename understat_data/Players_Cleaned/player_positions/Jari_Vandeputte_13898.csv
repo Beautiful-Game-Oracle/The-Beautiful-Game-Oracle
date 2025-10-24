@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13898,Jari Vandeputte,2025,,MC,5,331,0,2,0.0933332368731498,1.1979612465947866,2,9,1,0,0,0.0933332368731498,0.3616955783218145,0.257677648216486
+13898,Jari Vandeputte,2025,,Sub,2,54,0,1,0.0,0.5189832523465157,0,2,0,0,0,0.0,0.5029237270355225,0.0

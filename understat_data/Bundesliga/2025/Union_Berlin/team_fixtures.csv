@@ -1,0 +1,28 @@
+id,isResult,side,h,a,goals,xG,datetime
+30295,False,a,"{'id': '123', 'title': 'Werder Bremen', 'short_title': 'WER'}","{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-24 18:30:00
+30303,False,h,"{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'id': '135', 'title': 'Freiburg', 'short_title': 'FRE'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 12:30:00
+30312,False,h,"{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'id': '117', 'title': 'Bayern Munich', 'short_title': 'BAY'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 12:30:00
+30321,False,a,"{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 12:30:00
+30330,False,h,"{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'id': '280', 'title': 'FC Heidenheim', 'short_title': 'HEI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 12:30:00
+30333,False,a,"{'id': '131', 'title': 'Wolfsburg', 'short_title': 'WOL'}","{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 12:30:00
+30348,False,h,"{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'id': '136', 'title': 'RasenBallsport Leipzig', 'short_title': 'RBL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 12:30:00
+30352,False,a,"{'id': '134', 'title': 'FC Cologne', 'short_title': 'COL'}","{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 12:30:00
+30366,False,h,"{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'id': '125', 'title': 'Mainz 05', 'short_title': 'MAI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-10 12:30:00
+30368,False,a,"{'id': '121', 'title': 'Augsburg', 'short_title': 'AUG'}","{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-14 12:30:00
+30383,False,a,"{'id': '133', 'title': 'VfB Stuttgart', 'short_title': 'STU'}","{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 12:30:00
+30394,False,h,"{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'id': '129', 'title': 'Borussia Dortmund', 'short_title': 'DOR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 12:30:00
+30400,False,a,"{'id': '120', 'title': 'Hoffenheim', 'short_title': 'HOF'}","{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 12:30:00
+30411,False,h,"{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'id': '132', 'title': 'Eintracht Frankfurt', 'short_title': 'EIN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 12:30:00
+30417,False,a,"{'id': '118', 'title': 'Hamburger SV', 'short_title': 'HAM'}","{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-14 12:30:00
+30429,False,h,"{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'id': '119', 'title': 'Bayer Leverkusen', 'short_title': 'LEV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 12:30:00
+30433,False,a,"{'id': '130', 'title': 'Borussia M.Gladbach', 'short_title': 'BMG'}","{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 12:30:00
+30447,False,h,"{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'id': '123', 'title': 'Werder Bremen', 'short_title': 'WER'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-07 12:30:00
+30453,False,a,"{'id': '135', 'title': 'Freiburg', 'short_title': 'FRE'}","{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 12:30:00
+30459,False,a,"{'id': '117', 'title': 'Bayern Munich', 'short_title': 'BAY'}","{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 12:30:00
+30474,False,h,"{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'id': '288', 'title': 'St. Pauli', 'short_title': 'SPA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-04 12:30:00
+30479,False,a,"{'id': '280', 'title': 'FC Heidenheim', 'short_title': 'HEI'}","{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 12:30:00
+30492,False,h,"{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'id': '131', 'title': 'Wolfsburg', 'short_title': 'WOL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 12:30:00
+30500,False,a,"{'id': '136', 'title': 'RasenBallsport Leipzig', 'short_title': 'RBL'}","{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 12:30:00
+30510,False,h,"{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'id': '134', 'title': 'FC Cologne', 'short_title': 'COL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 12:30:00
+30517,False,a,"{'id': '125', 'title': 'Mainz 05', 'short_title': 'MAI'}","{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 12:30:00
+30528,False,h,"{'id': '240', 'title': 'Union Berlin', 'short_title': 'UNI'}","{'id': '121', 'title': 'Augsburg', 'short_title': 'AUG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-16 12:30:00

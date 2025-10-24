@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9134,Alessandro Di Pardo,2025,Cagliari,Sub,2,49,0,0,0.1000637710094451,0.0,1,0,0,0,0,0.1000637710094451,0.1000637710094451,0.0
+9134,Alessandro Di Pardo,2023,Cagliari,Sub,15,318,0,0,0.1110992114990949,0.1954643037170171,3,5,0,0,0,0.1110992114990949,0.652215588837862,0.520976459607482
+9134,Alessandro Di Pardo,2020,Juventus,Sub,4,7,0,0,0.0,0.0211431998759508,0,1,0,0,0,0.0,0.0211431998759508,0.0

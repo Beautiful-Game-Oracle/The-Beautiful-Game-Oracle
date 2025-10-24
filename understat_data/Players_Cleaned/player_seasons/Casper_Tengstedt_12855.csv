@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12855,Casper Tengstedt,2024,Verona,FW,25,1552,6,1,5.571623582392931,1.2589485691860318,38,12,2,0,5,4.810324747115374,7.137801101431251,1.7660519918426871

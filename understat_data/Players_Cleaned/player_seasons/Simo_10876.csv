@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10876,Simo,2022,Espanyol,Sub,7,121,0,0,0,0,0,0,0,0,0,0,0.1399689018726349,0.1399689018726349

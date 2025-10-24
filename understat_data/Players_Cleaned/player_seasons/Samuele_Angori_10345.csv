@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10345,Samuele Angori,2025,Pisa,DML,6,344,0,1,0.0136445835232734,1.2663301527500153,1,5,0,0,0,0.0136445835232734,1.6508406400680542,1.08736851811409

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13750,Kojo Peprah Oppong,2025,Nice,DC,8,683,1,0,0.1679800245910883,0.5910270726308227,3,6,1,0,1,0.1679800245910883,2.191767630167305,1.9517199397087095

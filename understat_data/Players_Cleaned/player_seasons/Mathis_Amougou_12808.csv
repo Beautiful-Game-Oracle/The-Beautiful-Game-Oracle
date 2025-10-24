@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12808,Mathis Amougou,2025,Strasbourg,MC,3,137,0,0,0.1270902082324028,0.0589719004929065,2,1,0,0,0,0.1270902082324028,0.186062105000019,0.035762682557106
+12808,Mathis Amougou,2024,Saint-Etienne,MC,17,840,0,0,0.424521129578352,0.3597651943564415,7,7,2,0,0,0.424521129578352,1.942910548299551,1.38503728620708
+12808,Mathis Amougou,2024,Chelsea,Sub,1,5,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

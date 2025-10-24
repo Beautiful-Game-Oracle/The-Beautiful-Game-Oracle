@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13926,Alexander Røssing-Lelesiit,2025,Hamburger SV,FWL,5,196,0,0,0.0295985750854015,0.3746860325336456,1,1,0,0,0,0.0295985750854015,0.4399360902607441,0.0356514826416969

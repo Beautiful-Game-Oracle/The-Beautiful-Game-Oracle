@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+7728,Gautier Larsonneur,2024,Saint-Etienne,GK,34,3060,0,0,0,0.0267612524330616,0,1,5,0,0,0,3.981030684430152,3.9542694282718
+7728,Gautier Larsonneur,2020,Brest,GK,35,3150,0,0,0,0.0,0,0,2,0,0,0,2.26735189370811,2.26735189370811
+7728,Gautier Larsonneur,2019,Brest,GK,27,2400,0,0,0,0.0101004000753164,0,1,2,0,0,0,1.9035919960588217,1.8934916984289885

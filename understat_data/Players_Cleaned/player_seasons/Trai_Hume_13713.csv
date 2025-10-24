@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13713,Trai Hume,2025,Sunderland,DR,8,715,0,1,0.4520790800452232,0.6096125692129135,6,6,0,0,0,0.4520790800452232,2.2572062462568283,1.2568536400794983

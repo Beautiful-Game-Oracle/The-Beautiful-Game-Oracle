@@ -1,0 +1,30 @@
+id,isResult,side,h,a,goals,xG,datetime
+29250,False,h,"{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'id': '138', 'title': 'Sevilla', 'short_title': 'SEV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-26 15:00:00
+29264,False,h,"{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'id': '147', 'title': 'Athletic Club', 'short_title': 'ATH'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-02 14:00:00
+29270,False,a,"{'id': '207', 'title': 'Elche', 'short_title': 'ELC'}","{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-09 14:00:00
+29282,False,a,"{'id': '157', 'title': 'Osasuna', 'short_title': 'OSA'}","{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-23 14:00:00
+29293,False,h,"{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'id': '154', 'title': 'Villarreal', 'short_title': 'VIL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-30 14:00:00
+29298,False,a,"{'id': '158', 'title': 'Alaves', 'short_title': 'ALA'}","{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-07 14:00:00
+29316,False,h,"{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'id': '223', 'title': 'Girona', 'short_title': 'GIR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-14 14:00:00
+29321,False,a,"{'id': '151', 'title': 'Levante', 'short_title': 'LEV'}","{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-21 14:00:00
+29332,False,h,"{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'id': '143', 'title': 'Atletico Madrid', 'short_title': 'ATL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-04 14:00:00
+29339,False,a,"{'id': '142', 'title': 'Getafe', 'short_title': 'GET'}","{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-11 14:00:00
+29350,False,h,"{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'id': '148', 'title': 'Barcelona', 'short_title': 'BAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-18 14:00:00
+29362,False,h,"{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'id': '152', 'title': 'Celta Vigo', 'short_title': 'CEL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-25 14:00:00
+29376,False,a,"{'id': '147', 'title': 'Athletic Club', 'short_title': 'ATH'}","{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-01 14:00:00
+29383,False,h,"{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'id': '207', 'title': 'Elche', 'short_title': 'ELC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-08 14:00:00
+29391,False,a,"{'id': '150', 'title': 'Real Madrid', 'short_title': 'RMA'}","{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-15 14:00:00
+29407,False,h,"{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'id': '289', 'title': 'Real Oviedo', 'short_title': 'OVI'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-22 14:00:00
+29411,False,a,"{'id': '239', 'title': 'Mallorca', 'short_title': 'MAL'}","{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-01 14:00:00
+29419,False,a,"{'id': '143', 'title': 'Atletico Madrid', 'short_title': 'ATL'}","{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-08 14:00:00
+29437,False,h,"{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'id': '157', 'title': 'Osasuna', 'short_title': 'OSA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-15 14:00:00
+29438,False,a,"{'id': '154', 'title': 'Villarreal', 'short_title': 'VIL'}","{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-22 14:00:00
+29457,False,h,"{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'id': '151', 'title': 'Levante', 'short_title': 'LEV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-05 14:00:00
+29464,False,h,"{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'id': '158', 'title': 'Alaves', 'short_title': 'ALA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-12 14:00:00
+29475,False,a,"{'id': '145', 'title': 'Rayo Vallecano', 'short_title': 'RVL'}","{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-19 14:00:00
+29487,False,h,"{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'id': '142', 'title': 'Getafe', 'short_title': 'GET'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-22 18:00:00
+29490,False,a,"{'id': '138', 'title': 'Sevilla', 'short_title': 'SEV'}","{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-03 14:00:00
+29504,False,h,"{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'id': '153', 'title': 'Real Betis', 'short_title': 'BET'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-10 14:00:00
+29512,False,a,"{'id': '223', 'title': 'Girona', 'short_title': 'GIR'}","{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-13 18:00:00
+29521,False,h,"{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'id': '146', 'title': 'Valencia', 'short_title': 'VAL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 14:00:00
+29531,False,a,"{'id': '141', 'title': 'Espanyol', 'short_title': 'ESP'}","{'id': '140', 'title': 'Real Sociedad', 'short_title': 'SOC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 14:00:00

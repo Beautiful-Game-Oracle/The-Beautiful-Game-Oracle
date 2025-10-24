@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12187,Jordan Clark,2023,Luton,Sub,23,1326,1,1,0.9263012297451496,1.848531438037753,17,12,4,0,1,0.9263012297451496,4.373950673267245,2.606989283114672

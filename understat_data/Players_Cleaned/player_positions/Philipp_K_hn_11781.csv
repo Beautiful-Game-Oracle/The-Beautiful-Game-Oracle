@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11781,Philipp Köhn,2025,,GK,5,450,0,0,0,0,0,0,0,0,0,0,0.0864478256553411,0.0864478256553411
+11781,Philipp Köhn,2025,,Sub,1,6,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+11781,Philipp Köhn,2024,,GK,19,1710,0,0,0,0,0,0,1,0,0,0,2.3390723280608654,2.3390723280608654
+11781,Philipp Köhn,2023,,GK,22,1980,0,0,0,0,0,0,0,0,0,0,2.378115151077509,2.378115151077509

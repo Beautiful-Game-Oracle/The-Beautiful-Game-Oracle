@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9744,Justin Smith,2024,Espanyol,Sub,5,209,0,0,0,0.0280212052166461,0,1,0,0,0,0,0.0928542204201221,0.0648330152034759

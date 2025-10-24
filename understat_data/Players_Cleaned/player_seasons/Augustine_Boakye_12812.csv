@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12812,Augustine Boakye,2024,Saint-Etienne,Sub,17,741,3,0,2.264409612864256,1.1281934641301632,24,13,5,0,3,2.264409612864256,3.782478144392371,1.0123123545199633

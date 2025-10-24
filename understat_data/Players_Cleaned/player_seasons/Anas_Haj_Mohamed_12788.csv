@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12788,Anas Haj Mohamed,2024,Parma Calcio 1913,Sub,15,450,1,2,1.0511461086571217,1.2685235664248466,7,9,4,0,1,1.0511461086571217,2.5591691844165325,0.9298625811934472

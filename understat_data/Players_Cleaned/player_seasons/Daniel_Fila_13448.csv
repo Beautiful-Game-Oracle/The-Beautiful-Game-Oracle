@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13448,Daniel Fila,2024,Venezia,FW,10,495,2,0,1.922950215637684,0.3483077250421047,8,6,1,1,2,1.922950215637684,2.6668144688010216,0.4618998505175113

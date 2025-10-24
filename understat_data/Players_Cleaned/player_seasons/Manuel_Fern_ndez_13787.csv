@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13787,Manuel Fernández,2025,Celta Vigo,DC,5,334,0,0,0.0420662704855203,0,2,0,0,0,0,0.0420662704855203,1.9308704137802124,1.8888041973114011

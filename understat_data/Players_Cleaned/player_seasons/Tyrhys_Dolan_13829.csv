@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13829,Tyrhys Dolan,2025,Espanyol,Sub,9,666,0,1,0.5005567967891693,1.6548061557114124,8,10,0,0,0,0.5005567967891693,3.09417936950922,2.136793158948421

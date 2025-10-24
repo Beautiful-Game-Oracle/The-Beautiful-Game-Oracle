@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11061,Michel Diaz,2025,Brest,Sub,6,463,0,0,0.1544737033545971,0.0303069576621055,3,1,0,0,0,0.1544737033545971,0.6445426382124424,0.6445426382124424

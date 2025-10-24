@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11895,Jacob Christensen,2023,FC Cologne,Sub,7,205,0,0,0.0182674210518598,0.0937909930944442,1,2,1,0,0,0.0182674210518598,0.6576025113463402,0.6196731775999069

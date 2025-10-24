@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12718,Adrián Pica,2024,Alaves,DC,9,489,0,0,0.6004659123718739,0.0624145939946174,4,1,1,0,0,0.6004659123718739,0.9397268313914536,0.9397268313914536

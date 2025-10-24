@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11717,Carlton Morris,2023,Luton,FW,38,2879,11,4,12.306741118431091,3.691950936801732,72,22,4,0,6,8.500896904617548,12.545526312664151,5.202579701319337

@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10708,Qazim Laçi,2022,,MC,2,163,0,0,0.1022646985948085,0.1230579987168312,4,2,0,0,0,0.1022646985948085,0.0845236033201217,0.0572299007326364
+10708,Qazim Laçi,2022,,Sub,7,37,0,0,0.0,0.0233587995171546,0,1,0,0,0,0.0,0.0,0.0

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11927,Samuele Mulattieri,2023,Sassuolo,Sub,27,388,0,0,1.2952582612633703,0.6014150744304061,13,7,1,0,0,1.2952582612633703,2.41062904894352,0.6421138299629092

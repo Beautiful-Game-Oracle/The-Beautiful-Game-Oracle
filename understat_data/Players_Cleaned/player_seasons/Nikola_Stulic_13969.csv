@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13969,Nikola Stulic,2025,Lecce,Sub,6,414,0,0,0.4087442103773355,0.6337791755795479,7,7,0,0,0,0.4087442103773355,0.9849799647927284,0.2446354925632476

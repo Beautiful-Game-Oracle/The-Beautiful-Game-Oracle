@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13837,David Affengruber,2025,Elche,DC,8,660,0,0,0,0.1093732714653015,0,1,2,1,0,0,2.281812958419323,2.172439686954021

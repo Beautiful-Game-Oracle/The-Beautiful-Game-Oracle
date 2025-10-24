@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13354,Alberto Costa,2024,Juventus,Sub,9,342,0,1,1.0256558116525412,0.120165679603815,7,2,3,0,0,1.0256558116525412,3.014067862182856,2.2493527457118034

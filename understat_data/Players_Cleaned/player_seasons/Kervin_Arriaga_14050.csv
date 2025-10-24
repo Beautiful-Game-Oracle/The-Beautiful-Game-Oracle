@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+14050,Kervin Arriaga,2025,Levante,Sub,6,284,0,0,0.0218111742287874,0.1014613434672355,1,2,0,0,0,0.0218111742287874,0.9479526951909064,0.8553365990519524

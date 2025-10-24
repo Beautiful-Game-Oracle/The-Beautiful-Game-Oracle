@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12442,Kamil Józwiak,2023,Granada,Sub,11,585,0,1,0.1520807240158319,1.2023921310901642,4,5,2,0,0,0.1520807240158319,1.7419395167380571,0.399547622539103

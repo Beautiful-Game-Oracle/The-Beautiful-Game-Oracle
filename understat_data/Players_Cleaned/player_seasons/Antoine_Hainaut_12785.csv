@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12785,Antoine Hainaut,2024,Parma Calcio 1913,Sub,25,1184,2,0,0.853666452690959,0.7657707277685404,6,9,4,0,2,0.853666452690959,2.990510476753116,2.2022153213620186

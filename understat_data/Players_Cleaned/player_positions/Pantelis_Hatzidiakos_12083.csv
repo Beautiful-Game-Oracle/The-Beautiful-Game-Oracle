@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12083,Pantelis Hatzidiakos,2023,,DC,12,812,0,0,0.2641571993008256,0.0194045137614011,4,1,1,0,0,0.2641571993008256,1.2750499630346894,1.2441863417625427
+12083,Pantelis Hatzidiakos,2023,,DR,1,78,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

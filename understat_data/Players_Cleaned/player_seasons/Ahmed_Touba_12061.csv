@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12061,Ahmed Touba,2023,Lecce,Sub,6,272,0,0,0.0409594699740409,0,1,0,1,0,0,0.0409594699740409,0.5359840150922537,0.5359840150922537

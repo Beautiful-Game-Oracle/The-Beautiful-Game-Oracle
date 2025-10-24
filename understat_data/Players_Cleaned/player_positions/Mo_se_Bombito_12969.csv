@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12969,Moïse Bombito,2025,,DC,2,154,0,0,0.0,0.0,0,0,1,0,0,0.0,0.0,0.0
+12969,Moïse Bombito,2024,,DC,25,2157,0,0,0.667370643466711,0.0967963011935353,8,2,1,1,0,0.667370643466711,10.300597555935385,10.190820388495922
+12969,Moïse Bombito,2024,,Sub,2,40,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

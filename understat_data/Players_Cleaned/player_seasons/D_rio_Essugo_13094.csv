@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13094,Dário Essugo,2024,Las Palmas,MC,27,1985,1,0,0.6471306988969445,0.4316724920645356,23,13,7,2,1,0.6471306988969445,4.46547017712146,3.756997517310083

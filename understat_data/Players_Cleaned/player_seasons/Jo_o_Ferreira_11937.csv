@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11937,João Ferreira,2023,Udinese,Sub,35,1788,0,1,0.1530463099479675,1.0152465980499985,3,13,10,0,0,0.1530463099479675,4.543129182420671,4.267973645590246

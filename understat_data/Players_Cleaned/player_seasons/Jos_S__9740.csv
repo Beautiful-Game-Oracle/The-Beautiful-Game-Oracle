@@ -1,0 +1,6 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9740,José Sá,2025,Wolverhampton Wanderers,GK,4,360,0,0,0,0.0831252336502075,0,1,0,0,0,0,0.2220858838409185,0.138960650190711
+9740,José Sá,2024,Wolverhampton Wanderers,GK,29,2610,0,0,0,0.0653070900589227,0,3,2,0,0,0,1.157527199015021,1.0922201070934534
+9740,José Sá,2023,Wolverhampton Wanderers,GK,35,3041,0,0,0,0.0,0,0,1,0,0,0,2.765407490544021,2.765407490544021
+9740,José Sá,2022,Wolverhampton Wanderers,GK,36,3240,0,0,0,0.0,0,0,2,0,0,0,1.553518857806921,1.553518857806921
+9740,José Sá,2021,Wolverhampton Wanderers,GK,37,3291,0,1,0,0.3950190022587776,0,2,3,0,0,0,2.492334073409438,2.0973150711506605

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10820,Andreas Bruus,2022,Troyes,DR,27,1623,0,2,0.6772336643189192,1.5195470787584782,11,21,2,0,0,0.6772336643189192,3.587665805593133,1.921816512942314

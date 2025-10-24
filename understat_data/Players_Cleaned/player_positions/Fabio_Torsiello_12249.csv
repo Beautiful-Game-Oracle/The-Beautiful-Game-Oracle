@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12249,Fabio Torsiello,2023,,Sub,9,67,0,0,0.4996874183416366,0.07237359136343,4,1,0,0,0,0.4996874183416366,0.56004523858428,0.0330613553524017
+12249,Fabio Torsiello,2023,,FW,1,49,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0327829793095588,0.0327829793095588

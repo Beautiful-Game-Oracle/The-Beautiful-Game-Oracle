@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12722,Gabriel Misehouy,2024,Girona,Sub,9,235,1,0,0.7535906955599785,0.1836777087301015,6,4,0,0,1,0.7535906955599785,1.0116856452077627,0.254432993941009

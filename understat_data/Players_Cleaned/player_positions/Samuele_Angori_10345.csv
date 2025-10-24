@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10345,Samuele Angori,2025,,DML,4,289,0,0,0.0136445835232734,0.7046673893928528,1,3,0,0,0,0.0136445835232734,1.0517660975456238,1.038121521472931
+10345,Samuele Angori,2025,,Sub,2,55,0,1,0.0,0.5616627633571625,0,2,0,0,0,0.0,0.5990745425224304,0.049246996641159

@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13092,Carlos Forbs,2024,,Sub,9,138,0,0,0.1455498486757278,0.0,2,0,1,0,0,0.1455498486757278,0.2779248068109154,0.1671923780813813
+13092,Carlos Forbs,2024,,MR,1,72,0,0,0.0,0.0350774861872196,0,1,1,0,0,0.0,0.1746376901865005,0.1395602077245712

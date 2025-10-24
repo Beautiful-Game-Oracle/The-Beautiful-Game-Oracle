@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10756,Joe Worrall,2025,Burnley,Sub,4,6,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+10756,Joe Worrall,2023,Nottingham Forest,DC,7,440,0,0,0.0814925581216812,0.1285788267850875,2,2,0,1,0,0.0814925581216812,0.3787533640861511,0.3787533640861511
+10756,Joe Worrall,2022,Nottingham Forest,DC,30,2210,1,0,0.9123191181570292,0.567169152200222,7,4,6,0,1,0.9123191181570292,4.254378523677588,3.960568632930517

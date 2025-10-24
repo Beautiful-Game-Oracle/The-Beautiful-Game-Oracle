@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8641,Radoslaw Majecki,2025,Brest,GK,6,508,0,0,0,0,0,0,0,1,0,0,0.6799909509718418,0.6799909509718418
+8641,Radoslaw Majecki,2024,Monaco,GK,15,1350,0,0,0,0,0,0,1,0,0,0,3.081538751721382,3.081538751721382
+8641,Radoslaw Majecki,2023,Monaco,GK,12,1080,0,0,0,0,0,0,1,0,0,0,0.8437743112444878,0.8437743112444878
+8641,Radoslaw Majecki,2020,Monaco,GK,1,90,0,0,0,0,0,0,0,0,0,0,0.7105479836463928,0.7105479836463928

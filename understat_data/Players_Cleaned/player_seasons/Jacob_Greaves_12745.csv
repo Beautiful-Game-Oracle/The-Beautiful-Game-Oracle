@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12745,Jacob Greaves,2024,Ipswich,DC,25,2208,1,0,1.4357987744733691,0.2260055681690573,10,6,5,0,1,1.4357987744733691,3.7184569966048,3.5594952162355185

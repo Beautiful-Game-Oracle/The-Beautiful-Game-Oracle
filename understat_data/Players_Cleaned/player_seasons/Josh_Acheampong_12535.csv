@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12535,Josh Acheampong,2025,Chelsea,DC,4,276,1,0,0.6539264097809792,0,3,0,0,0,1,0.6539264097809792,0.9801030047237872,0.9801030047237872
+12535,Josh Acheampong,2024,Chelsea,DC,4,172,0,0,0.168215662240982,0,2,0,1,0,0,0.168215662240982,0.6639772951602936,0.6639772951602936
+12535,Josh Acheampong,2023,Chelsea,Sub,1,1,0,0,0.0,0,0,0,0,0,0,0.0,0.0,0.0

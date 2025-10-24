@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10790,Branco van den Boomen,2022,Toulouse,DMC,35,2900,5,8,5.849431732669473,8.642554869875312,52,90,6,0,1,2.809048028662801,16.0132272914052,10.93378983065486

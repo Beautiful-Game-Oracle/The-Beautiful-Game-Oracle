@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10834,Noah Fadiga,2022,Brest,DR,21,1315,1,0,0.6360347084701061,0.1153065022081136,11,2,2,0,1,0.6360347084701061,3.2624241281300783,2.638598157092929

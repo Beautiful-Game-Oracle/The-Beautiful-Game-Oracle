@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12328,Arthur Avom,2025,Lorient,MC,8,643,0,1,0.3542941585183143,1.2140381820499897,7,11,2,0,0,0.3542941585183143,2.29805601015687,1.2193902991712091

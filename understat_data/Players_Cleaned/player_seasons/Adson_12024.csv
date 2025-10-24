@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12024,Adson,2023,Nantes,AMC,8,220,0,0,0.2717675641179085,0.0793814565986394,5,3,0,0,0,0.2717675641179085,1.3329124366864562,1.177577949129045

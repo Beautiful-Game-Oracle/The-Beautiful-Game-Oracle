@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+6723,Jordi Osei-Tutu,2022,Bochum,Sub,20,738,0,0,0.7449084091931581,0.1610347032546997,12,5,3,0,0,0.7449084091931581,1.6405659839510918,0.8293641693890095

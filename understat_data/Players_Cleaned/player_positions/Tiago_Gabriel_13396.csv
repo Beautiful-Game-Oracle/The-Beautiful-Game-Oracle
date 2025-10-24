@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13396,Tiago Gabriel,2025,,DC,6,540,1,0,0.8635340854525566,0,4,0,1,0,1,0.8635340854525566,0.6238088458776474,0.6238088458776474
+13396,Tiago Gabriel,2025,,Sub,1,10,0,0,0.0897405445575714,0,1,0,0,0,0,0.0897405445575714,0.0,0.0
+13396,Tiago Gabriel,2024,,Sub,2,92,0,0,0.0,0,0,0,0,0,0,0.0,0.0453136339783668,0.0453136339783668

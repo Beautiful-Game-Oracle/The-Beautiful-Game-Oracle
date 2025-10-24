@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11921,Filip Stojilkovic,2023,Darmstadt,Sub,6,127,0,0,0.1112240031361579,0,3,0,1,0,0,0.1112240031361579,0.0481303734704852,0.0078852353617548

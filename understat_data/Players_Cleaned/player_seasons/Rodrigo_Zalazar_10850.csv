@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10850,Rodrigo Zalazar,2022,Schalke 04,MC,22,1338,1,6,3.0480029303580523,3.818176798522472,38,35,4,0,1,3.0480029303580523,5.541506182402372,2.16299463622272

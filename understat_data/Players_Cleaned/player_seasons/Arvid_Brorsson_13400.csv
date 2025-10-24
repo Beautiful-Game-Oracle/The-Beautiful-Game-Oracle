@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13400,Arvid Brorsson,2024,Monza,Sub,6,357,0,0,0,0,0,0,0,0,0,0,0.8185673002153635,0.8185673002153635

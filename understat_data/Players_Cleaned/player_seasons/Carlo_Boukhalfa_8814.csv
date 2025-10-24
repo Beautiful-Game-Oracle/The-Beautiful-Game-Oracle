@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8814,Carlo Boukhalfa,2024,St. Pauli,Sub,25,1668,2,0,2.420892712660134,1.8025974249467251,22,11,1,0,2,2.420892712660134,6.430872698314488,4.595581805333495

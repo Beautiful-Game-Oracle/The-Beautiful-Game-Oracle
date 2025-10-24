@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+7229,Florian Chabrolle,2022,,MC,3,270,0,0,0.0395959988236427,0,2,0,1,0,0,0.0395959988236427,0.0304633993655443,0.0196355991065502
+7229,Florian Chabrolle,2022,,Sub,4,46,0,0,0.0,0,0,0,0,0,0,0.0,0.6678109765052795,0.6678109765052795
+7229,Florian Chabrolle,2019,,Sub,1,14,0,0,0.0,0,0,0,0,0,0,0.0,0.0,0.0

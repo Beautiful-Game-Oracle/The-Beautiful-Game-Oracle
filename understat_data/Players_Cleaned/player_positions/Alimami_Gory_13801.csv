@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13801,Alimami Gory,2025,,Sub,5,138,1,0,0.3262296319007873,0,2,0,0,0,1,0.3262296319007873,0.6602252423763275,0.3339956104755401

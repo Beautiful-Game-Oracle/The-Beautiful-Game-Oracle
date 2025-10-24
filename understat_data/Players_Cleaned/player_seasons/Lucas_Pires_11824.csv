@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11824,Lucas Pires,2023,Cadiz,Sub,29,1485,1,0,0.8230944480746984,1.861044006422162,11,23,6,0,1,0.8230944480746984,3.803584365639836,1.9846527273766696

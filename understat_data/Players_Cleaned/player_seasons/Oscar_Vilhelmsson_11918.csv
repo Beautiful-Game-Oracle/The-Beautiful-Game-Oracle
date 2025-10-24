@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11918,Oscar Vilhelmsson,2023,Darmstadt,AMC,26,1356,4,1,3.6894681099802256,0.7908352115191519,28,10,2,0,4,3.6894681099802256,4.700634269043803,0.7264855308458209

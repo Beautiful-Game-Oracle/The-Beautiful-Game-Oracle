@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12915,Philipp Sander,2025,Borussia M.Gladbach,DMC,6,426,0,0,0.3556329272687435,0.0606166161596775,8,1,1,0,0,0.3556329272687435,2.073556976392865,1.937682332471013
+12915,Philipp Sander,2024,Borussia M.Gladbach,Sub,27,1397,1,0,1.2556910952553153,0.7185362754389644,18,13,2,0,1,1.2556910952553153,7.633903082460165,6.519067211076617

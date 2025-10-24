@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13270,Sergiu Perciun,2024,Torino,Sub,5,133,0,0,0.0616049394011497,0.0655697956681251,2,2,0,0,0,0.0616049394011497,0.5593453757464886,0.4321706444025039

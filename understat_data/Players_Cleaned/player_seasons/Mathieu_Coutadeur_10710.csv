@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10710,Mathieu Coutadeur,2022,Ajaccio,Sub,27,1964,0,0,0.0588560681790113,0.9199739890173078,4,10,2,0,0,0.0588560681790113,4.112136255018413,3.9219614593312144

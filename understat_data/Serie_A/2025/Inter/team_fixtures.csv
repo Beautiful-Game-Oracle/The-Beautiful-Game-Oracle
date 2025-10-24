@@ -1,0 +1,32 @@
+id,isResult,side,h,a,goals,xG,datetime
+29920,False,a,"{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-25 16:00:00
+29929,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-29 18:45:00
+29943,False,a,"{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-02 12:00:00
+29948,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-09 12:00:00
+29958,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '111', 'title': 'AC Milan', 'short_title': 'MIL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-23 12:00:00
+29972,False,a,"{'id': '291', 'title': 'Pisa', 'short_title': 'PIS'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-30 12:00:00
+29976,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '286', 'title': 'Como', 'short_title': 'COM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-07 12:00:00
+29987,False,a,"{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-14 12:00:00
+29998,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '243', 'title': 'Lecce', 'short_title': 'LEC'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-21 12:00:00
+30013,False,a,"{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-28 12:00:00
+30019,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 12:00:00
+30030,False,a,"{'id': '230', 'title': 'Parma Calcio 1913', 'short_title': 'PAR'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-06 17:45:00
+30038,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '105', 'title': 'Napoli', 'short_title': 'NAP'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-11 12:00:00
+30051,False,a,"{'id': '99', 'title': 'Udinese', 'short_title': 'UDI'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-18 12:00:00
+30058,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '291', 'title': 'Pisa', 'short_title': 'PIS'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-25 12:00:00
+30067,False,a,"{'id': '272', 'title': 'Cremonese', 'short_title': 'CRE'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-01 12:00:00
+30075,False,a,"{'id': '104', 'title': 'Sassuolo', 'short_title': 'SAS'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-08 12:00:00
+30087,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '98', 'title': 'Juventus', 'short_title': 'JUV'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-15 12:00:00
+30100,False,a,"{'id': '243', 'title': 'Lecce', 'short_title': 'LEC'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-22 12:00:00
+30105,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '101', 'title': 'Genoa', 'short_title': 'GEN'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-01 12:00:00
+30122,False,a,"{'id': '111', 'title': 'AC Milan', 'short_title': 'MIL'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-08 12:00:00
+30126,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '107', 'title': 'Atalanta', 'short_title': 'ATA'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-15 12:00:00
+30138,False,a,"{'id': '110', 'title': 'Fiorentina', 'short_title': 'FIO'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-22 12:00:00
+30145,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '95', 'title': 'Roma', 'short_title': 'ROM'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-04 12:00:00
+30157,False,a,"{'id': '286', 'title': 'Como', 'short_title': 'COM'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-12 12:00:00
+30164,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '116', 'title': 'Cagliari', 'short_title': 'CAG'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-19 12:00:00
+30182,False,a,"{'id': '113', 'title': 'Torino', 'short_title': 'TOR'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-26 12:00:00
+30188,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '230', 'title': 'Parma Calcio 1913', 'short_title': 'PAR'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-03 12:00:00
+30198,False,a,"{'id': '96', 'title': 'Lazio', 'short_title': 'LAZ'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-10 12:00:00
+30208,False,h,"{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'id': '94', 'title': 'Verona', 'short_title': 'VER'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 12:00:00
+30214,False,a,"{'id': '97', 'title': 'Bologna', 'short_title': 'BOL'}","{'id': '106', 'title': 'Inter', 'short_title': 'INT'}","{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 12:00:00

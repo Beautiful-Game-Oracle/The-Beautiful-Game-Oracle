@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12910,Mads Hermansen,2025,,GK,4,360,0,0,0,0,0,0,0,0,0,0,0.1993247605860233,0.1993247605860233
+12910,Mads Hermansen,2024,,GK,27,2388,0,0,0,0,0,0,1,0,0,0,2.3339753225445747,2.3339753225445747

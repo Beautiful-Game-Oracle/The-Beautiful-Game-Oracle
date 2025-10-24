@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12811,Ayman Aiki,2024,Saint-Etienne,Sub,5,124,0,0,0.1384256929159164,0.0184057801961898,3,1,0,0,0,0.1384256929159164,0.1568314731121063,0

@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13736,Khalis Merah,2025,,FW,2,157,0,0,0.6324852705001831,0.4157989919185638,2,1,0,0,0,0.6324852705001831,1.6895896196365356,1.057104408740997
+13736,Khalis Merah,2025,,AMC,2,145,0,0,0.0,0.0895608142018318,0,4,1,0,0,0.0,0.6466431990265846,0.5570823550224304
+13736,Khalis Merah,2025,,Sub,2,33,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+6507,Semuel Pizzignacco,2024,Monza,GK,9,735,0,0,0,0,0,0,0,0,0,0,0.0293079614639282,0.0293079614639282

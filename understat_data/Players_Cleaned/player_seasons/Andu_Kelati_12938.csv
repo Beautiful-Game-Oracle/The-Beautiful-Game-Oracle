@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12938,Andu Kelati,2024,Holstein Kiel,Sub,8,276,1,1,0.6129183657467365,0.5438901539891958,6,4,0,1,1,0.6129183657467365,1.9339057132601736,0.8036305010318756

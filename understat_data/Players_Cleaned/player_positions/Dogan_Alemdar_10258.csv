@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10258,Dogan Alemdar,2022,,GK,4,360,0,0,0,0.0572589039802551,0,1,1,0,0,0,0.4166518002748489,0.3593928962945938
+10258,Dogan Alemdar,2022,,Sub,2,41,0,0,0,0.0,0,0,0,0,0,0,0.0208845995366573,0.0208845995366573
+10258,Dogan Alemdar,2021,,GK,12,1080,0,0,0,0.0,0,0,1,0,0,0,1.726861173287034,1.726861173287034

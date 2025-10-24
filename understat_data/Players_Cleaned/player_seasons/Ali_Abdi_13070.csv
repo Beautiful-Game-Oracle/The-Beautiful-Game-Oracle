@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13070,Ali Abdi,2025,Nice,DML,2,79,0,0,0.0,0.0,0,0,0,1,0,0.0,0.086965462192893,0.086965462192893
+13070,Ali Abdi,2024,Nice,Sub,25,1410,5,2,4.895776592195034,2.366318485699594,29,20,2,0,5,4.895776592195034,10.524317480623722,4.1067142598330975

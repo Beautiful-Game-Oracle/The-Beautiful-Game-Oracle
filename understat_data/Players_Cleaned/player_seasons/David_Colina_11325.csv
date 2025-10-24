@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11325,David Colina,2022,Augsburg,Sub,7,136,1,0,0.4399879872798919,0.0615838002413511,1,2,0,0,1,0.4399879872798919,0.5709785651415586,0.0940254721790552

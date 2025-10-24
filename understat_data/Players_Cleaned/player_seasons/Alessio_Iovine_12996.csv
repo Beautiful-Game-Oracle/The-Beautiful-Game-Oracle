@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12996,Alessio Iovine,2024,Como,DR,10,373,0,0,0.0153612773865461,0.197709696367383,1,3,2,0,0,0.0153612773865461,0.7458569463342428,0.6428565289825201

@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+2172,Juan Carlos,2022,Girona,GK,10,900,0,0,0,0.0,0,0,0,0,0,0,1.4160974640399218,1.4160974640399218
+2172,Juan Carlos,2015,Rayo Vallecano,Sub,21,1800,0,0,0,0.0639723986387252,0,1,1,0,0,0,1.666046800091863,1.6020745020359757
+2172,Juan Carlos,2014,Cordoba,GK,32,2880,0,0,0,0.0237907990813255,0,1,4,0,0,0,1.4638412930071354,1.44005049392581

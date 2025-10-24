@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13922,Miro Muheim,2025,Hamburger SV,DML,7,624,0,1,0.2506991978734731,1.0860881209373474,5,11,2,0,0,0.2506991978734731,1.2959709651768208,1.0414595771580937

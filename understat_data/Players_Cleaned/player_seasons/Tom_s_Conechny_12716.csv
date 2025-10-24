@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12716,Tomás Conechny,2024,Alaves,AML,22,837,1,0,3.4765042532235384,0.3463271465152502,22,7,8,0,1,3.4765042532235384,4.250398634001613,1.142795331776142

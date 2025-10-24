@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10928,Awer Mabil,2022,,Sub,4,90,0,0,0.3261425979435444,0.0138758001849055,3,1,0,0,0,0.3261425979435444,0.3261425979435444,0.2722389996051788
+10928,Awer Mabil,2022,,ML,1,65,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0959295034408569,0.0959295034408569

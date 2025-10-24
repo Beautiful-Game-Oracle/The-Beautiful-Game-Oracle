@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12642,Yoel Lago,2025,,DC,4,340,0,0,0,0.0244398601353168,0,1,2,0,0,0,0.9825319685041904,0.9580921083688736
+12642,Yoel Lago,2024,,DC,7,578,0,1,0,0.0332694351673126,0,1,2,0,0,0,1.515894988551736,1.4826255533844233
+12642,Yoel Lago,2024,,Sub,1,11,0,0,0,0.0,0,0,0,0,0,0,0.0,0.0
+12642,Yoel Lago,2023,,DC,1,90,0,0,0,0.0,0,0,0,0,0,0,0.0,0.0

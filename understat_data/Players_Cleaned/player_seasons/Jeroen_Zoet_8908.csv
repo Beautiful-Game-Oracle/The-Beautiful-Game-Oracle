@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8908,Jeroen Zoet,2022,Spezia,GK,5,335,0,0,0,0,0,0,1,0,0,0,0.0699850395321846,0.0699850395321846
+8908,Jeroen Zoet,2021,Spezia,GK,7,630,0,0,0,0,0,0,0,0,0,0,0.1239273967221379,0.1239273967221379
+8908,Jeroen Zoet,2020,Spezia,GK,7,605,0,0,0,0,0,0,1,0,0,0,0.6374385301023722,0.6374385301023722

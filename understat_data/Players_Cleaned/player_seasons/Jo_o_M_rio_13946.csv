@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13946,João Mário,2025,Juventus,Sub,6,218,0,0,0.0752148032188415,0.0739499628543853,2,2,1,0,0,0.0752148032188415,0.4830346079543233,0.3896364690735936

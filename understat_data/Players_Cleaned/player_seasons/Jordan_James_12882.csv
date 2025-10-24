@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12882,Jordan James,2024,Rennes,Sub,23,1195,0,1,0.7698334716260433,1.593195166438818,17,23,4,0,0,0.7698334716260433,6.49567412212491,5.053157513961196

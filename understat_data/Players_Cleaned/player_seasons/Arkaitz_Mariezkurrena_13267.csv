@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13267,Arkaitz Mariezkurrena,2024,Real Sociedad,Sub,9,219,2,0,1.134427189826965,0.5130060613155365,10,2,1,0,2,1.134427189826965,1.1769748777151108,0.4671196229755878

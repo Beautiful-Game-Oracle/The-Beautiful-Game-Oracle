@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11801,Benjamin Tetteh,2023,Metz,Sub,12,247,0,0,0.1991094425320625,0.0622823610901832,3,2,2,0,0,0.1991094425320625,0.2646299675107002,0.0655205249786377

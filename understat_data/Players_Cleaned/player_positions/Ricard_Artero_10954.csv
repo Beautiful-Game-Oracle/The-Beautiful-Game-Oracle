@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10954,Ricard Artero,2022,,Sub,7,116,0,0,0.833743691444397,0,4,0,0,0,0,0.833743691444397,0.8732353150844574,0.0779717713594436

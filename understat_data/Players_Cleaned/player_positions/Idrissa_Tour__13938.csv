@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13938,Idrissa Touré,2025,,DMR,5,395,0,0,0.3570941165089607,0.8017158824950457,7,7,0,1,0,0.3570941165089607,1.0630147978663445,0.4907146878540516

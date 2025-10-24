@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+7955,Jesse Joronen,2024,,GK,7,630,0,0,0,0.0,0,0,0,0,0,0,1.1162701267749071,1.1162701267749071
+7955,Jesse Joronen,2024,,Sub,1,73,0,0,0,0.0,0,0,0,0,0,0,0.1482002735137939,0.1482002735137939
+7955,Jesse Joronen,2019,,GK,29,2610,0,0,0,0.0233753006905317,0,1,1,0,0,0,1.5912604965269566,1.5678851958364248

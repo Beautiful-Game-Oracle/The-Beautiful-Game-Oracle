@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13923,Nicolás Capaldo,2025,,MC,3,215,0,0,0.0206337226554751,0.5349349975585938,2,1,1,0,0,0.0206337226554751,0.5829700827598572,0.0356514826416969
+13923,Nicolás Capaldo,2025,,DC,2,180,0,1,0.0,0.268799863755703,0,3,1,0,0,0.0,0.7154394388198853,0.4466395750641823
+13923,Nicolás Capaldo,2025,,Sub,1,6,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

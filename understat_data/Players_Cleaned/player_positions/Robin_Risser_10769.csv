@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10769,Robin Risser,2025,,GK,8,720,0,0,0,0.0245854016393423,0,1,1,0,0,0,1.5810898933559656,1.5565044917166233

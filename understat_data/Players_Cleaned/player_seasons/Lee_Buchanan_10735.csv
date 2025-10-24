@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10735,Lee Buchanan,2022,Werder Bremen,Sub,21,425,1,0,0.2125663654878735,1.0233589708805084,5,4,1,0,1,0.2125663654878735,1.4355984311550856,0.9181315330788492

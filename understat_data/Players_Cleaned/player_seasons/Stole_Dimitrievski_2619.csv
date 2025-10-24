@@ -1,0 +1,7 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+2619,Stole Dimitrievski,2024,Valencia,GK,4,360,0,0,0,0.0,0,0,1,0,0,0,0.859697625041008,0.859697625041008
+2619,Stole Dimitrievski,2023,Rayo Vallecano,GK,37,3330,0,0,0,0.0516082141548395,0,2,1,0,0,0,1.6695769000798464,1.6179686803370714
+2619,Stole Dimitrievski,2022,Rayo Vallecano,GK,37,3325,0,0,0,0.0066380100324749,0,1,4,0,0,0,1.498534000478685,1.49189599044621
+2619,Stole Dimitrievski,2021,Rayo Vallecano,Sub,31,2772,0,0,0,0.0,0,0,0,0,0,0,1.5668320739641786,1.5668320739641786
+2619,Stole Dimitrievski,2018,Rayo Vallecano,GK,21,1890,0,0,0,0.0,0,0,3,0,0,0,1.2909788191318512,1.2909788191318512
+2619,Stole Dimitrievski,2014,Granada,GK,1,90,0,0,0,0.0,0,0,0,0,0,0,0.0,0.0

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+14018,Lucas Ahijado,2025,Real Oviedo,Sub,5,367,0,1,0.3388008251786232,0.8013708367943764,3,3,1,0,0,0.3388008251786232,1.372724875807762,0.994415858760476

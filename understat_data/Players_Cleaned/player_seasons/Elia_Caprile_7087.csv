@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+7087,Elia Caprile,2025,Cagliari,GK,7,630,0,0,0,0.0,0,0,0,0,0,0,0.2533263880759477,0.2533263880759477
+7087,Elia Caprile,2024,Cagliari,GK,18,1620,0,0,0,0.0,0,0,0,0,0,0,1.2231891248375175,1.2231891248375175
+7087,Elia Caprile,2024,Napoli,Sub,4,325,0,0,0,0.0,0,0,0,0,0,0,0.1171267852187156,0.1171267852187156
+7087,Elia Caprile,2023,Empoli,GK,23,2070,0,0,0,0.1958548780530691,0,2,0,0,0,0,1.1644436018541455,0.9685887349769472

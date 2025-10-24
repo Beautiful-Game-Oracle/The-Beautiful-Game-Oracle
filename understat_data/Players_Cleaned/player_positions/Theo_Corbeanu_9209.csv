@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9209,Theo Corbeanu,2023,,Sub,7,72,1,0,0.1651915088295936,0.0,4,0,1,0,1,0.1651915088295936,0.073128143325448,0.01854850910604
+9209,Theo Corbeanu,2023,,ML,1,57,0,0,0.0187364928424358,0.0,1,0,0,0,0,0.0187364928424358,0.0187364928424358,0.0
+9209,Theo Corbeanu,2023,,AML,1,51,0,0,0.0,0.0,0,0,1,0,0,0.0,0.0,0.0
+9209,Theo Corbeanu,2020,,Sub,1,7,0,0,0.0,0.0234698001295328,0,1,0,0,0,0.0,0.0234698001295328,0.0

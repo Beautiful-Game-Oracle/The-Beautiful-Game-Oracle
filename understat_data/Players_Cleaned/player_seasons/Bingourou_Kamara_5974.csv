@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+5974,Bingourou Kamara,2025,Lorient,GK,3,270,0,0,0,0,0,0,0,0,0,0,0.0,0.0
+5974,Bingourou Kamara,2022,Montpellier,GK,5,408,0,0,0,0,0,0,1,0,0,0,0.019804660230875,0.019804660230875
+5974,Bingourou Kamara,2020,Strasbourg,GK,8,720,0,0,0,0,0,0,0,0,0,0,0.1659146007150411,0.1659146007150411
+5974,Bingourou Kamara,2017,Strasbourg,GK,19,1693,0,0,0,0,0,0,2,0,0,0,1.2940299129113555,1.2940299129113555

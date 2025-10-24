@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11932,Mateusz Legowski,2023,Salernitana,Sub,29,1099,0,0,0.3032666565850377,0.2647525919601321,7,7,3,0,0,0.3032666565850377,1.6934871384873986,1.3353054719045758

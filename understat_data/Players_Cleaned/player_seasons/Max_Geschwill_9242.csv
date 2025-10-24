@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+9242,Max Geschwill,2024,Holstein Kiel,Sub,19,1280,1,2,1.0482556112110617,1.0478054778650403,9,11,3,0,1,1.0482556112110617,2.258733464870602,1.999415363650769

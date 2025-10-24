@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12207,Victor Parada,2025,,DL,3,236,0,0,0.5626542568206787,0.1723767286166548,1,4,1,0,0,0.5626542568206787,0.4822874255478382,0.3370424546301365
+12207,Victor Parada,2025,,Sub,4,35,0,0,0.0420856475830078,0.0,1,0,1,0,0,0.0420856475830078,0.0420856475830078,0.0
+12207,Victor Parada,2023,,Sub,2,2,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

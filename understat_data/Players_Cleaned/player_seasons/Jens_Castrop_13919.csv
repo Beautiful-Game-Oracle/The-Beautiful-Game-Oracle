@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13919,Jens Castrop,2025,Borussia M.Gladbach,Sub,6,333,1,0,0.5235079675912857,0.3990573231130838,4,5,1,0,1,0.5235079675912857,1.7873070016503334,1.1726278606802223

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+10284,Pierre Ekwah,2024,Saint-Etienne,DMC,29,2592,1,0,0.7389063034206629,1.1754910983145237,25,16,3,0,1,0.7389063034206629,8.572140404954553,7.610767203383148

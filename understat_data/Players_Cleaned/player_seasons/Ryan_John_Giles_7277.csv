@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+7277,Ryan John Giles,2023,Luton,DML,11,492,0,0,0.1471442878246307,0.2260761391371488,2,5,0,0,0,0.1471442878246307,0.7447603233158588,0.5261147022247314

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13964,Petar Sucic,2025,Inter,MC,6,285,0,2,0.1092101633548736,1.01410561054945,4,7,2,0,0,0.1092101633548736,2.9042840376496315,2.04720351845026

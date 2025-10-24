@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13751,Isak Jansson,2025,Nice,AMC,6,271,0,0,0.2806021906435489,0.6695446223020554,5,2,1,0,0,0.2806021906435489,1.406220454722643,1.0280542895197868

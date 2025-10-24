@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13440,Meschack Elia,2024,Nantes,Sub,8,152,1,0,1.2927594128996134,0.1117293536663055,5,3,0,0,1,1.2927594128996134,1.6960843726992607,0.763175904750824

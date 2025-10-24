@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11164,Martial Godo,2025,Strasbourg,Sub,4,162,2,0,1.2656431049108503,0.0424177795648574,4,1,1,0,2,1.2656431049108503,2.3029859960079198,0.9949251115322112
+11164,Martial Godo,2024,Fulham,Sub,2,16,0,0,0.0,0.0834133774042129,0,1,0,0,0,0.0,0.0834133774042129,0.0

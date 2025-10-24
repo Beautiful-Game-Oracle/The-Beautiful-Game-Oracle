@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11551,Marco Palestra,2025,Cagliari,DMR,6,474,0,1,0.0408160090446472,0.8623751103878021,1,5,0,0,0,0.0408160090446472,1.6166522055864334,0.8135248869657516
+11551,Marco Palestra,2024,Atalanta,Sub,9,213,0,0,0.0,0.2432294562458992,0,3,0,0,0,0.0,1.3319834247231483,1.0887539610266683

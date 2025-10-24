@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13732,Samson Baidoo,2025,Lens,DC,7,581,1,0,0.8347237445414066,0,7,0,2,0,1,0.8347237445414066,1.616111971437931,1.5786469727754593

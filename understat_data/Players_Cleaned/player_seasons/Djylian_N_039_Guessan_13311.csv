@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13311,Djylian N&#039;Guessan,2024,Saint-Etienne,Sub,8,181,0,0,0.440093819051981,0.3063550814986229,3,2,0,0,0,0.440093819051981,0.8650475963950157,0.3506407737731933

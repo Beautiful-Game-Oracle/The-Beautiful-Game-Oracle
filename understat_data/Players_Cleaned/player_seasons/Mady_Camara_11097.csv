@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11097,Mady Camara,2022,Roma,Sub,15,709,0,0,0.3677240628749132,0.4072929732501507,11,3,3,0,0,0.3677240628749132,2.4740569461137056,1.818588824942708

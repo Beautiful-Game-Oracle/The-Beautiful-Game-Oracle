@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12618,Abdoul Koné,2024,,DR,1,90,0,0,0,0.0,0,0,0,0,0,0,0.0,0.0
+12618,Abdoul Koné,2024,,Sub,3,59,0,0,0,0.0,0,0,0,0,0,0,0.1326263695955276,0.1326263695955276
+12618,Abdoul Koné,2023,,DR,3,202,0,0,0,0.622617095708847,0,2,1,0,0,0,0.6921053975820541,0.069488301873207

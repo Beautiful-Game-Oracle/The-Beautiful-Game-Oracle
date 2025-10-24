@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12446,Simon Ebonog,2025,,MC,3,204,0,0,0.0664734691381454,0,2,0,1,0,0,0.0664734691381454,0.0296519342809915,0.0104203233495354
+12446,Simon Ebonog,2025,,Sub,4,35,0,0,0.0,0,0,0,0,0,0,0.0,0.0,0.0
+12446,Simon Ebonog,2023,,Sub,4,14,0,0,0.0,0,0,0,0,0,0,0.0,0.6314274668693542,0.6314274668693542

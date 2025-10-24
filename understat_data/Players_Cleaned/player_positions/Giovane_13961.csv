@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13961,Giovane,2025,,FW,7,568,0,1,1.4255652651190758,1.202574952505529,22,8,1,0,0,1.4255652651190758,2.631807356141508,0.6626145355403423

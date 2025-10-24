@@ -1,0 +1,3 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+14003,Francesco Pio Esposito,2025,,Sub,4,99,1,0,1.5506107807159424,0.1907693520188331,3,3,0,0,1,1.5506107807159424,1.2782661318778992,0.3117187991738319
+14003,Francesco Pio Esposito,2025,,FW,1,79,0,0,0.7358623743057251,0.0,4,0,0,0,0,0.7358623743057251,0.8562841415405273,0.1204217970371246

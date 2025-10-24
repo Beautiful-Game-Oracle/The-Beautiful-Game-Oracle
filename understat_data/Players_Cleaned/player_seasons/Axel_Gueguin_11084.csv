@@ -1,0 +1,4 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11084,Axel Gueguin,2024,Montpellier,Sub,1,20,0,0,0,0.0,0,0,0,0,0,0,0.0,0.0
+11084,Axel Gueguin,2023,Montpellier,DL,3,124,0,0,0,0.081521101295948,0,1,0,0,0,0,0.1030812561511993,0.0215601529926061
+11084,Axel Gueguin,2022,Montpellier,Sub,5,17,0,0,0,0.0,0,0,0,0,0,0,0.0,0.0

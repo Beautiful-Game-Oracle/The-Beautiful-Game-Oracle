@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+5285,Marius Müller,2024,Wolfsburg,Sub,6,471,0,0,0,0,0,0,0,0,0,0,0.3266148399561643,0.3266148399561643

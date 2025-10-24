@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11312,Soichiro Kozuki,2022,Schalke 04,AMR,5,392,1,0,1.2282172068953514,0.2562738992273807,14,4,1,0,1,1.2282172068953514,1.281147114932537,0.2873010039329529

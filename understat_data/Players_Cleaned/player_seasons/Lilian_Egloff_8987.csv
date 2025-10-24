@@ -1,0 +1,5 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+8987,Lilian Egloff,2023,VfB Stuttgart,Sub,5,93,0,0,0.1221713367849588,0.0,3,0,1,0,0,0.1221713367849588,0.2230807542800903,0.115456597879529
+8987,Lilian Egloff,2022,VfB Stuttgart,Sub,10,231,0,0,0.300667991861701,0.8084998950362206,8,4,1,0,0,0.300667991861701,1.5832354128360748,0.5523819914087653
+8987,Lilian Egloff,2021,VfB Stuttgart,Sub,4,25,0,0,0.0,0.090287297964096,0,1,0,0,0,0.0,0.090287297964096,0.0
+8987,Lilian Egloff,2020,VfB Stuttgart,Sub,2,13,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0

@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13065,Koji Miyoshi,2024,Bochum,ML,15,458,1,0,1.0769440354779365,0.5365228019654751,13,5,0,1,1,1.0769440354779365,2.3123103911057115,0.798455186188221

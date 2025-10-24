@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11963,Tommaso Corazza,2023,Bologna,Sub,9,178,0,0,0.0994131490588188,0.0552694536745548,1,1,1,0,0,0.0994131490588188,0.7312995651736856,0.576616988517344

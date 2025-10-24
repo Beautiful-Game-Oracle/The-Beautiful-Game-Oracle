@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+12717,Stoichkov,2024,Alaves,Sub,16,675,0,1,1.194492194801569,1.0295014828443527,18,7,1,0,0,1.194492194801569,4.282519616186619,2.84641638956964

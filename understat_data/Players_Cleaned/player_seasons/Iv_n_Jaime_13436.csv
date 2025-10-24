@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+13436,Iván Jaime,2024,Valencia,Sub,9,277,0,0,0.4353244826197624,0.3860360905528068,8,4,0,0,0,0.4353244826197624,1.7398566231131554,1.1461346112191677

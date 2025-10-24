@@ -1,0 +1,2 @@
+player_id,player_name,season,team,position,games,time,goals,assists,xG,xA,shots,key_passes,yellow,red,npg,npxG,xGChain,xGBuildup
+11893,Rasmus Carstensen,2023,FC Cologne,AMR,23,1643,0,0,0.8789425641298294,3.29796152189374,10,16,0,1,0,0.8789425641298294,5.462368227541447,3.313492329791188
