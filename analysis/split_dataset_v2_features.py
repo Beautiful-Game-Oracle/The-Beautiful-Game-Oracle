@@ -46,7 +46,7 @@ def get_weekday_columns(df: pd.DataFrame) -> List[str]:
     return [
         col
         for col in df.columns
-        if col.startswith(WEEKDAY_PREFIX) and col != "match_weekday_index"
+        if col.startswith(WEEKDAY_PREFIX) and "match_weekday_index" not in col
     ]
 
 

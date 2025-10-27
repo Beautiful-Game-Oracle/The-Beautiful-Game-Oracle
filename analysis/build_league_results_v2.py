@@ -578,7 +578,11 @@ def prune_inference_columns(df: pd.DataFrame) -> pd.DataFrame:
     """Drop redundant columns so saved dataset matches model feature needs."""
 
     required_cols = set(METADATA_COLUMNS + TARGET_COLUMNS + PERFORMANCE_FEATURES + MARKET_FEATURES + MOMENTUM_INFERENCE_FEATURES)
-    weekday_cols = [col for col in df.columns if col.startswith("match_weekday_")]
+    weekday_cols = [
+        col
+        for col in df.columns
+        if col.startswith("match_weekday_") and "match_weekday_index" not in col
+    ]
     required_cols.update(weekday_cols)
 
     for base in MOMENTUM_BASE_FEATURES:

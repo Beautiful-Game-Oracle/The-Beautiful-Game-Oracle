@@ -1,4 +1,4 @@
 view,description,num_features,output_path
-performance_dense,Rolling goal/xG aggregates over 5–10 match windows,30,/Users/yohannvinod/Github/The-Beautiful-Game-Oracle/reports/feature_views_v2/performance_dense.csv
-momentum_policy_rl,Z-scored momentum deltas with congestion and odds drift,36,/Users/yohannvinod/Github/The-Beautiful-Game-Oracle/reports/feature_views_v2/momentum_policy_rl.csv
-market_gradient_boost,Market odds derived statistics,23,/Users/yohannvinod/Github/The-Beautiful-Game-Oracle/reports/feature_views_v2/market_gradient_boost.csv
+performance_dense,Rolling goal/xG aggregates over 5–10 match windows,26,/Users/yohannvinod/Github/The-Beautiful-Game-Oracle/reports/feature_views_v2/performance_dense.csv
+momentum_policy_rl,Z-scored momentum deltas with congestion and odds drift,32,/Users/yohannvinod/Github/The-Beautiful-Game-Oracle/reports/feature_views_v2/momentum_policy_rl.csv
+market_gradient_boost,Market odds derived statistics,19,/Users/yohannvinod/Github/The-Beautiful-Game-Oracle/reports/feature_views_v2/market_gradient_boost.csv
