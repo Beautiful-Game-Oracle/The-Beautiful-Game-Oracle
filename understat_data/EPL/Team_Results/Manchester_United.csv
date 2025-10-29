@@ -1,0 +1,123 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+18209,2022-08-07 13:00:00,EPL,2022,Manchester United,Brighton,Home,1,2,1.42103,1.7289,17,16,l,0
+18218,2022-08-13 16:30:00,EPL,2022,Manchester United,Brentford,Away,0,4,0.896038,1.38785,15,13,l,0
+18231,2022-08-22 19:00:00,EPL,2022,Manchester United,Liverpool,Home,2,1,2.01764,1.52301,12,17,w,3
+18232,2022-08-27 11:30:00,EPL,2022,Manchester United,Southampton,Away,1,0,1.34359,1.35887,11,17,w,3
+18251,2022-09-01 19:00:00,EPL,2022,Manchester United,Leicester,Away,1,0,1.09969,0.615266,9,10,w,3
+18261,2022-09-04 15:30:00,EPL,2022,Manchester United,Arsenal,Home,3,1,2.02904,1.42238,10,16,w,3
+18289,2022-10-02 13:00:00,EPL,2022,Manchester United,Manchester City,Away,3,6,1.71335,3.01103,12,22,l,0
+18297,2022-10-09 18:00:00,EPL,2022,Manchester United,Everton,Away,2,1,1.82612,0.365844,12,10,w,3
+18308,2022-10-16 13:00:00,EPL,2022,Manchester United,Newcastle United,Home,0,0,1.41606,0.78815,15,9,d,1
+18321,2022-10-19 19:15:00,EPL,2022,Manchester United,Tottenham,Home,2,0,1.70973,0.658526,28,9,w,3
+18323,2022-10-22 15:30:00,EPL,2022,Manchester United,Chelsea,Away,1,1,0.730935,1.20238,13,6,d,1
+18340,2022-10-30 16:15:00,EPL,2022,Manchester United,West Ham,Home,1,0,1.7514,1.00033,16,13,w,3
+18342,2022-11-06 14:00:00,EPL,2022,Manchester United,Aston Villa,Away,1,3,0.517189,0.578563,8,7,l,0
+18354,2022-11-13 16:30:00,EPL,2022,Manchester United,Fulham,Away,2,1,3.37664,1.70218,14,14,w,3
+18370,2022-12-27 20:00:00,EPL,2022,Manchester United,Nottingham Forest,Home,3,0,2.13668,0.477076,17,8,w,3
+18381,2022-12-31 12:30:00,EPL,2022,Manchester United,Wolverhampton Wanderers,Away,1,0,2.44728,0.587672,16,10,w,3
+18390,2023-01-03 20:00:00,EPL,2022,Manchester United,Bournemouth,Home,3,0,2.97383,0.679022,18,7,w,3
+18397,2023-01-14 12:30:00,EPL,2022,Manchester United,Manchester City,Home,2,1,1.98228,0.73695,8,5,w,3
+18270,2023-01-18 15:30:00,EPL,2022,Manchester United,Crystal Palace,Away,1,1,1.39437,0.413339,15,10,d,1
+18402,2023-01-22 16:30:00,EPL,2022,Manchester United,Arsenal,Away,2,3,0.272246,2.90273,6,25,l,0
+18417,2023-02-04 15:00:00,EPL,2022,Manchester United,Crystal Palace,Home,2,1,2.07035,1.3798,14,10,w,3
+18279,2023-02-08 19:00:00,EPL,2022,Manchester United,Leeds,Home,2,2,2.00007,0.554798,25,8,d,1
+18426,2023-02-12 14:00:00,EPL,2022,Manchester United,Leeds,Away,2,0,1.30375,1.89163,11,16,w,3
+18437,2023-02-19 14:00:00,EPL,2022,Manchester United,Leicester,Home,3,0,4.24663,1.39678,26,19,w,3
+18457,2023-03-05 16:30:00,EPL,2022,Manchester United,Liverpool,Away,0,7,0.837542,3.44269,8,18,l,0
+18468,2023-03-12 14:00:00,EPL,2022,Manchester United,Southampton,Home,0,0,0.910911,1.18053,10,17,d,1
+18489,2023-04-02 15:30:00,EPL,2022,Manchester United,Newcastle United,Away,0,2,0.334127,3.33162,6,22,l,0
+18448,2023-04-05 19:00:00,EPL,2022,Manchester United,Brentford,Home,1,0,1.1445,0.64499,18,6,w,3
+18498,2023-04-08 11:30:00,EPL,2022,Manchester United,Everton,Home,2,0,4.38578,0.949183,29,15,w,3
+18507,2023-04-16 15:30:00,EPL,2022,Manchester United,Nottingham Forest,Away,2,0,3.33747,1.05289,22,6,w,3
+18525,2023-04-27 19:15:00,EPL,2022,Manchester United,Tottenham,Away,2,2,1.96508,2.37239,17,18,d,1
+18540,2023-04-30 13:00:00,EPL,2022,Manchester United,Aston Villa,Home,1,0,1.3056,0.434738,14,7,w,3
+18475,2023-05-04 19:00:00,EPL,2022,Manchester United,Brighton,Away,0,1,1.32105,2.09953,16,22,l,0
+18550,2023-05-07 18:00:00,EPL,2022,Manchester United,West Ham,Away,0,1,1.1942,1.76618,19,15,l,0
+18560,2023-05-13 14:00:00,EPL,2022,Manchester United,Wolverhampton Wanderers,Home,2,0,3.10118,0.268789,27,5,w,3
+18562,2023-05-20 14:00:00,EPL,2022,Manchester United,Bournemouth,Away,1,0,1.71783,0.815723,20,10,w,3
+18520,2023-05-25 19:00:00,EPL,2022,Manchester United,Chelsea,Home,4,1,4.92231,1.68364,18,13,w,3
+18580,2023-05-28 15:30:00,EPL,2022,Manchester United,Fulham,Home,2,1,2.74766,1.88167,21,10,w,3
+22284,2023-08-14 19:00:00,EPL,2023,Manchester United,Wolverhampton Wanderers,Home,1,0,1.97087,1.72228,15,23,w,3
+22290,2023-08-19 16:30:00,EPL,2023,Manchester United,Tottenham,Away,0,2,2.44604,2.53904,23,17,l,0
+22300,2023-08-26 14:00:00,EPL,2023,Manchester United,Nottingham Forest,Home,3,2,3.02803,0.960354,18,9,w,3
+21934,2023-09-03 15:30:00,EPL,2023,Manchester United,Arsenal,Away,1,3,0.966109,1.90973,10,17,l,0
+21940,2023-09-16 14:00:00,EPL,2023,Manchester United,Brighton,Home,1,3,0.719951,1.93908,14,10,l,0
+21950,2023-09-23 19:00:00,EPL,2023,Manchester United,Burnley,Away,1,0,0.840273,0.935444,11,12,w,3
+21957,2023-09-30 14:00:00,EPL,2023,Manchester United,Crystal Palace,Home,0,1,1.55408,1.19015,19,8,l,0
+21972,2023-10-07 14:00:00,EPL,2023,Manchester United,Brentford,Home,2,1,1.29356,1.02509,21,11,w,3
+21983,2023-10-21 19:00:00,EPL,2023,Manchester United,Sheffield United,Away,2,1,1.46187,1.41074,14,12,w,3
+21992,2023-10-29 15:30:00,EPL,2023,Manchester United,Manchester City,Home,0,3,0.714628,4.54595,7,21,l,0
+21998,2023-11-04 12:30:00,EPL,2023,Manchester United,Fulham,Away,1,0,0.697095,1.18241,12,18,w,3
+22012,2023-11-11 15:00:00,EPL,2023,Manchester United,Luton,Home,1,0,2.74105,0.408265,15,10,w,3
+22017,2023-11-26 16:30:00,EPL,2023,Manchester United,Everton,Away,3,0,2.07334,2.49764,9,23,w,3
+22032,2023-12-02 20:00:00,EPL,2023,Manchester United,Newcastle United,Away,0,1,0.422674,2.90191,8,22,l,0
+22044,2023-12-06 20:15:00,EPL,2023,Manchester United,Chelsea,Home,2,1,4.03949,2.3512,28,13,w,3
+22051,2023-12-09 15:00:00,EPL,2023,Manchester United,Bournemouth,Home,0,3,1.11296,1.9742,20,10,l,0
+22060,2023-12-17 16:30:00,EPL,2023,Manchester United,Liverpool,Away,0,0,0.632715,1.97111,6,34,d,1
+22072,2023-12-23 12:30:00,EPL,2023,Manchester United,West Ham,Away,0,2,0.730496,1.51468,11,12,l,0
+22082,2023-12-26 20:00:00,EPL,2023,Manchester United,Aston Villa,Home,3,2,1.20104,1.83637,13,10,w,3
+22091,2023-12-30 17:30:00,EPL,2023,Manchester United,Nottingham Forest,Away,1,2,0.651905,0.744348,10,8,l,0
+22099,2024-01-14 16:30:00,EPL,2023,Manchester United,Tottenham,Home,2,2,0.923233,1.31224,9,16,d,1
+22111,2024-02-01 20:15:00,EPL,2023,Manchester United,Wolverhampton Wanderers,Away,4,3,3.22698,2.27609,21,16,w,3
+22122,2024-02-04 14:00:00,EPL,2023,Manchester United,West Ham,Home,3,0,0.96721,1.1807,12,22,w,3
+22125,2024-02-11 16:30:00,EPL,2023,Manchester United,Aston Villa,Away,2,1,2.44591,2.64675,17,23,w,3
+22139,2024-02-18 16:30:00,EPL,2023,Manchester United,Luton,Away,2,1,3.58973,1.57234,21,22,w,3
+22152,2024-02-24 15:00:00,EPL,2023,Manchester United,Fulham,Home,1,2,1.96036,1.1385,21,17,l,0
+22160,2024-03-03 15:30:00,EPL,2023,Manchester United,Manchester City,Away,1,3,0.153764,2.64173,2,27,l,0
+22172,2024-03-09 12:30:00,EPL,2023,Manchester United,Everton,Home,2,0,2.9016,1.8214,15,23,w,3
+22187,2024-03-30 20:00:00,EPL,2023,Manchester United,Brentford,Away,1,1,0.989565,3.16487,11,31,d,1
+22201,2024-04-04 19:15:00,EPL,2023,Manchester United,Chelsea,Away,3,4,1.56686,3.48048,19,28,l,0
+22211,2024-04-07 14:30:00,EPL,2023,Manchester United,Liverpool,Home,2,2,0.814509,4.43457,9,28,d,1
+22215,2024-04-13 16:30:00,EPL,2023,Manchester United,Bournemouth,Away,2,2,1.52274,2.38519,8,20,d,1
+22182,2024-04-24 19:00:00,EPL,2023,Manchester United,Sheffield United,Home,4,2,3.51311,1.20517,25,10,w,3
+22239,2024-04-27 14:00:00,EPL,2023,Manchester United,Burnley,Home,1,1,3.06197,1.89591,27,16,d,1
+22250,2024-05-06 19:00:00,EPL,2023,Manchester United,Crystal Palace,Away,0,4,0.341417,2.0656,7,18,l,0
+22259,2024-05-12 15:30:00,EPL,2023,Manchester United,Arsenal,Home,0,1,0.551669,1.73104,14,11,l,0
+22231,2024-05-15 19:00:00,EPL,2023,Manchester United,Newcastle United,Home,3,2,1.49706,2.27657,17,21,w,3
+22267,2024-05-19 15:00:00,EPL,2023,Manchester United,Brighton,Away,2,0,1.00404,1.9717,11,17,w,3
+26602,2024-08-16 19:00:00,EPL,2024,Manchester United,Fulham,Home,1,0,2.04268,0.418711,14,10,w,3
+26612,2024-08-24 11:30:00,EPL,2024,Manchester United,Brighton,Away,1,2,1.28556,2.14153,11,14,l,0
+26631,2024-09-01 15:00:00,EPL,2024,Manchester United,Liverpool,Home,0,3,1.50087,2.10397,8,11,l,0
+26632,2024-09-14 11:30:00,EPL,2024,Manchester United,Southampton,Away,3,0,3.02693,1.35593,20,6,w,3
+26649,2024-09-21 16:30:00,EPL,2024,Manchester United,Crystal Palace,Away,0,0,2.35056,1.66928,15,9,d,1
+26660,2024-09-29 15:30:00,EPL,2024,Manchester United,Tottenham,Home,0,3,0.600721,5.4072,11,24,l,0
+26670,2024-10-06 13:00:00,EPL,2024,Manchester United,Aston Villa,Away,0,0,0.448537,0.532809,10,11,d,1
+26675,2024-10-19 14:00:00,EPL,2024,Manchester United,Brentford,Home,2,1,1.76555,0.892843,23,8,w,3
+26690,2024-10-27 14:00:00,EPL,2024,Manchester United,West Ham,Away,1,2,2.62598,2.99312,18,12,l,0
+26697,2024-11-03 16:30:00,EPL,2024,Manchester United,Chelsea,Home,1,1,2.1605,1.21071,11,12,d,1
+26708,2024-11-10 14:00:00,EPL,2024,Manchester United,Leicester,Home,3,0,1.2369,0.417295,13,7,w,3
+26718,2024-11-24 16:30:00,EPL,2024,Manchester United,Ipswich,Away,1,1,1.26912,1.98714,11,11,d,1
+26727,2024-12-01 13:30:00,EPL,2024,Manchester United,Everton,Home,4,0,1.76161,0.766749,11,8,w,3
+26733,2024-12-04 20:15:00,EPL,2024,Manchester United,Arsenal,Away,0,2,0.256083,2.96684,5,14,l,0
+26744,2024-12-07 17:30:00,EPL,2024,Manchester United,Nottingham Forest,Home,2,3,1.4697,0.651217,17,11,l,0
+26753,2024-12-15 16:30:00,EPL,2024,Manchester United,Manchester City,Away,2,1,2.04662,0.638103,10,10,w,3
+26769,2024-12-22 14:00:00,EPL,2024,Manchester United,Bournemouth,Home,0,3,2.28533,1.82831,23,10,l,0
+26781,2024-12-26 17:30:00,EPL,2024,Manchester United,Wolverhampton Wanderers,Away,0,2,0.358876,0.826489,11,7,l,0
+26789,2024-12-30 20:00:00,EPL,2024,Manchester United,Newcastle United,Home,0,2,1.00073,2.2424,10,12,l,0
+26797,2025-01-05 16:30:00,EPL,2024,Manchester United,Liverpool,Away,2,2,1.67469,2.862,13,19,d,1
+26811,2025-01-16 20:00:00,EPL,2024,Manchester United,Southampton,Home,3,1,3.10847,1.36705,24,13,w,3
+26818,2025-01-19 14:00:00,EPL,2024,Manchester United,Brighton,Home,1,3,1.31823,2.17172,10,6,l,0
+26826,2025-01-26 19:00:00,EPL,2024,Manchester United,Fulham,Away,1,0,0.201988,0.560571,4,9,w,3
+26838,2025-02-02 14:00:00,EPL,2024,Manchester United,Crystal Palace,Home,0,2,1.50706,2.44633,17,11,l,0
+26850,2025-02-16 16:30:00,EPL,2024,Manchester United,Tottenham,Away,0,1,1.42652,1.97109,16,22,l,0
+26855,2025-02-22 12:30:00,EPL,2024,Manchester United,Everton,Away,2,2,0.645685,2.10444,9,9,d,1
+26871,2025-02-26 19:30:00,EPL,2024,Manchester United,Ipswich,Home,3,2,1.40202,1.04498,10,13,w,3
+26877,2025-03-09 16:30:00,EPL,2024,Manchester United,Arsenal,Home,1,1,1.31107,1.82996,10,17,d,1
+26888,2025-03-16 19:00:00,EPL,2024,Manchester United,Leicester,Away,3,0,1.13892,1.30455,18,11,w,3
+26894,2025-04-01 20:00:00,EPL,2024,Manchester United,Nottingham Forest,Away,0,1,1.86688,0.512063,23,8,l,0
+26909,2025-04-06 15:30:00,EPL,2024,Manchester United,Manchester City,Home,0,0,1.23317,0.687894,13,9,d,1
+26918,2025-04-13 15:30:00,EPL,2024,Manchester United,Newcastle United,Away,1,4,0.786568,2.6383,9,12,l,0
+26929,2025-04-20 13:00:00,EPL,2024,Manchester United,Wolverhampton Wanderers,Home,0,1,1.13966,0.187814,12,4,l,0
+26932,2025-04-27 13:00:00,EPL,2024,Manchester United,Bournemouth,Away,1,1,1.91039,0.60995,25,8,d,1
+26947,2025-05-04 13:00:00,EPL,2024,Manchester United,Brentford,Away,3,4,1.13404,3.58737,15,12,l,0
+26956,2025-05-11 13:15:00,EPL,2024,Manchester United,West Ham,Home,0,2,2.31287,2.15985,20,9,l,0
+26966,2025-05-16 19:15:00,EPL,2024,Manchester United,Chelsea,Away,0,1,0.337632,1.29571,5,11,l,0
+26974,2025-05-25 15:00:00,EPL,2024,Manchester United,Aston Villa,Home,2,0,2.96259,0.335222,25,6,w,3
+28786,2025-08-17 15:30:00,EPL,2025,Manchester United,Arsenal,Home,0,1,1.37653,1.3304,22,9,l,0
+28796,2025-08-24 15:30:00,EPL,2025,Manchester United,Fulham,Away,1,1,1.54603,1.65333,10,14,d,1
+28802,2025-08-30 14:00:00,EPL,2025,Manchester United,Burnley,Home,3,2,4.02237,1.32618,26,7,w,3
+28817,2025-09-14 15:30:00,EPL,2025,Manchester United,Manchester City,Away,0,3,1.51915,1.99725,13,12,l,0
+28824,2025-09-20 16:30:00,EPL,2025,Manchester United,Chelsea,Home,2,1,1.34458,0.469843,11,5,w,3
+28828,2025-09-27 11:30:00,EPL,2025,Manchester United,Brentford,Away,1,3,2.23609,2.78726,14,10,l,0
+28845,2025-10-04 14:00:00,EPL,2025,Manchester United,Sunderland,Home,2,0,1.9298,0.807119,15,8,w,3
+28852,2025-10-19 15:30:00,EPL,2025,Manchester United,Liverpool,Away,2,1,2.53117,2.60972,12,19,w,3

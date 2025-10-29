@@ -1,0 +1,124 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+18963,2022-08-13 15:00:00,La_liga,2022,Celta Vigo,Espanyol,Home,2,2,0.347363,1.0334,8,10,d,1
+18976,2022-08-20 20:00:00,La_liga,2022,Celta Vigo,Real Madrid,Home,1,4,1.31973,3.59631,15,16,l,0
+18982,2022-08-26 18:00:00,La_liga,2022,Celta Vigo,Girona,Away,1,0,0.625546,0.566228,11,11,w,3
+18999,2022-09-02 19:00:00,La_liga,2022,Celta Vigo,Cadiz,Home,3,0,1.50986,0.234828,9,7,w,3
+19002,2022-09-10 19:00:00,La_liga,2022,Celta Vigo,Atletico Madrid,Away,1,4,1.30565,0.92341,15,10,l,0
+19015,2022-09-17 16:30:00,La_liga,2022,Celta Vigo,Valencia,Away,0,3,0.587167,1.91153,6,14,l,0
+19028,2022-10-02 14:15:00,La_liga,2022,Celta Vigo,Real Betis,Home,1,0,0.892987,1.10607,11,9,w,3
+19033,2022-10-09 19:00:00,La_liga,2022,Celta Vigo,Barcelona,Away,0,1,1.35022,1.98459,14,13,l,0
+19043,2022-10-16 12:00:00,La_liga,2022,Celta Vigo,Real Sociedad,Home,1,2,0.482536,1.17936,10,8,l,0
+19059,2022-10-19 17:00:00,La_liga,2022,Celta Vigo,Real Valladolid,Away,1,4,2.03107,1.63342,22,9,l,0
+19062,2022-10-24 19:00:00,La_liga,2022,Celta Vigo,Getafe,Home,1,1,0.821869,0.226128,17,4,d,1
+19075,2022-10-29 12:00:00,La_liga,2022,Celta Vigo,Almeria,Away,1,3,0.197875,2.30529,8,19,l,0
+19084,2022-11-05 17:30:00,La_liga,2022,Celta Vigo,Osasuna,Home,1,2,0.824768,0.360091,13,8,l,0
+19099,2022-11-10 18:00:00,La_liga,2022,Celta Vigo,Rayo Vallecano,Away,0,0,0.677591,0.442488,11,10,d,1
+19104,2022-12-30 18:15:00,La_liga,2022,Celta Vigo,Sevilla,Home,1,1,1.66459,0.594381,17,7,d,1
+19118,2023-01-06 17:30:00,La_liga,2022,Celta Vigo,Elche,Away,1,0,1.9713,1.14494,14,13,w,3
+19122,2023-01-13 20:00:00,La_liga,2022,Celta Vigo,Villarreal,Home,1,1,2.45811,0.105032,21,3,d,1
+19138,2023-01-20 20:00:00,La_liga,2022,Celta Vigo,Mallorca,Away,0,1,0.425448,0.403993,10,8,l,0
+19145,2023-01-29 17:30:00,La_liga,2022,Celta Vigo,Athletic Club,Home,1,0,0.614646,0.232576,9,5,w,3
+19155,2023-02-04 20:00:00,La_liga,2022,Celta Vigo,Real Betis,Away,4,3,2.30434,3.54117,9,15,w,3
+19167,2023-02-12 15:15:00,La_liga,2022,Celta Vigo,Atletico Madrid,Home,0,1,1.057,0.955578,14,10,l,0
+19180,2023-02-18 10:00:00,La_liga,2022,Celta Vigo,Real Sociedad,Away,1,1,1.34253,1.52902,18,10,d,1
+19185,2023-02-26 15:15:00,La_liga,2022,Celta Vigo,Real Valladolid,Home,3,0,2.97597,0.902118,18,6,w,3
+19198,2023-03-06 20:00:00,La_liga,2022,Celta Vigo,Osasuna,Away,0,0,0.726128,1.16313,6,10,d,1
+19203,2023-03-11 17:30:00,La_liga,2022,Celta Vigo,Rayo Vallecano,Home,3,0,2.13766,0.697265,15,13,w,3
+19219,2023-03-18 17:30:00,La_liga,2022,Celta Vigo,Espanyol,Away,3,1,1.63211,1.7106,8,11,w,3
+19231,2023-04-02 12:00:00,La_liga,2022,Celta Vigo,Almeria,Home,2,2,2.13933,1.23651,21,8,d,1
+19238,2023-04-07 19:00:00,La_liga,2022,Celta Vigo,Sevilla,Away,2,2,0.611169,0.475247,9,7,d,1
+19244,2023-04-17 19:00:00,La_liga,2022,Celta Vigo,Mallorca,Home,0,1,0.469148,1.18361,12,8,l,0
+19257,2023-04-22 19:00:00,La_liga,2022,Celta Vigo,Real Madrid,Away,0,2,0.744532,1.81403,12,17,l,0
+19265,2023-04-26 20:00:00,La_liga,2022,Celta Vigo,Elche,Home,1,0,1.4351,1.48138,15,12,w,3
+19279,2023-04-30 14:15:00,La_liga,2022,Celta Vigo,Villarreal,Away,1,3,0.746823,2.36969,14,9,l,0
+19290,2023-05-03 20:00:00,La_liga,2022,Celta Vigo,Getafe,Away,0,1,0.219098,2.8705,7,14,l,0
+19296,2023-05-14 12:00:00,La_liga,2022,Celta Vigo,Valencia,Home,1,2,1.216,1.86638,10,12,l,0
+19309,2023-05-20 14:15:00,La_liga,2022,Celta Vigo,Athletic Club,Away,1,2,0.283064,1.04201,8,10,l,0
+19313,2023-05-23 17:30:00,La_liga,2022,Celta Vigo,Girona,Home,1,1,0.933339,1.40034,16,11,d,1
+19326,2023-05-28 17:00:00,La_liga,2022,Celta Vigo,Cadiz,Away,0,1,0.599427,1.59827,9,13,l,0
+19334,2023-06-04 18:00:00,La_liga,2022,Celta Vigo,Barcelona,Home,2,1,0.565601,1.41678,12,9,w,3
+22690,2023-08-13 15:00:00,La_liga,2023,Celta Vigo,Osasuna,Home,0,2,0.783184,0.964645,11,11,l,0
+22697,2023-08-19 15:00:00,La_liga,2023,Celta Vigo,Real Sociedad,Away,1,1,1.77937,0.917678,17,11,d,1
+22712,2023-08-25 19:30:00,La_liga,2023,Celta Vigo,Real Madrid,Home,0,1,1.17827,1.6167,13,10,l,0
+22715,2023-09-01 20:00:00,La_liga,2023,Celta Vigo,Almeria,Away,3,2,1.96028,3.16421,14,16,w,3
+22727,2023-09-16 16:30:00,La_liga,2023,Celta Vigo,Mallorca,Home,0,1,2.06489,0.853213,16,7,l,0
+22737,2023-09-23 16:30:00,La_liga,2023,Celta Vigo,Barcelona,Away,2,3,1.67938,1.82246,13,15,l,0
+22754,2023-09-28 17:00:00,La_liga,2023,Celta Vigo,Alaves,Home,1,1,0.497466,2.39712,8,22,d,1
+22763,2023-10-02 19:00:00,La_liga,2023,Celta Vigo,Las Palmas,Away,1,2,1.54337,1.46382,11,16,l,0
+22767,2023-10-08 16:30:00,La_liga,2023,Celta Vigo,Getafe,Home,2,2,3.02859,1.00866,26,3,d,1
+22778,2023-10-21 19:00:00,La_liga,2023,Celta Vigo,Atletico Madrid,Home,0,3,1.26757,2.39246,16,12,l,0
+22792,2023-10-27 19:00:00,La_liga,2023,Celta Vigo,Girona,Away,0,1,0.174681,0.619488,4,12,l,0
+22796,2023-11-04 17:30:00,La_liga,2023,Celta Vigo,Sevilla,Home,1,1,3.01524,1.25089,15,13,d,1
+22806,2023-11-10 20:00:00,La_liga,2023,Celta Vigo,Athletic Club,Away,3,4,2.25302,4.72334,13,21,l,0
+22823,2023-11-25 15:15:00,La_liga,2023,Celta Vigo,Valencia,Away,0,0,0.609862,0.247015,13,8,d,1
+22831,2023-12-04 20:00:00,La_liga,2023,Celta Vigo,Cadiz,Home,1,1,2.73216,0.346727,26,2,d,1
+22843,2023-12-11 20:00:00,La_liga,2023,Celta Vigo,Rayo Vallecano,Away,0,0,0.126167,1.32415,4,18,d,1
+22847,2023-12-16 13:00:00,La_liga,2023,Celta Vigo,Granada,Home,1,0,1.33261,0.690175,11,7,w,3
+22864,2023-12-20 20:30:00,La_liga,2023,Celta Vigo,Villarreal,Away,2,3,1.98503,2.59564,15,12,l,0
+22871,2024-01-03 18:15:00,La_liga,2023,Celta Vigo,Real Betis,Home,2,1,2.54675,1.73674,19,14,w,3
+22883,2024-01-13 15:15:00,La_liga,2023,Celta Vigo,Mallorca,Away,1,1,0.711693,2.59976,6,17,d,1
+22885,2024-01-20 20:00:00,La_liga,2023,Celta Vigo,Real Sociedad,Home,0,1,0.257377,0.630224,6,6,l,0
+22897,2024-01-28 13:00:00,La_liga,2023,Celta Vigo,Girona,Home,0,1,1.03961,1.60712,10,15,l,0
+22914,2024-02-04 15:15:00,La_liga,2023,Celta Vigo,Osasuna,Away,3,0,1.37845,1.00524,6,18,w,3
+22922,2024-02-11 13:00:00,La_liga,2023,Celta Vigo,Getafe,Away,2,3,1.2733,2.22295,8,10,l,0
+22930,2024-02-17 17:30:00,La_liga,2023,Celta Vigo,Barcelona,Home,1,2,0.636492,1.5046,13,14,l,0
+22937,2024-02-25 13:00:00,La_liga,2023,Celta Vigo,Cadiz,Away,2,2,0.680213,1.87476,7,19,d,1
+22948,2024-03-01 20:00:00,La_liga,2023,Celta Vigo,Almeria,Home,1,0,1.82317,0.3259,15,3,w,3
+22963,2024-03-10 17:30:00,La_liga,2023,Celta Vigo,Real Madrid,Away,0,4,0.53726,3.6885,13,24,l,0
+22971,2024-03-17 13:00:00,La_liga,2023,Celta Vigo,Sevilla,Away,2,1,2.23423,1.75591,18,11,w,3
+22978,2024-03-31 13:00:00,La_liga,2023,Celta Vigo,Rayo Vallecano,Home,0,0,0.838396,0.515128,13,8,d,1
+22987,2024-04-12 19:00:00,La_liga,2023,Celta Vigo,Real Betis,Away,1,2,1.58129,1.22903,12,15,l,0
+22997,2024-04-20 12:00:00,La_liga,2023,Celta Vigo,Las Palmas,Home,4,1,3.58931,0.90843,21,9,w,3
+23010,2024-04-27 16:30:00,La_liga,2023,Celta Vigo,Alaves,Away,0,3,0.188273,3.41094,4,16,l,0
+23015,2024-05-05 14:15:00,La_liga,2023,Celta Vigo,Villarreal,Home,3,2,4.41257,0.544766,23,11,w,3
+23026,2024-05-12 14:15:00,La_liga,2023,Celta Vigo,Atletico Madrid,Away,0,1,0.370026,1.81009,6,21,l,0
+23038,2024-05-15 20:00:00,La_liga,2023,Celta Vigo,Athletic Club,Home,2,1,0.758179,0.377111,10,7,w,3
+23052,2024-05-19 17:00:00,La_liga,2023,Celta Vigo,Granada,Away,2,1,2.02078,1.75765,8,11,w,3
+23056,2024-05-26 14:15:00,La_liga,2023,Celta Vigo,Valencia,Home,2,2,1.50162,2.16042,10,12,d,1
+26984,2024-08-16 17:00:00,La_liga,2024,Celta Vigo,Alaves,Home,2,1,0.793797,1.9391,6,10,w,3
+26992,2024-08-23 17:00:00,La_liga,2024,Celta Vigo,Valencia,Home,3,1,1.30571,1.1544,7,13,w,3
+27002,2024-08-26 19:30:00,La_liga,2024,Celta Vigo,Villarreal,Away,3,4,3.79183,4.3817,21,24,l,0
+27018,2024-09-01 15:00:00,La_liga,2024,Celta Vigo,Osasuna,Away,2,3,1.72329,0.779621,13,11,l,0
+27025,2024-09-15 12:00:00,La_liga,2024,Celta Vigo,Real Valladolid,Home,3,1,1.99273,0.382657,14,6,w,3
+27032,2024-09-22 14:15:00,La_liga,2024,Celta Vigo,Athletic Club,Away,1,3,1.21547,0.864304,11,10,l,0
+27048,2024-09-26 19:00:00,La_liga,2024,Celta Vigo,Atletico Madrid,Home,0,1,1.76126,0.778357,10,8,l,0
+27054,2024-09-29 12:00:00,La_liga,2024,Celta Vigo,Girona,Home,1,1,0.52399,1.41269,12,9,d,1
+27069,2024-10-05 16:30:00,La_liga,2024,Celta Vigo,Las Palmas,Away,1,0,0.814163,0.964894,8,24,w,3
+27075,2024-10-19 19:00:00,La_liga,2024,Celta Vigo,Real Madrid,Home,1,2,1.79112,1.19816,13,10,l,0
+27086,2024-10-27 13:00:00,La_liga,2024,Celta Vigo,Leganes,Away,0,3,0.767239,1.54881,18,7,l,0
+27094,2024-11-04 20:00:00,La_liga,2024,Celta Vigo,Getafe,Home,1,0,2.12477,0.424746,10,10,w,3
+27103,2024-11-10 13:00:00,La_liga,2024,Celta Vigo,Real Betis,Away,2,2,0.941675,1.65065,3,19,d,1
+27117,2024-11-23 20:00:00,La_liga,2024,Celta Vigo,Barcelona,Home,2,2,2.75981,1.93782,15,9,d,1
+27131,2024-11-30 17:30:00,La_liga,2024,Celta Vigo,Espanyol,Away,1,3,1.55998,1.50136,16,9,l,0
+27136,2024-12-06 20:00:00,La_liga,2024,Celta Vigo,Mallorca,Home,2,0,1.19949,1.09038,12,9,w,3
+27145,2024-12-14 17:30:00,La_liga,2024,Celta Vigo,Sevilla,Away,0,1,0.928845,0.487466,10,8,l,0
+27154,2024-12-21 15:15:00,La_liga,2024,Celta Vigo,Real Sociedad,Home,2,0,1.22165,0.314488,11,7,w,3
+27169,2025-01-10 20:00:00,La_liga,2024,Celta Vigo,Rayo Vallecano,Away,1,2,3.25801,1.00439,23,8,l,0
+27175,2025-01-19 13:00:00,La_liga,2024,Celta Vigo,Athletic Club,Home,1,2,0.40033,2.49675,3,14,l,0
+27186,2025-01-27 20:00:00,La_liga,2024,Celta Vigo,Alaves,Away,1,1,0.155093,0.891741,5,3,d,1
+27199,2025-02-02 15:15:00,La_liga,2024,Celta Vigo,Valencia,Away,1,2,0.51501,1.93065,3,8,l,0
+27207,2025-02-08 13:00:00,La_liga,2024,Celta Vigo,Real Betis,Home,3,2,1.75134,1.51159,14,12,w,3
+27212,2025-02-15 17:30:00,La_liga,2024,Celta Vigo,Atletico Madrid,Away,1,1,1.45388,0.689105,11,9,d,1
+27223,2025-02-21 20:00:00,La_liga,2024,Celta Vigo,Osasuna,Home,1,0,2.31891,0.838476,12,18,w,3
+27237,2025-03-01 13:00:00,La_liga,2024,Celta Vigo,Girona,Away,2,2,1.64758,0.89503,10,9,d,1
+27246,2025-03-08 13:00:00,La_liga,2024,Celta Vigo,Leganes,Home,2,1,1.07104,0.99815,7,12,w,3
+27257,2025-03-15 13:00:00,La_liga,2024,Celta Vigo,Real Valladolid,Away,1,0,1.81654,0.839415,10,5,w,3
+27263,2025-03-31 20:00:00,La_liga,2024,Celta Vigo,Las Palmas,Home,1,1,1.07663,0.52734,19,4,d,1
+27278,2025-04-05 16:30:00,La_liga,2024,Celta Vigo,Mallorca,Away,2,1,1.12056,0.670008,10,7,w,3
+27282,2025-04-12 16:30:00,La_liga,2024,Celta Vigo,Espanyol,Home,0,2,0.824366,0.780846,16,5,l,0
+27292,2025-04-19 14:15:00,La_liga,2024,Celta Vigo,Barcelona,Away,3,4,2.50499,2.56587,11,18,l,0
+27307,2025-04-23 17:00:00,La_liga,2024,Celta Vigo,Villarreal,Home,3,0,3.19678,0.5946,21,4,w,3
+27317,2025-05-04 12:00:00,La_liga,2024,Celta Vigo,Real Madrid,Away,2,3,2.13071,3.07408,14,17,l,0
+27326,2025-05-10 14:15:00,La_liga,2024,Celta Vigo,Sevilla,Home,3,2,0.959531,2.61391,8,19,w,3
+27337,2025-05-13 18:00:00,La_liga,2024,Celta Vigo,Real Sociedad,Away,1,0,1.29945,3.31324,6,15,w,3
+27344,2025-05-18 17:00:00,La_liga,2024,Celta Vigo,Rayo Vallecano,Home,1,2,2.4242,0.906857,24,7,l,0
+27359,2025-05-24 19:00:00,La_liga,2024,Celta Vigo,Getafe,Away,2,1,1.30818,0.35897,15,6,w,3
+29163,2025-08-17 15:00:00,La_liga,2025,Celta Vigo,Getafe,Home,0,2,0.744247,1.50131,11,10,l,0
+29169,2025-08-23 15:00:00,La_liga,2025,Celta Vigo,Mallorca,Away,1,1,0.917413,0.664974,8,12,d,1
+29178,2025-08-27 19:00:00,La_liga,2025,Celta Vigo,Real Betis,Home,1,1,0.905201,0.714458,14,7,d,1
+29185,2025-08-31 15:00:00,La_liga,2025,Celta Vigo,Villarreal,Home,1,1,0.876041,0.96978,10,8,d,1
+29192,2025-09-14 12:00:00,La_liga,2025,Celta Vigo,Girona,Home,1,1,1.80278,1.41213,21,13,d,1
+29205,2025-09-21 12:00:00,La_liga,2025,Celta Vigo,Rayo Vallecano,Away,1,1,1.28175,1.3145,9,15,d,1
+29226,2025-09-28 14:15:00,La_liga,2025,Celta Vigo,Elche,Away,1,2,0.821768,4.03596,8,17,l,0
+29232,2025-10-05 19:00:00,La_liga,2025,Celta Vigo,Atletico Madrid,Home,1,1,2.27285,0.710823,19,6,d,1
+29241,2025-10-19 14:15:00,La_liga,2025,Celta Vigo,Real Sociedad,Home,1,1,0.717367,2.13562,4,17,d,1

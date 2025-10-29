@@ -1,0 +1,124 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+18971,2022-08-15 19:30:00,La_liga,2022,Real Betis,Elche,Home,3,0,3.99664,0.29379,17,4,w,3
+18975,2022-08-20 17:30:00,La_liga,2022,Real Betis,Mallorca,Away,2,1,2.21648,1.46761,8,13,w,3
+18983,2022-08-26 20:00:00,La_liga,2022,Real Betis,Osasuna,Home,1,0,0.507146,0.910349,7,12,w,3
+18996,2022-09-03 14:15:00,La_liga,2022,Real Betis,Real Madrid,Away,1,2,0.333406,3.20593,8,22,l,0
+19003,2022-09-11 19:00:00,La_liga,2022,Real Betis,Villarreal,Home,1,0,1.61505,2.44235,16,14,w,3
+19014,2022-09-18 16:30:00,La_liga,2022,Real Betis,Girona,Home,2,1,1.49153,1.34699,9,8,w,3
+19028,2022-10-02 14:15:00,La_liga,2022,Real Betis,Celta Vigo,Away,0,1,1.10607,0.892987,9,11,l,0
+19041,2022-10-09 12:00:00,La_liga,2022,Real Betis,Real Valladolid,Away,0,0,0.545154,0.662444,4,12,d,1
+19051,2022-10-16 19:00:00,La_liga,2022,Real Betis,Almeria,Home,3,1,3.19417,1.11551,15,12,w,3
+19058,2022-10-19 17:00:00,La_liga,2022,Real Betis,Cadiz,Away,0,0,1.22222,0.74688,12,13,d,1
+19066,2022-10-23 14:15:00,La_liga,2022,Real Betis,Atletico Madrid,Home,1,2,1.33076,0.585496,17,9,l,0
+19078,2022-10-30 20:00:00,La_liga,2022,Real Betis,Real Sociedad,Away,2,0,1.34514,1.28165,10,14,w,3
+19083,2022-11-06 20:00:00,La_liga,2022,Real Betis,Sevilla,Home,1,1,1.13067,1.49591,9,23,d,1
+19098,2022-11-10 19:00:00,La_liga,2022,Real Betis,Valencia,Away,0,3,0.307626,2.2469,5,15,l,0
+19107,2022-12-29 18:15:00,La_liga,2022,Real Betis,Athletic Club,Home,0,0,0.541791,0.358148,9,10,d,1
+19117,2023-01-08 15:15:00,La_liga,2022,Real Betis,Rayo Vallecano,Away,2,1,0.735098,1.38976,14,16,w,3
+19137,2023-01-21 15:15:00,La_liga,2022,Real Betis,Espanyol,Away,0,1,0.835514,2.16171,13,8,l,0
+19148,2023-01-28 20:00:00,La_liga,2022,Real Betis,Getafe,Away,1,0,2.00036,0.206383,14,6,w,3
+19128,2023-02-01 20:00:00,La_liga,2022,Real Betis,Barcelona,Home,1,2,0.760581,2.38335,5,14,l,0
+19155,2023-02-04 20:00:00,La_liga,2022,Real Betis,Celta Vigo,Home,3,4,3.54117,2.30434,15,9,l,0
+19165,2023-02-11 15:15:00,La_liga,2022,Real Betis,Almeria,Away,3,2,3.30673,2.00937,12,16,w,3
+19173,2023-02-18 15:15:00,La_liga,2022,Real Betis,Real Valladolid,Home,2,1,2.21822,0.97905,16,17,w,3
+19190,2023-02-24 20:00:00,La_liga,2022,Real Betis,Elche,Away,3,2,4.05176,0.883935,21,4,w,3
+19194,2023-03-05 20:00:00,La_liga,2022,Real Betis,Real Madrid,Home,0,0,0.59294,1.14462,8,15,d,1
+19208,2023-03-12 17:30:00,La_liga,2022,Real Betis,Villarreal,Away,1,1,1.03133,1.33264,6,15,d,1
+19214,2023-03-19 13:00:00,La_liga,2022,Real Betis,Mallorca,Home,1,0,0.606846,0.140478,10,5,w,3
+19223,2023-04-02 19:00:00,La_liga,2022,Real Betis,Atletico Madrid,Away,0,1,0.371436,1.70131,6,13,l,0
+19233,2023-04-09 14:15:00,La_liga,2022,Real Betis,Cadiz,Home,0,2,1.58835,2.85597,8,15,l,0
+19243,2023-04-15 16:30:00,La_liga,2022,Real Betis,Espanyol,Home,3,1,1.965,0.616302,15,13,w,3
+19256,2023-04-22 12:00:00,La_liga,2022,Real Betis,Osasuna,Away,2,3,1.99331,1.63275,21,10,l,0
+19264,2023-04-25 20:00:00,La_liga,2022,Real Betis,Real Sociedad,Home,0,0,0.7286,0.607061,10,10,d,1
+19272,2023-04-29 19:00:00,La_liga,2022,Real Betis,Barcelona,Away,0,4,0.231066,3.0864,5,15,l,0
+19282,2023-05-04 20:00:00,La_liga,2022,Real Betis,Athletic Club,Away,1,0,0.753982,1.01449,12,20,w,3
+19295,2023-05-15 19:00:00,La_liga,2022,Real Betis,Rayo Vallecano,Home,3,1,2.69596,1.71956,11,16,w,3
+19305,2023-05-21 19:00:00,La_liga,2022,Real Betis,Sevilla,Away,0,0,0.114129,1.51947,5,10,d,1
+19312,2023-05-24 20:00:00,La_liga,2022,Real Betis,Getafe,Home,0,1,1.09282,0.344449,11,9,l,0
+19329,2023-05-28 17:00:00,La_liga,2022,Real Betis,Girona,Away,2,1,2.32066,1.63315,18,9,w,3
+19339,2023-06-04 18:00:00,La_liga,2022,Real Betis,Valencia,Home,1,1,0.677919,0.845969,8,10,d,1
+22691,2023-08-13 17:30:00,La_liga,2023,Real Betis,Villarreal,Away,2,1,0.969349,0.737812,12,17,w,3
+22702,2023-08-20 19:30:00,La_liga,2023,Real Betis,Atletico Madrid,Home,0,0,1.02642,0.34492,14,5,d,1
+22706,2023-08-27 19:30:00,La_liga,2023,Real Betis,Athletic Club,Away,2,4,0.346198,2.86727,7,14,l,0
+22717,2023-09-02 19:00:00,La_liga,2023,Real Betis,Rayo Vallecano,Home,1,0,0.91924,1.53554,14,15,w,3
+22726,2023-09-16 19:00:00,La_liga,2023,Real Betis,Barcelona,Away,0,5,0.852869,2.54628,11,17,l,0
+22738,2023-09-24 16:30:00,La_liga,2023,Real Betis,Cadiz,Home,1,1,2.70742,0.570946,21,5,d,1
+22750,2023-09-28 17:00:00,La_liga,2023,Real Betis,Granada,Away,1,1,0.870668,1.55108,13,19,d,1
+22758,2023-10-01 19:00:00,La_liga,2023,Real Betis,Valencia,Home,3,0,2.53745,0.510459,15,9,w,3
+22769,2023-10-08 16:30:00,La_liga,2023,Real Betis,Alaves,Away,1,1,0.872851,1.89594,7,15,d,1
+22779,2023-10-21 14:15:00,La_liga,2023,Real Betis,Getafe,Away,1,1,1.42816,1.86677,13,14,d,1
+22788,2023-10-29 13:00:00,La_liga,2023,Real Betis,Osasuna,Home,2,1,1.43393,0.446425,9,7,w,3
+22795,2023-11-04 15:15:00,La_liga,2023,Real Betis,Mallorca,Home,2,0,2.84664,0.540374,22,8,w,3
+22809,2023-11-12 17:30:00,La_liga,2023,Real Betis,Sevilla,Away,1,1,2.17922,0.615603,14,13,d,1
+22816,2023-11-26 20:00:00,La_liga,2023,Real Betis,Las Palmas,Home,1,0,1.92649,0.751589,12,15,w,3
+22825,2023-12-03 15:15:00,La_liga,2023,Real Betis,Almeria,Away,0,0,0.769817,2.69938,6,20,d,1
+22836,2023-12-09 15:15:00,La_liga,2023,Real Betis,Real Madrid,Home,1,1,1.51575,0.803862,14,12,d,1
+22851,2023-12-17 15:15:00,La_liga,2023,Real Betis,Real Sociedad,Away,0,0,1.37163,0.989954,12,12,d,1
+22857,2023-12-21 18:00:00,La_liga,2023,Real Betis,Girona,Home,1,1,1.61394,1.64551,21,12,d,1
+22871,2024-01-03 18:15:00,La_liga,2023,Real Betis,Celta Vigo,Away,1,2,1.73674,2.54675,14,19,l,0
+22879,2024-01-13 20:00:00,La_liga,2023,Real Betis,Granada,Home,1,0,2.00904,0.658067,25,6,w,3
+22891,2024-01-21 17:30:00,La_liga,2023,Real Betis,Barcelona,Home,2,4,1.61122,2.71025,14,11,l,0
+22901,2024-01-27 20:00:00,La_liga,2023,Real Betis,Mallorca,Away,1,0,0.400759,1.72961,8,14,w,3
+22906,2024-02-04 17:30:00,La_liga,2023,Real Betis,Getafe,Home,1,1,1.54414,1.9002,9,11,d,1
+22921,2024-02-09 20:00:00,La_liga,2023,Real Betis,Cadiz,Away,2,0,1.43872,0.755069,13,14,w,3
+22934,2024-02-18 20:00:00,La_liga,2023,Real Betis,Alaves,Home,0,0,1.18267,0.490778,13,13,d,1
+22944,2024-02-25 15:15:00,La_liga,2023,Real Betis,Athletic Club,Home,3,1,0.921277,0.137757,13,4,w,3
+22946,2024-03-03 15:15:00,La_liga,2023,Real Betis,Atletico Madrid,Away,1,2,0.588581,3.54138,13,17,l,0
+22957,2024-03-10 20:00:00,La_liga,2023,Real Betis,Villarreal,Home,2,3,1.39975,1.30814,14,6,l,0
+22969,2024-03-17 17:30:00,La_liga,2023,Real Betis,Rayo Vallecano,Away,0,2,0.69375,0.790186,11,8,l,0
+22983,2024-03-31 15:15:00,La_liga,2023,Real Betis,Girona,Away,2,3,0.524961,2.43161,7,9,l,0
+22987,2024-04-12 19:00:00,La_liga,2023,Real Betis,Celta Vigo,Home,2,1,1.22903,1.58129,15,12,w,3
+23001,2024-04-20 16:30:00,La_liga,2023,Real Betis,Valencia,Away,2,1,1.82123,0.951475,12,8,w,3
+23007,2024-04-28 19:00:00,La_liga,2023,Real Betis,Sevilla,Home,1,1,2.39465,1.26484,15,10,d,1
+23020,2024-05-05 12:00:00,La_liga,2023,Real Betis,Osasuna,Away,2,0,1.44688,1.02463,10,12,w,3
+23031,2024-05-12 19:00:00,La_liga,2023,Real Betis,Almeria,Home,3,2,1.69343,1.08304,14,14,w,3
+23040,2024-05-16 17:30:00,La_liga,2023,Real Betis,Las Palmas,Away,2,2,1.3277,2.61533,6,17,d,1
+23048,2024-05-19 17:00:00,La_liga,2023,Real Betis,Real Sociedad,Home,0,2,1.60754,0.792849,18,5,l,0
+23063,2024-05-25 19:00:00,La_liga,2023,Real Betis,Real Madrid,Away,0,0,1.15552,1.24417,11,13,d,1
+26983,2024-08-15 19:30:00,La_liga,2024,Real Betis,Girona,Home,1,1,1.80582,1.54726,19,13,d,1
+27000,2024-08-25 17:15:00,La_liga,2024,Real Betis,Alaves,Away,0,0,1.36012,0.172545,15,5,d,1
+27021,2024-09-01 19:30:00,La_liga,2024,Real Betis,Real Madrid,Away,0,2,0.831429,2.37168,11,22,l,0
+27024,2024-09-13 19:00:00,La_liga,2024,Real Betis,Leganes,Home,2,0,1.72201,0.107021,14,3,w,3
+27007,2024-09-18 17:00:00,La_liga,2024,Real Betis,Getafe,Home,2,1,3.06176,0.864309,17,15,w,3
+27033,2024-09-23 19:00:00,La_liga,2024,Real Betis,Mallorca,Home,1,2,1.37084,1.4369,16,7,l,0
+27049,2024-09-26 17:00:00,La_liga,2024,Real Betis,Las Palmas,Away,1,1,2.66646,1.10799,13,8,d,1
+27061,2024-09-29 16:30:00,La_liga,2024,Real Betis,Espanyol,Home,1,0,1.97922,0.569387,20,8,w,3
+27068,2024-10-06 16:30:00,La_liga,2024,Real Betis,Sevilla,Away,0,1,0.436615,1.8284,11,14,l,0
+27079,2024-10-19 14:15:00,La_liga,2024,Real Betis,Osasuna,Away,2,1,2.79181,2.21025,11,19,w,3
+27084,2024-10-27 17:30:00,La_liga,2024,Real Betis,Atletico Madrid,Home,1,0,2.20384,0.555217,24,11,w,3
+27092,2024-11-03 20:00:00,La_liga,2024,Real Betis,Athletic Club,Away,1,1,1.54499,4.2033,7,17,d,1
+27103,2024-11-10 13:00:00,La_liga,2024,Real Betis,Celta Vigo,Home,2,2,1.65065,0.941675,19,3,d,1
+27118,2024-11-23 13:00:00,La_liga,2024,Real Betis,Valencia,Away,2,4,1.05242,1.67338,7,12,l,0
+27130,2024-12-01 20:00:00,La_liga,2024,Real Betis,Real Sociedad,Away,0,2,0.366137,0.818081,8,2,l,0
+27139,2024-12-07 15:15:00,La_liga,2024,Real Betis,Barcelona,Home,2,2,2.76257,1.54117,12,9,d,1
+27148,2024-12-15 17:30:00,La_liga,2024,Real Betis,Villarreal,Away,2,1,1.6735,1.60957,10,17,w,3
+27153,2024-12-22 20:00:00,La_liga,2024,Real Betis,Rayo Vallecano,Home,1,1,1.93031,0.878426,14,10,d,1
+27168,2025-01-11 15:15:00,La_liga,2024,Real Betis,Real Valladolid,Away,0,1,1.03813,1.62446,14,12,l,0
+27181,2025-01-18 17:30:00,La_liga,2024,Real Betis,Alaves,Home,1,3,0.501492,1.6539,7,9,l,0
+27187,2025-01-25 13:00:00,La_liga,2024,Real Betis,Mallorca,Away,1,0,0.59491,0.789384,8,16,w,3
+27198,2025-02-02 20:00:00,La_liga,2024,Real Betis,Athletic Club,Home,2,2,1.31717,1.75905,10,12,d,1
+27207,2025-02-08 13:00:00,La_liga,2024,Real Betis,Celta Vigo,Away,2,3,1.51159,1.75134,12,14,l,0
+27218,2025-02-16 20:00:00,La_liga,2024,Real Betis,Real Sociedad,Home,3,0,2.49445,0.20529,24,5,w,3
+27227,2025-02-23 17:30:00,La_liga,2024,Real Betis,Getafe,Away,2,1,2.34571,0.86267,13,10,w,3
+27233,2025-03-01 17:30:00,La_liga,2024,Real Betis,Real Madrid,Home,2,1,2.23957,1.05072,18,9,w,3
+27245,2025-03-09 17:30:00,La_liga,2024,Real Betis,Las Palmas,Home,1,0,2.31412,0.426529,14,8,w,3
+27256,2025-03-16 13:00:00,La_liga,2024,Real Betis,Leganes,Away,3,2,2.92809,1.57329,21,10,w,3
+27271,2025-03-30 20:00:00,La_liga,2024,Real Betis,Sevilla,Home,2,1,0.894203,0.867589,11,6,w,3
+27272,2025-04-05 19:00:00,La_liga,2024,Real Betis,Barcelona,Away,1,1,0.249939,1.46844,6,13,d,1
+27285,2025-04-13 16:30:00,La_liga,2024,Real Betis,Villarreal,Home,1,2,2.04046,1.32607,24,8,l,0
+27296,2025-04-21 19:00:00,La_liga,2024,Real Betis,Girona,Away,3,1,2.28252,1.10326,17,11,w,3
+27306,2025-04-24 19:30:00,La_liga,2024,Real Betis,Real Valladolid,Home,5,1,2.26702,0.839722,16,10,w,3
+27321,2025-05-04 16:30:00,La_liga,2024,Real Betis,Espanyol,Away,2,1,1.05631,0.873167,20,11,w,3
+27325,2025-05-11 19:00:00,La_liga,2024,Real Betis,Osasuna,Home,1,1,0.359348,2.2272,10,16,d,1
+27336,2025-05-15 17:00:00,La_liga,2024,Real Betis,Rayo Vallecano,Away,2,2,1.17134,1.30199,10,20,d,1
+27342,2025-05-18 17:00:00,La_liga,2024,Real Betis,Atletico Madrid,Away,1,4,0.821908,4.94276,12,20,l,0
+27354,2025-05-23 19:00:00,La_liga,2024,Real Betis,Valencia,Home,1,1,1.15286,0.647724,14,9,d,1
+29166,2025-08-18 19:00:00,La_liga,2025,Real Betis,Elche,Away,1,1,1.59562,0.981494,12,6,d,1
+29168,2025-08-22 19:30:00,La_liga,2025,Real Betis,Alaves,Home,1,0,2.13985,1.43838,16,11,w,3
+29178,2025-08-27 19:00:00,La_liga,2025,Real Betis,Celta Vigo,Away,1,1,0.714458,0.905201,7,14,d,1
+29186,2025-08-31 17:00:00,La_liga,2025,Real Betis,Athletic Club,Home,1,2,0.716186,1.11141,10,15,l,0
+29191,2025-09-14 14:15:00,La_liga,2025,Real Betis,Levante,Away,2,2,2.19546,1.02425,28,5,d,1
+29200,2025-09-19 19:00:00,La_liga,2025,Real Betis,Real Sociedad,Home,3,1,2.53579,0.606673,21,12,w,3
+29221,2025-09-28 19:00:00,La_liga,2025,Real Betis,Osasuna,Home,2,0,1.18955,0.578485,12,12,w,3
+29234,2025-10-05 16:30:00,La_liga,2025,Real Betis,Espanyol,Away,2,1,1.43721,2.0699,12,14,w,3
+29245,2025-10-18 16:30:00,La_liga,2025,Real Betis,Villarreal,Away,2,2,0.895532,0.980598,16,7,d,1

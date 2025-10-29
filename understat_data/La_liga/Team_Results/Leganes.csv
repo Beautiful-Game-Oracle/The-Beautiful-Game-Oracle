@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+26986,2024-08-17 17:00:00,La_liga,2024,Leganes,Osasuna,Away,1,1,1.33949,1.7631,11,17,d,1
+26999,2024-08-25 17:00:00,La_liga,2024,Leganes,Las Palmas,Home,2,1,1.58998,1.23438,10,10,w,3
+27005,2024-08-28 17:00:00,La_liga,2024,Leganes,Real Valladolid,Away,0,0,0.184577,0.773785,7,12,d,1
+27016,2024-08-31 19:30:00,La_liga,2024,Leganes,Mallorca,Home,0,1,0.52078,1.48758,9,12,l,0
+27024,2024-09-13 19:00:00,La_liga,2024,Leganes,Real Betis,Away,0,2,0.107021,1.72201,3,14,l,0
+27047,2024-09-19 17:00:00,La_liga,2024,Leganes,Athletic Club,Home,0,2,0.666594,1.32325,14,10,l,0
+27034,2024-09-22 12:00:00,La_liga,2024,Leganes,Getafe,Away,1,1,0.783211,1.24276,6,12,d,1
+27060,2024-09-28 14:15:00,La_liga,2024,Leganes,Rayo Vallecano,Away,1,1,0.852356,1.15229,13,15,d,1
+27065,2024-10-04 19:00:00,La_liga,2024,Leganes,Valencia,Home,0,0,0.913168,0.703751,8,6,d,1
+27073,2024-10-20 14:15:00,La_liga,2024,Leganes,Atletico Madrid,Away,1,3,0.271901,5.21397,5,23,l,0
+27086,2024-10-27 13:00:00,La_liga,2024,Leganes,Celta Vigo,Home,3,0,1.54881,0.767239,7,18,w,3
+27095,2024-11-02 15:15:00,La_liga,2024,Leganes,Girona,Away,3,4,0.320545,1.81274,10,15,l,0
+27105,2024-11-09 21:00:00,La_liga,2024,Leganes,Sevilla,Home,1,0,1.09319,0.539924,8,13,w,3
+27116,2024-11-24 17:30:00,La_liga,2024,Leganes,Real Madrid,Home,0,3,0.108948,2.73014,4,16,l,0
+27124,2024-11-30 15:15:00,La_liga,2024,Leganes,Alaves,Away,1,1,1.3688,1.28884,6,18,d,1
+27133,2024-12-08 13:00:00,La_liga,2024,Leganes,Real Sociedad,Home,0,3,0.463722,1.74462,11,15,l,0
+27143,2024-12-15 20:00:00,La_liga,2024,Leganes,Barcelona,Away,1,0,0.77236,2.16597,6,20,w,3
+27158,2024-12-22 17:30:00,La_liga,2024,Leganes,Villarreal,Home,2,5,1.47457,4.01011,5,18,l,0
+27171,2025-01-11 17:30:00,La_liga,2024,Leganes,Espanyol,Away,1,1,1.92496,1.05544,14,15,d,1
+27176,2025-01-18 15:15:00,La_liga,2024,Leganes,Atletico Madrid,Home,1,0,0.770342,3.0563,9,19,w,3
+27182,2025-01-26 17:30:00,La_liga,2024,Leganes,Athletic Club,Away,0,0,1.57401,2.27277,5,29,d,1
+27197,2025-01-31 20:00:00,La_liga,2024,Leganes,Rayo Vallecano,Home,0,1,1.00009,2.39088,5,19,l,0
+27208,2025-02-09 15:15:00,La_liga,2024,Leganes,Valencia,Away,0,2,0.417562,2.03187,12,18,l,0
+27219,2025-02-15 13:00:00,La_liga,2024,Leganes,Alaves,Home,3,3,1.76328,1.4212,8,16,d,1
+27230,2025-02-23 20:00:00,La_liga,2024,Leganes,Real Sociedad,Away,0,3,0.256673,1.0679,8,12,l,0
+27238,2025-03-02 13:00:00,La_liga,2024,Leganes,Getafe,Home,1,0,0.554524,0.585024,6,9,w,3
+27246,2025-03-08 13:00:00,La_liga,2024,Leganes,Celta Vigo,Away,1,2,0.99815,1.07104,12,7,l,0
+27256,2025-03-16 13:00:00,La_liga,2024,Leganes,Real Betis,Home,2,3,1.57329,2.92809,10,21,l,0
+27268,2025-03-29 20:00:00,La_liga,2024,Leganes,Real Madrid,Away,2,3,2.38359,3.59257,10,24,l,0
+27275,2025-04-07 19:00:00,La_liga,2024,Leganes,Osasuna,Home,1,1,2.22334,2.07408,13,14,d,1
+27288,2025-04-12 19:00:00,La_liga,2024,Leganes,Barcelona,Home,0,1,0.5988,1.10105,7,12,l,0
+27300,2025-04-19 16:30:00,La_liga,2024,Leganes,Mallorca,Away,0,0,0.951824,1.06921,15,11,d,1
+27311,2025-04-24 17:00:00,La_liga,2024,Leganes,Girona,Home,1,1,0.330809,0.764098,7,8,d,1
+27320,2025-05-04 14:15:00,La_liga,2024,Leganes,Sevilla,Away,2,2,0.804853,2.33742,9,25,d,1
+27322,2025-05-11 12:00:00,La_liga,2024,Leganes,Espanyol,Home,3,2,2.05779,1.57739,13,13,w,3
+27341,2025-05-14 17:00:00,La_liga,2024,Leganes,Villarreal,Away,0,3,1.19032,2.28885,23,17,l,0
+27350,2025-05-18 17:00:00,La_liga,2024,Leganes,Las Palmas,Away,1,0,1.06274,0.513718,11,12,w,3
+27357,2025-05-24 16:30:00,La_liga,2024,Leganes,Real Valladolid,Home,3,0,1.74736,0.479375,16,6,w,3

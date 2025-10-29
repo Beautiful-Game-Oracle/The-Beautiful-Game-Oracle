@@ -1,0 +1,124 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+18970,2022-08-15 17:30:00,La_liga,2022,Atletico Madrid,Getafe,Away,3,0,1.48417,1.14045,12,10,w,3
+18978,2022-08-21 17:30:00,La_liga,2022,Atletico Madrid,Villarreal,Home,0,2,1.5852,1.9825,13,19,l,0
+18991,2022-08-29 20:00:00,La_liga,2022,Atletico Madrid,Valencia,Away,1,0,1.97507,0.65396,13,12,w,3
+18994,2022-09-03 16:30:00,La_liga,2022,Atletico Madrid,Real Sociedad,Away,1,1,2.24791,1.75154,16,12,d,1
+19002,2022-09-10 19:00:00,La_liga,2022,Atletico Madrid,Celta Vigo,Home,4,1,0.92341,1.30565,10,15,w,3
+19021,2022-09-18 19:00:00,La_liga,2022,Atletico Madrid,Real Madrid,Home,1,2,1.10431,1.09277,12,6,l,0
+19026,2022-10-01 16:30:00,La_liga,2022,Atletico Madrid,Sevilla,Away,2,0,2.12095,0.362804,20,14,w,3
+19032,2022-10-08 14:15:00,La_liga,2022,Atletico Madrid,Girona,Home,2,1,2.19801,0.721587,13,11,w,3
+19042,2022-10-15 19:00:00,La_liga,2022,Atletico Madrid,Athletic Club,Away,1,0,0.463248,1.33263,3,13,w,3
+19052,2022-10-18 19:00:00,La_liga,2022,Atletico Madrid,Rayo Vallecano,Home,1,1,0.817771,1.61962,12,14,d,1
+19066,2022-10-23 14:15:00,La_liga,2022,Atletico Madrid,Real Betis,Away,2,1,0.585496,1.33076,9,17,w,3
+19076,2022-10-29 14:15:00,La_liga,2022,Atletico Madrid,Cadiz,Away,2,3,1.79745,1.58908,16,11,l,0
+19082,2022-11-06 13:00:00,La_liga,2022,Atletico Madrid,Espanyol,Home,1,1,2.02314,0.870622,27,6,d,1
+19096,2022-11-09 20:30:00,La_liga,2022,Atletico Madrid,Mallorca,Away,0,1,1.50598,1.46593,17,9,l,0
+19102,2022-12-29 20:30:00,La_liga,2022,Atletico Madrid,Elche,Home,2,0,1.74436,0.568911,18,5,w,3
+19113,2023-01-08 20:00:00,La_liga,2022,Atletico Madrid,Barcelona,Home,0,1,1.93573,1.23617,20,10,l,0
+19125,2023-01-15 15:15:00,La_liga,2022,Atletico Madrid,Almeria,Away,1,1,2.08354,1.08212,12,14,d,1
+19133,2023-01-21 17:30:00,La_liga,2022,Atletico Madrid,Real Valladolid,Home,3,0,4.11414,0.421793,18,7,w,3
+19146,2023-01-29 15:15:00,La_liga,2022,Atletico Madrid,Osasuna,Away,1,0,1.29745,0.741393,13,14,w,3
+19153,2023-02-04 17:30:00,La_liga,2022,Atletico Madrid,Getafe,Home,1,1,1.01341,1.13659,12,9,d,1
+19167,2023-02-12 15:15:00,La_liga,2022,Atletico Madrid,Celta Vigo,Away,1,0,0.955578,1.057,10,14,w,3
+19179,2023-02-19 17:30:00,La_liga,2022,Atletico Madrid,Athletic Club,Home,1,0,1.06493,1.00816,17,8,w,3
+19189,2023-02-25 17:30:00,La_liga,2022,Atletico Madrid,Real Madrid,Away,1,1,0.217661,1.56317,7,18,d,1
+19192,2023-03-04 20:00:00,La_liga,2022,Atletico Madrid,Sevilla,Home,6,1,3.05182,1.76791,18,8,w,3
+19207,2023-03-13 20:00:00,La_liga,2022,Atletico Madrid,Girona,Away,1,0,1.80682,0.301909,14,6,w,3
+19212,2023-03-18 20:00:00,La_liga,2022,Atletico Madrid,Valencia,Home,3,0,3.36294,0.68946,14,9,w,3
+19223,2023-04-02 19:00:00,La_liga,2022,Atletico Madrid,Real Betis,Home,1,0,1.70131,0.371436,13,6,w,3
+19237,2023-04-09 19:00:00,La_liga,2022,Atletico Madrid,Rayo Vallecano,Away,2,1,2.36535,0.564426,14,15,w,3
+19251,2023-04-16 16:30:00,La_liga,2022,Atletico Madrid,Almeria,Home,2,1,2.51151,0.058186,20,2,w,3
+19255,2023-04-23 14:15:00,La_liga,2022,Atletico Madrid,Barcelona,Away,0,1,0.714419,2.12803,13,13,l,0
+19263,2023-04-26 17:30:00,La_liga,2022,Atletico Madrid,Mallorca,Home,3,1,2.61545,0.741129,24,6,w,3
+19278,2023-04-30 19:00:00,La_liga,2022,Atletico Madrid,Real Valladolid,Away,5,2,2.75586,1.46642,9,20,w,3
+19283,2023-05-03 20:00:00,La_liga,2022,Atletico Madrid,Cadiz,Home,5,1,4.25954,0.0260457,18,2,w,3
+19298,2023-05-14 14:15:00,La_liga,2022,Atletico Madrid,Elche,Away,0,1,1.44785,2.28487,13,15,l,0
+19311,2023-05-21 14:15:00,La_liga,2022,Atletico Madrid,Osasuna,Home,3,0,2.08773,0.714505,15,12,w,3
+19317,2023-05-24 20:00:00,La_liga,2022,Atletico Madrid,Espanyol,Away,3,3,2.76349,3.03603,16,26,d,1
+19323,2023-05-28 17:00:00,La_liga,2022,Atletico Madrid,Real Sociedad,Home,2,1,0.818599,0.943774,11,10,w,3
+19333,2023-06-04 18:00:00,La_liga,2022,Atletico Madrid,Villarreal,Away,2,2,1.16068,2.06391,9,22,d,1
+22694,2023-08-14 19:30:00,La_liga,2023,Atletico Madrid,Granada,Home,3,1,3.01246,1.13452,14,7,w,3
+22702,2023-08-20 19:30:00,La_liga,2023,Atletico Madrid,Real Betis,Away,0,0,0.34492,1.02642,5,14,d,1
+22714,2023-08-28 19:30:00,La_liga,2023,Atletico Madrid,Rayo Vallecano,Away,7,0,3.29424,0.542939,17,12,w,3
+22731,2023-09-16 14:15:00,La_liga,2023,Atletico Madrid,Valencia,Away,0,3,0.564083,2.22142,9,11,l,0
+22736,2023-09-24 19:00:00,La_liga,2023,Atletico Madrid,Real Madrid,Home,3,1,1.79578,0.847915,10,20,w,3
+22748,2023-09-28 19:30:00,La_liga,2023,Atletico Madrid,Osasuna,Away,2,0,1.22827,0.759357,5,13,w,3
+22756,2023-10-01 19:00:00,La_liga,2023,Atletico Madrid,Cadiz,Home,3,2,3.10102,0.677345,18,8,w,3
+22765,2023-10-08 14:15:00,La_liga,2023,Atletico Madrid,Real Sociedad,Home,2,1,2.94239,0.928071,14,13,w,3
+22778,2023-10-21 19:00:00,La_liga,2023,Atletico Madrid,Celta Vigo,Away,3,0,2.39246,1.26757,12,16,w,3
+22794,2023-10-29 20:00:00,La_liga,2023,Atletico Madrid,Alaves,Home,2,1,1.94088,0.385398,11,8,w,3
+22799,2023-11-03 19:00:00,La_liga,2023,Atletico Madrid,Las Palmas,Away,1,2,1.52768,0.452709,13,9,l,0
+22807,2023-11-12 20:00:00,La_liga,2023,Atletico Madrid,Villarreal,Home,3,1,3.93786,0.868854,25,11,w,3
+22815,2023-11-25 20:00:00,La_liga,2023,Atletico Madrid,Mallorca,Home,1,0,2.29683,0.945212,20,8,w,3
+22830,2023-12-03 20:00:00,La_liga,2023,Atletico Madrid,Barcelona,Away,0,1,0.996297,3.18789,9,13,l,0
+22841,2023-12-10 13:00:00,La_liga,2023,Atletico Madrid,Almeria,Home,2,1,2.16876,1.6656,13,18,w,3
+22846,2023-12-16 15:15:00,La_liga,2023,Atletico Madrid,Athletic Club,Away,0,2,0.342126,2.73082,7,16,l,0
+22856,2023-12-19 20:30:00,La_liga,2023,Atletico Madrid,Getafe,Home,3,3,2.02936,2.53681,8,29,d,1
+22716,2023-12-23 14:15:00,La_liga,2023,Atletico Madrid,Sevilla,Home,1,0,1.53277,0.279969,12,8,w,3
+22869,2024-01-03 20:30:00,La_liga,2023,Atletico Madrid,Girona,Away,3,4,2.67389,2.32369,18,17,l,0
+22890,2024-01-22 20:00:00,La_liga,2023,Atletico Madrid,Granada,Away,1,0,1.42876,0.684269,10,17,w,3
+22895,2024-01-28 20:00:00,La_liga,2023,Atletico Madrid,Valencia,Home,2,0,2.80234,0.406631,12,10,w,3
+22877,2024-01-31 20:00:00,La_liga,2023,Atletico Madrid,Rayo Vallecano,Home,2,1,1.29884,0.426602,8,10,w,3
+22912,2024-02-04 20:00:00,La_liga,2023,Atletico Madrid,Real Madrid,Away,1,1,1.35012,2.36334,10,17,d,1
+22920,2024-02-11 17:30:00,La_liga,2023,Atletico Madrid,Sevilla,Away,0,1,1.67549,2.15338,16,10,l,0
+22926,2024-02-17 13:00:00,La_liga,2023,Atletico Madrid,Las Palmas,Home,5,0,2.79269,0.660284,13,11,w,3
+22935,2024-02-24 20:00:00,La_liga,2023,Atletico Madrid,Almeria,Away,2,2,1.87638,0.352281,18,9,d,1
+22946,2024-03-03 15:15:00,La_liga,2023,Atletico Madrid,Real Betis,Home,2,1,3.54138,0.588581,17,13,w,3
+22962,2024-03-09 15:15:00,La_liga,2023,Atletico Madrid,Cadiz,Away,0,2,0.895711,1.18033,8,7,l,0
+22965,2024-03-17 20:00:00,La_liga,2023,Atletico Madrid,Barcelona,Home,0,3,0.570805,1.94966,12,9,l,0
+22982,2024-04-01 19:00:00,La_liga,2023,Atletico Madrid,Villarreal,Away,2,1,1.2402,0.681964,14,11,w,3
+22986,2024-04-13 12:00:00,La_liga,2023,Atletico Madrid,Girona,Home,3,1,2.58629,2.20992,17,12,w,3
+22999,2024-04-21 16:30:00,La_liga,2023,Atletico Madrid,Alaves,Away,0,2,0.715212,0.521018,15,8,l,0
+23011,2024-04-27 19:00:00,La_liga,2023,Atletico Madrid,Athletic Club,Home,3,1,0.62028,0.894572,8,8,w,3
+23018,2024-05-04 19:00:00,La_liga,2023,Atletico Madrid,Mallorca,Away,1,0,0.874778,0.328479,9,7,w,3
+23026,2024-05-12 14:15:00,La_liga,2023,Atletico Madrid,Celta Vigo,Home,1,0,1.81009,0.370026,21,6,w,3
+23039,2024-05-15 20:00:00,La_liga,2023,Atletico Madrid,Getafe,Away,3,0,1.67036,0.446969,7,8,w,3
+23046,2024-05-19 17:00:00,La_liga,2023,Atletico Madrid,Osasuna,Home,1,4,1.76117,1.88434,14,15,l,0
+23061,2024-05-25 14:15:00,La_liga,2023,Atletico Madrid,Real Sociedad,Away,2,0,2.19824,0.570544,10,14,w,3
+26991,2024-08-19 19:30:00,La_liga,2024,Atletico Madrid,Villarreal,Away,2,2,1.13868,0.68684,10,9,d,1
+27001,2024-08-25 19:30:00,La_liga,2024,Atletico Madrid,Girona,Home,3,0,1.42393,0.596524,11,13,w,3
+27009,2024-08-28 19:30:00,La_liga,2024,Atletico Madrid,Espanyol,Home,0,0,3.88587,0.855829,25,8,d,1
+27013,2024-08-31 17:00:00,La_liga,2024,Atletico Madrid,Athletic Club,Away,1,0,1.58613,0.252231,9,8,w,3
+27023,2024-09-15 19:00:00,La_liga,2024,Atletico Madrid,Valencia,Home,3,0,3.22965,0.18311,14,5,w,3
+27036,2024-09-22 19:00:00,La_liga,2024,Atletico Madrid,Rayo Vallecano,Away,1,1,0.554066,1.68952,10,16,d,1
+27048,2024-09-26 19:00:00,La_liga,2024,Atletico Madrid,Celta Vigo,Away,1,0,0.778357,1.76126,8,10,w,3
+27053,2024-09-29 19:00:00,La_liga,2024,Atletico Madrid,Real Madrid,Home,1,1,1.05477,0.660987,12,12,d,1
+27067,2024-10-06 19:00:00,La_liga,2024,Atletico Madrid,Real Sociedad,Away,1,1,0.561748,1.08517,4,16,d,1
+27073,2024-10-20 14:15:00,La_liga,2024,Atletico Madrid,Leganes,Home,3,1,5.21397,0.271901,23,5,w,3
+27084,2024-10-27 17:30:00,La_liga,2024,Atletico Madrid,Real Betis,Away,0,1,0.555217,2.20384,11,24,l,0
+27093,2024-11-03 13:00:00,La_liga,2024,Atletico Madrid,Las Palmas,Home,2,0,1.73469,0.0329044,15,1,w,3
+27107,2024-11-10 15:15:00,La_liga,2024,Atletico Madrid,Mallorca,Away,1,0,0.93863,0.735147,9,12,w,3
+27120,2024-11-23 15:15:00,La_liga,2024,Atletico Madrid,Alaves,Home,2,1,2.05318,0.785902,11,4,w,3
+27126,2024-11-30 20:00:00,La_liga,2024,Atletico Madrid,Real Valladolid,Away,5,0,3.40487,0.437294,13,9,w,3
+27135,2024-12-08 20:00:00,La_liga,2024,Atletico Madrid,Sevilla,Home,4,3,2.32183,0.635773,14,4,w,3
+27142,2024-12-15 13:00:00,La_liga,2024,Atletico Madrid,Getafe,Home,1,0,1.85376,0.238672,11,7,w,3
+27160,2024-12-21 20:00:00,La_liga,2024,Atletico Madrid,Barcelona,Away,2,1,0.710716,3.37424,5,19,w,3
+27163,2025-01-12 15:15:00,La_liga,2024,Atletico Madrid,Osasuna,Home,1,0,2.28719,0.391974,9,6,w,3
+27176,2025-01-18 15:15:00,La_liga,2024,Atletico Madrid,Leganes,Away,0,1,3.0563,0.770342,19,9,l,0
+27183,2025-01-25 15:15:00,La_liga,2024,Atletico Madrid,Villarreal,Home,1,1,1.72274,1.78456,20,11,d,1
+27192,2025-02-01 17:30:00,La_liga,2024,Atletico Madrid,Mallorca,Home,2,0,1.59869,0.421783,17,10,w,3
+27205,2025-02-08 20:00:00,La_liga,2024,Atletico Madrid,Real Madrid,Away,1,1,1.62463,2.55575,10,23,d,1
+27212,2025-02-15 17:30:00,La_liga,2024,Atletico Madrid,Celta Vigo,Home,1,1,0.689105,1.45388,9,11,d,1
+27225,2025-02-22 17:30:00,La_liga,2024,Atletico Madrid,Valencia,Away,3,0,2.31785,1.35435,11,18,w,3
+27236,2025-03-01 20:00:00,La_liga,2024,Atletico Madrid,Athletic Club,Home,1,0,2.01612,1.54329,12,15,w,3
+27250,2025-03-09 13:00:00,La_liga,2024,Atletico Madrid,Getafe,Away,1,2,1.02142,1.39814,4,11,l,0
+27252,2025-03-16 20:00:00,La_liga,2024,Atletico Madrid,Barcelona,Home,2,4,1.09435,2.16215,7,13,l,0
+27262,2025-03-29 15:15:00,La_liga,2024,Atletico Madrid,Espanyol,Away,1,1,0.994468,0.985043,13,8,d,1
+27277,2025-04-06 14:15:00,La_liga,2024,Atletico Madrid,Sevilla,Away,2,1,1.23653,0.818692,13,11,w,3
+27284,2025-04-14 19:00:00,La_liga,2024,Atletico Madrid,Real Valladolid,Home,4,2,4.06291,1.38016,24,6,w,3
+27295,2025-04-19 19:00:00,La_liga,2024,Atletico Madrid,Las Palmas,Away,0,1,0.757145,0.768437,7,8,l,0
+27304,2025-04-24 19:30:00,La_liga,2024,Atletico Madrid,Rayo Vallecano,Home,3,0,3.34529,1.13186,10,12,w,3
+27314,2025-05-03 12:00:00,La_liga,2024,Atletico Madrid,Alaves,Away,0,0,0.391409,0.908148,9,8,d,1
+27323,2025-05-10 19:00:00,La_liga,2024,Atletico Madrid,Real Sociedad,Home,4,0,1.71528,0.298675,13,6,w,3
+27335,2025-05-15 17:00:00,La_liga,2024,Atletico Madrid,Osasuna,Away,0,2,1.34093,1.07473,9,9,l,0
+27342,2025-05-18 17:00:00,La_liga,2024,Atletico Madrid,Real Betis,Home,4,1,4.94276,0.821908,20,12,w,3
+27358,2025-05-25 12:00:00,La_liga,2024,Atletico Madrid,Girona,Away,4,0,3.10637,0.0503369,19,2,w,3
+29165,2025-08-17 19:30:00,La_liga,2025,Atletico Madrid,Espanyol,Away,1,2,1.29319,1.41508,15,9,l,0
+29170,2025-08-23 17:30:00,La_liga,2025,Atletico Madrid,Elche,Home,1,1,1.68159,0.313268,13,6,d,1
+29181,2025-08-30 15:00:00,La_liga,2025,Atletico Madrid,Alaves,Away,1,1,0.960547,0.855094,15,5,d,1
+29193,2025-09-13 19:00:00,La_liga,2025,Atletico Madrid,Villarreal,Home,2,0,1.5106,0.668177,8,8,w,3
+29204,2025-09-21 14:15:00,La_liga,2025,Atletico Madrid,Mallorca,Away,1,1,2.08772,0.530939,12,8,d,1
+29216,2025-09-24 19:30:00,La_liga,2025,Atletico Madrid,Rayo Vallecano,Home,3,2,4.95017,1.61988,20,9,w,3
+29219,2025-09-27 14:15:00,La_liga,2025,Atletico Madrid,Real Madrid,Home,5,2,2.79075,1.02797,13,6,w,3
+29232,2025-10-05 19:00:00,La_liga,2025,Atletico Madrid,Celta Vigo,Away,1,1,0.710823,2.27285,6,19,d,1
+29239,2025-10-18 19:00:00,La_liga,2025,Atletico Madrid,Osasuna,Home,1,0,2.24415,0.981492,18,9,w,3

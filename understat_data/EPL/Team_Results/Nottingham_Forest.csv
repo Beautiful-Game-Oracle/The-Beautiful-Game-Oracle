@@ -1,0 +1,123 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+18206,2022-08-06 14:00:00,EPL,2022,Nottingham Forest,Newcastle United,Away,0,2,0.235825,1.8591,5,23,l,0
+18219,2022-08-14 13:00:00,EPL,2022,Nottingham Forest,West Ham,Home,1,0,1.9717,2.08634,13,19,w,3
+18224,2022-08-20 14:00:00,EPL,2022,Nottingham Forest,Everton,Away,1,1,0.918315,1.43408,14,19,d,1
+18241,2022-08-28 15:30:00,EPL,2022,Nottingham Forest,Tottenham,Home,0,2,0.801369,2.44473,17,18,l,0
+18246,2022-08-31 18:30:00,EPL,2022,Nottingham Forest,Manchester City,Away,0,6,0.729752,3.83759,8,17,l,0
+18254,2022-09-03 14:00:00,EPL,2022,Nottingham Forest,Bournemouth,Home,2,3,1.32895,0.905041,11,8,l,0
+18273,2022-09-16 19:00:00,EPL,2022,Nottingham Forest,Fulham,Home,2,3,1.41541,1.3496,11,14,l,0
+18287,2022-10-03 19:00:00,EPL,2022,Nottingham Forest,Leicester,Away,0,4,1.22169,1.2497,10,17,l,0
+18300,2022-10-10 19:00:00,EPL,2022,Nottingham Forest,Aston Villa,Home,1,1,0.221346,0.657187,6,12,d,1
+18311,2022-10-15 14:00:00,EPL,2022,Nottingham Forest,Wolverhampton Wanderers,Away,0,1,1.24761,1.22368,10,9,l,0
+18315,2022-10-18 18:30:00,EPL,2022,Nottingham Forest,Brighton,Away,0,0,0.195003,2.10188,3,19,d,1
+18327,2022-10-22 11:30:00,EPL,2022,Nottingham Forest,Liverpool,Home,1,0,2.50163,2.19752,10,15,w,3
+18332,2022-10-30 14:00:00,EPL,2022,Nottingham Forest,Arsenal,Away,0,5,0.206127,3.00699,5,24,l,0
+18347,2022-11-05 15:00:00,EPL,2022,Nottingham Forest,Brentford,Home,2,2,1.29696,1.2204,15,7,d,1
+18358,2022-11-12 15:00:00,EPL,2022,Nottingham Forest,Crystal Palace,Home,1,0,1.23752,1.14552,9,8,w,3
+18370,2022-12-27 20:00:00,EPL,2022,Nottingham Forest,Manchester United,Away,0,3,0.477076,2.13668,8,17,l,0
+18378,2023-01-01 16:30:00,EPL,2022,Nottingham Forest,Chelsea,Home,1,1,0.985219,1.37305,12,7,d,1
+18391,2023-01-04 19:30:00,EPL,2022,Nottingham Forest,Southampton,Away,1,0,1.22324,0.62937,11,8,w,3
+18399,2023-01-14 15:00:00,EPL,2022,Nottingham Forest,Leicester,Home,2,0,1.75313,0.803421,15,6,w,3
+18403,2023-01-21 15:00:00,EPL,2022,Nottingham Forest,Bournemouth,Away,1,1,1.57544,1.80549,20,16,d,1
+18419,2023-02-05 14:00:00,EPL,2022,Nottingham Forest,Leeds,Home,1,0,0.3325,1.12331,6,10,w,3
+18425,2023-02-11 15:00:00,EPL,2022,Nottingham Forest,Fulham,Away,0,2,0.686824,1.69704,10,16,l,0
+18439,2023-02-18 15:00:00,EPL,2022,Nottingham Forest,Manchester City,Home,1,1,1.12735,2.80966,4,23,d,1
+18451,2023-02-25 15:00:00,EPL,2022,Nottingham Forest,West Ham,Away,0,4,0.350849,3.05032,8,18,l,0
+18459,2023-03-05 14:00:00,EPL,2022,Nottingham Forest,Everton,Home,2,2,0.799733,1.70877,10,10,d,1
+18470,2023-03-11 15:00:00,EPL,2022,Nottingham Forest,Tottenham,Away,1,3,1.62805,1.73482,9,15,l,0
+18479,2023-03-17 20:00:00,EPL,2022,Nottingham Forest,Newcastle United,Home,1,2,0.531985,2.50027,5,15,l,0
+18490,2023-04-01 14:00:00,EPL,2022,Nottingham Forest,Wolverhampton Wanderers,Home,1,1,1.11441,0.383739,17,8,d,1
+18271,2023-04-04 18:45:00,EPL,2022,Nottingham Forest,Leeds,Away,1,2,0.613917,2.43248,13,21,l,0
+18492,2023-04-08 14:00:00,EPL,2022,Nottingham Forest,Aston Villa,Away,0,2,0.232452,1.42718,6,8,l,0
+18507,2023-04-16 15:30:00,EPL,2022,Nottingham Forest,Manchester United,Home,0,2,1.05289,3.33747,6,22,l,0
+18519,2023-04-22 14:00:00,EPL,2022,Nottingham Forest,Liverpool,Away,2,3,0.724666,3.32745,11,18,l,0
+18524,2023-04-26 18:30:00,EPL,2022,Nottingham Forest,Brighton,Home,3,1,2.43846,2.33064,12,18,w,3
+18534,2023-04-29 14:00:00,EPL,2022,Nottingham Forest,Brentford,Away,1,2,0.939693,1.32059,5,14,l,0
+18548,2023-05-08 19:00:00,EPL,2022,Nottingham Forest,Southampton,Home,4,3,1.91326,3.31096,9,19,w,3
+18555,2023-05-13 14:00:00,EPL,2022,Nottingham Forest,Chelsea,Away,2,2,1.96797,0.999181,11,14,d,1
+18568,2023-05-20 16:30:00,EPL,2022,Nottingham Forest,Arsenal,Home,1,0,1.1397,0.4902,6,11,w,3
+18576,2023-05-28 15:30:00,EPL,2022,Nottingham Forest,Crystal Palace,Away,1,1,0.436439,1.00786,7,16,d,1
+22276,2023-08-12 11:30:00,EPL,2023,Nottingham Forest,Arsenal,Away,1,2,0.966305,0.84262,6,15,l,0
+22285,2023-08-18 18:45:00,EPL,2023,Nottingham Forest,Sheffield United,Home,2,1,1.37181,0.551038,16,7,w,3
+22300,2023-08-26 14:00:00,EPL,2023,Nottingham Forest,Manchester United,Away,2,3,0.960354,3.02803,9,18,l,0
+21930,2023-09-02 14:00:00,EPL,2023,Nottingham Forest,Chelsea,Away,1,0,1.1505,2.28442,7,21,w,3
+21944,2023-09-18 18:45:00,EPL,2023,Nottingham Forest,Burnley,Home,1,1,0.705795,0.807651,14,10,d,1
+21946,2023-09-23 14:00:00,EPL,2023,Nottingham Forest,Manchester City,Away,0,2,0.729109,1.33984,10,7,l,0
+21963,2023-10-01 13:00:00,EPL,2023,Nottingham Forest,Brentford,Home,1,1,0.800317,1.75862,6,18,d,1
+21968,2023-10-07 16:30:00,EPL,2023,Nottingham Forest,Crystal Palace,Away,0,0,1.22105,0.982452,16,8,d,1
+21982,2023-10-21 14:00:00,EPL,2023,Nottingham Forest,Luton,Home,2,2,3.27549,1.49555,19,13,d,1
+21991,2023-10-29 14:00:00,EPL,2023,Nottingham Forest,Liverpool,Away,0,3,0.642014,2.70428,9,21,l,0
+22002,2023-11-05 14:00:00,EPL,2023,Nottingham Forest,Aston Villa,Home,2,0,0.592447,1.33116,5,13,w,3
+22013,2023-11-12 14:00:00,EPL,2023,Nottingham Forest,West Ham,Away,2,3,1.42128,2.06402,10,16,l,0
+22022,2023-11-25 15:00:00,EPL,2023,Nottingham Forest,Brighton,Home,2,3,2.22655,1.21792,18,11,l,0
+22033,2023-12-02 17:30:00,EPL,2023,Nottingham Forest,Everton,Home,0,1,0.673085,0.623789,13,12,l,0
+22038,2023-12-06 19:30:00,EPL,2023,Nottingham Forest,Fulham,Away,0,5,0.218659,3.09427,4,14,l,0
+22054,2023-12-09 15:00:00,EPL,2023,Nottingham Forest,Wolverhampton Wanderers,Away,1,1,1.21801,1.02199,8,10,d,1
+22063,2023-12-15 20:00:00,EPL,2023,Nottingham Forest,Tottenham,Home,0,2,1.70569,1.60738,15,12,l,0
+22070,2023-12-23 15:00:00,EPL,2023,Nottingham Forest,Bournemouth,Home,2,3,0.791806,1.89067,11,18,l,0
+22083,2023-12-26 12:30:00,EPL,2023,Nottingham Forest,Newcastle United,Away,3,1,3.1074,2.79106,15,19,w,3
+22091,2023-12-30 17:30:00,EPL,2023,Nottingham Forest,Manchester United,Home,2,1,0.744348,0.651905,8,10,w,3
+22104,2024-01-20 17:30:00,EPL,2023,Nottingham Forest,Brentford,Away,2,3,1.22251,1.94219,12,11,l,0
+22108,2024-01-30 19:30:00,EPL,2023,Nottingham Forest,Arsenal,Home,1,2,0.631618,1.39143,9,19,l,0
+22115,2024-02-04 14:00:00,EPL,2023,Nottingham Forest,Bournemouth,Away,1,1,0.456548,1.1895,8,9,d,1
+22131,2024-02-10 17:30:00,EPL,2023,Nottingham Forest,Newcastle United,Home,2,3,0.968075,0.511375,13,7,l,0
+22142,2024-02-17 15:00:00,EPL,2023,Nottingham Forest,West Ham,Home,2,0,2.66942,0.520016,19,10,w,3
+22147,2024-02-24 15:00:00,EPL,2023,Nottingham Forest,Aston Villa,Away,2,4,2.25569,3.48861,10,16,l,0
+22162,2024-03-02 15:00:00,EPL,2023,Nottingham Forest,Liverpool,Home,0,1,0.971466,1.32259,8,22,l,0
+22168,2024-03-10 14:00:00,EPL,2023,Nottingham Forest,Brighton,Away,0,1,0.687034,0.534518,10,10,l,0
+22181,2024-03-16 15:00:00,EPL,2023,Nottingham Forest,Luton,Away,1,1,1.95268,0.853782,16,10,d,1
+22192,2024-03-30 15:00:00,EPL,2023,Nottingham Forest,Crystal Palace,Home,1,1,0.784652,0.900972,12,10,d,1
+22198,2024-04-02 18:30:00,EPL,2023,Nottingham Forest,Fulham,Home,3,1,1.94619,1.04304,16,17,w,3
+22213,2024-04-07 19:00:00,EPL,2023,Nottingham Forest,Tottenham,Away,1,3,2.00122,1.61978,14,17,l,0
+22223,2024-04-13 14:00:00,EPL,2023,Nottingham Forest,Wolverhampton Wanderers,Home,2,2,1.76244,1.45688,18,11,d,1
+22228,2024-04-21 12:30:00,EPL,2023,Nottingham Forest,Everton,Away,0,2,1.18916,0.473233,8,7,l,0
+22242,2024-04-28 15:30:00,EPL,2023,Nottingham Forest,Manchester City,Home,0,2,2.17312,0.932063,14,11,l,0
+22254,2024-05-04 14:00:00,EPL,2023,Nottingham Forest,Sheffield United,Away,3,1,1.93818,2.48986,15,17,w,3
+22261,2024-05-11 16:30:00,EPL,2023,Nottingham Forest,Chelsea,Home,2,3,2.44569,2.41068,20,12,l,0
+22268,2024-05-19 15:00:00,EPL,2023,Nottingham Forest,Burnley,Away,2,1,1.57962,1.08222,12,20,w,3
+26607,2024-08-17 14:00:00,EPL,2024,Nottingham Forest,Bournemouth,Home,1,1,1.24405,1.90915,14,13,d,1
+26616,2024-08-24 14:00:00,EPL,2024,Nottingham Forest,Southampton,Away,1,0,2.86475,0.214952,23,5,w,3
+26627,2024-08-31 14:00:00,EPL,2024,Nottingham Forest,Wolverhampton Wanderers,Home,1,1,1.41069,0.937632,16,11,d,1
+26635,2024-09-14 14:00:00,EPL,2024,Nottingham Forest,Liverpool,Away,1,0,0.589532,1.17044,5,14,w,3
+26650,2024-09-22 13:00:00,EPL,2024,Nottingham Forest,Brighton,Away,2,2,1.36923,1.56836,4,14,d,1
+26653,2024-09-28 14:00:00,EPL,2024,Nottingham Forest,Fulham,Home,0,1,0.614351,1.43592,11,14,l,0
+26668,2024-10-06 13:00:00,EPL,2024,Nottingham Forest,Chelsea,Away,1,1,1.66654,2.27752,16,22,d,1
+26677,2024-10-21 19:00:00,EPL,2024,Nottingham Forest,Crystal Palace,Home,1,0,1.88573,0.835001,20,20,w,3
+26682,2024-10-25 19:00:00,EPL,2024,Nottingham Forest,Leicester,Away,3,1,2.54488,0.832415,20,11,w,3
+26698,2024-11-02 15:00:00,EPL,2024,Nottingham Forest,West Ham,Home,3,0,2.35011,0.132317,19,4,w,3
+26704,2024-11-10 14:00:00,EPL,2024,Nottingham Forest,Newcastle United,Home,1,3,1.17852,1.86904,9,17,l,0
+26714,2024-11-23 15:00:00,EPL,2024,Nottingham Forest,Arsenal,Away,0,3,0.403136,1.66016,7,19,l,0
+26728,2024-11-30 15:00:00,EPL,2024,Nottingham Forest,Ipswich,Home,1,0,1.76587,0.462771,12,7,w,3
+26739,2024-12-04 19:30:00,EPL,2024,Nottingham Forest,Manchester City,Away,0,3,0.802155,3.20169,12,17,l,0
+26744,2024-12-07 17:30:00,EPL,2024,Nottingham Forest,Manchester United,Away,3,2,0.651217,1.4697,11,17,w,3
+26761,2024-12-14 17:30:00,EPL,2024,Nottingham Forest,Aston Villa,Home,2,1,2.2861,0.389423,17,8,w,3
+26766,2024-12-21 15:00:00,EPL,2024,Nottingham Forest,Brentford,Away,2,0,0.964897,0.769004,10,7,w,3
+26779,2024-12-26 15:00:00,EPL,2024,Nottingham Forest,Tottenham,Home,1,0,1.30018,1.05758,10,13,w,3
+26785,2024-12-29 15:00:00,EPL,2024,Nottingham Forest,Everton,Away,2,0,2.02753,0.615191,11,13,w,3
+26801,2025-01-06 20:00:00,EPL,2024,Nottingham Forest,Wolverhampton Wanderers,Away,3,0,2.57227,1.90463,11,13,w,3
+26807,2025-01-14 20:00:00,EPL,2024,Nottingham Forest,Liverpool,Home,1,1,0.5292,2.72291,6,23,d,1
+26820,2025-01-19 14:00:00,EPL,2024,Nottingham Forest,Southampton,Home,3,2,2.36419,1.25922,14,10,w,3
+26822,2025-01-25 15:00:00,EPL,2024,Nottingham Forest,Bournemouth,Away,0,5,0.996166,2.8254,18,16,l,0
+26840,2025-02-01 12:30:00,EPL,2024,Nottingham Forest,Brighton,Home,7,0,4.0677,0.756296,14,11,w,3
+26845,2025-02-15 15:00:00,EPL,2024,Nottingham Forest,Fulham,Away,1,2,0.331301,2.20993,8,24,l,0
+26860,2025-02-23 14:00:00,EPL,2024,Nottingham Forest,Newcastle United,Away,3,4,2.38603,3.45858,17,13,l,0
+26864,2025-02-26 19:30:00,EPL,2024,Nottingham Forest,Arsenal,Home,0,0,0.508611,1.31766,6,13,d,1
+26878,2025-03-08 12:30:00,EPL,2024,Nottingham Forest,Manchester City,Home,1,0,0.501476,0.721234,9,14,w,3
+26887,2025-03-15 15:00:00,EPL,2024,Nottingham Forest,Ipswich,Away,4,2,1.30722,0.520839,11,11,w,3
+26894,2025-04-01 20:00:00,EPL,2024,Nottingham Forest,Manchester United,Home,1,0,0.512063,1.86688,8,23,w,3
+26902,2025-04-05 16:30:00,EPL,2024,Nottingham Forest,Aston Villa,Away,1,2,0.96769,2.63349,19,17,l,0
+26920,2025-04-12 14:00:00,EPL,2024,Nottingham Forest,Everton,Home,0,1,0.423949,1.26036,10,13,l,0
+26930,2025-04-21 19:00:00,EPL,2024,Nottingham Forest,Tottenham,Away,2,1,0.557682,2.4024,4,22,w,3
+26939,2025-05-01 18:30:00,EPL,2024,Nottingham Forest,Brentford,Home,0,2,0.670607,1.52054,14,11,l,0
+26949,2025-05-05 19:00:00,EPL,2024,Nottingham Forest,Crystal Palace,Away,1,1,0.63684,2.34037,12,20,d,1
+26958,2025-05-11 13:15:00,EPL,2024,Nottingham Forest,Leicester,Home,2,2,1.76909,1.22949,15,10,d,1
+26971,2025-05-18 13:15:00,EPL,2024,Nottingham Forest,West Ham,Away,2,1,2.14756,0.850457,10,16,w,3
+26972,2025-05-25 15:00:00,EPL,2024,Nottingham Forest,Chelsea,Home,0,1,1.58014,1.30874,10,6,l,0
+28785,2025-08-17 13:00:00,EPL,2025,Nottingham Forest,Brentford,Home,3,1,1.7555,1.32516,11,10,w,3
+28794,2025-08-24 13:00:00,EPL,2025,Nottingham Forest,Crystal Palace,Away,1,1,1.32987,1.10188,9,8,d,1
+28804,2025-08-31 13:00:00,EPL,2025,Nottingham Forest,West Ham,Home,0,3,0.716018,2.236,11,12,l,0
+28808,2025-09-13 11:30:00,EPL,2025,Nottingham Forest,Arsenal,Away,0,3,0.293681,2.8817,5,16,l,0
+28822,2025-09-20 14:00:00,EPL,2025,Nottingham Forest,Burnley,Away,1,1,0.830779,1.14159,17,12,d,1
+28834,2025-09-27 16:30:00,EPL,2025,Nottingham Forest,Sunderland,Home,0,1,1.4203,1.94154,22,11,l,0
+28846,2025-10-05 13:00:00,EPL,2025,Nottingham Forest,Newcastle United,Away,0,2,0.337689,3.81662,5,18,l,0
+28854,2025-10-18 11:30:00,EPL,2025,Nottingham Forest,Chelsea,Home,0,3,2.0555,2.5583,11,17,l,0

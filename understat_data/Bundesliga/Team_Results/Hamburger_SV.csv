@@ -1,0 +1,8 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+30232,2025-08-24 15:30:00,Bundesliga,2025,Hamburger SV,Borussia M.Gladbach,Away,0,0,0.285593,1.01717,7,17,d,1
+30233,2025-08-29 18:30:00,Bundesliga,2025,Hamburger SV,St. Pauli,Home,0,2,0.74111,1.85404,5,17,l,0
+30248,2025-09-13 16:30:00,Bundesliga,2025,Hamburger SV,Bayern Munich,Away,0,5,0.559174,3.03718,9,22,l,0
+30254,2025-09-20 13:30:00,Bundesliga,2025,Hamburger SV,FC Heidenheim,Home,2,1,3.32157,2.63607,22,21,w,3
+30268,2025-09-28 17:30:00,Bundesliga,2025,Hamburger SV,Union Berlin,Away,0,0,1.11274,1.54274,16,11,d,1
+30273,2025-10-05 15:30:00,Bundesliga,2025,Hamburger SV,Mainz 05,Home,4,0,1.65883,0.591161,15,11,w,3
+30283,2025-10-18 13:30:00,Bundesliga,2025,Hamburger SV,RasenBallsport Leipzig,Away,1,2,1.29355,1.15611,16,10,l,0

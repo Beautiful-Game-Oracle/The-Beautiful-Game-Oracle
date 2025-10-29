@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+18583,2022-08-13 16:30:00,Serie_A,2022,Sampdoria,Atalanta,Home,0,2,0.617683,2.28675,11,9,l,0
+18601,2022-08-22 18:45:00,Serie_A,2022,Sampdoria,Juventus,Home,0,0,0.948831,0.807606,10,10,d,1
+18608,2022-08-28 16:30:00,Serie_A,2022,Sampdoria,Salernitana,Away,0,4,1.66897,1.76461,17,9,l,0
+18616,2022-08-31 16:30:00,Serie_A,2022,Sampdoria,Lazio,Home,1,1,0.740992,1.61049,10,13,d,1
+18627,2022-09-04 16:00:00,Serie_A,2022,Sampdoria,Verona,Away,1,2,0.798714,2.3433,12,17,l,0
+18640,2022-09-10 18:45:00,Serie_A,2022,Sampdoria,AC Milan,Home,1,2,0.923014,1.6646,10,15,l,0
+18649,2022-09-17 16:00:00,Serie_A,2022,Sampdoria,Spezia,Away,1,2,1.01245,1.02757,12,6,l,0
+18660,2022-10-02 13:00:00,Serie_A,2022,Sampdoria,Monza,Home,0,3,0.0814991,1.2288,3,13,l,0
+18662,2022-10-08 18:45:00,Serie_A,2022,Sampdoria,Bologna,Away,1,1,0.823033,0.669175,9,10,d,1
+18679,2022-10-17 16:30:00,Serie_A,2022,Sampdoria,Roma,Home,0,1,0.263194,2.60212,8,7,l,0
+18684,2022-10-24 16:30:00,Serie_A,2022,Sampdoria,Cremonese,Away,1,0,1.19704,1.72584,8,21,w,3
+18695,2022-10-29 18:45:00,Serie_A,2022,Sampdoria,Inter,Away,0,3,0.332522,2.52781,9,17,l,0
+18710,2022-11-06 14:00:00,Serie_A,2022,Sampdoria,Fiorentina,Home,0,2,0.800046,1.24199,14,5,l,0
+18721,2022-11-09 19:45:00,Serie_A,2022,Sampdoria,Torino,Away,0,2,0.613268,0.479941,11,8,l,0
+18731,2022-11-12 17:00:00,Serie_A,2022,Sampdoria,Lecce,Home,0,2,0.852999,1.067,11,11,l,0
+18738,2023-01-04 11:30:00,Serie_A,2022,Sampdoria,Sassuolo,Away,2,1,0.851384,1.44975,9,16,w,3
+18750,2023-01-08 17:00:00,Serie_A,2022,Sampdoria,Napoli,Home,0,2,0.384407,3.41709,9,24,l,0
+18754,2023-01-16 19:45:00,Serie_A,2022,Sampdoria,Empoli,Away,0,1,1.17611,1.95693,16,16,l,0
+18770,2023-01-22 11:30:00,Serie_A,2022,Sampdoria,Udinese,Home,0,1,1.60507,1.57295,9,14,l,0
+18772,2023-01-28 19:45:00,Serie_A,2022,Sampdoria,Atalanta,Away,0,2,0.960106,1.82577,15,21,l,0
+18786,2023-02-06 19:45:00,Serie_A,2022,Sampdoria,Monza,Away,2,2,1.5131,2.17396,11,17,d,1
+18801,2023-02-13 19:45:00,Serie_A,2022,Sampdoria,Inter,Home,0,0,0.478178,1.53473,7,25,d,1
+18808,2023-02-18 14:00:00,Serie_A,2022,Sampdoria,Bologna,Home,1,2,2.60391,0.714025,9,12,l,0
+18816,2023-02-27 19:45:00,Serie_A,2022,Sampdoria,Lazio,Away,0,1,0.374617,1.57889,8,15,l,0
+18828,2023-03-05 14:00:00,Serie_A,2022,Sampdoria,Salernitana,Home,0,0,0.554784,0.653093,9,10,d,1
+18836,2023-03-12 19:45:00,Serie_A,2022,Sampdoria,Juventus,Away,2,4,0.487533,2.83726,9,24,l,0
+18848,2023-03-19 11:30:00,Serie_A,2022,Sampdoria,Verona,Home,3,1,1.63263,1.24738,11,16,w,3
+18860,2023-04-02 16:00:00,Serie_A,2022,Sampdoria,Roma,Away,0,3,0.249188,3.16,6,28,l,0
+18869,2023-04-08 14:30:00,Serie_A,2022,Sampdoria,Cremonese,Home,2,3,2.63086,1.12248,13,17,l,0
+18876,2023-04-16 10:30:00,Serie_A,2022,Sampdoria,Lecce,Away,1,1,0.668479,3.03997,8,30,d,1
+18888,2023-04-22 18:45:00,Serie_A,2022,Sampdoria,Spezia,Home,1,1,1.77069,2.40982,13,19,d,1
+18894,2023-04-30 16:00:00,Serie_A,2022,Sampdoria,Fiorentina,Away,0,5,0.318861,2.0443,4,23,l,0
+18910,2023-05-03 16:00:00,Serie_A,2022,Sampdoria,Torino,Home,0,2,0.253121,2.16016,7,12,l,0
+18921,2023-05-08 16:30:00,Serie_A,2022,Sampdoria,Udinese,Away,0,2,0.576272,1.05129,11,13,l,0
+18930,2023-05-15 18:45:00,Serie_A,2022,Sampdoria,Empoli,Home,1,1,1.11997,1.13938,13,16,d,1
+18936,2023-05-20 18:45:00,Serie_A,2022,Sampdoria,AC Milan,Away,1,5,0.349816,4.81134,6,19,l,0
+18950,2023-05-26 18:45:00,Serie_A,2022,Sampdoria,Sassuolo,Home,2,2,2.21953,3.04889,17,23,d,1
+18957,2023-06-04 16:30:00,Serie_A,2022,Sampdoria,Napoli,Away,0,2,0.64912,1.9182,6,21,l,0

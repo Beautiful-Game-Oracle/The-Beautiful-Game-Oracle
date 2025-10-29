@@ -1,0 +1,110 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+19348,2022-08-06 16:30:00,Bundesliga,2022,Borussia Dortmund,Bayer Leverkusen,Home,1,0,2.38349,1.23566,15,8,w,3
+19351,2022-08-12 18:30:00,Bundesliga,2022,Borussia Dortmund,Freiburg,Away,3,1,0.781529,1.0831,13,16,w,3
+19364,2022-08-20 13:30:00,Bundesliga,2022,Borussia Dortmund,Werder Bremen,Home,2,3,0.625547,1.20064,6,14,l,0
+19373,2022-08-27 13:30:00,Bundesliga,2022,Borussia Dortmund,Hertha Berlin,Away,1,0,2.97427,0.353045,21,13,w,3
+19378,2022-09-02 18:30:00,Bundesliga,2022,Borussia Dortmund,Hoffenheim,Home,1,0,2.521,0.360446,15,7,w,3
+19389,2022-09-10 13:30:00,Bundesliga,2022,Borussia Dortmund,RasenBallsport Leipzig,Away,0,3,0.334567,1.70495,5,15,l,0
+19397,2022-09-17 13:30:00,Bundesliga,2022,Borussia Dortmund,Schalke 04,Home,1,0,2.5349,0.0971459,16,3,w,3
+19408,2022-10-01 13:30:00,Bundesliga,2022,Borussia Dortmund,FC Cologne,Away,2,3,2.46961,2.1489,22,22,l,0
+19414,2022-10-08 16:30:00,Bundesliga,2022,Borussia Dortmund,Bayern Munich,Home,2,2,1.42928,1.22934,12,9,d,1
+19425,2022-10-16 15:30:00,Bundesliga,2022,Borussia Dortmund,Union Berlin,Away,0,2,0.797656,1.47199,14,15,l,0
+19432,2022-10-22 13:30:00,Bundesliga,2022,Borussia Dortmund,VfB Stuttgart,Home,5,0,2.63936,0.989781,18,10,w,3
+19445,2022-10-29 16:30:00,Bundesliga,2022,Borussia Dortmund,Eintracht Frankfurt,Away,2,1,0.730506,1.71027,7,20,w,3
+19457,2022-11-05 14:30:00,Bundesliga,2022,Borussia Dortmund,Bochum,Home,3,0,1.43174,0.496214,6,7,w,3
+19464,2022-11-08 17:30:00,Bundesliga,2022,Borussia Dortmund,Wolfsburg,Away,0,2,1.29685,2.9101,21,17,l,0
+19472,2022-11-11 19:30:00,Bundesliga,2022,Borussia Dortmund,Borussia M.Gladbach,Away,2,4,3.6823,2.64014,19,11,l,0
+19477,2023-01-22 14:30:00,Bundesliga,2022,Borussia Dortmund,Augsburg,Home,4,3,3.27016,1.92914,27,14,w,3
+19489,2023-01-25 17:30:00,Bundesliga,2022,Borussia Dortmund,Mainz 05,Away,2,1,1.15874,0.84968,11,12,w,3
+19496,2023-01-29 16:30:00,Bundesliga,2022,Borussia Dortmund,Bayer Leverkusen,Away,2,0,0.977834,1.84499,7,22,w,3
+19504,2023-02-04 14:30:00,Bundesliga,2022,Borussia Dortmund,Freiburg,Home,5,1,2.10421,0.243795,25,6,w,3
+19521,2023-02-11 14:30:00,Bundesliga,2022,Borussia Dortmund,Werder Bremen,Away,2,0,2.66556,0.587473,18,9,w,3
+19522,2023-02-19 16:30:00,Bundesliga,2022,Borussia Dortmund,Hertha Berlin,Home,4,1,2.34937,1.41428,12,16,w,3
+19536,2023-02-25 14:30:00,Bundesliga,2022,Borussia Dortmund,Hoffenheim,Away,1,0,2.75881,0.873677,24,11,w,3
+19540,2023-03-03 19:30:00,Bundesliga,2022,Borussia Dortmund,RasenBallsport Leipzig,Home,2,1,1.12897,2.19847,8,17,w,3
+19556,2023-03-11 17:30:00,Bundesliga,2022,Borussia Dortmund,Schalke 04,Away,2,2,1.2204,1.52455,19,10,d,1
+19558,2023-03-18 17:30:00,Bundesliga,2022,Borussia Dortmund,FC Cologne,Home,6,1,3.37102,1.46899,12,11,w,3
+19574,2023-04-01 16:30:00,Bundesliga,2022,Borussia Dortmund,Bayern Munich,Away,2,4,1.57525,3.10094,11,16,l,0
+19576,2023-04-08 13:30:00,Bundesliga,2022,Borussia Dortmund,Union Berlin,Home,2,1,2.5021,0.522776,15,7,w,3
+19591,2023-04-15 13:30:00,Bundesliga,2022,Borussia Dortmund,VfB Stuttgart,Away,3,3,1.52309,1.34955,15,12,d,1
+19594,2023-04-22 16:30:00,Bundesliga,2022,Borussia Dortmund,Eintracht Frankfurt,Home,4,0,1.43834,0.452485,14,9,w,3
+19609,2023-04-28 18:30:00,Bundesliga,2022,Borussia Dortmund,Bochum,Away,1,1,2.93268,0.57291,22,13,d,1
+19612,2023-05-07 15:30:00,Bundesliga,2022,Borussia Dortmund,Wolfsburg,Home,6,0,5.13701,0.946113,20,10,w,3
+19622,2023-05-13 16:30:00,Bundesliga,2022,Borussia Dortmund,Borussia M.Gladbach,Home,5,2,6.24513,1.63094,35,13,w,3
+19635,2023-05-21 15:30:00,Bundesliga,2022,Borussia Dortmund,Augsburg,Away,3,0,3.88007,0.407359,28,4,w,3
+19639,2023-05-27 13:30:00,Bundesliga,2022,Borussia Dortmund,Mainz 05,Home,2,2,4.09921,1.68097,29,10,d,1
+23071,2023-08-19 16:30:00,Bundesliga,2023,Borussia Dortmund,FC Cologne,Home,1,0,1.72317,1.51393,13,11,w,3
+23077,2023-08-26 13:30:00,Bundesliga,2023,Borussia Dortmund,Bochum,Away,1,1,1.17241,1.01164,14,20,d,1
+23083,2023-09-01 18:30:00,Bundesliga,2023,Borussia Dortmund,FC Heidenheim,Home,2,2,2.74794,2.09517,19,14,d,1
+23094,2023-09-16 13:30:00,Bundesliga,2023,Borussia Dortmund,Freiburg,Away,4,2,3.37255,1.14667,15,15,w,3
+23105,2023-09-23 13:30:00,Bundesliga,2023,Borussia Dortmund,Wolfsburg,Home,1,0,2.16482,0.343309,18,7,w,3
+23110,2023-09-29 18:30:00,Bundesliga,2023,Borussia Dortmund,Hoffenheim,Away,3,1,1.69401,1.85129,6,15,w,3
+23120,2023-10-07 13:30:00,Bundesliga,2023,Borussia Dortmund,Union Berlin,Home,4,2,1.76935,1.5245,14,13,w,3
+23128,2023-10-20 18:30:00,Bundesliga,2023,Borussia Dortmund,Werder Bremen,Home,1,0,2.7285,0.53973,23,5,w,3
+23140,2023-10-29 14:30:00,Bundesliga,2023,Borussia Dortmund,Eintracht Frankfurt,Away,3,3,2.41687,3.67492,14,12,d,1
+23146,2023-11-04 17:30:00,Bundesliga,2023,Borussia Dortmund,Bayern Munich,Home,0,4,1.47623,2.86067,15,14,l,0
+23162,2023-11-11 14:30:00,Bundesliga,2023,Borussia Dortmund,VfB Stuttgart,Away,1,2,0.7643,4.1718,5,22,l,0
+23164,2023-11-25 14:30:00,Bundesliga,2023,Borussia Dortmund,Borussia M.Gladbach,Home,4,2,3.36754,0.789918,23,10,w,3
+23175,2023-12-03 16:30:00,Bundesliga,2023,Borussia Dortmund,Bayer Leverkusen,Away,1,1,1.26088,1.96389,6,24,d,1
+23182,2023-12-09 17:30:00,Bundesliga,2023,Borussia Dortmund,RasenBallsport Leipzig,Home,2,3,1.71347,3.63569,18,26,l,0
+23198,2023-12-16 14:30:00,Bundesliga,2023,Borussia Dortmund,Augsburg,Away,1,1,2.02537,1.509,24,20,d,1
+23200,2023-12-19 19:30:00,Bundesliga,2023,Borussia Dortmund,Mainz 05,Home,1,1,1.33337,1.06262,23,11,d,1
+23217,2024-01-13 17:30:00,Bundesliga,2023,Borussia Dortmund,Darmstadt,Away,3,0,3.14682,0.825788,17,11,w,3
+23223,2024-01-20 14:30:00,Bundesliga,2023,Borussia Dortmund,FC Cologne,Away,4,0,3.48032,1.3929,11,19,w,3
+23227,2024-01-28 16:30:00,Bundesliga,2023,Borussia Dortmund,Bochum,Home,3,1,3.09919,0.388377,19,11,w,3
+23243,2024-02-02 19:30:00,Bundesliga,2023,Borussia Dortmund,FC Heidenheim,Away,0,0,0.8117,1.00945,14,12,d,1
+23246,2024-02-09 19:30:00,Bundesliga,2023,Borussia Dortmund,Freiburg,Home,3,0,3.21996,0.230074,17,6,w,3
+23256,2024-02-17 14:30:00,Bundesliga,2023,Borussia Dortmund,Wolfsburg,Away,1,1,1.21109,2.11967,12,10,d,1
+23270,2024-02-25 16:30:00,Bundesliga,2023,Borussia Dortmund,Hoffenheim,Home,2,3,3.06361,1.31588,21,9,l,0
+23272,2024-03-02 14:30:00,Bundesliga,2023,Borussia Dortmund,Union Berlin,Away,2,0,1.63921,0.999042,13,14,w,3
+23286,2024-03-09 17:30:00,Bundesliga,2023,Borussia Dortmund,Werder Bremen,Away,2,1,1.23563,1.34789,13,16,w,3
+23290,2024-03-17 16:30:00,Bundesliga,2023,Borussia Dortmund,Eintracht Frankfurt,Home,3,1,2.83411,0.86903,16,9,w,3
+23299,2024-03-30 17:30:00,Bundesliga,2023,Borussia Dortmund,Bayern Munich,Away,2,0,1.25844,1.90876,11,17,w,3
+23308,2024-04-06 16:30:00,Bundesliga,2023,Borussia Dortmund,VfB Stuttgart,Home,0,1,2.95333,1.82865,16,10,l,0
+23321,2024-04-13 13:30:00,Bundesliga,2023,Borussia Dortmund,Borussia M.Gladbach,Away,2,1,1.80703,1.17228,12,17,w,3
+23326,2024-04-21 15:30:00,Bundesliga,2023,Borussia Dortmund,Bayer Leverkusen,Home,1,1,0.773997,1.51278,8,13,d,1
+23336,2024-04-27 13:30:00,Bundesliga,2023,Borussia Dortmund,RasenBallsport Leipzig,Away,1,4,1.7764,2.74912,12,21,l,0
+23344,2024-05-04 13:30:00,Bundesliga,2023,Borussia Dortmund,Augsburg,Home,5,1,3.67101,2.56978,21,22,w,3
+23356,2024-05-11 16:30:00,Bundesliga,2023,Borussia Dortmund,Mainz 05,Away,0,3,0.398966,3.05403,9,14,l,0
+23362,2024-05-18 13:30:00,Bundesliga,2023,Borussia Dortmund,Darmstadt,Home,4,0,3.0526,0.281801,21,6,w,3
+27748,2024-08-24 16:30:00,Bundesliga,2024,Borussia Dortmund,Eintracht Frankfurt,Home,2,0,1.9263,1.15188,20,7,w,3
+27753,2024-08-31 13:30:00,Bundesliga,2024,Borussia Dortmund,Werder Bremen,Away,0,0,0.918302,0.278533,9,5,d,1
+27760,2024-09-13 18:30:00,Bundesliga,2024,Borussia Dortmund,FC Heidenheim,Home,4,2,2.84066,1.61406,13,11,w,3
+27776,2024-09-22 15:30:00,Bundesliga,2024,Borussia Dortmund,VfB Stuttgart,Away,1,5,0.60692,3.56218,7,17,l,0
+27778,2024-09-27 18:30:00,Bundesliga,2024,Borussia Dortmund,Bochum,Home,4,2,4.1712,1.02915,23,10,w,3
+27791,2024-10-05 13:30:00,Bundesliga,2024,Borussia Dortmund,Union Berlin,Away,1,2,0.748758,1.52691,8,14,l,0
+27798,2024-10-18 18:30:00,Bundesliga,2024,Borussia Dortmund,St. Pauli,Home,2,1,3.97161,1.07012,20,10,w,3
+27809,2024-10-26 13:30:00,Bundesliga,2024,Borussia Dortmund,Augsburg,Away,1,2,0.776944,0.560509,11,12,l,0
+27816,2024-11-02 17:30:00,Bundesliga,2024,Borussia Dortmund,RasenBallsport Leipzig,Home,2,1,3.30102,0.23928,19,6,w,3
+27828,2024-11-09 14:30:00,Bundesliga,2024,Borussia Dortmund,Mainz 05,Away,1,3,0.845107,3.18749,2,13,l,0
+27835,2024-11-23 14:30:00,Bundesliga,2024,Borussia Dortmund,Freiburg,Home,4,0,1.49974,1.1957,19,7,w,3
+27842,2024-11-30 17:30:00,Bundesliga,2024,Borussia Dortmund,Bayern Munich,Home,1,1,0.55981,1.83117,7,14,d,1
+27854,2024-12-07 17:30:00,Bundesliga,2024,Borussia Dortmund,Borussia M.Gladbach,Away,1,1,1.58856,1.10194,16,9,d,1
+27860,2024-12-15 16:30:00,Bundesliga,2024,Borussia Dortmund,Hoffenheim,Home,1,1,0.433347,1.31436,6,12,d,1
+27874,2024-12-22 16:30:00,Bundesliga,2024,Borussia Dortmund,Wolfsburg,Away,3,1,2.4116,1.95337,12,14,w,3
+27878,2025-01-10 19:30:00,Bundesliga,2024,Borussia Dortmund,Bayer Leverkusen,Home,2,3,1.48663,1.8834,12,7,l,0
+27894,2025-01-14 17:30:00,Bundesliga,2024,Borussia Dortmund,Holstein Kiel,Away,2,4,1.16391,1.95929,16,11,l,0
+27898,2025-01-17 19:30:00,Bundesliga,2024,Borussia Dortmund,Eintracht Frankfurt,Away,0,2,0.57641,2.05106,12,13,l,0
+27905,2025-01-25 14:30:00,Bundesliga,2024,Borussia Dortmund,Werder Bremen,Home,2,2,1.49423,1.11662,8,14,d,1
+27920,2025-02-01 14:30:00,Bundesliga,2024,Borussia Dortmund,FC Heidenheim,Away,2,1,2.68284,0.525888,16,11,w,3
+27924,2025-02-08 14:30:00,Bundesliga,2024,Borussia Dortmund,VfB Stuttgart,Home,1,2,1.07063,0.452825,16,4,l,0
+27938,2025-02-15 14:30:00,Bundesliga,2024,Borussia Dortmund,Bochum,Away,0,2,2.70519,3.3688,17,18,l,0
+27942,2025-02-22 17:30:00,Bundesliga,2024,Borussia Dortmund,Union Berlin,Home,6,0,5.44112,0.365382,24,7,w,3
+27956,2025-03-01 14:30:00,Bundesliga,2024,Borussia Dortmund,St. Pauli,Away,2,0,2.23846,0.293506,14,7,w,3
+27960,2025-03-08 14:30:00,Bundesliga,2024,Borussia Dortmund,Augsburg,Home,0,1,1.11055,0.250168,14,6,l,0
+27968,2025-03-15 17:30:00,Bundesliga,2024,Borussia Dortmund,RasenBallsport Leipzig,Away,0,2,4.09542,2.55875,25,15,l,0
+27979,2025-03-30 16:30:00,Bundesliga,2024,Borussia Dortmund,Mainz 05,Home,3,1,2.69722,0.654443,18,12,w,3
+27988,2025-04-05 13:30:00,Bundesliga,2024,Borussia Dortmund,Freiburg,Away,4,1,3.55487,2.02793,18,12,w,3
+27996,2025-04-12 16:30:00,Bundesliga,2024,Borussia Dortmund,Bayern Munich,Away,2,2,1.71681,2.94706,11,28,d,1
+28004,2025-04-20 15:30:00,Bundesliga,2024,Borussia Dortmund,Borussia M.Gladbach,Home,3,2,1.18456,1.2185,14,6,w,3
+28016,2025-04-26 13:30:00,Bundesliga,2024,Borussia Dortmund,Hoffenheim,Away,3,2,2.41526,1.19025,16,11,w,3
+28022,2025-05-03 16:30:00,Bundesliga,2024,Borussia Dortmund,Wolfsburg,Home,4,0,2.54996,1.3634,11,11,w,3
+28030,2025-05-11 13:30:00,Bundesliga,2024,Borussia Dortmund,Bayer Leverkusen,Away,4,2,1.39477,1.90473,9,19,w,3
+28040,2025-05-17 13:30:00,Bundesliga,2024,Borussia Dortmund,Holstein Kiel,Home,3,0,2.56073,0.574499,19,4,w,3
+30230,2025-08-23 16:30:00,Bundesliga,2025,Borussia Dortmund,St. Pauli,Away,3,3,2.10289,1.46772,8,11,d,1
+30240,2025-08-31 15:30:00,Bundesliga,2025,Borussia Dortmund,Union Berlin,Home,3,0,1.82606,0.971167,11,12,w,3
+30244,2025-09-13 13:30:00,Bundesliga,2025,Borussia Dortmund,FC Heidenheim,Away,2,0,2.84999,0.299026,17,6,w,3
+30259,2025-09-21 17:30:00,Bundesliga,2025,Borussia Dortmund,Wolfsburg,Home,1,0,1.24747,0.975457,12,9,w,3
+30262,2025-09-27 13:30:00,Bundesliga,2025,Borussia Dortmund,Mainz 05,Away,2,0,1.75519,0.525149,10,8,w,3
+30271,2025-10-04 13:30:00,Bundesliga,2025,Borussia Dortmund,RasenBallsport Leipzig,Home,1,1,0.668613,1.14077,15,13,d,1
+30278,2025-10-18 16:30:00,Bundesliga,2025,Borussia Dortmund,Bayern Munich,Away,1,2,1.41011,2.81994,8,15,l,0

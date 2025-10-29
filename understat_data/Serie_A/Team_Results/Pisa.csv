@@ -1,0 +1,8 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+29850,2025-08-24 18:45:00,Serie_A,2025,Pisa,Atalanta,Away,1,1,1.02901,2.04697,11,22,d,1
+29858,2025-08-30 18:45:00,Serie_A,2025,Pisa,Roma,Home,0,1,0.6627,0.953921,7,10,l,0
+29868,2025-09-14 13:00:00,Serie_A,2025,Pisa,Udinese,Home,0,1,1.27587,1.72902,12,13,l,0
+29883,2025-09-22 18:45:00,Serie_A,2025,Pisa,Napoli,Away,2,3,2.51985,1.18611,15,18,l,0
+29891,2025-09-28 13:00:00,Serie_A,2025,Pisa,Fiorentina,Home,0,0,0.580471,0.840093,11,14,d,1
+29895,2025-10-05 13:00:00,Serie_A,2025,Pisa,Bologna,Away,0,4,0.0265067,3.69928,2,24,l,0
+29912,2025-10-18 13:00:00,Serie_A,2025,Pisa,Verona,Home,0,0,0.572009,1.65491,7,15,d,1

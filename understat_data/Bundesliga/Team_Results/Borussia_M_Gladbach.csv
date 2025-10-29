@@ -1,0 +1,110 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+19344,2022-08-06 13:30:00,Bundesliga,2022,Borussia M.Gladbach,Hoffenheim,Home,3,1,2.07456,0.119138,18,2,w,3
+19357,2022-08-13 16:30:00,Bundesliga,2022,Borussia M.Gladbach,Schalke 04,Away,2,2,1.41135,1.69324,14,12,d,1
+19360,2022-08-19 18:30:00,Bundesliga,2022,Borussia M.Gladbach,Hertha Berlin,Home,1,0,2.26575,0.967668,11,17,w,3
+19375,2022-08-27 16:30:00,Bundesliga,2022,Borussia M.Gladbach,Bayern Munich,Away,1,1,0.548057,3.17378,5,33,d,1
+19386,2022-09-04 15:30:00,Bundesliga,2022,Borussia M.Gladbach,Mainz 05,Home,0,1,1.70822,0.630863,14,11,l,0
+19395,2022-09-11 15:30:00,Bundesliga,2022,Borussia M.Gladbach,Freiburg,Away,0,0,1.37892,0.991055,14,12,d,1
+19401,2022-09-17 16:30:00,Bundesliga,2022,Borussia M.Gladbach,RasenBallsport Leipzig,Home,3,0,2.97746,1.25609,21,12,w,3
+19413,2022-10-01 16:30:00,Bundesliga,2022,Borussia M.Gladbach,Werder Bremen,Away,1,5,2.27257,3.34501,14,14,l,0
+19418,2022-10-09 13:30:00,Bundesliga,2022,Borussia M.Gladbach,FC Cologne,Home,5,2,2.72658,1.45617,14,5,w,3
+19428,2022-10-15 13:30:00,Bundesliga,2022,Borussia M.Gladbach,Wolfsburg,Away,2,2,0.895157,1.74427,9,16,d,1
+19437,2022-10-22 16:30:00,Bundesliga,2022,Borussia M.Gladbach,Eintracht Frankfurt,Home,1,3,1.36544,1.80175,7,15,l,0
+19443,2022-10-30 14:30:00,Bundesliga,2022,Borussia M.Gladbach,Union Berlin,Away,1,2,1.01241,1.28667,7,14,l,0
+19453,2022-11-04 18:30:00,Bundesliga,2022,Borussia M.Gladbach,VfB Stuttgart,Home,3,1,1.33462,1.46207,13,14,w,3
+19465,2022-11-08 19:30:00,Bundesliga,2022,Borussia M.Gladbach,Bochum,Away,1,2,0.766603,1.68574,8,13,l,0
+19472,2022-11-11 19:30:00,Bundesliga,2022,Borussia M.Gladbach,Borussia Dortmund,Home,4,2,2.64014,3.6823,11,19,w,3
+19481,2023-01-22 16:30:00,Bundesliga,2022,Borussia M.Gladbach,Bayer Leverkusen,Home,2,3,0.993895,1.68471,15,13,l,0
+19491,2023-01-25 19:30:00,Bundesliga,2022,Borussia M.Gladbach,Augsburg,Away,0,1,0.512384,0.869679,7,14,l,0
+19500,2023-01-28 14:30:00,Bundesliga,2022,Borussia M.Gladbach,Hoffenheim,Away,4,1,1.79941,1.96043,9,15,w,3
+19507,2023-02-04 17:30:00,Bundesliga,2022,Borussia M.Gladbach,Schalke 04,Home,0,0,1.12913,1.18272,18,19,d,1
+19519,2023-02-12 14:30:00,Bundesliga,2022,Borussia M.Gladbach,Hertha Berlin,Away,1,4,0.421257,2.64788,8,18,l,0
+19525,2023-02-18 14:30:00,Bundesliga,2022,Borussia M.Gladbach,Bayern Munich,Home,3,2,2.26574,1.22226,16,13,w,3
+19535,2023-02-24 19:30:00,Bundesliga,2022,Borussia M.Gladbach,Mainz 05,Away,0,4,0.718556,2.95117,9,14,l,0
+19544,2023-03-04 14:30:00,Bundesliga,2022,Borussia M.Gladbach,Freiburg,Home,0,0,1.11415,0.286316,9,8,d,1
+19550,2023-03-11 14:30:00,Bundesliga,2022,Borussia M.Gladbach,RasenBallsport Leipzig,Away,0,3,1.44596,2.26747,7,14,l,0
+19563,2023-03-17 19:30:00,Bundesliga,2022,Borussia M.Gladbach,Werder Bremen,Home,2,2,3.68386,0.764773,21,8,d,1
+19569,2023-04-02 13:30:00,Bundesliga,2022,Borussia M.Gladbach,FC Cologne,Away,0,0,0.520471,1.05192,8,12,d,1
+19581,2023-04-09 13:30:00,Bundesliga,2022,Borussia M.Gladbach,Wolfsburg,Home,2,0,1.55684,1.22997,13,10,w,3
+19589,2023-04-15 16:30:00,Bundesliga,2022,Borussia M.Gladbach,Eintracht Frankfurt,Away,1,1,0.640098,2.17369,4,16,d,1
+19599,2023-04-23 17:30:00,Bundesliga,2022,Borussia M.Gladbach,Union Berlin,Home,0,1,0.40847,1.21726,8,13,l,0
+19610,2023-04-29 13:30:00,Bundesliga,2022,Borussia M.Gladbach,VfB Stuttgart,Away,1,2,1.2489,2.73645,9,17,l,0
+19617,2023-05-06 13:30:00,Bundesliga,2022,Borussia M.Gladbach,Bochum,Home,2,0,2.31852,0.921673,25,14,w,3
+19622,2023-05-13 16:30:00,Bundesliga,2022,Borussia M.Gladbach,Borussia Dortmund,Away,2,5,1.63094,6.24513,13,35,l,0
+19631,2023-05-21 17:30:00,Bundesliga,2022,Borussia M.Gladbach,Bayer Leverkusen,Away,2,2,2.06056,1.89906,11,13,d,1
+19643,2023-05-27 13:30:00,Bundesliga,2022,Borussia M.Gladbach,Augsburg,Home,2,0,2.98996,0.434493,19,9,w,3
+23069,2023-08-19 13:30:00,Bundesliga,2023,Borussia M.Gladbach,Augsburg,Away,4,4,1.91849,2.53482,10,20,d,1
+23080,2023-08-26 16:30:00,Bundesliga,2023,Borussia M.Gladbach,Bayer Leverkusen,Home,0,3,1.76423,3.65301,12,24,l,0
+23089,2023-09-02 16:30:00,Bundesliga,2023,Borussia M.Gladbach,Bayern Munich,Home,1,2,0.201237,2.14949,7,25,l,0
+23100,2023-09-17 15:30:00,Bundesliga,2023,Borussia M.Gladbach,Darmstadt,Away,3,3,3.49324,1.328,22,15,d,1
+23103,2023-09-23 13:30:00,Bundesliga,2023,Borussia M.Gladbach,RasenBallsport Leipzig,Home,0,1,0.771966,1.03744,14,8,l,0
+23111,2023-09-30 13:30:00,Bundesliga,2023,Borussia M.Gladbach,Bochum,Away,3,1,2.86793,1.46515,27,23,w,3
+23119,2023-10-06 18:30:00,Bundesliga,2023,Borussia M.Gladbach,Mainz 05,Home,2,2,3.01512,1.21309,21,14,d,1
+23135,2023-10-22 13:30:00,Bundesliga,2023,Borussia M.Gladbach,FC Cologne,Away,1,3,0.407008,2.72755,5,23,l,0
+23141,2023-10-28 13:30:00,Bundesliga,2023,Borussia M.Gladbach,FC Heidenheim,Home,2,1,0.981009,0.395956,13,10,w,3
+23148,2023-11-04 14:30:00,Bundesliga,2023,Borussia M.Gladbach,Freiburg,Away,3,3,1.92375,3.3903,10,16,d,1
+23158,2023-11-10 19:30:00,Bundesliga,2023,Borussia M.Gladbach,Wolfsburg,Home,4,0,2.094,0.500797,15,12,w,3
+23164,2023-11-25 14:30:00,Bundesliga,2023,Borussia M.Gladbach,Borussia Dortmund,Away,2,4,0.789918,3.36754,10,23,l,0
+23177,2023-12-02 14:30:00,Bundesliga,2023,Borussia M.Gladbach,Hoffenheim,Home,2,1,1.60234,1.33696,9,19,w,3
+23183,2023-12-09 14:30:00,Bundesliga,2023,Borussia M.Gladbach,Union Berlin,Away,1,3,1.03267,2.5675,11,16,l,0
+23196,2023-12-15 19:30:00,Bundesliga,2023,Borussia M.Gladbach,Werder Bremen,Home,2,2,1.20813,1.64723,14,13,d,1
+23203,2023-12-20 19:30:00,Bundesliga,2023,Borussia M.Gladbach,Eintracht Frankfurt,Away,1,2,0.552196,1.53912,7,14,l,0
+23213,2024-01-14 16:30:00,Bundesliga,2023,Borussia M.Gladbach,VfB Stuttgart,Home,3,1,2.02288,1.24703,8,15,w,3
+23222,2024-01-21 16:30:00,Bundesliga,2023,Borussia M.Gladbach,Augsburg,Home,1,2,1.87919,1.61193,18,15,l,0
+23229,2024-01-27 17:30:00,Bundesliga,2023,Borussia M.Gladbach,Bayer Leverkusen,Away,0,0,0.278864,3.32828,4,28,d,1
+23236,2024-02-03 14:30:00,Bundesliga,2023,Borussia M.Gladbach,Bayern Munich,Away,1,3,0.780069,2.58401,11,20,l,0
+23245,2024-02-10 14:30:00,Bundesliga,2023,Borussia M.Gladbach,Darmstadt,Home,0,0,1.47353,0.817722,21,9,d,1
+23254,2024-02-17 17:30:00,Bundesliga,2023,Borussia M.Gladbach,RasenBallsport Leipzig,Away,0,2,0.944074,1.49022,15,16,l,0
+23266,2024-02-24 14:30:00,Bundesliga,2023,Borussia M.Gladbach,Bochum,Home,5,2,3.64941,2.13723,22,16,w,3
+23275,2024-03-02 14:30:00,Bundesliga,2023,Borussia M.Gladbach,Mainz 05,Away,1,1,1.55082,1.08864,14,19,d,1
+23285,2024-03-09 14:30:00,Bundesliga,2023,Borussia M.Gladbach,FC Cologne,Home,3,3,2.54696,0.924707,17,12,d,1
+23297,2024-03-16 14:30:00,Bundesliga,2023,Borussia M.Gladbach,FC Heidenheim,Away,1,1,0.820339,1.61096,7,19,d,1
+23303,2024-03-30 14:30:00,Bundesliga,2023,Borussia M.Gladbach,Freiburg,Home,0,3,1.84419,2.08769,19,14,l,0
+23312,2024-04-07 15:30:00,Bundesliga,2023,Borussia M.Gladbach,Wolfsburg,Away,3,1,1.38704,1.26689,9,13,w,3
+23321,2024-04-13 13:30:00,Bundesliga,2023,Borussia M.Gladbach,Borussia Dortmund,Home,1,2,1.17228,1.80703,17,12,l,0
+23332,2024-04-20 13:30:00,Bundesliga,2023,Borussia M.Gladbach,Hoffenheim,Away,3,4,1.36369,2.77278,13,28,l,0
+23340,2024-04-28 13:30:00,Bundesliga,2023,Borussia M.Gladbach,Union Berlin,Home,0,0,1.21021,1.11351,13,14,d,1
+23350,2024-05-04 13:30:00,Bundesliga,2023,Borussia M.Gladbach,Werder Bremen,Away,2,2,2.28533,1.31618,17,18,d,1
+23357,2024-05-11 13:30:00,Bundesliga,2023,Borussia M.Gladbach,Eintracht Frankfurt,Home,1,1,0.323547,2.33139,6,17,d,1
+23369,2024-05-18 13:30:00,Bundesliga,2023,Borussia M.Gladbach,VfB Stuttgart,Away,0,4,1.65395,2.1075,14,21,l,0
+27742,2024-08-23 18:30:00,Bundesliga,2024,Borussia M.Gladbach,Bayer Leverkusen,Home,2,3,1.51665,3.23588,14,25,l,0
+27752,2024-08-31 13:30:00,Bundesliga,2024,Borussia M.Gladbach,Bochum,Away,2,0,2.66887,0.918629,15,15,w,3
+27765,2024-09-14 13:30:00,Bundesliga,2024,Borussia M.Gladbach,VfB Stuttgart,Home,1,3,2.05136,2.7214,15,12,l,0
+27774,2024-09-21 16:30:00,Bundesliga,2024,Borussia M.Gladbach,Eintracht Frankfurt,Away,0,2,1.19669,2.93252,25,19,l,0
+27782,2024-09-28 13:30:00,Bundesliga,2024,Borussia M.Gladbach,Union Berlin,Home,1,0,1.38305,0.731164,8,9,w,3
+27790,2024-10-04 18:30:00,Bundesliga,2024,Borussia M.Gladbach,Augsburg,Away,1,2,0.807021,1.75524,11,15,l,0
+27803,2024-10-19 13:30:00,Bundesliga,2024,Borussia M.Gladbach,FC Heidenheim,Home,3,2,4.14976,1.89766,20,18,w,3
+27810,2024-10-25 18:30:00,Bundesliga,2024,Borussia M.Gladbach,Mainz 05,Away,1,1,0.934033,1.45557,10,22,d,1
+27821,2024-11-03 16:30:00,Bundesliga,2024,Borussia M.Gladbach,Werder Bremen,Home,4,1,2.95668,1.30211,16,16,w,3
+27824,2024-11-09 17:30:00,Bundesliga,2024,Borussia M.Gladbach,RasenBallsport Leipzig,Away,0,0,1.31521,0.849803,14,11,d,1
+27839,2024-11-24 16:30:00,Bundesliga,2024,Borussia M.Gladbach,St. Pauli,Home,2,0,2.99128,1.15234,15,15,w,3
+27845,2024-11-30 14:30:00,Bundesliga,2024,Borussia M.Gladbach,Freiburg,Away,1,3,1.27811,2.15426,15,17,l,0
+27854,2024-12-07 17:30:00,Bundesliga,2024,Borussia M.Gladbach,Borussia Dortmund,Home,1,1,1.10194,1.58856,9,16,d,1
+27865,2024-12-14 14:30:00,Bundesliga,2024,Borussia M.Gladbach,Holstein Kiel,Home,4,1,2.33425,0.323948,17,12,w,3
+27872,2024-12-21 14:30:00,Bundesliga,2024,Borussia M.Gladbach,Hoffenheim,Away,2,1,0.490494,3.7229,5,18,w,3
+27884,2025-01-11 17:30:00,Bundesliga,2024,Borussia M.Gladbach,Bayern Munich,Home,0,1,0.326195,4.47736,5,23,l,0
+27891,2025-01-14 19:30:00,Bundesliga,2024,Borussia M.Gladbach,Wolfsburg,Away,1,5,0.856948,3.72762,9,16,l,0
+27895,2025-01-18 17:30:00,Bundesliga,2024,Borussia M.Gladbach,Bayer Leverkusen,Away,1,3,0.473935,2.08382,7,10,l,0
+27908,2025-01-25 17:30:00,Bundesliga,2024,Borussia M.Gladbach,Bochum,Home,3,0,2.93153,0.759449,16,10,w,3
+27917,2025-02-01 14:30:00,Bundesliga,2024,Borussia M.Gladbach,VfB Stuttgart,Away,2,1,1.96971,0.950734,13,10,w,3
+27929,2025-02-08 17:30:00,Bundesliga,2024,Borussia M.Gladbach,Eintracht Frankfurt,Home,1,1,0.656491,2.5487,8,15,d,1
+27937,2025-02-15 14:30:00,Bundesliga,2024,Borussia M.Gladbach,Union Berlin,Away,2,1,2.22036,1.66824,9,17,w,3
+27947,2025-02-22 14:30:00,Bundesliga,2024,Borussia M.Gladbach,Augsburg,Home,0,3,0.800003,1.73915,8,17,l,0
+27952,2025-03-01 14:30:00,Bundesliga,2024,Borussia M.Gladbach,FC Heidenheim,Away,3,0,1.7158,1.87707,13,20,w,3
+27965,2025-03-07 19:30:00,Bundesliga,2024,Borussia M.Gladbach,Mainz 05,Home,1,3,1.25544,1.98889,12,16,l,0
+27970,2025-03-15 14:30:00,Bundesliga,2024,Borussia M.Gladbach,Werder Bremen,Away,4,2,2.32056,2.98283,13,23,w,3
+27980,2025-03-29 14:30:00,Bundesliga,2024,Borussia M.Gladbach,RasenBallsport Leipzig,Home,1,0,1.79539,0.929047,16,19,w,3
+27993,2025-04-06 13:30:00,Bundesliga,2024,Borussia M.Gladbach,St. Pauli,Away,1,1,0.646648,2.19443,5,26,d,1
+28000,2025-04-12 13:30:00,Bundesliga,2024,Borussia M.Gladbach,Freiburg,Home,1,2,0.524784,2.31704,10,20,l,0
+28004,2025-04-20 15:30:00,Bundesliga,2024,Borussia M.Gladbach,Borussia Dortmund,Away,2,3,1.2185,1.18456,6,14,l,0
+28020,2025-04-26 13:30:00,Bundesliga,2024,Borussia M.Gladbach,Holstein Kiel,Away,3,4,2.55098,3.0385,16,22,l,0
+28027,2025-05-03 13:30:00,Bundesliga,2024,Borussia M.Gladbach,Hoffenheim,Home,4,4,1.91833,1.91093,12,26,d,1
+28032,2025-05-10 16:30:00,Bundesliga,2024,Borussia M.Gladbach,Bayern Munich,Away,0,2,1.35544,2.78307,16,24,l,0
+28046,2025-05-17 13:30:00,Bundesliga,2024,Borussia M.Gladbach,Wolfsburg,Home,0,1,0.744546,1.5757,16,17,l,0
+30232,2025-08-24 15:30:00,Bundesliga,2025,Borussia M.Gladbach,Hamburger SV,Home,0,0,1.01717,0.285593,17,7,d,1
+30237,2025-08-30 13:30:00,Bundesliga,2025,Borussia M.Gladbach,VfB Stuttgart,Away,0,1,1.60717,0.925105,15,13,l,0
+30250,2025-09-14 15:30:00,Bundesliga,2025,Borussia M.Gladbach,Werder Bremen,Home,0,4,1.58932,2.24671,19,13,l,0
+30258,2025-09-21 15:30:00,Bundesliga,2025,Borussia M.Gladbach,Bayer Leverkusen,Away,1,1,1.29876,1.9461,13,13,d,1
+30265,2025-09-27 16:30:00,Bundesliga,2025,Borussia M.Gladbach,Eintracht Frankfurt,Home,4,6,2.12935,3.78879,11,21,l,0
+30270,2025-10-05 17:30:00,Bundesliga,2025,Borussia M.Gladbach,Freiburg,Home,0,0,0.471184,0.689073,9,12,d,1
+30285,2025-10-17 18:30:00,Bundesliga,2025,Borussia M.Gladbach,Union Berlin,Away,1,3,0.628848,1.53032,9,16,l,0

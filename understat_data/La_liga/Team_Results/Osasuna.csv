@@ -1,0 +1,124 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+18962,2022-08-12 19:00:00,La_liga,2022,Osasuna,Sevilla,Home,2,1,1.35571,0.965574,12,10,w,3
+18974,2022-08-20 15:30:00,La_liga,2022,Osasuna,Cadiz,Home,2,0,2.92362,1.01741,16,9,w,3
+18983,2022-08-26 20:00:00,La_liga,2022,Osasuna,Real Betis,Away,0,1,0.910349,0.507146,12,7,l,0
+18993,2022-09-04 12:00:00,La_liga,2022,Osasuna,Rayo Vallecano,Home,2,1,3.1751,0.179917,13,5,w,3
+19007,2022-09-12 19:00:00,La_liga,2022,Osasuna,Almeria,Away,1,0,2.14,0.166505,15,7,w,3
+19016,2022-09-18 12:00:00,La_liga,2022,Osasuna,Getafe,Home,0,2,1.1323,1.43239,12,10,l,0
+19030,2022-10-02 19:00:00,La_liga,2022,Osasuna,Real Madrid,Away,1,1,0.466155,2.56301,8,22,d,1
+19037,2022-10-07 19:00:00,La_liga,2022,Osasuna,Valencia,Home,1,2,1.96282,2.73352,11,15,l,0
+19050,2022-10-17 19:00:00,La_liga,2022,Osasuna,Villarreal,Away,0,2,0.33234,2.15273,14,12,l,0
+19061,2022-10-20 18:00:00,La_liga,2022,Osasuna,Espanyol,Home,1,0,1.02851,1.44867,17,5,w,3
+19064,2022-10-23 16:30:00,La_liga,2022,Osasuna,Girona,Away,1,1,0.693721,0.666875,9,7,d,1
+19074,2022-10-30 13:00:00,La_liga,2022,Osasuna,Real Valladolid,Home,2,0,1.90028,0.330479,20,7,w,3
+19084,2022-11-05 17:30:00,La_liga,2022,Osasuna,Celta Vigo,Away,2,1,0.360091,0.824768,8,13,w,3
+19097,2022-11-08 20:30:00,La_liga,2022,Osasuna,Barcelona,Home,1,2,1.23564,1.01467,15,9,l,0
+19108,2022-12-31 15:15:00,La_liga,2022,Osasuna,Real Sociedad,Away,0,2,0.305627,1.54314,11,9,l,0
+19112,2023-01-09 20:00:00,La_liga,2022,Osasuna,Athletic Club,Away,0,0,0.427681,1.17556,3,17,d,1
+19129,2023-01-14 17:30:00,La_liga,2022,Osasuna,Mallorca,Home,1,0,1.19142,0.523266,15,6,w,3
+19135,2023-01-22 15:15:00,La_liga,2022,Osasuna,Elche,Away,1,1,0.607835,2.36237,8,13,d,1
+19146,2023-01-29 15:15:00,La_liga,2022,Osasuna,Atletico Madrid,Home,0,1,0.741393,1.29745,14,13,l,0
+19158,2023-02-04 13:00:00,La_liga,2022,Osasuna,Espanyol,Away,1,1,0.919455,1.56394,9,9,d,1
+19171,2023-02-12 17:30:00,La_liga,2022,Osasuna,Real Valladolid,Away,0,0,1.03574,1.96448,15,18,d,1
+19177,2023-02-18 20:00:00,La_liga,2022,Osasuna,Real Madrid,Home,0,2,0.400542,1.86475,11,11,l,0
+19182,2023-02-26 20:00:00,La_liga,2022,Osasuna,Sevilla,Away,3,2,1.34283,2.38177,11,23,w,3
+19198,2023-03-06 20:00:00,La_liga,2022,Osasuna,Celta Vigo,Home,0,0,1.16313,0.726128,10,6,d,1
+19210,2023-03-11 20:00:00,La_liga,2022,Osasuna,Valencia,Away,0,1,0.257674,1.84171,7,8,l,0
+19216,2023-03-19 15:15:00,La_liga,2022,Osasuna,Villarreal,Home,0,3,1.15562,1.5875,10,12,l,0
+19224,2023-03-31 20:00:00,La_liga,2022,Osasuna,Mallorca,Away,0,0,0.507781,0.433196,11,10,d,1
+19239,2023-04-08 12:00:00,La_liga,2022,Osasuna,Elche,Home,2,1,1.68972,0.657812,22,7,w,3
+19249,2023-04-14 19:00:00,La_liga,2022,Osasuna,Rayo Vallecano,Away,1,2,0.373133,1.08431,9,12,l,0
+19256,2023-04-22 12:00:00,La_liga,2022,Osasuna,Real Betis,Home,3,2,1.63275,1.99331,10,21,w,3
+19266,2023-04-25 17:30:00,La_liga,2022,Osasuna,Cadiz,Away,1,0,0.865548,1.4054,6,20,w,3
+19276,2023-04-28 19:00:00,La_liga,2022,Osasuna,Real Sociedad,Home,0,2,0.987164,2.09575,14,12,l,0
+19284,2023-05-02 17:30:00,La_liga,2022,Osasuna,Barcelona,Away,0,1,0.355588,2.40046,7,21,l,0
+19293,2023-05-13 14:15:00,La_liga,2022,Osasuna,Almeria,Home,3,1,1.87424,0.507884,18,8,w,3
+19311,2023-05-21 14:15:00,La_liga,2022,Osasuna,Atletico Madrid,Away,0,3,0.714505,2.08773,12,15,l,0
+19316,2023-05-25 19:30:00,La_liga,2022,Osasuna,Athletic Club,Home,2,0,0.906699,0.534145,9,10,w,3
+19325,2023-05-28 17:00:00,La_liga,2022,Osasuna,Getafe,Away,1,2,0.432264,2.7187,10,16,l,0
+19338,2023-06-04 18:00:00,La_liga,2022,Osasuna,Girona,Home,2,1,1.91718,0.822488,14,11,w,3
+22690,2023-08-13 15:00:00,La_liga,2023,Osasuna,Celta Vigo,Away,2,0,0.964645,0.783184,11,11,w,3
+22699,2023-08-19 19:30:00,La_liga,2023,Osasuna,Athletic Club,Home,0,2,1.33582,1.88906,19,8,l,0
+22711,2023-08-27 17:30:00,La_liga,2023,Osasuna,Valencia,Away,2,1,1.45939,1.87647,7,16,w,3
+22722,2023-09-03 19:00:00,La_liga,2023,Osasuna,Barcelona,Home,1,2,0.801843,1.77255,11,9,l,0
+22728,2023-09-17 12:00:00,La_liga,2023,Osasuna,Getafe,Away,2,3,1.29606,0.736469,8,11,l,0
+22740,2023-09-23 14:15:00,La_liga,2023,Osasuna,Sevilla,Home,0,0,1.57361,0.693906,16,15,d,1
+22748,2023-09-28 19:30:00,La_liga,2023,Osasuna,Atletico Madrid,Home,0,2,0.759357,1.22827,13,5,l,0
+22761,2023-10-01 14:15:00,La_liga,2023,Osasuna,Alaves,Away,2,0,1.26744,1.5824,10,17,w,3
+22772,2023-10-07 14:15:00,La_liga,2023,Osasuna,Real Madrid,Away,0,4,0.164111,4.47802,7,19,l,0
+22783,2023-10-20 19:00:00,La_liga,2023,Osasuna,Granada,Home,2,0,1.79846,0.776224,12,13,w,3
+22788,2023-10-29 13:00:00,La_liga,2023,Osasuna,Real Betis,Away,1,2,0.446425,1.43393,7,9,l,0
+22802,2023-11-04 13:00:00,La_liga,2023,Osasuna,Girona,Home,2,4,2.18398,2.78694,15,11,l,0
+22813,2023-11-11 17:30:00,La_liga,2023,Osasuna,Las Palmas,Home,1,1,1.44069,0.291858,11,6,d,1
+22824,2023-11-26 13:00:00,La_liga,2023,Osasuna,Villarreal,Away,1,3,1.26437,2.84591,15,10,l,0
+22828,2023-12-02 20:00:00,La_liga,2023,Osasuna,Real Sociedad,Home,1,1,1.01822,1.69944,9,17,d,1
+22837,2023-12-10 17:30:00,La_liga,2023,Osasuna,Cadiz,Away,1,1,1.81825,1.15321,13,12,d,1
+22848,2023-12-15 20:00:00,La_liga,2023,Osasuna,Rayo Vallecano,Home,1,0,1.77561,1.15316,10,9,w,3
+22859,2023-12-21 20:30:00,La_liga,2023,Osasuna,Mallorca,Away,2,3,1.5871,1.68391,12,15,l,0
+22867,2024-01-04 16:00:00,La_liga,2023,Osasuna,Almeria,Home,1,0,2.03356,0.239636,14,4,w,3
+22892,2024-01-21 13:00:00,La_liga,2023,Osasuna,Getafe,Home,3,2,1.57055,1.50775,13,10,w,3
+22902,2024-01-28 17:30:00,La_liga,2023,Osasuna,Sevilla,Away,1,1,1.07779,1.42372,11,10,d,1
+22878,2024-01-31 18:00:00,La_liga,2023,Osasuna,Barcelona,Away,0,1,1.41966,2.21737,10,16,l,0
+22914,2024-02-04 15:15:00,La_liga,2023,Osasuna,Celta Vigo,Home,0,3,1.00524,1.37845,18,6,l,0
+22924,2024-02-10 15:15:00,La_liga,2023,Osasuna,Real Sociedad,Away,1,0,0.704714,2.50503,9,21,w,3
+22931,2024-02-17 15:15:00,La_liga,2023,Osasuna,Cadiz,Home,2,0,1.37854,0.919753,11,5,w,3
+22942,2024-02-25 17:30:00,La_liga,2023,Osasuna,Las Palmas,Away,1,1,0.387933,0.942659,6,9,d,1
+22954,2024-03-04 20:00:00,La_liga,2023,Osasuna,Alaves,Home,1,0,1.71646,1.14533,15,10,w,3
+22958,2024-03-09 20:00:00,La_liga,2023,Osasuna,Girona,Away,0,2,0.185235,2.1772,7,11,l,0
+22967,2024-03-16 15:15:00,La_liga,2023,Osasuna,Real Madrid,Home,2,4,0.669756,3.05767,9,17,l,0
+22975,2024-03-30 15:15:00,La_liga,2023,Osasuna,Almeria,Away,3,0,1.00888,0.745696,6,12,w,3
+22989,2024-04-15 19:00:00,La_liga,2023,Osasuna,Valencia,Home,0,1,2.26875,0.235711,13,4,l,0
+23004,2024-04-20 14:15:00,La_liga,2023,Osasuna,Rayo Vallecano,Away,1,2,0.930714,0.560289,6,17,l,0
+23009,2024-04-28 14:15:00,La_liga,2023,Osasuna,Granada,Away,0,3,0.989028,2.31468,11,12,l,0
+23020,2024-05-05 12:00:00,La_liga,2023,Osasuna,Real Betis,Home,0,2,1.02463,1.44688,12,10,l,0
+23025,2024-05-11 19:00:00,La_liga,2023,Osasuna,Athletic Club,Away,2,2,1.05326,2.17034,13,15,d,1
+23042,2024-05-14 17:30:00,La_liga,2023,Osasuna,Mallorca,Home,1,1,0.428998,0.919263,10,10,d,1
+23046,2024-05-19 17:00:00,La_liga,2023,Osasuna,Atletico Madrid,Away,4,1,1.88434,1.76117,15,14,w,3
+23059,2024-05-25 12:00:00,La_liga,2023,Osasuna,Villarreal,Home,1,1,1.09355,0.835313,12,11,d,1
+26986,2024-08-17 17:00:00,La_liga,2024,Osasuna,Leganes,Home,1,1,1.7631,1.33949,17,11,d,1
+26994,2024-08-24 15:00:00,La_liga,2024,Osasuna,Mallorca,Home,1,0,0.887678,0.427602,15,10,w,3
+27010,2024-08-29 17:00:00,La_liga,2024,Osasuna,Girona,Away,0,4,0.0199618,2.6015,1,10,l,0
+27018,2024-09-01 15:00:00,La_liga,2024,Osasuna,Celta Vigo,Home,3,2,0.779621,1.72329,11,13,w,3
+27030,2024-09-16 19:00:00,La_liga,2024,Osasuna,Rayo Vallecano,Away,1,3,0.530311,1.48433,5,17,l,0
+27040,2024-09-21 14:15:00,La_liga,2024,Osasuna,Las Palmas,Home,2,1,1.97167,1.28282,13,11,w,3
+27050,2024-09-24 17:00:00,La_liga,2024,Osasuna,Valencia,Away,0,0,0.377552,1.17527,9,10,d,1
+27056,2024-09-28 19:00:00,La_liga,2024,Osasuna,Barcelona,Home,4,2,2.50067,0.751814,11,12,w,3
+27062,2024-10-05 14:15:00,La_liga,2024,Osasuna,Getafe,Away,1,1,0.247706,1.34832,6,11,d,1
+27079,2024-10-19 14:15:00,La_liga,2024,Osasuna,Real Betis,Home,1,2,2.21025,2.79181,19,11,l,0
+27088,2024-10-27 20:00:00,La_liga,2024,Osasuna,Real Sociedad,Away,2,0,1.06487,1.6767,10,19,w,3
+27096,2024-11-02 13:00:00,La_liga,2024,Osasuna,Real Valladolid,Home,1,0,3.21695,0.204092,20,7,w,3
+27109,2024-11-09 13:00:00,La_liga,2024,Osasuna,Real Madrid,Away,0,4,0.0678926,3.27315,2,18,l,0
+27114,2024-11-24 13:00:00,La_liga,2024,Osasuna,Villarreal,Home,2,2,1.3273,2.68193,4,17,d,1
+27129,2024-12-02 20:00:00,La_liga,2024,Osasuna,Sevilla,Away,1,1,1.04839,1.09081,7,12,d,1
+27141,2024-12-08 17:30:00,La_liga,2024,Osasuna,Alaves,Home,2,2,2.31345,1.50067,16,6,d,1
+27150,2024-12-14 13:00:00,La_liga,2024,Osasuna,Espanyol,Away,0,0,0.213917,0.298744,6,9,d,1
+27159,2024-12-21 17:30:00,La_liga,2024,Osasuna,Athletic Club,Home,1,2,0.417557,1.18093,6,13,l,0
+27163,2025-01-12 15:15:00,La_liga,2024,Osasuna,Atletico Madrid,Away,0,1,0.391974,2.28719,6,9,l,0
+27174,2025-01-19 17:30:00,La_liga,2024,Osasuna,Rayo Vallecano,Home,1,1,0.660386,0.797534,12,8,d,1
+27185,2025-01-24 20:00:00,La_liga,2024,Osasuna,Las Palmas,Away,1,1,2.53692,0.833212,16,16,d,1
+27195,2025-02-02 17:30:00,La_liga,2024,Osasuna,Real Sociedad,Home,2,1,1.11088,2.35115,11,13,w,3
+27210,2025-02-10 20:00:00,La_liga,2024,Osasuna,Mallorca,Away,1,1,1.81967,1.17321,19,10,d,1
+27220,2025-02-15 15:15:00,La_liga,2024,Osasuna,Real Madrid,Home,1,1,1.64382,2.73344,11,17,d,1
+27223,2025-02-21 20:00:00,La_liga,2024,Osasuna,Celta Vigo,Away,0,1,0.838476,2.31891,18,12,l,0
+27234,2025-03-02 20:00:00,La_liga,2024,Osasuna,Valencia,Home,3,3,1.26777,1.54983,11,12,d,1
+27258,2025-03-16 17:30:00,La_liga,2024,Osasuna,Getafe,Home,1,2,2.08486,0.900928,12,7,l,0
+27244,2025-03-27 20:00:00,La_liga,2024,Osasuna,Barcelona,Away,0,3,0.53356,4.63707,4,19,l,0
+27269,2025-03-30 17:30:00,La_liga,2024,Osasuna,Athletic Club,Away,0,0,0.564979,0.759463,5,11,d,1
+27275,2025-04-07 19:00:00,La_liga,2024,Osasuna,Leganes,Away,1,1,2.07408,2.22334,14,13,d,1
+27289,2025-04-13 12:00:00,La_liga,2024,Osasuna,Girona,Home,2,1,1.68846,0.57428,13,18,w,3
+27297,2025-04-20 12:00:00,La_liga,2024,Osasuna,Real Valladolid,Away,3,2,2.36202,1.45455,11,12,w,3
+27309,2025-04-24 17:00:00,La_liga,2024,Osasuna,Sevilla,Home,1,0,0.373711,0.934425,9,12,w,3
+27319,2025-05-03 14:15:00,La_liga,2024,Osasuna,Villarreal,Away,2,4,1.41412,2.30041,11,15,l,0
+27325,2025-05-11 19:00:00,La_liga,2024,Osasuna,Real Betis,Away,1,1,2.2272,0.359348,16,10,d,1
+27335,2025-05-15 17:00:00,La_liga,2024,Osasuna,Atletico Madrid,Home,2,0,1.07473,1.34093,9,9,w,3
+27351,2025-05-18 17:00:00,La_liga,2024,Osasuna,Espanyol,Home,2,0,1.92502,0.572332,16,16,w,3
+27356,2025-05-24 19:00:00,La_liga,2024,Osasuna,Alaves,Away,1,1,1.88098,1.57466,19,14,d,1
+29167,2025-08-19 19:00:00,La_liga,2025,Osasuna,Real Madrid,Away,0,1,0.201044,1.4294,2,18,l,0
+29172,2025-08-24 15:00:00,La_liga,2025,Osasuna,Valencia,Home,1,0,0.946758,0.589594,16,4,w,3
+29187,2025-08-31 17:30:00,La_liga,2025,Osasuna,Espanyol,Away,0,1,1.38167,1.36886,10,10,l,0
+29197,2025-09-14 16:30:00,La_liga,2025,Osasuna,Rayo Vallecano,Home,2,0,1.4012,0.979149,9,19,w,3
+29207,2025-09-20 16:30:00,La_liga,2025,Osasuna,Villarreal,Away,1,2,1.95599,3.56395,6,26,l,0
+29214,2025-09-25 17:30:00,La_liga,2025,Osasuna,Elche,Home,1,1,1.17524,1.05089,9,12,d,1
+29221,2025-09-28 19:00:00,La_liga,2025,Osasuna,Real Betis,Away,0,2,0.578485,1.18955,12,12,l,0
+29235,2025-10-03 19:00:00,La_liga,2025,Osasuna,Getafe,Home,2,1,0.692026,0.856515,7,6,w,3
+29239,2025-10-18 19:00:00,La_liga,2025,Osasuna,Atletico Madrid,Away,0,1,0.981492,2.24415,9,18,l,0

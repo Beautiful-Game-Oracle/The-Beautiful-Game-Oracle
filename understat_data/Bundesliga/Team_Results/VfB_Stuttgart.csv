@@ -1,0 +1,110 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+19349,2022-08-07 13:30:00,Bundesliga,2022,VfB Stuttgart,RasenBallsport Leipzig,Home,1,1,0.565488,2.13153,11,27,d,1
+19354,2022-08-13 13:30:00,Bundesliga,2022,VfB Stuttgart,Werder Bremen,Away,2,2,1.31637,0.704357,14,5,d,1
+19363,2022-08-20 13:30:00,Bundesliga,2022,VfB Stuttgart,Freiburg,Home,0,1,0.766656,0.903953,17,9,l,0
+19376,2022-08-28 13:30:00,Bundesliga,2022,VfB Stuttgart,FC Cologne,Away,0,0,1.96538,0.385951,14,7,d,1
+19381,2022-09-03 13:30:00,Bundesliga,2022,VfB Stuttgart,Schalke 04,Home,1,1,0.706188,2.10477,13,12,d,1
+19388,2022-09-10 13:30:00,Bundesliga,2022,VfB Stuttgart,Bayern Munich,Away,2,2,1.18754,2.2976,7,19,d,1
+19400,2022-09-17 13:30:00,Bundesliga,2022,VfB Stuttgart,Eintracht Frankfurt,Home,1,3,0.773751,1.49027,15,13,l,0
+19410,2022-10-01 13:30:00,Bundesliga,2022,VfB Stuttgart,Wolfsburg,Away,2,3,2.34936,1.75417,14,19,l,0
+19421,2022-10-09 17:30:00,Bundesliga,2022,VfB Stuttgart,Union Berlin,Home,0,1,1.09713,0.73441,9,7,l,0
+19429,2022-10-15 13:30:00,Bundesliga,2022,VfB Stuttgart,Bochum,Home,4,1,2.40775,1.52762,17,14,w,3
+19432,2022-10-22 13:30:00,Bundesliga,2022,VfB Stuttgart,Borussia Dortmund,Away,0,5,0.989781,2.63936,10,18,l,0
+19447,2022-10-29 13:30:00,Bundesliga,2022,VfB Stuttgart,Augsburg,Home,2,1,3.12054,0.754506,29,11,w,3
+19453,2022-11-04 18:30:00,Bundesliga,2022,VfB Stuttgart,Borussia M.Gladbach,Away,1,3,1.46207,1.33462,14,13,l,0
+19466,2022-11-08 19:30:00,Bundesliga,2022,VfB Stuttgart,Hertha Berlin,Home,2,1,2.00216,1.05233,17,11,w,3
+19468,2022-11-12 14:30:00,Bundesliga,2022,VfB Stuttgart,Bayer Leverkusen,Away,0,2,0.277105,1.88305,7,12,l,0
+19485,2023-01-21 14:30:00,Bundesliga,2022,VfB Stuttgart,Mainz 05,Home,1,1,1.8803,1.38032,16,13,d,1
+19490,2023-01-24 19:30:00,Bundesliga,2022,VfB Stuttgart,Hoffenheim,Away,2,2,0.658333,1.82139,8,14,d,1
+19497,2023-01-27 19:30:00,Bundesliga,2022,VfB Stuttgart,RasenBallsport Leipzig,Away,1,2,1.86965,1.59146,12,10,l,0
+19512,2023-02-05 14:30:00,Bundesliga,2022,VfB Stuttgart,Werder Bremen,Home,0,2,1.48817,0.45062,17,9,l,0
+19515,2023-02-11 14:30:00,Bundesliga,2022,VfB Stuttgart,Freiburg,Away,1,2,1.02739,2.21054,15,9,l,0
+19530,2023-02-18 14:30:00,Bundesliga,2022,VfB Stuttgart,FC Cologne,Home,3,0,1.69842,0.452073,17,12,w,3
+19538,2023-02-25 17:30:00,Bundesliga,2022,VfB Stuttgart,Schalke 04,Away,1,2,1.66843,1.86618,17,12,l,0
+19548,2023-03-04 17:30:00,Bundesliga,2022,VfB Stuttgart,Bayern Munich,Home,1,2,0.596921,2.55612,11,14,l,0
+19553,2023-03-11 14:30:00,Bundesliga,2022,VfB Stuttgart,Eintracht Frankfurt,Away,1,1,0.434277,0.525223,10,10,d,1
+19566,2023-03-18 14:30:00,Bundesliga,2022,VfB Stuttgart,Wolfsburg,Home,0,1,0.471275,0.6744,12,9,l,0
+19567,2023-04-01 13:30:00,Bundesliga,2022,VfB Stuttgart,Union Berlin,Away,0,3,2.62164,1.70372,18,12,l,0
+19582,2023-04-09 15:30:00,Bundesliga,2022,VfB Stuttgart,Bochum,Away,3,2,2.37385,2.22259,15,12,w,3
+19591,2023-04-15 13:30:00,Bundesliga,2022,VfB Stuttgart,Borussia Dortmund,Home,3,3,1.34955,1.52309,12,15,d,1
+19601,2023-04-21 18:30:00,Bundesliga,2022,VfB Stuttgart,Augsburg,Away,1,1,1.17537,0.729024,7,4,d,1
+19610,2023-04-29 13:30:00,Bundesliga,2022,VfB Stuttgart,Borussia M.Gladbach,Home,2,1,2.73645,1.2489,17,9,w,3
+19619,2023-05-06 13:30:00,Bundesliga,2022,VfB Stuttgart,Hertha Berlin,Away,1,2,1.08971,1.4984,14,7,l,0
+19629,2023-05-14 13:30:00,Bundesliga,2022,VfB Stuttgart,Bayer Leverkusen,Home,1,1,1.42711,1.57634,9,12,d,1
+19633,2023-05-21 13:30:00,Bundesliga,2022,VfB Stuttgart,Mainz 05,Away,4,1,1.40314,1.41611,7,10,w,3
+19647,2023-05-27 13:30:00,Bundesliga,2022,VfB Stuttgart,Hoffenheim,Home,1,1,2.19198,1.16078,23,8,d,1
+23070,2023-08-19 13:30:00,Bundesliga,2023,VfB Stuttgart,Bochum,Home,5,0,3.98664,0.669108,21,3,w,3
+23074,2023-08-25 18:30:00,Bundesliga,2023,VfB Stuttgart,RasenBallsport Leipzig,Away,1,5,1.18326,2.0934,8,20,l,0
+23088,2023-09-02 13:30:00,Bundesliga,2023,VfB Stuttgart,Freiburg,Home,5,0,2.09598,1.50372,13,13,w,3
+23096,2023-09-16 13:30:00,Bundesliga,2023,VfB Stuttgart,Mainz 05,Away,3,1,2.06366,1.16545,15,15,w,3
+23101,2023-09-22 18:30:00,Bundesliga,2023,VfB Stuttgart,Darmstadt,Home,3,1,3.04946,0.272376,19,3,w,3
+23115,2023-09-30 13:30:00,Bundesliga,2023,VfB Stuttgart,FC Cologne,Away,2,0,2.06666,0.803426,18,14,w,3
+23123,2023-10-07 13:30:00,Bundesliga,2023,VfB Stuttgart,Wolfsburg,Home,3,1,3.02575,1.06355,14,12,w,3
+23129,2023-10-21 13:30:00,Bundesliga,2023,VfB Stuttgart,Union Berlin,Away,3,0,1.87513,0.573025,10,9,w,3
+23145,2023-10-28 13:30:00,Bundesliga,2023,VfB Stuttgart,Hoffenheim,Home,2,3,3.15109,1.74412,23,7,l,0
+23153,2023-11-05 16:30:00,Bundesliga,2023,VfB Stuttgart,FC Heidenheim,Away,0,2,2.57296,0.78335,16,19,l,0
+23162,2023-11-11 14:30:00,Bundesliga,2023,VfB Stuttgart,Borussia Dortmund,Home,2,1,4.1718,0.7643,22,5,w,3
+23167,2023-11-25 17:30:00,Bundesliga,2023,VfB Stuttgart,Eintracht Frankfurt,Away,2,1,2.29764,0.787582,12,14,w,3
+23180,2023-12-02 17:30:00,Bundesliga,2023,VfB Stuttgart,Werder Bremen,Home,2,0,4.01803,0.65905,19,12,w,3
+23189,2023-12-10 14:30:00,Bundesliga,2023,VfB Stuttgart,Bayer Leverkusen,Home,1,1,2.61136,1.47429,22,18,d,1
+23191,2023-12-17 18:30:00,Bundesliga,2023,VfB Stuttgart,Bayern Munich,Away,0,3,0.309157,3.41522,6,17,l,0
+23207,2023-12-20 19:30:00,Bundesliga,2023,VfB Stuttgart,Augsburg,Home,3,0,2.65007,0.224572,17,6,w,3
+23213,2024-01-14 16:30:00,Bundesliga,2023,VfB Stuttgart,Borussia M.Gladbach,Away,1,3,1.24703,2.02288,15,8,l,0
+23224,2024-01-20 14:30:00,Bundesliga,2023,VfB Stuttgart,Bochum,Away,0,1,1.99316,0.71453,19,6,l,0
+23235,2024-01-27 14:30:00,Bundesliga,2023,VfB Stuttgart,RasenBallsport Leipzig,Home,5,2,3.13056,0.495967,18,4,w,3
+23238,2024-02-03 14:30:00,Bundesliga,2023,VfB Stuttgart,Freiburg,Away,3,1,2.73728,1.15964,17,6,w,3
+23253,2024-02-11 14:30:00,Bundesliga,2023,VfB Stuttgart,Mainz 05,Home,3,1,2.17007,1.61535,11,17,w,3
+23262,2024-02-17 14:30:00,Bundesliga,2023,VfB Stuttgart,Darmstadt,Away,2,1,1.74454,2.66748,13,20,w,3
+23263,2024-02-24 14:30:00,Bundesliga,2023,VfB Stuttgart,FC Cologne,Home,1,1,1.87785,1.43669,13,12,d,1
+23274,2024-03-02 17:30:00,Bundesliga,2023,VfB Stuttgart,Wolfsburg,Away,3,2,1.04058,0.964288,7,12,w,3
+23289,2024-03-08 19:30:00,Bundesliga,2023,VfB Stuttgart,Union Berlin,Home,2,0,1.30933,0.839212,14,9,w,3
+23296,2024-03-16 17:30:00,Bundesliga,2023,VfB Stuttgart,Hoffenheim,Away,3,0,3.1752,0.229186,25,7,w,3
+23307,2024-03-31 16:30:00,Bundesliga,2023,VfB Stuttgart,FC Heidenheim,Home,3,3,3.0588,1.62523,21,6,d,1
+23308,2024-04-06 16:30:00,Bundesliga,2023,VfB Stuttgart,Borussia Dortmund,Away,1,0,1.82865,2.95333,10,16,w,3
+23324,2024-04-13 16:30:00,Bundesliga,2023,VfB Stuttgart,Eintracht Frankfurt,Home,3,0,1.26199,0.565621,9,10,w,3
+23333,2024-04-21 13:30:00,Bundesliga,2023,VfB Stuttgart,Werder Bremen,Away,1,2,3.32355,1.40776,14,9,l,0
+23338,2024-04-27 16:30:00,Bundesliga,2023,VfB Stuttgart,Bayer Leverkusen,Away,2,2,2.02009,1.66579,11,14,d,1
+23351,2024-05-04 13:30:00,Bundesliga,2023,VfB Stuttgart,Bayern Munich,Home,3,1,2.0106,1.92761,24,10,w,3
+23360,2024-05-10 18:30:00,Bundesliga,2023,VfB Stuttgart,Augsburg,Away,1,0,1.82603,0.562362,19,9,w,3
+23369,2024-05-18 13:30:00,Bundesliga,2023,VfB Stuttgart,Borussia M.Gladbach,Home,4,0,2.1075,1.65395,21,14,w,3
+27745,2024-08-24 13:30:00,Bundesliga,2024,VfB Stuttgart,Freiburg,Away,1,3,0.374185,3.0149,9,16,l,0
+27755,2024-08-31 13:30:00,Bundesliga,2024,VfB Stuttgart,Mainz 05,Home,3,3,4.2134,1.95179,28,11,d,1
+27765,2024-09-14 13:30:00,Bundesliga,2024,VfB Stuttgart,Borussia M.Gladbach,Away,3,1,2.7214,2.05136,12,15,w,3
+27776,2024-09-22 15:30:00,Bundesliga,2024,VfB Stuttgart,Borussia Dortmund,Home,5,1,3.56218,0.60692,17,7,w,3
+27780,2024-09-28 13:30:00,Bundesliga,2024,VfB Stuttgart,Wolfsburg,Away,2,2,2.58036,1.0386,18,5,d,1
+27795,2024-10-06 17:30:00,Bundesliga,2024,VfB Stuttgart,Hoffenheim,Home,1,1,1.72567,0.893468,21,7,d,1
+27797,2024-10-19 16:30:00,Bundesliga,2024,VfB Stuttgart,Bayern Munich,Away,0,4,0.286656,3.61889,4,22,l,0
+27805,2024-10-26 13:30:00,Bundesliga,2024,VfB Stuttgart,Holstein Kiel,Home,2,1,1.90999,0.680092,16,9,w,3
+27814,2024-11-01 19:30:00,Bundesliga,2024,VfB Stuttgart,Bayer Leverkusen,Away,0,0,0.223778,2.78287,4,19,d,1
+27823,2024-11-10 16:30:00,Bundesliga,2024,VfB Stuttgart,Eintracht Frankfurt,Home,2,3,2.81862,1.93894,22,8,l,0
+27833,2024-11-23 14:30:00,Bundesliga,2024,VfB Stuttgart,Bochum,Home,2,0,2.05767,0.652259,15,9,w,3
+27844,2024-11-30 14:30:00,Bundesliga,2024,VfB Stuttgart,Werder Bremen,Away,2,2,1.6651,2.14949,10,20,d,1
+27851,2024-12-06 19:30:00,Bundesliga,2024,VfB Stuttgart,Union Berlin,Home,3,2,1.81349,1.86301,7,14,w,3
+27861,2024-12-15 14:30:00,Bundesliga,2024,VfB Stuttgart,FC Heidenheim,Away,3,1,3.46171,0.808275,18,9,w,3
+27869,2024-12-21 14:30:00,Bundesliga,2024,VfB Stuttgart,St. Pauli,Home,0,1,2.41593,2.57781,25,11,l,0
+27882,2025-01-12 16:30:00,Bundesliga,2024,VfB Stuttgart,Augsburg,Away,1,0,2.61617,0.339144,13,8,w,3
+27887,2025-01-15 19:30:00,Bundesliga,2024,VfB Stuttgart,RasenBallsport Leipzig,Home,2,1,2.42754,0.710278,14,6,w,3
+27896,2025-01-18 14:30:00,Bundesliga,2024,VfB Stuttgart,Freiburg,Home,4,0,2.26605,0.187694,12,4,w,3
+27909,2025-01-25 14:30:00,Bundesliga,2024,VfB Stuttgart,Mainz 05,Away,0,2,0.917385,2.22883,10,11,l,0
+27917,2025-02-01 14:30:00,Bundesliga,2024,VfB Stuttgart,Borussia M.Gladbach,Home,1,2,0.950734,1.96971,10,13,l,0
+27924,2025-02-08 14:30:00,Bundesliga,2024,VfB Stuttgart,Borussia Dortmund,Away,2,1,0.452825,1.07063,4,16,w,3
+27932,2025-02-15 14:30:00,Bundesliga,2024,VfB Stuttgart,Wolfsburg,Home,1,2,1.22466,1.75731,10,7,l,0
+27943,2025-02-23 18:30:00,Bundesliga,2024,VfB Stuttgart,Hoffenheim,Away,1,1,3.67099,0.705815,14,9,d,1
+27949,2025-02-28 19:30:00,Bundesliga,2024,VfB Stuttgart,Bayern Munich,Home,1,3,0.653703,2.29942,12,17,l,0
+27966,2025-03-08 14:30:00,Bundesliga,2024,VfB Stuttgart,Holstein Kiel,Away,2,2,1.0726,1.97246,5,17,d,1
+27967,2025-03-16 18:30:00,Bundesliga,2024,VfB Stuttgart,Bayer Leverkusen,Home,3,4,2.85024,2.07439,12,17,l,0
+27978,2025-03-29 17:30:00,Bundesliga,2024,VfB Stuttgart,Eintracht Frankfurt,Away,0,1,0.863163,3.69196,8,19,l,0
+27992,2025-04-05 13:30:00,Bundesliga,2024,VfB Stuttgart,Bochum,Away,4,0,2.64663,0.815791,14,11,w,3
+27995,2025-04-13 13:30:00,Bundesliga,2024,VfB Stuttgart,Werder Bremen,Home,1,2,1.75437,1.65438,12,14,l,0
+28010,2025-04-19 16:30:00,Bundesliga,2024,VfB Stuttgart,Union Berlin,Away,4,4,1.19,2.16124,13,12,d,1
+28013,2025-04-25 18:30:00,Bundesliga,2024,VfB Stuttgart,FC Heidenheim,Home,0,1,1.91698,0.522621,19,6,l,0
+28029,2025-05-03 13:30:00,Bundesliga,2024,VfB Stuttgart,St. Pauli,Away,1,0,3.56335,0.213208,21,6,w,3
+28031,2025-05-11 17:30:00,Bundesliga,2024,VfB Stuttgart,Augsburg,Home,4,0,4.97233,0.381838,29,7,w,3
+28039,2025-05-17 13:30:00,Bundesliga,2024,VfB Stuttgart,RasenBallsport Leipzig,Away,3,2,3.34624,1.42373,15,8,w,3
+30227,2025-08-23 13:30:00,Bundesliga,2025,VfB Stuttgart,Union Berlin,Away,1,2,1.80147,0.529421,21,8,l,0
+30237,2025-08-30 13:30:00,Bundesliga,2025,VfB Stuttgart,Borussia M.Gladbach,Home,1,0,0.925105,1.60717,13,15,w,3
+30243,2025-09-13 13:30:00,Bundesliga,2025,VfB Stuttgart,Freiburg,Away,1,3,0.548804,1.6832,7,14,l,0
+30251,2025-09-19 18:30:00,Bundesliga,2025,VfB Stuttgart,St. Pauli,Home,2,0,2.78829,1.05657,17,9,w,3
+30267,2025-09-28 15:30:00,Bundesliga,2025,VfB Stuttgart,FC Cologne,Away,2,1,2.20939,1.07972,15,14,w,3
+30275,2025-10-05 13:30:00,Bundesliga,2025,VfB Stuttgart,FC Heidenheim,Home,1,0,1.10781,0.290942,18,5,w,3
+30286,2025-10-18 13:30:00,Bundesliga,2025,VfB Stuttgart,Wolfsburg,Away,3,0,2.39474,0.392885,15,11,w,3

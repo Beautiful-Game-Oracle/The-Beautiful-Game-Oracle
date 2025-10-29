@@ -1,0 +1,110 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+19349,2022-08-07 13:30:00,Bundesliga,2022,RasenBallsport Leipzig,VfB Stuttgart,Away,1,1,2.13153,0.565488,27,11,d,1
+19353,2022-08-13 13:30:00,Bundesliga,2022,RasenBallsport Leipzig,FC Cologne,Home,2,2,1.17885,1.51583,10,13,d,1
+19366,2022-08-20 16:30:00,Bundesliga,2022,RasenBallsport Leipzig,Union Berlin,Away,1,2,0.958767,0.642263,16,7,l,0
+19370,2022-08-27 13:30:00,Bundesliga,2022,RasenBallsport Leipzig,Wolfsburg,Home,2,0,3.79244,0.520425,16,9,w,3
+19384,2022-09-03 16:30:00,Bundesliga,2022,RasenBallsport Leipzig,Eintracht Frankfurt,Away,0,4,0.220403,3.62625,4,14,l,0
+19389,2022-09-10 13:30:00,Bundesliga,2022,RasenBallsport Leipzig,Borussia Dortmund,Home,3,0,1.70495,0.334567,15,5,w,3
+19401,2022-09-17 16:30:00,Bundesliga,2022,RasenBallsport Leipzig,Borussia M.Gladbach,Away,0,3,1.25609,2.97746,12,21,l,0
+19406,2022-10-01 13:30:00,Bundesliga,2022,RasenBallsport Leipzig,Bochum,Home,4,0,4.21544,0.146803,17,2,w,3
+19416,2022-10-08 13:30:00,Bundesliga,2022,RasenBallsport Leipzig,Mainz 05,Away,1,1,1.4696,0.649518,13,9,d,1
+19424,2022-10-15 16:30:00,Bundesliga,2022,RasenBallsport Leipzig,Hertha Berlin,Home,3,2,3.30191,2.42152,15,15,w,3
+19439,2022-10-22 13:30:00,Bundesliga,2022,RasenBallsport Leipzig,Augsburg,Away,3,3,2.38989,1.91261,18,9,d,1
+19442,2022-10-29 13:30:00,Bundesliga,2022,RasenBallsport Leipzig,Bayer Leverkusen,Home,2,0,1.63234,0.141987,10,4,w,3
+19452,2022-11-05 14:30:00,Bundesliga,2022,RasenBallsport Leipzig,Hoffenheim,Away,3,1,1.66347,1.16126,17,11,w,3
+19460,2022-11-09 19:30:00,Bundesliga,2022,RasenBallsport Leipzig,Freiburg,Home,3,1,3.28873,0.148116,16,3,w,3
+19476,2022-11-12 14:30:00,Bundesliga,2022,RasenBallsport Leipzig,Werder Bremen,Away,2,1,2.1323,1.03468,14,7,w,3
+19478,2023-01-20 19:30:00,Bundesliga,2022,RasenBallsport Leipzig,Bayern Munich,Home,1,1,1.03072,0.813529,10,7,d,1
+19493,2023-01-24 17:30:00,Bundesliga,2022,RasenBallsport Leipzig,Schalke 04,Away,6,1,4.23438,0.503614,21,9,w,3
+19497,2023-01-27 19:30:00,Bundesliga,2022,RasenBallsport Leipzig,VfB Stuttgart,Home,2,1,1.59146,1.86965,10,12,w,3
+19506,2023-02-04 14:30:00,Bundesliga,2022,RasenBallsport Leipzig,FC Cologne,Away,0,0,1.00025,0.607143,7,9,d,1
+19514,2023-02-11 17:30:00,Bundesliga,2022,RasenBallsport Leipzig,Union Berlin,Home,1,2,0.891399,1.04126,10,6,l,0
+19527,2023-02-18 14:30:00,Bundesliga,2022,RasenBallsport Leipzig,Wolfsburg,Away,3,0,3.04805,0.26411,16,7,w,3
+19532,2023-02-25 14:30:00,Bundesliga,2022,RasenBallsport Leipzig,Eintracht Frankfurt,Home,2,1,1.89992,0.85563,10,7,w,3
+19540,2023-03-03 19:30:00,Bundesliga,2022,RasenBallsport Leipzig,Borussia Dortmund,Away,1,2,2.19847,1.12897,17,8,l,0
+19550,2023-03-11 14:30:00,Bundesliga,2022,RasenBallsport Leipzig,Borussia M.Gladbach,Home,3,0,2.26747,1.44596,14,7,w,3
+19564,2023-03-18 14:30:00,Bundesliga,2022,RasenBallsport Leipzig,Bochum,Away,0,1,1.92026,1.31052,22,8,l,0
+19575,2023-04-01 13:30:00,Bundesliga,2022,RasenBallsport Leipzig,Mainz 05,Home,0,3,0.584058,2.54838,12,19,l,0
+19584,2023-04-08 16:30:00,Bundesliga,2022,RasenBallsport Leipzig,Hertha Berlin,Away,1,0,2.57231,0.503827,18,11,w,3
+19586,2023-04-15 13:30:00,Bundesliga,2022,RasenBallsport Leipzig,Augsburg,Home,3,2,1.13772,0.864778,12,12,w,3
+19595,2023-04-23 15:30:00,Bundesliga,2022,RasenBallsport Leipzig,Bayer Leverkusen,Away,0,2,2.11824,1.03404,26,7,l,0
+19604,2023-04-29 13:30:00,Bundesliga,2022,RasenBallsport Leipzig,Hoffenheim,Home,1,0,1.70758,0.217156,15,4,w,3
+19614,2023-05-06 13:30:00,Bundesliga,2022,RasenBallsport Leipzig,Freiburg,Away,1,0,1.89448,0.150751,13,3,w,3
+19623,2023-05-14 15:30:00,Bundesliga,2022,RasenBallsport Leipzig,Werder Bremen,Home,2,1,1.7972,1.17378,20,6,w,3
+19630,2023-05-20 16:30:00,Bundesliga,2022,RasenBallsport Leipzig,Bayern Munich,Away,3,1,2.63992,1.63955,14,17,w,3
+19640,2023-05-27 13:30:00,Bundesliga,2022,RasenBallsport Leipzig,Schalke 04,Home,4,2,2.97191,1.21648,19,15,w,3
+23066,2023-08-19 13:30:00,Bundesliga,2023,RasenBallsport Leipzig,Bayer Leverkusen,Away,2,3,1.60393,1.73279,14,11,l,0
+23074,2023-08-25 18:30:00,Bundesliga,2023,RasenBallsport Leipzig,VfB Stuttgart,Home,5,1,2.0934,1.18326,20,8,w,3
+23091,2023-09-03 15:30:00,Bundesliga,2023,RasenBallsport Leipzig,Union Berlin,Away,3,0,1.21402,0.17815,14,3,w,3
+23093,2023-09-16 13:30:00,Bundesliga,2023,RasenBallsport Leipzig,Augsburg,Home,3,0,1.46279,1.34046,9,16,w,3
+23103,2023-09-23 13:30:00,Bundesliga,2023,RasenBallsport Leipzig,Borussia M.Gladbach,Away,1,0,1.03744,0.771966,8,14,w,3
+23116,2023-09-30 16:30:00,Bundesliga,2023,RasenBallsport Leipzig,Bayern Munich,Home,2,2,0.793383,1.95099,6,11,d,1
+23121,2023-10-07 13:30:00,Bundesliga,2023,RasenBallsport Leipzig,Bochum,Home,0,0,2.22631,0.741054,17,9,d,1
+23133,2023-10-21 13:30:00,Bundesliga,2023,RasenBallsport Leipzig,Darmstadt,Away,3,1,1.83161,1.68331,9,18,w,3
+23138,2023-10-28 16:30:00,Bundesliga,2023,RasenBallsport Leipzig,FC Cologne,Home,6,0,4.85886,1.32863,26,6,w,3
+23150,2023-11-04 14:30:00,Bundesliga,2023,RasenBallsport Leipzig,Mainz 05,Away,0,2,0.507864,1.49686,10,10,l,0
+23156,2023-11-12 19:30:00,Bundesliga,2023,RasenBallsport Leipzig,Freiburg,Home,3,1,1.90144,0.398988,15,9,w,3
+23168,2023-11-25 14:30:00,Bundesliga,2023,RasenBallsport Leipzig,Wolfsburg,Away,1,2,2.90646,0.634004,25,10,l,0
+23174,2023-12-02 14:30:00,Bundesliga,2023,RasenBallsport Leipzig,FC Heidenheim,Home,2,1,4.71075,1.17851,24,7,w,3
+23182,2023-12-09 17:30:00,Bundesliga,2023,RasenBallsport Leipzig,Borussia Dortmund,Away,3,2,3.63569,1.71347,26,18,w,3
+23192,2023-12-16 17:30:00,Bundesliga,2023,RasenBallsport Leipzig,Hoffenheim,Home,3,1,2.91669,1.04243,22,9,w,3
+23206,2023-12-19 17:30:00,Bundesliga,2023,RasenBallsport Leipzig,Werder Bremen,Away,1,1,1.99449,1.48185,17,11,d,1
+23210,2024-01-13 14:30:00,Bundesliga,2023,RasenBallsport Leipzig,Eintracht Frankfurt,Home,0,1,2.67312,1.07791,31,5,l,0
+23219,2024-01-20 17:30:00,Bundesliga,2023,RasenBallsport Leipzig,Bayer Leverkusen,Home,2,3,1.59453,2.17224,10,18,l,0
+23235,2024-01-27 14:30:00,Bundesliga,2023,RasenBallsport Leipzig,VfB Stuttgart,Away,2,5,0.495967,3.13056,4,18,l,0
+23237,2024-02-04 16:30:00,Bundesliga,2023,RasenBallsport Leipzig,Union Berlin,Home,2,0,1.7598,0.65912,16,10,w,3
+23251,2024-02-10 14:30:00,Bundesliga,2023,RasenBallsport Leipzig,Augsburg,Away,2,2,1.78901,0.965916,9,11,d,1
+23254,2024-02-17 17:30:00,Bundesliga,2023,RasenBallsport Leipzig,Borussia M.Gladbach,Home,2,0,1.49022,0.944074,16,15,w,3
+23271,2024-02-24 17:30:00,Bundesliga,2023,RasenBallsport Leipzig,Bayern Munich,Away,1,2,0.57703,1.83179,11,16,l,0
+23278,2024-03-02 14:30:00,Bundesliga,2023,RasenBallsport Leipzig,Bochum,Away,4,1,2.11704,0.562887,12,15,w,3
+23282,2024-03-09 14:30:00,Bundesliga,2023,RasenBallsport Leipzig,Darmstadt,Home,2,0,4.25377,0.394275,28,10,w,3
+23295,2024-03-15 19:30:00,Bundesliga,2023,RasenBallsport Leipzig,FC Cologne,Away,5,1,3.92775,1.18251,22,10,w,3
+23300,2024-03-30 14:30:00,Bundesliga,2023,RasenBallsport Leipzig,Mainz 05,Home,0,0,2.91967,1.00565,20,8,d,1
+23310,2024-04-06 13:30:00,Bundesliga,2023,RasenBallsport Leipzig,Freiburg,Away,4,1,2.88698,1.55898,14,13,w,3
+23318,2024-04-13 13:30:00,Bundesliga,2023,RasenBallsport Leipzig,Wolfsburg,Home,3,0,1.68139,0.323042,16,10,w,3
+23334,2024-04-20 13:30:00,Bundesliga,2023,RasenBallsport Leipzig,FC Heidenheim,Away,2,1,1.58114,1.35248,12,10,w,3
+23336,2024-04-27 13:30:00,Bundesliga,2023,RasenBallsport Leipzig,Borussia Dortmund,Home,4,1,2.74912,1.7764,21,12,w,3
+23349,2024-05-03 18:30:00,Bundesliga,2023,RasenBallsport Leipzig,Hoffenheim,Away,1,1,1.03434,1.80367,8,20,d,1
+23354,2024-05-11 13:30:00,Bundesliga,2023,RasenBallsport Leipzig,Werder Bremen,Home,1,1,1.60961,1.0305,14,11,d,1
+23365,2024-05-18 13:30:00,Bundesliga,2023,RasenBallsport Leipzig,Eintracht Frankfurt,Away,2,2,1.79078,2.62491,9,22,d,1
+27743,2024-08-24 13:30:00,Bundesliga,2024,RasenBallsport Leipzig,Bochum,Home,1,0,0.937134,1.31541,13,10,w,3
+27757,2024-08-31 16:30:00,Bundesliga,2024,RasenBallsport Leipzig,Bayer Leverkusen,Away,3,2,1.50532,3.42266,8,26,w,3
+27763,2024-09-14 13:30:00,Bundesliga,2024,RasenBallsport Leipzig,Union Berlin,Home,0,0,1.29462,0.859112,14,10,d,1
+27777,2024-09-22 17:30:00,Bundesliga,2024,RasenBallsport Leipzig,St. Pauli,Away,0,0,0.841324,1.67285,10,17,d,1
+27783,2024-09-28 13:30:00,Bundesliga,2024,RasenBallsport Leipzig,Augsburg,Home,4,0,2.81593,1.07415,17,7,w,3
+27788,2024-10-06 13:30:00,Bundesliga,2024,RasenBallsport Leipzig,FC Heidenheim,Away,1,0,1.81585,1.08159,13,14,w,3
+27802,2024-10-19 13:30:00,Bundesliga,2024,RasenBallsport Leipzig,Mainz 05,Away,2,0,2.16084,0.611288,11,16,w,3
+27806,2024-10-26 13:30:00,Bundesliga,2024,RasenBallsport Leipzig,Freiburg,Home,3,1,2.69047,1.75887,12,15,w,3
+27816,2024-11-02 17:30:00,Bundesliga,2024,RasenBallsport Leipzig,Borussia Dortmund,Away,1,2,0.23928,3.30102,6,19,l,0
+27824,2024-11-09 17:30:00,Bundesliga,2024,RasenBallsport Leipzig,Borussia M.Gladbach,Home,0,0,0.849803,1.31521,11,14,d,1
+27837,2024-11-23 14:30:00,Bundesliga,2024,RasenBallsport Leipzig,Hoffenheim,Away,3,4,1.72976,2.60143,14,21,l,0
+27841,2024-11-30 14:30:00,Bundesliga,2024,RasenBallsport Leipzig,Wolfsburg,Home,1,5,1.4486,2.69881,9,13,l,0
+27856,2024-12-07 14:30:00,Bundesliga,2024,RasenBallsport Leipzig,Holstein Kiel,Away,2,0,1.72704,1.14963,9,17,w,3
+27859,2024-12-15 18:30:00,Bundesliga,2024,RasenBallsport Leipzig,Eintracht Frankfurt,Home,2,1,2.4958,0.839379,19,16,w,3
+27870,2024-12-20 19:30:00,Bundesliga,2024,RasenBallsport Leipzig,Bayern Munich,Away,1,5,0.552564,4.35715,4,22,l,0
+27877,2025-01-12 14:30:00,Bundesliga,2024,RasenBallsport Leipzig,Werder Bremen,Home,4,2,2.65039,1.32687,18,7,w,3
+27887,2025-01-15 19:30:00,Bundesliga,2024,RasenBallsport Leipzig,VfB Stuttgart,Away,1,2,0.710278,2.42754,6,14,l,0
+27902,2025-01-18 14:30:00,Bundesliga,2024,RasenBallsport Leipzig,Bochum,Away,3,3,2.38567,2.75969,11,14,d,1
+27904,2025-01-25 14:30:00,Bundesliga,2024,RasenBallsport Leipzig,Bayer Leverkusen,Home,2,2,0.708246,2.57674,7,14,d,1
+27913,2025-02-01 17:30:00,Bundesliga,2024,RasenBallsport Leipzig,Union Berlin,Away,0,0,0.237923,1.74847,6,21,d,1
+27923,2025-02-09 16:30:00,Bundesliga,2024,RasenBallsport Leipzig,St. Pauli,Home,2,0,1.89601,0.72321,11,7,w,3
+27936,2025-02-14 19:30:00,Bundesliga,2024,RasenBallsport Leipzig,Augsburg,Away,0,0,1.6452,1.05445,14,11,d,1
+27941,2025-02-23 14:30:00,Bundesliga,2024,RasenBallsport Leipzig,FC Heidenheim,Home,2,2,1.6451,0.834882,17,4,d,1
+27950,2025-03-01 14:30:00,Bundesliga,2024,RasenBallsport Leipzig,Mainz 05,Home,1,2,1.78404,1.64735,13,15,l,0
+27963,2025-03-08 17:30:00,Bundesliga,2024,RasenBallsport Leipzig,Freiburg,Away,0,0,2.02806,0.510953,18,10,d,1
+27968,2025-03-15 17:30:00,Bundesliga,2024,RasenBallsport Leipzig,Borussia Dortmund,Home,2,0,2.55875,4.09542,15,25,w,3
+27980,2025-03-29 14:30:00,Bundesliga,2024,RasenBallsport Leipzig,Borussia M.Gladbach,Away,0,1,0.929047,1.79539,19,16,l,0
+27985,2025-04-05 13:30:00,Bundesliga,2024,RasenBallsport Leipzig,Hoffenheim,Home,3,1,1.40121,1.18624,16,9,w,3
+27999,2025-04-11 18:30:00,Bundesliga,2024,RasenBallsport Leipzig,Wolfsburg,Away,3,2,1.60065,1.84361,16,17,w,3
+28003,2025-04-19 13:30:00,Bundesliga,2024,RasenBallsport Leipzig,Holstein Kiel,Home,1,1,2.16761,1.017,10,13,d,1
+28015,2025-04-26 16:30:00,Bundesliga,2024,RasenBallsport Leipzig,Eintracht Frankfurt,Away,0,4,0.316263,2.23942,7,9,l,0
+28021,2025-05-03 13:30:00,Bundesliga,2024,RasenBallsport Leipzig,Bayern Munich,Home,3,3,1.74905,1.97214,8,20,d,1
+28034,2025-05-10 13:30:00,Bundesliga,2024,RasenBallsport Leipzig,Werder Bremen,Away,0,0,1.39403,3.20616,16,21,d,1
+28039,2025-05-17 13:30:00,Bundesliga,2024,RasenBallsport Leipzig,VfB Stuttgart,Home,2,3,1.42373,3.34624,8,15,l,0
+30224,2025-08-22 18:30:00,Bundesliga,2025,RasenBallsport Leipzig,Bayern Munich,Away,0,6,0.52226,3.29885,12,19,l,0
+30235,2025-08-30 13:30:00,Bundesliga,2025,RasenBallsport Leipzig,FC Heidenheim,Home,2,0,3.29717,0.969982,19,5,w,3
+30245,2025-09-13 13:30:00,Bundesliga,2025,RasenBallsport Leipzig,Mainz 05,Away,1,0,1.5009,0.770276,19,13,w,3
+30256,2025-09-20 16:30:00,Bundesliga,2025,RasenBallsport Leipzig,FC Cologne,Home,3,1,3.79591,1.39264,18,13,w,3
+30264,2025-09-27 13:30:00,Bundesliga,2025,RasenBallsport Leipzig,Wolfsburg,Away,1,0,2.61107,2.59654,20,22,w,3
+30271,2025-10-04 13:30:00,Bundesliga,2025,RasenBallsport Leipzig,Borussia Dortmund,Away,1,1,1.14077,0.668613,13,15,d,1
+30283,2025-10-18 13:30:00,Bundesliga,2025,RasenBallsport Leipzig,Hamburger SV,Home,2,1,1.15611,1.29355,10,16,w,3

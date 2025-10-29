@@ -1,0 +1,124 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+18969,2022-08-15 15:30:00,La_liga,2022,Athletic Club,Mallorca,Home,0,0,1.60559,0.476414,23,6,d,1
+18977,2022-08-21 15:30:00,La_liga,2022,Athletic Club,Valencia,Home,1,0,0.761587,0.676158,11,10,w,3
+18990,2022-08-29 18:00:00,La_liga,2022,Athletic Club,Cadiz,Away,4,0,3.18677,0.239303,20,9,w,3
+18992,2022-09-04 14:15:00,La_liga,2022,Athletic Club,Espanyol,Home,0,1,1.24661,1.11365,17,9,l,0
+19009,2022-09-11 14:15:00,La_liga,2022,Athletic Club,Elche,Away,4,1,3.2386,0.748083,16,10,w,3
+19012,2022-09-17 19:00:00,La_liga,2022,Athletic Club,Rayo Vallecano,Home,3,2,2.17305,0.62187,14,11,w,3
+19031,2022-09-30 19:00:00,La_liga,2022,Athletic Club,Almeria,Home,4,0,2.55531,0.42606,17,8,w,3
+19040,2022-10-08 16:30:00,La_liga,2022,Athletic Club,Sevilla,Away,1,1,1.91863,1.35598,21,10,d,1
+19042,2022-10-15 19:00:00,La_liga,2022,Athletic Club,Atletico Madrid,Home,0,1,1.33263,0.463248,13,3,l,0
+19057,2022-10-18 18:00:00,La_liga,2022,Athletic Club,Getafe,Away,2,2,1.10208,0.753077,14,11,d,1
+19065,2022-10-23 19:00:00,La_liga,2022,Athletic Club,Barcelona,Away,0,4,0.240803,2.13539,5,10,l,0
+19072,2022-10-30 17:30:00,La_liga,2022,Athletic Club,Villarreal,Home,1,0,2.05689,0.221451,19,6,w,3
+19087,2022-11-04 20:00:00,La_liga,2022,Athletic Club,Girona,Away,1,2,0.81175,1.06554,11,19,l,0
+19092,2022-11-08 19:00:00,La_liga,2022,Athletic Club,Real Valladolid,Home,3,0,2.65727,0.481138,19,8,w,3
+19107,2022-12-29 18:15:00,La_liga,2022,Athletic Club,Real Betis,Away,0,0,0.358148,0.541791,10,9,d,1
+19112,2023-01-09 20:00:00,La_liga,2022,Athletic Club,Osasuna,Home,0,0,1.17556,0.427681,17,3,d,1
+19127,2023-01-14 20:00:00,La_liga,2022,Athletic Club,Real Sociedad,Away,1,3,0.265103,1.88839,6,11,l,0
+19132,2023-01-22 20:00:00,La_liga,2022,Athletic Club,Real Madrid,Home,0,2,1.15604,0.946951,18,10,l,0
+19145,2023-01-29 17:30:00,La_liga,2022,Athletic Club,Celta Vigo,Away,0,1,0.232576,0.614646,5,9,l,0
+19152,2023-02-03 20:00:00,La_liga,2022,Athletic Club,Cadiz,Home,4,1,2.30209,1.55348,17,15,w,3
+19166,2023-02-11 20:00:00,La_liga,2022,Athletic Club,Valencia,Away,2,1,1.34748,1.6755,11,18,w,3
+19179,2023-02-19 17:30:00,La_liga,2022,Athletic Club,Atletico Madrid,Away,0,1,1.00816,1.06493,8,17,l,0
+19184,2023-02-26 13:00:00,La_liga,2022,Athletic Club,Girona,Home,2,3,1.34464,1.33877,19,8,l,0
+19197,2023-03-05 17:30:00,La_liga,2022,Athletic Club,Rayo Vallecano,Away,0,0,1.25683,0.853959,16,18,d,1
+19202,2023-03-12 20:00:00,La_liga,2022,Athletic Club,Barcelona,Home,0,1,1.13701,0.724931,15,10,l,0
+19218,2023-03-17 20:00:00,La_liga,2022,Athletic Club,Real Valladolid,Away,3,1,2.34513,1.08382,15,15,w,3
+19222,2023-04-01 14:15:00,La_liga,2022,Athletic Club,Getafe,Home,0,0,0.751393,0.723494,17,9,d,1
+19236,2023-04-08 14:15:00,La_liga,2022,Athletic Club,Espanyol,Away,2,1,2.73876,1.16752,12,9,w,3
+19242,2023-04-15 14:15:00,La_liga,2022,Athletic Club,Real Sociedad,Home,2,0,1.00026,1.71232,13,13,w,3
+19254,2023-04-22 14:15:00,La_liga,2022,Athletic Club,Almeria,Away,2,1,1.83476,0.573355,14,12,w,3
+19262,2023-04-27 20:00:00,La_liga,2022,Athletic Club,Sevilla,Home,0,1,0.194682,1.00143,6,4,l,0
+19277,2023-05-01 17:00:00,La_liga,2022,Athletic Club,Mallorca,Away,1,1,1.3765,1.2911,16,9,d,1
+19282,2023-05-04 20:00:00,La_liga,2022,Athletic Club,Real Betis,Home,0,1,1.01449,0.753982,20,12,l,0
+19297,2023-05-13 16:30:00,La_liga,2022,Athletic Club,Villarreal,Away,1,5,1.82199,3.09272,11,17,l,0
+19309,2023-05-20 14:15:00,La_liga,2022,Athletic Club,Celta Vigo,Home,2,1,1.04201,0.283064,10,8,w,3
+19316,2023-05-25 19:30:00,La_liga,2022,Athletic Club,Osasuna,Away,0,2,0.534145,0.906699,10,9,l,0
+19322,2023-05-28 17:00:00,La_liga,2022,Athletic Club,Elche,Home,0,1,2.91389,0.769369,28,6,l,0
+19332,2023-06-04 18:00:00,La_liga,2022,Athletic Club,Real Madrid,Away,1,1,2.17987,1.72224,15,9,d,1
+22689,2023-08-12 19:30:00,La_liga,2023,Athletic Club,Real Madrid,Home,0,2,0.700577,1.33266,7,14,l,0
+22699,2023-08-19 19:30:00,La_liga,2023,Athletic Club,Osasuna,Away,2,0,1.88906,1.33582,8,19,w,3
+22706,2023-08-27 19:30:00,La_liga,2023,Athletic Club,Real Betis,Home,4,2,2.86727,0.346198,14,7,w,3
+22721,2023-09-03 14:15:00,La_liga,2023,Athletic Club,Mallorca,Away,0,0,0.645541,0.403052,11,8,d,1
+22725,2023-09-16 12:00:00,La_liga,2023,Athletic Club,Cadiz,Home,3,0,4.05837,0.238836,20,5,w,3
+22742,2023-09-22 19:00:00,La_liga,2023,Athletic Club,Alaves,Away,2,0,1.77623,1.97317,11,15,w,3
+22745,2023-09-27 17:00:00,La_liga,2023,Athletic Club,Getafe,Home,2,2,0.60877,1.30782,8,13,d,1
+22762,2023-09-30 19:00:00,La_liga,2023,Athletic Club,Real Sociedad,Away,0,3,1.96039,1.38238,18,8,l,0
+22770,2023-10-06 19:00:00,La_liga,2023,Athletic Club,Almeria,Home,3,0,3.02889,0.0892217,23,4,w,3
+22777,2023-10-22 19:00:00,La_liga,2023,Athletic Club,Barcelona,Away,0,1,0.453295,1.70266,10,12,l,0
+22786,2023-10-29 17:30:00,La_liga,2023,Athletic Club,Valencia,Home,2,2,1.63308,2.17868,12,11,d,1
+22798,2023-11-05 17:30:00,La_liga,2023,Athletic Club,Villarreal,Away,3,2,2.22797,1.78074,17,17,w,3
+22806,2023-11-10 20:00:00,La_liga,2023,Athletic Club,Celta Vigo,Home,4,3,4.72334,2.25302,21,13,w,3
+22821,2023-11-27 20:00:00,La_liga,2023,Athletic Club,Girona,Away,1,1,1.67266,1.36177,13,13,d,1
+22826,2023-12-02 15:15:00,La_liga,2023,Athletic Club,Rayo Vallecano,Home,4,0,1.6869,0.34629,9,12,w,3
+22842,2023-12-12 15:15:00,La_liga,2023,Athletic Club,Granada,Away,1,1,1.68816,0.543471,20,7,d,1
+22846,2023-12-16 15:15:00,La_liga,2023,Athletic Club,Atletico Madrid,Home,2,0,2.73082,0.342126,16,7,w,3
+22855,2023-12-20 20:30:00,La_liga,2023,Athletic Club,Las Palmas,Home,1,0,3.53577,0.2514,19,5,w,3
+22868,2024-01-04 18:15:00,La_liga,2023,Athletic Club,Sevilla,Away,2,0,1.99704,0.54777,15,11,w,3
+22876,2024-01-13 17:30:00,La_liga,2023,Athletic Club,Real Sociedad,Home,2,1,1.73042,1.02381,10,9,w,3
+22889,2024-01-20 17:30:00,La_liga,2023,Athletic Club,Valencia,Away,0,1,0.351363,0.7444,6,6,l,0
+22900,2024-01-28 15:15:00,La_liga,2023,Athletic Club,Cadiz,Away,0,0,0.25604,0.367526,8,9,d,1
+22905,2024-02-02 20:00:00,La_liga,2023,Athletic Club,Mallorca,Home,4,0,1.95995,0.469702,13,6,w,3
+22915,2024-02-12 20:00:00,La_liga,2023,Athletic Club,Almeria,Away,0,0,0.621857,0.900611,12,10,d,1
+22925,2024-02-19 20:00:00,La_liga,2023,Athletic Club,Girona,Home,3,2,2.7904,1.80583,14,12,w,3
+22944,2024-02-25 15:15:00,La_liga,2023,Athletic Club,Real Betis,Away,1,3,0.137757,0.921277,4,13,l,0
+22945,2024-03-03 20:00:00,La_liga,2023,Athletic Club,Barcelona,Home,0,0,0.468397,0.714592,8,8,d,1
+22961,2024-03-10 15:15:00,La_liga,2023,Athletic Club,Las Palmas,Away,2,0,1.27321,0.834663,7,14,w,3
+22974,2024-03-16 20:00:00,La_liga,2023,Athletic Club,Alaves,Home,2,0,2.31129,1.38702,16,7,w,3
+22981,2024-03-31 20:00:00,La_liga,2023,Athletic Club,Real Madrid,Away,0,2,0.304704,1.1877,7,9,l,0
+22985,2024-04-14 16:30:00,La_liga,2023,Athletic Club,Villarreal,Home,1,1,0.823044,2.1913,13,10,d,1
+22996,2024-04-19 19:00:00,La_liga,2023,Athletic Club,Granada,Home,1,1,1.64137,0.150973,18,5,d,1
+23011,2024-04-27 19:00:00,La_liga,2023,Athletic Club,Atletico Madrid,Away,1,3,0.894572,0.62028,8,8,l,0
+23017,2024-05-03 19:00:00,La_liga,2023,Athletic Club,Getafe,Away,2,0,0.925588,4.41644,7,33,w,3
+23025,2024-05-11 19:00:00,La_liga,2023,Athletic Club,Osasuna,Home,2,2,2.17034,1.05326,15,13,d,1
+23038,2024-05-15 20:00:00,La_liga,2023,Athletic Club,Celta Vigo,Away,1,2,0.377111,0.758179,7,10,l,0
+23045,2024-05-19 17:00:00,La_liga,2023,Athletic Club,Sevilla,Home,2,0,1.78593,1.29208,15,9,w,3
+23060,2024-05-25 16:30:00,La_liga,2023,Athletic Club,Rayo Vallecano,Away,1,0,0.930597,1.47462,7,17,w,3
+26982,2024-08-15 17:00:00,La_liga,2024,Athletic Club,Getafe,Home,1,1,0.290195,0.537517,7,9,d,1
+26995,2024-08-24 17:00:00,La_liga,2024,Athletic Club,Barcelona,Away,1,2,1.09985,2.41577,9,13,l,0
+27006,2024-08-28 17:00:00,La_liga,2024,Athletic Club,Valencia,Home,1,0,1.51595,0.0996371,13,2,w,3
+27013,2024-08-31 17:00:00,La_liga,2024,Athletic Club,Atletico Madrid,Home,0,1,0.252231,1.58613,8,9,l,0
+27027,2024-09-15 16:30:00,La_liga,2024,Athletic Club,Las Palmas,Away,3,2,1.80432,1.5194,9,15,w,3
+27047,2024-09-19 17:00:00,La_liga,2024,Athletic Club,Leganes,Away,2,0,1.32325,0.666594,10,14,w,3
+27032,2024-09-22 14:15:00,La_liga,2024,Athletic Club,Celta Vigo,Home,3,1,0.864304,1.21547,10,11,w,3
+27052,2024-09-29 14:15:00,La_liga,2024,Athletic Club,Sevilla,Home,1,1,1.82961,1.24147,14,13,d,1
+27066,2024-10-06 12:00:00,La_liga,2024,Athletic Club,Girona,Away,1,2,3.15974,2.17393,13,14,l,0
+27072,2024-10-19 12:00:00,La_liga,2024,Athletic Club,Espanyol,Home,4,1,1.46517,0.500795,10,5,w,3
+27083,2024-10-28 20:00:00,La_liga,2024,Athletic Club,Mallorca,Away,0,0,0.755466,0.542356,20,4,d,1
+27092,2024-11-03 20:00:00,La_liga,2024,Athletic Club,Real Betis,Home,1,1,4.2033,1.54499,17,7,d,1
+27106,2024-11-10 17:30:00,La_liga,2024,Athletic Club,Real Valladolid,Away,1,1,1.487,0.887674,17,6,d,1
+27112,2024-11-24 20:00:00,La_liga,2024,Athletic Club,Real Sociedad,Home,1,0,1.65075,0.799084,12,6,w,3
+27125,2024-12-01 17:30:00,La_liga,2024,Athletic Club,Rayo Vallecano,Away,2,1,0.556919,0.590024,12,7,w,3
+27162,2024-12-04 20:00:00,La_liga,2024,Athletic Club,Real Madrid,Home,2,1,2.08134,1.97732,9,10,w,3
+27134,2024-12-08 15:15:00,La_liga,2024,Athletic Club,Villarreal,Home,2,0,1.31484,0.796459,12,11,w,3
+27149,2024-12-15 15:15:00,La_liga,2024,Athletic Club,Alaves,Away,1,1,0.843706,0.803776,9,6,d,1
+27159,2024-12-21 17:30:00,La_liga,2024,Athletic Club,Osasuna,Away,2,1,1.18093,0.417557,13,6,w,3
+27175,2025-01-19 13:00:00,La_liga,2024,Athletic Club,Celta Vigo,Away,2,1,2.49675,0.40033,14,3,w,3
+27182,2025-01-26 17:30:00,La_liga,2024,Athletic Club,Leganes,Home,0,0,2.27277,1.57401,29,5,d,1
+27198,2025-02-02 20:00:00,La_liga,2024,Athletic Club,Real Betis,Away,2,2,1.75905,1.31717,12,10,d,1
+27209,2025-02-08 15:15:00,La_liga,2024,Athletic Club,Girona,Home,3,0,3.81937,0.0558089,23,3,w,3
+27221,2025-02-16 13:00:00,La_liga,2024,Athletic Club,Espanyol,Away,1,1,0.896815,1.19577,14,12,d,1
+27222,2025-02-23 13:00:00,La_liga,2024,Athletic Club,Real Valladolid,Home,7,1,5.3162,0.598765,29,5,w,3
+27236,2025-03-01 20:00:00,La_liga,2024,Athletic Club,Atletico Madrid,Away,0,1,1.54329,2.01612,15,12,l,0
+27243,2025-03-09 17:30:00,La_liga,2024,Athletic Club,Mallorca,Home,1,1,0.938663,1.02509,8,9,d,1
+27255,2025-03-16 15:15:00,La_liga,2024,Athletic Club,Sevilla,Away,1,0,1.64488,0.459323,9,11,w,3
+27269,2025-03-30 17:30:00,La_liga,2024,Athletic Club,Osasuna,Home,0,0,0.759463,0.564979,11,5,d,1
+27276,2025-04-06 19:00:00,La_liga,2024,Athletic Club,Villarreal,Away,0,0,0.998653,1.59491,11,12,d,1
+27283,2025-04-13 19:00:00,La_liga,2024,Athletic Club,Rayo Vallecano,Home,3,1,1.97654,1.81883,13,11,w,3
+27294,2025-04-20 19:00:00,La_liga,2024,Athletic Club,Real Madrid,Away,0,1,0.132511,2.40667,3,22,l,0
+27303,2025-04-23 17:00:00,La_liga,2024,Athletic Club,Las Palmas,Home,1,0,2.63805,1.01774,13,10,w,3
+27315,2025-05-04 19:00:00,La_liga,2024,Athletic Club,Real Sociedad,Away,0,0,0.232928,0.893155,3,12,d,1
+27331,2025-05-11 16:30:00,La_liga,2024,Athletic Club,Alaves,Home,1,0,1.35049,0.642793,11,4,w,3
+27334,2025-05-15 19:30:00,La_liga,2024,Athletic Club,Getafe,Away,2,0,1.33336,0.73382,9,11,w,3
+27345,2025-05-18 17:00:00,La_liga,2024,Athletic Club,Valencia,Away,1,0,1.16214,0.388682,10,6,w,3
+27353,2025-05-25 19:00:00,La_liga,2024,Athletic Club,Barcelona,Home,0,3,0.750806,3.36402,10,13,l,0
+29164,2025-08-17 17:30:00,La_liga,2025,Athletic Club,Sevilla,Home,3,2,2.67586,0.901645,14,12,w,3
+29176,2025-08-25 17:30:00,La_liga,2025,Athletic Club,Rayo Vallecano,Home,1,0,1.68759,0.493587,11,6,w,3
+29186,2025-08-31 17:00:00,La_liga,2025,Athletic Club,Real Betis,Away,2,1,1.11141,0.716186,15,10,w,3
+29196,2025-09-13 16:30:00,La_liga,2025,Athletic Club,Alaves,Home,0,1,0.866662,0.090756,13,4,l,0
+29203,2025-09-20 19:00:00,La_liga,2025,Athletic Club,Valencia,Away,0,2,0.499198,2.01007,11,13,l,0
+29217,2025-09-23 17:00:00,La_liga,2025,Athletic Club,Girona,Home,1,1,2.02629,0.856618,17,6,d,1
+29225,2025-09-27 19:00:00,La_liga,2025,Athletic Club,Villarreal,Away,0,1,1.56287,1.86396,16,14,l,0
+29229,2025-10-04 16:30:00,La_liga,2025,Athletic Club,Mallorca,Home,2,1,1.73351,0.213773,18,6,w,3
+29244,2025-10-19 12:00:00,La_liga,2025,Athletic Club,Elche,Away,0,0,0.240214,0.823916,4,15,d,1

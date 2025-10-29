@@ -1,0 +1,9 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+29544,2025-08-17 15:15:00,Ligue_1,2025,Paris FC,Angers,Away,0,1,0.71125,0.82142,17,8,l,0
+29548,2025-08-23 15:00:00,Ligue_1,2025,Paris FC,Marseille,Away,2,5,1.05457,3.337,8,11,l,0
+29562,2025-08-31 15:15:00,Ligue_1,2025,Paris FC,Metz,Home,3,2,3.39898,1.6248,24,14,w,3
+29566,2025-09-14 15:15:00,Ligue_1,2025,Paris FC,Brest,Away,2,1,1.85008,2.60519,7,24,w,3
+29582,2025-09-21 13:00:00,Ligue_1,2025,Paris FC,Strasbourg,Home,2,3,1.9014,2.46459,18,8,l,0
+29587,2025-09-28 13:00:00,Ligue_1,2025,Paris FC,Nice,Away,1,1,1.49444,1.36997,13,11,d,1
+29599,2025-10-03 18:45:00,Ligue_1,2025,Paris FC,Lorient,Home,2,0,1.83687,0.855852,10,8,w,3
+29602,2025-10-19 13:00:00,Ligue_1,2025,Paris FC,Lens,Away,1,2,0.583966,1.98018,9,11,l,0

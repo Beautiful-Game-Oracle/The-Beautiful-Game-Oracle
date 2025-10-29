@@ -1,0 +1,110 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+19342,2022-08-05 18:30:00,Bundesliga,2022,Eintracht Frankfurt,Bayern Munich,Home,1,6,0.756176,4.56023,8,23,l,0
+19356,2022-08-13 13:30:00,Bundesliga,2022,Eintracht Frankfurt,Hertha Berlin,Away,1,1,1.20421,2.06497,11,12,d,1
+19367,2022-08-21 13:30:00,Bundesliga,2022,Eintracht Frankfurt,FC Cologne,Home,1,1,0.54009,0.236472,9,5,d,1
+19377,2022-08-28 15:30:00,Bundesliga,2022,Eintracht Frankfurt,Werder Bremen,Away,4,3,1.87305,1.88918,10,10,w,3
+19384,2022-09-03 16:30:00,Bundesliga,2022,Eintracht Frankfurt,RasenBallsport Leipzig,Home,4,0,3.62625,0.220403,14,4,w,3
+19391,2022-09-10 13:30:00,Bundesliga,2022,Eintracht Frankfurt,Wolfsburg,Home,0,1,0.453438,0.969737,10,7,l,0
+19400,2022-09-17 13:30:00,Bundesliga,2022,Eintracht Frankfurt,VfB Stuttgart,Away,3,1,1.49027,0.773751,13,15,w,3
+19409,2022-10-01 13:30:00,Bundesliga,2022,Eintracht Frankfurt,Union Berlin,Home,2,0,1.18241,0.767128,13,16,w,3
+19419,2022-10-08 13:30:00,Bundesliga,2022,Eintracht Frankfurt,Bochum,Away,0,3,0.78428,0.649959,13,11,l,0
+19427,2022-10-15 13:30:00,Bundesliga,2022,Eintracht Frankfurt,Bayer Leverkusen,Home,5,1,4.35761,0.503272,19,5,w,3
+19437,2022-10-22 16:30:00,Bundesliga,2022,Eintracht Frankfurt,Borussia M.Gladbach,Away,3,1,1.80175,1.36544,15,7,w,3
+19445,2022-10-29 16:30:00,Bundesliga,2022,Eintracht Frankfurt,Borussia Dortmund,Home,1,2,1.71027,0.730506,20,7,l,0
+19454,2022-11-05 14:30:00,Bundesliga,2022,Eintracht Frankfurt,Augsburg,Away,2,1,1.31556,1.07354,12,10,w,3
+19463,2022-11-09 19:30:00,Bundesliga,2022,Eintracht Frankfurt,Hoffenheim,Home,4,2,3.78193,1.52829,14,12,w,3
+19470,2022-11-13 14:30:00,Bundesliga,2022,Eintracht Frankfurt,Mainz 05,Away,1,1,1.39797,1.78634,10,18,d,1
+19482,2023-01-21 14:30:00,Bundesliga,2022,Eintracht Frankfurt,Schalke 04,Home,3,0,1.68109,2.37825,12,19,w,3
+19488,2023-01-25 19:30:00,Bundesliga,2022,Eintracht Frankfurt,Freiburg,Away,1,1,0.261869,1.78609,4,13,d,1
+19495,2023-01-28 17:30:00,Bundesliga,2022,Eintracht Frankfurt,Bayern Munich,Away,1,1,0.882875,1.38005,8,14,d,1
+19508,2023-02-04 14:30:00,Bundesliga,2022,Eintracht Frankfurt,Hertha Berlin,Home,3,0,2.00234,0.93959,10,15,w,3
+19516,2023-02-12 16:30:00,Bundesliga,2022,Eintracht Frankfurt,FC Cologne,Away,0,3,0.368809,1.72186,6,8,l,0
+19526,2023-02-18 17:30:00,Bundesliga,2022,Eintracht Frankfurt,Werder Bremen,Home,2,0,2.08148,0.150794,11,4,w,3
+19532,2023-02-25 14:30:00,Bundesliga,2022,Eintracht Frankfurt,RasenBallsport Leipzig,Away,1,2,0.85563,1.89992,7,10,l,0
+19545,2023-03-05 16:30:00,Bundesliga,2022,Eintracht Frankfurt,Wolfsburg,Away,2,2,1.18348,1.7728,10,12,d,1
+19553,2023-03-11 14:30:00,Bundesliga,2022,Eintracht Frankfurt,VfB Stuttgart,Home,1,1,0.525223,0.434277,10,10,d,1
+19560,2023-03-19 14:30:00,Bundesliga,2022,Eintracht Frankfurt,Union Berlin,Away,0,2,2.20535,1.23036,19,14,l,0
+19570,2023-03-31 19:30:00,Bundesliga,2022,Eintracht Frankfurt,Bochum,Home,1,1,3.09855,1.15016,20,7,d,1
+19577,2023-04-08 13:30:00,Bundesliga,2022,Eintracht Frankfurt,Bayer Leverkusen,Away,1,3,0.7609,2.35055,9,14,l,0
+19589,2023-04-15 16:30:00,Bundesliga,2022,Eintracht Frankfurt,Borussia M.Gladbach,Home,1,1,2.17369,0.640098,16,4,d,1
+19594,2023-04-22 16:30:00,Bundesliga,2022,Eintracht Frankfurt,Borussia Dortmund,Away,0,4,0.452485,1.43834,9,14,l,0
+19607,2023-04-29 13:30:00,Bundesliga,2022,Eintracht Frankfurt,Augsburg,Home,1,1,0.526804,0.461266,7,11,d,1
+19616,2023-05-06 13:30:00,Bundesliga,2022,Eintracht Frankfurt,Hoffenheim,Away,1,3,2.41375,2.13012,19,8,l,0
+19626,2023-05-13 13:30:00,Bundesliga,2022,Eintracht Frankfurt,Mainz 05,Home,3,0,2.03828,0.944589,18,9,w,3
+19637,2023-05-20 13:30:00,Bundesliga,2022,Eintracht Frankfurt,Schalke 04,Away,2,2,1.36879,1.13388,6,11,d,1
+19644,2023-05-27 13:30:00,Bundesliga,2022,Eintracht Frankfurt,Freiburg,Home,2,1,2.04195,1.46472,15,14,w,3
+23073,2023-08-20 15:30:00,Bundesliga,2023,Eintracht Frankfurt,Darmstadt,Home,1,0,1.2399,0.813333,9,10,w,3
+23081,2023-08-27 13:30:00,Bundesliga,2023,Eintracht Frankfurt,Mainz 05,Away,1,1,1.15731,1.44234,7,12,d,1
+23090,2023-09-03 13:30:00,Bundesliga,2023,Eintracht Frankfurt,FC Cologne,Home,1,1,1.2824,0.931141,13,7,d,1
+23098,2023-09-16 16:30:00,Bundesliga,2023,Eintracht Frankfurt,Bochum,Away,1,1,0.737999,2.17324,8,22,d,1
+23109,2023-09-24 15:30:00,Bundesliga,2023,Eintracht Frankfurt,Freiburg,Home,0,0,0.754063,0.407479,12,7,d,1
+23113,2023-09-30 13:30:00,Bundesliga,2023,Eintracht Frankfurt,Wolfsburg,Away,0,2,1.09205,2.77737,8,18,l,0
+23127,2023-10-08 17:30:00,Bundesliga,2023,Eintracht Frankfurt,FC Heidenheim,Home,2,0,1.83609,0.625618,13,7,w,3
+23132,2023-10-21 13:30:00,Bundesliga,2023,Eintracht Frankfurt,Hoffenheim,Away,3,1,2.13235,1.13281,14,14,w,3
+23140,2023-10-29 14:30:00,Bundesliga,2023,Eintracht Frankfurt,Borussia Dortmund,Home,3,3,3.67492,2.41687,12,14,d,1
+23147,2023-11-04 14:30:00,Bundesliga,2023,Eintracht Frankfurt,Union Berlin,Away,3,0,1.56887,1.066,4,11,w,3
+23159,2023-11-12 16:30:00,Bundesliga,2023,Eintracht Frankfurt,Werder Bremen,Away,2,2,2.02339,1.93909,14,13,d,1
+23167,2023-11-25 17:30:00,Bundesliga,2023,Eintracht Frankfurt,VfB Stuttgart,Home,1,2,0.787582,2.29764,14,12,l,0
+23179,2023-12-03 18:30:00,Bundesliga,2023,Eintracht Frankfurt,Augsburg,Away,1,2,0.906933,1.95055,14,9,l,0
+23184,2023-12-09 14:30:00,Bundesliga,2023,Eintracht Frankfurt,Bayern Munich,Home,5,1,1.84651,2.59277,14,21,w,3
+23194,2023-12-17 16:30:00,Bundesliga,2023,Eintracht Frankfurt,Bayer Leverkusen,Away,0,3,0.205245,2.4919,4,14,l,0
+23203,2023-12-20 19:30:00,Bundesliga,2023,Eintracht Frankfurt,Borussia M.Gladbach,Home,2,1,1.53912,0.552196,14,7,w,3
+23210,2024-01-13 14:30:00,Bundesliga,2023,Eintracht Frankfurt,RasenBallsport Leipzig,Away,1,0,1.07791,2.67312,5,31,w,3
+23226,2024-01-20 14:30:00,Bundesliga,2023,Eintracht Frankfurt,Darmstadt,Away,2,2,1.28892,1.3877,8,12,d,1
+23230,2024-01-26 19:30:00,Bundesliga,2023,Eintracht Frankfurt,Mainz 05,Home,1,0,1.13826,0.815239,11,7,w,3
+23241,2024-02-03 17:30:00,Bundesliga,2023,Eintracht Frankfurt,FC Cologne,Away,0,2,1.16049,2.09653,11,15,l,0
+23252,2024-02-10 14:30:00,Bundesliga,2023,Eintracht Frankfurt,Bochum,Home,1,1,2.44154,1.27691,9,14,d,1
+23255,2024-02-18 14:30:00,Bundesliga,2023,Eintracht Frankfurt,Freiburg,Away,3,3,1.35483,2.77236,10,13,d,1
+23267,2024-02-25 14:30:00,Bundesliga,2023,Eintracht Frankfurt,Wolfsburg,Home,2,2,1.53623,1.18165,12,14,d,1
+23279,2024-03-02 14:30:00,Bundesliga,2023,Eintracht Frankfurt,FC Heidenheim,Away,2,1,1.57778,0.847831,10,16,w,3
+23284,2024-03-10 16:30:00,Bundesliga,2023,Eintracht Frankfurt,Hoffenheim,Home,3,1,3.53168,0.695868,18,6,w,3
+23290,2024-03-17 16:30:00,Bundesliga,2023,Eintracht Frankfurt,Borussia Dortmund,Away,1,3,0.86903,2.83411,9,16,l,0
+23302,2024-03-30 14:30:00,Bundesliga,2023,Eintracht Frankfurt,Union Berlin,Home,0,0,1.3089,1.07679,16,11,d,1
+23311,2024-04-05 18:30:00,Bundesliga,2023,Eintracht Frankfurt,Werder Bremen,Home,1,1,2.18898,1.60098,24,11,d,1
+23324,2024-04-13 16:30:00,Bundesliga,2023,Eintracht Frankfurt,VfB Stuttgart,Away,0,3,0.565621,1.26199,10,9,l,0
+23329,2024-04-19 18:30:00,Bundesliga,2023,Eintracht Frankfurt,Augsburg,Home,3,1,1.88744,0.597958,12,6,w,3
+23335,2024-04-27 13:30:00,Bundesliga,2023,Eintracht Frankfurt,Bayern Munich,Away,1,2,0.392852,3.29649,10,20,l,0
+23346,2024-05-05 15:30:00,Bundesliga,2023,Eintracht Frankfurt,Bayer Leverkusen,Home,1,5,1.57584,3.11322,17,9,l,0
+23357,2024-05-11 13:30:00,Bundesliga,2023,Eintracht Frankfurt,Borussia M.Gladbach,Away,1,1,2.33139,0.323547,17,6,d,1
+23365,2024-05-18 13:30:00,Bundesliga,2023,Eintracht Frankfurt,RasenBallsport Leipzig,Home,2,2,2.62491,1.79078,22,9,d,1
+27748,2024-08-24 16:30:00,Bundesliga,2024,Eintracht Frankfurt,Borussia Dortmund,Away,0,2,1.15188,1.9263,7,20,l,0
+27756,2024-08-31 13:30:00,Bundesliga,2024,Eintracht Frankfurt,Hoffenheim,Home,3,1,2.68507,0.832386,18,11,w,3
+27764,2024-09-14 13:30:00,Bundesliga,2024,Eintracht Frankfurt,Wolfsburg,Away,2,1,2.86858,1.23249,14,18,w,3
+27774,2024-09-21 16:30:00,Bundesliga,2024,Eintracht Frankfurt,Borussia M.Gladbach,Home,2,0,2.93252,1.19669,19,25,w,3
+27785,2024-09-29 13:30:00,Bundesliga,2024,Eintracht Frankfurt,Holstein Kiel,Away,4,2,2.43436,1.02971,20,10,w,3
+27787,2024-10-06 15:30:00,Bundesliga,2024,Eintracht Frankfurt,Bayern Munich,Home,3,3,1.49515,2.83119,6,24,d,1
+27796,2024-10-19 13:30:00,Bundesliga,2024,Eintracht Frankfurt,Bayer Leverkusen,Away,1,2,1.55158,4.07146,9,27,l,0
+27811,2024-10-27 16:30:00,Bundesliga,2024,Eintracht Frankfurt,Union Berlin,Away,1,1,1.54058,1.86305,17,13,d,1
+27817,2024-11-02 14:30:00,Bundesliga,2024,Eintracht Frankfurt,Bochum,Home,7,2,3.83028,2.08714,18,11,w,3
+27823,2024-11-10 16:30:00,Bundesliga,2024,Eintracht Frankfurt,VfB Stuttgart,Away,3,2,1.93894,2.81862,8,22,w,3
+27836,2024-11-23 17:30:00,Bundesliga,2024,Eintracht Frankfurt,Werder Bremen,Home,1,0,1.47057,0.632819,15,8,w,3
+27843,2024-12-01 16:30:00,Bundesliga,2024,Eintracht Frankfurt,FC Heidenheim,Away,4,0,3.19019,0.861094,14,8,w,3
+27858,2024-12-07 14:30:00,Bundesliga,2024,Eintracht Frankfurt,Augsburg,Home,2,2,1.53465,1.17089,16,8,d,1
+27859,2024-12-15 18:30:00,Bundesliga,2024,Eintracht Frankfurt,RasenBallsport Leipzig,Away,1,2,0.839379,2.4958,16,19,l,0
+27871,2024-12-21 14:30:00,Bundesliga,2024,Eintracht Frankfurt,Mainz 05,Home,1,3,2.58915,0.753285,35,9,l,0
+27885,2025-01-11 14:30:00,Bundesliga,2024,Eintracht Frankfurt,St. Pauli,Away,1,0,2.23689,2.5542,14,18,w,3
+27889,2025-01-14 19:30:00,Bundesliga,2024,Eintracht Frankfurt,Freiburg,Home,4,1,2.82238,0.587762,23,7,w,3
+27898,2025-01-17 19:30:00,Bundesliga,2024,Eintracht Frankfurt,Borussia Dortmund,Home,2,0,2.05106,0.57641,13,12,w,3
+27906,2025-01-26 14:30:00,Bundesliga,2024,Eintracht Frankfurt,Hoffenheim,Away,2,2,2.30325,2.32141,12,24,d,1
+27919,2025-02-02 14:30:00,Bundesliga,2024,Eintracht Frankfurt,Wolfsburg,Home,1,1,1.69604,1.46292,17,11,d,1
+27929,2025-02-08 17:30:00,Bundesliga,2024,Eintracht Frankfurt,Borussia M.Gladbach,Away,1,1,2.5487,0.656491,15,8,d,1
+27933,2025-02-16 16:30:00,Bundesliga,2024,Eintracht Frankfurt,Holstein Kiel,Home,3,1,3.02527,1.26559,20,10,w,3
+27940,2025-02-23 16:30:00,Bundesliga,2024,Eintracht Frankfurt,Bayern Munich,Away,0,4,0.49278,4.48699,7,19,l,0
+27951,2025-03-01 17:30:00,Bundesliga,2024,Eintracht Frankfurt,Bayer Leverkusen,Home,1,4,1.00046,2.37018,7,20,l,0
+27961,2025-03-09 14:30:00,Bundesliga,2024,Eintracht Frankfurt,Union Berlin,Home,1,2,2.00811,0.725817,14,11,l,0
+27974,2025-03-16 15:30:00,Bundesliga,2024,Eintracht Frankfurt,Bochum,Away,3,1,3.29403,1.88062,18,17,w,3
+27978,2025-03-29 17:30:00,Bundesliga,2024,Eintracht Frankfurt,VfB Stuttgart,Home,1,0,3.69196,0.863163,19,8,w,3
+27987,2025-04-05 16:30:00,Bundesliga,2024,Eintracht Frankfurt,Werder Bremen,Away,0,2,0.515073,1.22711,9,12,l,0
+27997,2025-04-13 15:30:00,Bundesliga,2024,Eintracht Frankfurt,FC Heidenheim,Home,3,0,3.64515,1.28841,19,14,w,3
+28008,2025-04-20 13:30:00,Bundesliga,2024,Eintracht Frankfurt,Augsburg,Away,0,0,1.39546,1.14215,8,13,d,1
+28015,2025-04-26 16:30:00,Bundesliga,2024,Eintracht Frankfurt,RasenBallsport Leipzig,Home,4,0,2.23942,0.316263,9,7,w,3
+28026,2025-05-04 17:30:00,Bundesliga,2024,Eintracht Frankfurt,Mainz 05,Away,1,1,1.3876,1.64254,8,12,d,1
+28033,2025-05-11 15:30:00,Bundesliga,2024,Eintracht Frankfurt,St. Pauli,Home,2,2,1.82027,0.666882,13,5,d,1
+28043,2025-05-17 13:30:00,Bundesliga,2024,Eintracht Frankfurt,Freiburg,Away,3,1,2.61814,1.14001,11,8,w,3
+30228,2025-08-23 13:30:00,Bundesliga,2025,Eintracht Frankfurt,Werder Bremen,Home,4,1,3.10684,0.587822,18,10,w,3
+30234,2025-08-30 13:30:00,Bundesliga,2025,Eintracht Frankfurt,Hoffenheim,Away,3,1,1.82087,1.28178,9,17,w,3
+30242,2025-09-12 18:30:00,Bundesliga,2025,Eintracht Frankfurt,Bayer Leverkusen,Away,1,3,0.791863,2.31465,13,18,l,0
+30257,2025-09-21 13:30:00,Bundesliga,2025,Eintracht Frankfurt,Union Berlin,Home,3,4,1.75582,2.23419,19,11,l,0
+30265,2025-09-27 16:30:00,Bundesliga,2025,Eintracht Frankfurt,Borussia M.Gladbach,Away,6,4,3.78879,2.12935,21,11,w,3
+30272,2025-10-04 16:30:00,Bundesliga,2025,Eintracht Frankfurt,Bayern Munich,Home,0,3,0.560138,2.2301,6,12,l,0
+30280,2025-10-19 13:30:00,Bundesliga,2025,Eintracht Frankfurt,Freiburg,Away,2,2,0.772638,1.12896,8,12,d,1

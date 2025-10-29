@@ -1,0 +1,123 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+18211,2022-08-07 15:30:00,EPL,2022,Manchester City,West Ham,Away,2,0,2.58739,0.246188,14,6,w,3
+18214,2022-08-13 14:00:00,EPL,2022,Manchester City,Bournemouth,Home,4,0,1.69064,0.123946,19,4,w,3
+18230,2022-08-21 15:30:00,EPL,2022,Manchester City,Newcastle United,Away,3,3,3.67382,2.2127,21,12,d,1
+18237,2022-08-27 14:00:00,EPL,2022,Manchester City,Crystal Palace,Home,4,2,2.3853,0.091976,19,2,w,3
+18246,2022-08-31 18:30:00,EPL,2022,Manchester City,Nottingham Forest,Home,6,0,3.83759,0.729752,17,8,w,3
+18258,2022-09-03 16:30:00,EPL,2022,Manchester City,Aston Villa,Away,1,1,1.92143,0.279392,13,3,d,1
+18274,2022-09-17 11:30:00,EPL,2022,Manchester City,Wolverhampton Wanderers,Away,3,0,1.4242,0.310995,16,6,w,3
+18289,2022-10-02 13:00:00,EPL,2022,Manchester City,Manchester United,Home,6,3,3.01103,1.71335,22,12,w,3
+18298,2022-10-08 14:00:00,EPL,2022,Manchester City,Southampton,Home,4,0,2.73536,0.101148,21,5,w,3
+18307,2022-10-16 15:30:00,EPL,2022,Manchester City,Liverpool,Away,0,1,0.911493,1.9992,16,13,l,0
+18326,2022-10-22 14:00:00,EPL,2022,Manchester City,Brighton,Home,3,1,1.86239,0.52863,10,8,w,3
+18338,2022-10-29 11:30:00,EPL,2022,Manchester City,Leicester,Away,1,0,0.703827,0.693597,15,10,w,3
+18346,2022-11-05 15:00:00,EPL,2022,Manchester City,Fulham,Home,2,1,2.39332,0.843884,16,4,w,3
+18356,2022-11-12 12:30:00,EPL,2022,Manchester City,Brentford,Home,1,2,1.605,3.29012,29,10,l,0
+18368,2022-12-28 20:00:00,EPL,2022,Manchester City,Leeds,Away,3,1,4.16249,0.603751,26,9,w,3
+18376,2022-12-31 15:00:00,EPL,2022,Manchester City,Everton,Home,1,1,2.36333,0.0760019,16,2,d,1
+18385,2023-01-05 20:00:00,EPL,2022,Manchester City,Chelsea,Away,1,0,1.71972,0.493576,12,8,w,3
+18397,2023-01-14 12:30:00,EPL,2022,Manchester City,Manchester United,Away,1,2,0.73695,1.98228,5,8,l,0
+18267,2023-01-19 19:00:00,EPL,2022,Manchester City,Tottenham,Home,4,2,2.34166,1.16499,16,9,w,3
+18409,2023-01-22 14:00:00,EPL,2022,Manchester City,Wolverhampton Wanderers,Home,3,0,3.32757,0.469277,13,10,w,3
+18420,2023-02-05 16:30:00,EPL,2022,Manchester City,Tottenham,Away,0,1,0.773747,1.42168,15,12,l,0
+18429,2023-02-12 16:30:00,EPL,2022,Manchester City,Aston Villa,Home,3,1,3.60987,0.275348,17,6,w,3
+18312,2023-02-15 18:30:00,EPL,2022,Manchester City,Arsenal,Away,3,1,2.00841,1.70139,9,10,w,3
+18439,2023-02-18 15:00:00,EPL,2022,Manchester City,Nottingham Forest,Away,1,1,2.80966,1.12735,23,4,d,1
+18442,2023-02-25 17:30:00,EPL,2022,Manchester City,Bournemouth,Away,4,1,2.98206,1.08527,20,14,w,3
+18458,2023-03-04 12:30:00,EPL,2022,Manchester City,Newcastle United,Home,2,0,1.34144,0.359809,11,5,w,3
+18463,2023-03-11 17:30:00,EPL,2022,Manchester City,Crystal Palace,Away,1,0,2.1884,0.185498,14,4,w,3
+18488,2023-04-01 11:30:00,EPL,2022,Manchester City,Liverpool,Home,4,1,3.01243,0.318171,17,4,w,3
+18499,2023-04-08 16:30:00,EPL,2022,Manchester City,Southampton,Away,4,1,3.05999,0.492801,13,4,w,3
+18506,2023-04-15 16:30:00,EPL,2022,Manchester City,Leicester,Home,3,1,1.60702,1.92692,12,10,w,3
+18531,2023-04-26 19:00:00,EPL,2022,Manchester City,Arsenal,Home,4,1,2.01168,0.398372,14,8,w,3
+18537,2023-04-30 13:00:00,EPL,2022,Manchester City,Fulham,Away,2,1,2.32338,0.431813,12,4,w,3
+18478,2023-05-03 19:00:00,EPL,2022,Manchester City,West Ham,Home,3,0,2.99908,0.492075,16,6,w,3
+18546,2023-05-06 14:00:00,EPL,2022,Manchester City,Leeds,Home,2,1,2.83472,0.140924,18,4,w,3
+18557,2023-05-14 13:00:00,EPL,2022,Manchester City,Everton,Away,3,0,1.04338,1.18597,9,7,w,3
+18566,2023-05-21 15:00:00,EPL,2022,Manchester City,Chelsea,Home,1,0,1.20557,1.15648,15,13,w,3
+18515,2023-05-24 19:00:00,EPL,2022,Manchester City,Brighton,Away,1,1,1.92973,2.11486,13,20,d,1
+18574,2023-05-28 15:30:00,EPL,2022,Manchester City,Brentford,Away,0,1,1.18649,1.43893,17,11,l,0
+22275,2023-08-11 19:00:00,EPL,2023,Manchester City,Burnley,Away,3,0,2.40074,0.311032,17,6,w,3
+22291,2023-08-19 19:00:00,EPL,2023,Manchester City,Newcastle United,Home,1,0,1.22528,0.257154,14,7,w,3
+22303,2023-08-27 13:00:00,EPL,2023,Manchester City,Sheffield United,Away,2,1,3.84804,0.762232,30,6,w,3
+21927,2023-09-02 14:00:00,EPL,2023,Manchester City,Fulham,Home,5,1,2.00152,1.46427,7,6,w,3
+21937,2023-09-16 14:00:00,EPL,2023,Manchester City,West Ham,Away,3,1,4.15046,0.895632,29,6,w,3
+21946,2023-09-23 14:00:00,EPL,2023,Manchester City,Nottingham Forest,Home,2,0,1.33984,0.729109,7,10,w,3
+21961,2023-09-30 14:00:00,EPL,2023,Manchester City,Wolverhampton Wanderers,Away,1,2,0.98075,0.673985,24,3,l,0
+21965,2023-10-08 15:30:00,EPL,2023,Manchester City,Arsenal,Away,0,1,0.858071,0.386558,4,12,l,0
+21980,2023-10-21 14:00:00,EPL,2023,Manchester City,Brighton,Home,2,1,0.962509,0.963733,10,5,w,3
+21992,2023-10-29 15:30:00,EPL,2023,Manchester City,Manchester United,Away,3,0,4.54595,0.714628,21,7,w,3
+22000,2023-11-04 15:00:00,EPL,2023,Manchester City,Bournemouth,Home,6,1,2.39949,0.643127,21,5,w,3
+22009,2023-11-12 16:30:00,EPL,2023,Manchester City,Chelsea,Away,4,4,3.19324,3.47238,15,17,d,1
+22020,2023-11-25 12:30:00,EPL,2023,Manchester City,Liverpool,Home,1,1,1.79622,0.766278,16,8,d,1
+22031,2023-12-03 16:30:00,EPL,2023,Manchester City,Tottenham,Home,3,3,2.90729,0.433077,18,9,d,1
+22035,2023-12-06 20:15:00,EPL,2023,Manchester City,Aston Villa,Away,0,1,1.00198,2.1922,2,22,l,0
+22050,2023-12-10 14:00:00,EPL,2023,Manchester City,Luton,Away,2,1,2.23353,0.689037,18,4,w,3
+22061,2023-12-16 15:00:00,EPL,2023,Manchester City,Crystal Palace,Home,2,2,2.41646,1.64977,19,5,d,1
+22081,2023-12-27 20:15:00,EPL,2023,Manchester City,Everton,Away,3,1,2.28321,1.23529,23,7,w,3
+22090,2023-12-30 15:00:00,EPL,2023,Manchester City,Sheffield United,Home,2,0,2.24229,0.263211,18,4,w,3
+22100,2024-01-13 17:30:00,EPL,2023,Manchester City,Newcastle United,Away,3,2,2.55452,1.23638,27,12,w,3
+22114,2024-01-31 19:30:00,EPL,2023,Manchester City,Burnley,Home,3,1,1.84756,1.49114,14,8,w,3
+22117,2024-02-05 20:00:00,EPL,2023,Manchester City,Brentford,Away,3,1,2.10785,0.865741,25,9,w,3
+22130,2024-02-10 12:30:00,EPL,2023,Manchester City,Everton,Home,2,0,1.58971,0.192072,19,5,w,3
+22140,2024-02-17 17:30:00,EPL,2023,Manchester City,Chelsea,Home,1,1,2.77713,1.82903,32,9,d,1
+22074,2024-02-20 18:30:00,EPL,2023,Manchester City,Brentford,Home,1,0,2.53766,0.503799,25,6,w,3
+22145,2024-02-24 17:30:00,EPL,2023,Manchester City,Bournemouth,Away,1,0,1.79636,0.925889,15,13,w,3
+22160,2024-03-03 15:30:00,EPL,2023,Manchester City,Manchester United,Home,3,1,2.64173,0.153764,27,2,w,3
+22171,2024-03-10 15:45:00,EPL,2023,Manchester City,Liverpool,Away,1,1,1.37289,2.25492,10,19,d,1
+22190,2024-03-31 16:30:00,EPL,2023,Manchester City,Arsenal,Home,0,0,1.22009,0.511402,12,6,d,1
+22204,2024-04-03 19:15:00,EPL,2023,Manchester City,Aston Villa,Home,4,1,3.87704,1.18643,25,8,w,3
+22207,2024-04-06 11:30:00,EPL,2023,Manchester City,Crystal Palace,Away,4,2,2.26381,1.49472,18,7,w,3
+22221,2024-04-13 14:00:00,EPL,2023,Manchester City,Luton,Home,5,1,4.64245,0.809775,37,5,w,3
+22176,2024-04-25 19:00:00,EPL,2023,Manchester City,Brighton,Away,4,0,1.90507,0.572021,14,7,w,3
+22242,2024-04-28 15:30:00,EPL,2023,Manchester City,Nottingham Forest,Away,2,0,0.932063,2.17312,11,14,w,3
+22253,2024-05-04 16:30:00,EPL,2023,Manchester City,Wolverhampton Wanderers,Home,5,1,4.52542,0.396887,20,2,w,3
+22258,2024-05-11 11:30:00,EPL,2023,Manchester City,Fulham,Away,4,0,3.15218,0.0886245,16,1,w,3
+22233,2024-05-14 19:00:00,EPL,2023,Manchester City,Tottenham,Away,2,0,2.70331,1.84285,8,10,w,3
+22273,2024-05-19 15:00:00,EPL,2023,Manchester City,West Ham,Home,3,1,2.31504,0.240159,28,3,w,3
+26610,2024-08-18 15:30:00,EPL,2024,Manchester City,Chelsea,Away,2,0,1.18038,1.06123,11,10,w,3
+26615,2024-08-24 14:00:00,EPL,2024,Manchester City,Ipswich,Home,4,1,3.07818,0.479999,14,1,w,3
+26628,2024-08-31 16:30:00,EPL,2024,Manchester City,West Ham,Away,3,1,3.19297,0.947201,24,10,w,3
+26637,2024-09-14 14:00:00,EPL,2024,Manchester City,Brentford,Home,2,1,1.55279,1.05094,18,8,w,3
+26651,2024-09-22 15:30:00,EPL,2024,Manchester City,Arsenal,Home,2,2,2.75588,1.28411,33,5,d,1
+26652,2024-09-28 11:30:00,EPL,2024,Manchester City,Newcastle United,Away,1,1,1.26516,1.34344,16,11,d,1
+26664,2024-10-05 14:00:00,EPL,2024,Manchester City,Fulham,Home,3,2,1.36684,2.75846,20,11,w,3
+26681,2024-10-20 13:00:00,EPL,2024,Manchester City,Wolverhampton Wanderers,Away,2,1,1.36569,0.761217,22,3,w,3
+26683,2024-10-26 14:00:00,EPL,2024,Manchester City,Southampton,Home,1,0,3.16286,0.369989,22,5,w,3
+26692,2024-11-02 15:00:00,EPL,2024,Manchester City,Bournemouth,Away,1,2,2.3527,2.4493,19,12,l,0
+26703,2024-11-09 17:30:00,EPL,2024,Manchester City,Brighton,Away,1,2,2.60334,2.87116,15,10,l,0
+26720,2024-11-23 17:30:00,EPL,2024,Manchester City,Tottenham,Home,0,4,2.15899,3.30449,23,9,l,0
+26726,2024-12-01 16:00:00,EPL,2024,Manchester City,Liverpool,Away,0,2,0.745015,3.70054,8,18,l,0
+26739,2024-12-04 19:30:00,EPL,2024,Manchester City,Nottingham Forest,Home,3,0,3.20169,0.802155,17,12,w,3
+26747,2024-12-07 15:00:00,EPL,2024,Manchester City,Crystal Palace,Away,2,2,1.5846,1.21476,12,12,d,1
+26753,2024-12-15 16:30:00,EPL,2024,Manchester City,Manchester United,Home,1,2,0.638103,2.04662,10,10,l,0
+26762,2024-12-21 12:30:00,EPL,2024,Manchester City,Aston Villa,Away,1,2,1.09627,2.05988,12,11,l,0
+26777,2024-12-26 12:30:00,EPL,2024,Manchester City,Everton,Home,1,1,2.51965,0.653289,24,8,d,1
+26788,2024-12-29 14:30:00,EPL,2024,Manchester City,Leicester,Away,2,0,1.58002,1.84208,14,11,w,3
+26798,2025-01-04 15:00:00,EPL,2024,Manchester City,West Ham,Home,4,1,1.97986,1.53286,10,18,w,3
+26803,2025-01-14 19:30:00,EPL,2024,Manchester City,Brentford,Away,2,2,2.65315,2.39088,21,18,d,1
+26816,2025-01-19 16:30:00,EPL,2024,Manchester City,Ipswich,Away,6,0,3.20228,0.795637,17,8,w,3
+26828,2025-01-25 17:30:00,EPL,2024,Manchester City,Chelsea,Home,3,1,2.23213,1.49843,15,10,w,3
+26833,2025-02-02 16:30:00,EPL,2024,Manchester City,Arsenal,Away,1,5,0.743191,1.53202,7,12,l,0
+26848,2025-02-15 15:00:00,EPL,2024,Manchester City,Newcastle United,Home,4,0,2.12004,0.157211,11,3,w,3
+26859,2025-02-23 16:30:00,EPL,2024,Manchester City,Liverpool,Home,0,2,0.58248,0.807058,16,8,l,0
+26865,2025-02-26 19:30:00,EPL,2024,Manchester City,Tottenham,Away,1,0,2.38641,1.28426,12,11,w,3
+26878,2025-03-08 12:30:00,EPL,2024,Manchester City,Nottingham Forest,Away,0,1,0.721234,0.501476,14,9,l,0
+26889,2025-03-15 15:00:00,EPL,2024,Manchester City,Brighton,Home,2,2,2.02642,2.11119,12,15,d,1
+26898,2025-04-02 19:45:00,EPL,2024,Manchester City,Leicester,Home,2,0,2.07165,0.104741,18,2,w,3
+26909,2025-04-06 15:30:00,EPL,2024,Manchester City,Manchester United,Away,0,0,0.687894,1.23317,9,13,d,1
+26917,2025-04-12 11:30:00,EPL,2024,Manchester City,Crystal Palace,Home,5,2,4.59724,1.33808,21,7,w,3
+26925,2025-04-19 14:00:00,EPL,2024,Manchester City,Everton,Away,2,0,1.87989,0.81683,12,8,w,3
+26937,2025-04-22 19:00:00,EPL,2024,Manchester City,Aston Villa,Home,2,1,1.36232,1.85906,14,7,w,3
+26942,2025-05-02 19:00:00,EPL,2024,Manchester City,Wolverhampton Wanderers,Home,1,0,0.859463,0.622455,9,6,w,3
+26959,2025-05-10 14:00:00,EPL,2024,Manchester City,Southampton,Away,0,0,1.58463,0.136995,26,2,d,1
+26970,2025-05-20 19:00:00,EPL,2024,Manchester City,Bournemouth,Home,3,1,1.59779,0.962014,12,8,w,3
+26981,2025-05-25 15:00:00,EPL,2024,Manchester City,Fulham,Away,2,0,2.45923,2.21797,20,13,w,3
+28783,2025-08-16 16:30:00,EPL,2025,Manchester City,Wolverhampton Wanderers,Away,4,0,2.29903,0.519436,15,9,w,3
+28789,2025-08-23 11:30:00,EPL,2025,Manchester City,Tottenham,Home,0,2,1.2475,1.28015,10,12,l,0
+28805,2025-08-31 13:00:00,EPL,2025,Manchester City,Brighton,Away,1,2,2.13418,2.20864,12,12,l,0
+28817,2025-09-14 15:30:00,EPL,2025,Manchester City,Manchester United,Home,3,0,1.99725,1.51915,12,13,w,3
+28827,2025-09-21 15:30:00,EPL,2025,Manchester City,Arsenal,Away,1,1,1.1227,0.718575,5,12,d,1
+28833,2025-09-27 14:00:00,EPL,2025,Manchester City,Burnley,Home,5,1,3.22133,0.509491,21,11,w,3
+28841,2025-10-05 15:30:00,EPL,2025,Manchester City,Brentford,Away,1,0,1.09647,0.693758,10,6,w,3
+28853,2025-10-18 14:00:00,EPL,2025,Manchester City,Everton,Home,2,0,2.4799,0.794622,19,5,w,3

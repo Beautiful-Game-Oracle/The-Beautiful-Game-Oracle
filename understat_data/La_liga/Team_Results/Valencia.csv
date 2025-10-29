@@ -1,0 +1,124 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+18967,2022-08-14 17:30:00,La_liga,2022,Valencia,Girona,Home,1,0,1.87878,0.132198,17,5,w,3
+18977,2022-08-21 15:30:00,La_liga,2022,Valencia,Athletic Club,Away,0,1,0.676158,0.761587,10,11,l,0
+18991,2022-08-29 20:00:00,La_liga,2022,Valencia,Atletico Madrid,Home,0,1,0.65396,1.97507,12,13,l,0
+18998,2022-09-04 19:00:00,La_liga,2022,Valencia,Getafe,Home,5,1,2.92757,0.572495,24,7,w,3
+19006,2022-09-10 12:00:00,La_liga,2022,Valencia,Rayo Vallecano,Away,1,2,2.18195,2.01158,18,14,l,0
+19015,2022-09-17 16:30:00,La_liga,2022,Valencia,Celta Vigo,Home,3,0,1.91153,0.587167,14,6,w,3
+19024,2022-10-02 12:00:00,La_liga,2022,Valencia,Espanyol,Away,2,2,1.35604,0.738099,12,10,d,1
+19037,2022-10-07 19:00:00,La_liga,2022,Valencia,Osasuna,Away,2,1,2.73352,1.96282,15,11,w,3
+19047,2022-10-15 14:15:00,La_liga,2022,Valencia,Elche,Home,2,2,3.04132,1.30317,20,8,d,1
+19055,2022-10-18 17:00:00,La_liga,2022,Valencia,Sevilla,Away,1,1,1.71123,1.19743,13,18,d,1
+19068,2022-10-22 16:30:00,La_liga,2022,Valencia,Mallorca,Home,1,2,1.07022,1.25148,13,10,l,0
+19077,2022-10-29 19:00:00,La_liga,2022,Valencia,Barcelona,Home,0,1,0.187414,2.33418,3,13,l,0
+19085,2022-11-06 15:15:00,La_liga,2022,Valencia,Real Sociedad,Away,1,1,0.795825,1.45821,15,9,d,1
+19098,2022-11-10 19:00:00,La_liga,2022,Valencia,Real Betis,Home,3,0,2.2469,0.307626,15,5,w,3
+19110,2022-12-31 15:15:00,La_liga,2022,Valencia,Villarreal,Away,1,2,1.16707,2.37349,13,14,l,0
+19120,2023-01-06 20:00:00,La_liga,2022,Valencia,Cadiz,Home,0,1,0.495475,0.434224,11,6,l,0
+19140,2023-01-23 20:00:00,La_liga,2022,Valencia,Almeria,Home,2,2,2.70702,1.68834,16,14,d,1
+19150,2023-01-29 13:00:00,La_liga,2022,Valencia,Real Valladolid,Away,0,1,1.05725,1.47049,14,13,l,0
+19124,2023-02-02 20:00:00,La_liga,2022,Valencia,Real Madrid,Away,0,2,0.213484,2.60454,4,19,l,0
+19160,2023-02-05 15:15:00,La_liga,2022,Valencia,Girona,Away,0,1,0.877751,2.57015,8,20,l,0
+19166,2023-02-11 20:00:00,La_liga,2022,Valencia,Athletic Club,Home,1,2,1.6755,1.34748,18,11,l,0
+19176,2023-02-20 20:00:00,La_liga,2022,Valencia,Getafe,Away,0,1,1.09398,2.13388,8,15,l,0
+19183,2023-02-25 20:00:00,La_liga,2022,Valencia,Real Sociedad,Home,1,0,0.636111,0.817876,8,12,w,3
+19193,2023-03-05 15:15:00,La_liga,2022,Valencia,Barcelona,Away,0,1,0.629336,2.09199,13,13,l,0
+19210,2023-03-11 20:00:00,La_liga,2022,Valencia,Osasuna,Home,1,0,1.84171,0.257674,8,7,w,3
+19212,2023-03-18 20:00:00,La_liga,2022,Valencia,Atletico Madrid,Away,0,3,0.68946,3.36294,9,14,l,0
+19230,2023-04-03 19:00:00,La_liga,2022,Valencia,Rayo Vallecano,Home,1,1,2.71116,0.645345,18,7,d,1
+19235,2023-04-09 16:30:00,La_liga,2022,Valencia,Almeria,Away,1,2,1.08869,1.49927,11,10,l,0
+19250,2023-04-16 19:00:00,La_liga,2022,Valencia,Sevilla,Home,0,2,0.527847,1.46976,13,6,l,0
+19252,2023-04-23 12:00:00,La_liga,2022,Valencia,Elche,Away,2,0,1.05313,0.795158,5,8,w,3
+19267,2023-04-27 17:30:00,La_liga,2022,Valencia,Real Valladolid,Home,2,1,0.900084,0.993149,19,8,w,3
+19274,2023-04-30 12:00:00,La_liga,2022,Valencia,Cadiz,Away,1,2,1.05204,2.16593,16,8,l,0
+19286,2023-05-03 17:30:00,La_liga,2022,Valencia,Villarreal,Home,1,1,1.04163,0.742844,8,11,d,1
+19296,2023-05-14 12:00:00,La_liga,2022,Valencia,Celta Vigo,Away,2,1,1.86638,1.216,12,10,w,3
+19308,2023-05-21 16:30:00,La_liga,2022,Valencia,Real Madrid,Home,1,0,1.49126,2.08896,11,13,w,3
+19315,2023-05-25 17:30:00,La_liga,2022,Valencia,Mallorca,Away,0,1,2.073,0.538476,15,4,l,0
+19330,2023-05-28 17:00:00,La_liga,2022,Valencia,Espanyol,Home,2,2,2.5327,1.78056,19,9,d,1
+19339,2023-06-04 18:00:00,La_liga,2022,Valencia,Real Betis,Away,1,1,0.845969,0.677919,10,8,d,1
+22686,2023-08-11 19:30:00,La_liga,2023,Valencia,Sevilla,Away,2,1,1.06796,0.714148,10,9,w,3
+22696,2023-08-18 19:30:00,La_liga,2023,Valencia,Las Palmas,Home,1,0,1.50324,0.741978,9,7,w,3
+22711,2023-08-27 17:30:00,La_liga,2023,Valencia,Osasuna,Home,1,2,1.87647,1.45939,16,7,l,0
+22720,2023-09-02 16:30:00,La_liga,2023,Valencia,Alaves,Away,0,1,0.715753,1.90475,10,7,l,0
+22731,2023-09-16 14:15:00,La_liga,2023,Valencia,Atletico Madrid,Home,3,0,2.22142,0.564083,11,9,w,3
+22735,2023-09-23 19:00:00,La_liga,2023,Valencia,Almeria,Away,2,2,0.995742,2.46387,7,17,d,1
+22752,2023-09-27 19:30:00,La_liga,2023,Valencia,Real Sociedad,Home,0,1,0.356756,0.29355,9,2,l,0
+22758,2023-10-01 19:00:00,La_liga,2023,Valencia,Real Betis,Away,0,3,0.510459,2.53745,9,15,l,0
+22768,2023-10-07 16:30:00,La_liga,2023,Valencia,Mallorca,Away,1,1,0.509313,0.919992,11,9,d,1
+22780,2023-10-23 19:00:00,La_liga,2023,Valencia,Cadiz,Home,2,0,1.6763,0.551967,12,5,w,3
+22786,2023-10-29 17:30:00,La_liga,2023,Valencia,Athletic Club,Away,2,2,2.17868,1.63308,11,12,d,1
+22804,2023-11-05 15:15:00,La_liga,2023,Valencia,Granada,Home,1,0,1.18921,0.344591,11,6,w,3
+22808,2023-11-11 20:00:00,La_liga,2023,Valencia,Real Madrid,Away,1,5,2.03068,1.90598,10,16,l,0
+22823,2023-11-25 15:15:00,La_liga,2023,Valencia,Celta Vigo,Home,0,0,0.247015,0.609862,8,13,d,1
+22827,2023-12-02 13:00:00,La_liga,2023,Valencia,Girona,Away,1,2,1.00981,1.85396,9,9,l,0
+22838,2023-12-08 20:00:00,La_liga,2023,Valencia,Getafe,Away,0,1,0.183916,0.841976,3,8,l,0
+22850,2023-12-16 20:00:00,La_liga,2023,Valencia,Barcelona,Home,1,1,0.78681,3.16129,11,16,d,1
+22860,2023-12-19 18:00:00,La_liga,2023,Valencia,Rayo Vallecano,Away,1,0,0.33485,0.51265,8,7,w,3
+22866,2024-01-02 20:30:00,La_liga,2023,Valencia,Villarreal,Home,3,1,2.78114,1.15004,11,8,w,3
+22880,2024-01-14 15:15:00,La_liga,2023,Valencia,Cadiz,Away,4,1,1.7596,1.55289,9,10,w,3
+22889,2024-01-20 17:30:00,La_liga,2023,Valencia,Athletic Club,Home,1,0,0.7444,0.351363,6,6,w,3
+22895,2024-01-28 20:00:00,La_liga,2023,Valencia,Atletico Madrid,Away,0,2,0.406631,2.80234,10,12,l,0
+22911,2024-02-03 13:00:00,La_liga,2023,Valencia,Almeria,Home,2,1,1.38646,1.5882,7,15,w,3
+22918,2024-02-10 20:00:00,La_liga,2023,Valencia,Las Palmas,Away,0,2,0.251178,1.41954,7,8,l,0
+22933,2024-02-17 20:00:00,La_liga,2023,Valencia,Sevilla,Home,0,0,1.11987,0.0457854,14,1,d,1
+22951,2024-03-02 20:00:00,La_liga,2023,Valencia,Real Madrid,Home,2,2,1.33185,1.45798,11,10,d,1
+22964,2024-03-09 13:00:00,La_liga,2023,Valencia,Getafe,Home,1,0,1.27245,1.17773,9,14,w,3
+22972,2024-03-17 15:15:00,La_liga,2023,Valencia,Villarreal,Away,0,1,1.07722,2.1872,14,13,l,0
+22984,2024-03-30 17:30:00,La_liga,2023,Valencia,Mallorca,Home,0,0,1.33845,0.673736,14,11,d,1
+22941,2024-04-04 18:00:00,La_liga,2023,Valencia,Granada,Away,1,0,0.718558,0.729135,6,13,w,3
+22989,2024-04-15 19:00:00,La_liga,2023,Valencia,Osasuna,Away,1,0,0.235711,2.26875,4,13,w,3
+23001,2024-04-20 16:30:00,La_liga,2023,Valencia,Real Betis,Home,1,2,0.951475,1.82123,8,12,l,0
+23006,2024-04-29 19:00:00,La_liga,2023,Valencia,Barcelona,Away,2,4,1.49346,2.59636,5,27,l,0
+23024,2024-05-05 16:30:00,La_liga,2023,Valencia,Alaves,Home,0,1,1.40821,1.16915,13,14,l,0
+23032,2024-05-12 16:30:00,La_liga,2023,Valencia,Rayo Vallecano,Home,0,0,1.1633,0.785651,13,12,d,1
+23037,2024-05-16 20:00:00,La_liga,2023,Valencia,Real Sociedad,Away,0,1,0.774644,1.13192,7,10,l,0
+23053,2024-05-19 17:00:00,La_liga,2023,Valencia,Girona,Home,1,3,3.35606,2.90299,21,18,l,0
+23056,2024-05-26 14:15:00,La_liga,2023,Valencia,Celta Vigo,Away,2,2,2.16042,1.50162,12,10,d,1
+26987,2024-08-17 19:30:00,La_liga,2024,Valencia,Barcelona,Home,1,2,1.55206,3.48824,6,18,l,0
+26992,2024-08-23 17:00:00,La_liga,2024,Valencia,Celta Vigo,Away,1,3,1.1544,1.30571,13,7,l,0
+27006,2024-08-28 17:00:00,La_liga,2024,Valencia,Athletic Club,Away,0,1,0.0996371,1.51595,2,13,l,0
+27015,2024-08-31 19:30:00,La_liga,2024,Valencia,Villarreal,Home,1,1,1.14322,0.885369,22,9,d,1
+27023,2024-09-15 19:00:00,La_liga,2024,Valencia,Atletico Madrid,Away,0,3,0.18311,3.22965,5,14,l,0
+27038,2024-09-21 16:30:00,La_liga,2024,Valencia,Girona,Home,2,0,0.350785,0.387698,7,9,w,3
+27050,2024-09-24 17:00:00,La_liga,2024,Valencia,Osasuna,Home,0,0,1.17527,0.377552,10,9,d,1
+27055,2024-09-28 16:30:00,La_liga,2024,Valencia,Real Sociedad,Away,0,3,0.805963,3.6853,9,11,l,0
+27065,2024-10-04 19:00:00,La_liga,2024,Valencia,Leganes,Away,0,0,0.703751,0.913168,6,8,d,1
+27081,2024-10-21 19:00:00,La_liga,2024,Valencia,Las Palmas,Home,2,3,1.94417,1.56861,14,11,l,0
+27082,2024-10-27 15:15:00,La_liga,2024,Valencia,Getafe,Away,1,1,0.63831,2.97825,2,15,d,1
+27118,2024-11-23 13:00:00,La_liga,2024,Valencia,Real Betis,Home,4,2,1.67338,1.05242,12,7,w,3
+27123,2024-11-29 20:00:00,La_liga,2024,Valencia,Mallorca,Away,1,2,1.33443,0.721435,7,9,l,0
+27140,2024-12-07 17:30:00,La_liga,2024,Valencia,Rayo Vallecano,Home,0,1,1.0002,1.02294,14,6,l,0
+27147,2024-12-13 20:00:00,La_liga,2024,Valencia,Real Valladolid,Away,0,1,0.657242,0.531831,14,2,l,0
+27102,2024-12-18 20:30:00,La_liga,2024,Valencia,Espanyol,Away,1,1,1.78128,1.87851,14,10,d,1
+27161,2024-12-22 13:00:00,La_liga,2024,Valencia,Alaves,Home,2,2,1.34762,1.54294,7,11,d,1
+27099,2025-01-03 20:00:00,La_liga,2024,Valencia,Real Madrid,Home,1,2,1.35313,2.69157,8,17,l,0
+27165,2025-01-11 20:00:00,La_liga,2024,Valencia,Sevilla,Away,1,1,1.08107,0.734356,5,15,d,1
+27179,2025-01-19 20:00:00,La_liga,2024,Valencia,Real Sociedad,Home,1,0,1.77248,0.758224,7,9,w,3
+27184,2025-01-26 20:00:00,La_liga,2024,Valencia,Barcelona,Away,1,7,1.30328,4.35875,8,22,l,0
+27199,2025-02-02 15:15:00,La_liga,2024,Valencia,Celta Vigo,Home,2,1,1.93065,0.51501,8,3,w,3
+27208,2025-02-09 15:15:00,La_liga,2024,Valencia,Leganes,Home,2,0,2.03187,0.417562,18,12,w,3
+27216,2025-02-15 20:00:00,La_liga,2024,Valencia,Villarreal,Away,1,1,0.740954,1.04228,12,13,d,1
+27225,2025-02-22 17:30:00,La_liga,2024,Valencia,Atletico Madrid,Home,0,3,1.35435,2.31785,18,11,l,0
+27234,2025-03-02 20:00:00,La_liga,2024,Valencia,Osasuna,Away,3,3,1.54983,1.26777,12,11,d,1
+27248,2025-03-08 17:30:00,La_liga,2024,Valencia,Real Valladolid,Home,2,1,2.37105,0.645621,17,11,w,3
+27253,2025-03-15 20:00:00,La_liga,2024,Valencia,Girona,Away,1,1,1.21975,1.17978,12,14,d,1
+27267,2025-03-30 17:30:00,La_liga,2024,Valencia,Mallorca,Home,1,0,0.731544,0.657805,8,8,w,3
+27273,2025-04-05 14:15:00,La_liga,2024,Valencia,Real Madrid,Away,2,1,1.08997,3.36121,10,21,w,3
+27291,2025-04-11 19:00:00,La_liga,2024,Valencia,Sevilla,Home,1,0,1.42634,0.910522,8,12,w,3
+27293,2025-04-19 12:00:00,La_liga,2024,Valencia,Rayo Vallecano,Away,1,1,2.06284,0.722317,11,11,d,1
+27302,2025-04-22 19:00:00,La_liga,2024,Valencia,Espanyol,Home,1,1,1.07897,0.344156,16,8,d,1
+27313,2025-05-03 16:30:00,La_liga,2024,Valencia,Las Palmas,Away,3,2,1.6731,1.80995,10,16,w,3
+27330,2025-05-10 12:00:00,La_liga,2024,Valencia,Getafe,Home,3,0,2.97396,0.590071,10,10,w,3
+27333,2025-05-14 17:00:00,La_liga,2024,Valencia,Alaves,Away,0,1,0.584778,2.06262,10,11,l,0
+27345,2025-05-18 17:00:00,La_liga,2024,Valencia,Athletic Club,Home,0,1,0.388682,1.16214,6,10,l,0
+27354,2025-05-23 19:00:00,La_liga,2024,Valencia,Real Betis,Away,1,1,0.647724,1.15286,9,14,d,1
+29162,2025-08-16 19:30:00,La_liga,2025,Valencia,Real Sociedad,Home,1,1,1.58599,1.04897,18,13,d,1
+29172,2025-08-24 15:00:00,La_liga,2025,Valencia,Osasuna,Away,0,1,0.589594,0.946758,4,16,l,0
+29180,2025-08-29 19:30:00,La_liga,2025,Valencia,Getafe,Home,3,0,1.54336,0.757418,7,11,w,3
+29194,2025-09-14 19:00:00,La_liga,2025,Valencia,Barcelona,Away,0,6,0.12495,3.46022,2,24,l,0
+29203,2025-09-20 19:00:00,La_liga,2025,Valencia,Athletic Club,Home,2,0,2.01007,0.499198,13,11,w,3
+29209,2025-09-23 17:00:00,La_liga,2025,Valencia,Espanyol,Away,2,2,1.00785,3.31313,5,21,d,1
+29218,2025-09-29 19:00:00,La_liga,2025,Valencia,Real Oviedo,Home,1,2,1.72261,0.997143,16,10,l,0
+29230,2025-10-04 14:15:00,La_liga,2025,Valencia,Girona,Away,1,2,2.22808,1.16415,19,4,l,0
+29238,2025-10-20 19:00:00,La_liga,2025,Valencia,Alaves,Away,0,0,0.318076,1.05624,5,13,d,1

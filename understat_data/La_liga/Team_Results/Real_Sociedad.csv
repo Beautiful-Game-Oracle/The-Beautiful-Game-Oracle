@@ -1,0 +1,124 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+18966,2022-08-14 15:30:00,La_liga,2022,Real Sociedad,Cadiz,Away,1,0,2.64367,0.294358,15,7,w,3
+18979,2022-08-21 20:00:00,La_liga,2022,Real Sociedad,Barcelona,Home,1,4,0.79913,2.04035,10,15,l,0
+18984,2022-08-27 15:30:00,La_liga,2022,Real Sociedad,Elche,Away,1,0,1.81171,1.23504,9,12,w,3
+18994,2022-09-03 16:30:00,La_liga,2022,Real Sociedad,Atletico Madrid,Home,1,1,1.75154,2.24791,12,16,d,1
+19004,2022-09-11 16:30:00,La_liga,2022,Real Sociedad,Getafe,Away,1,2,1.32142,1.06907,13,8,l,0
+19018,2022-09-18 16:30:00,La_liga,2022,Real Sociedad,Espanyol,Home,2,1,2.35791,1.28945,14,14,w,3
+19025,2022-10-02 16:30:00,La_liga,2022,Real Sociedad,Girona,Away,5,3,2.23639,0.932579,11,16,w,3
+19038,2022-10-09 16:30:00,La_liga,2022,Real Sociedad,Villarreal,Home,1,0,2.37138,0.221593,17,5,w,3
+19043,2022-10-16 12:00:00,La_liga,2022,Real Sociedad,Celta Vigo,Away,2,1,1.17936,0.482536,8,10,w,3
+19060,2022-10-19 18:00:00,La_liga,2022,Real Sociedad,Mallorca,Home,1,0,2.16436,1.09436,14,12,w,3
+19070,2022-10-22 14:15:00,La_liga,2022,Real Sociedad,Real Valladolid,Away,0,1,0.82513,0.785666,20,9,l,0
+19078,2022-10-30 20:00:00,La_liga,2022,Real Sociedad,Real Betis,Home,0,2,1.28165,1.34514,14,10,l,0
+19085,2022-11-06 15:15:00,La_liga,2022,Real Sociedad,Valencia,Home,1,1,1.45821,0.795825,9,15,d,1
+19101,2022-11-09 18:00:00,La_liga,2022,Real Sociedad,Sevilla,Away,2,1,2.18846,0.69755,17,6,w,3
+19108,2022-12-31 15:15:00,La_liga,2022,Real Sociedad,Osasuna,Home,2,0,1.54314,0.305627,9,11,w,3
+19116,2023-01-08 13:00:00,La_liga,2022,Real Sociedad,Almeria,Away,2,0,2.11666,0.30978,9,6,w,3
+19127,2023-01-14 20:00:00,La_liga,2022,Real Sociedad,Athletic Club,Home,3,1,1.88839,0.265103,11,6,w,3
+19136,2023-01-21 13:00:00,La_liga,2022,Real Sociedad,Rayo Vallecano,Away,2,0,1.43612,0.64183,12,14,w,3
+19143,2023-01-29 20:00:00,La_liga,2022,Real Sociedad,Real Madrid,Away,0,0,0.370087,1.40476,8,20,d,1
+19159,2023-02-05 17:30:00,La_liga,2022,Real Sociedad,Real Valladolid,Home,0,1,1.21593,0.781504,15,7,l,0
+19164,2023-02-13 20:00:00,La_liga,2022,Real Sociedad,Espanyol,Away,3,2,1.20722,1.25733,11,11,w,3
+19180,2023-02-18 10:00:00,La_liga,2022,Real Sociedad,Celta Vigo,Home,1,1,1.52902,1.34253,10,18,d,1
+19183,2023-02-25 20:00:00,La_liga,2022,Real Sociedad,Valencia,Away,0,1,0.817876,0.636111,12,8,l,0
+19200,2023-03-03 20:00:00,La_liga,2022,Real Sociedad,Cadiz,Home,0,0,1.07575,0.847252,14,6,d,1
+19205,2023-03-12 13:00:00,La_liga,2022,Real Sociedad,Mallorca,Away,1,1,0.683339,1.4638,8,8,d,1
+19220,2023-03-19 15:15:00,La_liga,2022,Real Sociedad,Elche,Home,2,0,2.69405,0.0819691,17,4,w,3
+19229,2023-04-02 16:30:00,La_liga,2022,Real Sociedad,Villarreal,Away,0,2,0.912497,2.80501,16,16,l,0
+19241,2023-04-08 16:30:00,La_liga,2022,Real Sociedad,Getafe,Home,2,0,2.1178,0.243923,11,6,w,3
+19242,2023-04-15 14:15:00,La_liga,2022,Real Sociedad,Athletic Club,Away,0,2,1.71232,1.00026,13,13,l,0
+19260,2023-04-22 16:30:00,La_liga,2022,Real Sociedad,Rayo Vallecano,Home,2,1,0.814682,0.359842,7,8,w,3
+19264,2023-04-25 20:00:00,La_liga,2022,Real Sociedad,Real Betis,Away,0,0,0.607061,0.7286,10,10,d,1
+19276,2023-04-28 19:00:00,La_liga,2022,Real Sociedad,Osasuna,Away,2,0,2.09575,0.987164,12,14,w,3
+19285,2023-05-02 20:00:00,La_liga,2022,Real Sociedad,Real Madrid,Home,2,0,2.26252,0.867228,9,10,w,3
+19292,2023-05-13 12:00:00,La_liga,2022,Real Sociedad,Girona,Home,2,2,3.05494,1.4691,15,13,d,1
+19310,2023-05-20 19:00:00,La_liga,2022,Real Sociedad,Barcelona,Away,2,1,2.8035,1.8413,13,13,w,3
+19321,2023-05-23 17:30:00,La_liga,2022,Real Sociedad,Almeria,Home,1,0,1.91983,0.0996009,15,2,w,3
+19323,2023-05-28 17:00:00,La_liga,2022,Real Sociedad,Atletico Madrid,Away,1,2,0.943774,0.818599,10,11,l,0
+19341,2023-06-04 18:00:00,La_liga,2022,Real Sociedad,Sevilla,Home,2,1,2.35387,0.461529,17,9,w,3
+22687,2023-08-12 15:00:00,La_liga,2023,Real Sociedad,Girona,Home,1,1,1.46019,1.27791,15,6,d,1
+22697,2023-08-19 15:00:00,La_liga,2023,Real Sociedad,Celta Vigo,Home,1,1,0.917678,1.77937,11,17,d,1
+22705,2023-08-25 17:30:00,La_liga,2023,Real Sociedad,Las Palmas,Away,0,0,1.11751,1.56933,8,11,d,1
+22724,2023-09-02 12:00:00,La_liga,2023,Real Sociedad,Granada,Home,5,3,2.08686,0.549509,16,9,w,3
+22729,2023-09-17 19:00:00,La_liga,2023,Real Sociedad,Real Madrid,Away,1,2,2.1546,2.56902,15,17,l,0
+22743,2023-09-24 12:00:00,La_liga,2023,Real Sociedad,Getafe,Home,4,3,2.13384,1.59398,10,10,w,3
+22752,2023-09-27 19:30:00,La_liga,2023,Real Sociedad,Valencia,Away,1,0,0.29355,0.356756,2,9,w,3
+22762,2023-09-30 19:00:00,La_liga,2023,Real Sociedad,Athletic Club,Home,3,0,1.38238,1.96039,8,18,w,3
+22765,2023-10-08 14:15:00,La_liga,2023,Real Sociedad,Atletico Madrid,Away,1,2,0.928071,2.94239,13,14,l,0
+22781,2023-10-21 12:00:00,La_liga,2023,Real Sociedad,Mallorca,Home,1,0,2.0056,2.03914,14,18,w,3
+22790,2023-10-29 15:15:00,La_liga,2023,Real Sociedad,Rayo Vallecano,Away,2,2,1.93178,0.844003,15,16,d,1
+22800,2023-11-04 20:00:00,La_liga,2023,Real Sociedad,Barcelona,Home,0,1,0.84705,1.22041,13,12,l,0
+22805,2023-11-11 15:15:00,La_liga,2023,Real Sociedad,Almeria,Away,3,1,2.53693,0.637245,18,7,w,3
+22818,2023-11-26 15:15:00,La_liga,2023,Real Sociedad,Sevilla,Home,2,1,1.05204,0.374082,11,9,w,3
+22828,2023-12-02 20:00:00,La_liga,2023,Real Sociedad,Osasuna,Away,1,1,1.69944,1.01822,17,9,d,1
+22844,2023-12-09 17:30:00,La_liga,2023,Real Sociedad,Villarreal,Away,3,0,2.19834,2.37019,16,20,w,3
+22851,2023-12-17 15:15:00,La_liga,2023,Real Sociedad,Real Betis,Home,0,0,0.989954,1.37163,12,12,d,1
+22858,2023-12-21 18:00:00,La_liga,2023,Real Sociedad,Cadiz,Away,0,0,0.6603,0.856097,8,10,d,1
+22874,2024-01-02 18:15:00,La_liga,2023,Real Sociedad,Alaves,Home,1,1,0.98082,0.969339,16,7,d,1
+22876,2024-01-13 17:30:00,La_liga,2023,Real Sociedad,Athletic Club,Away,1,2,1.02381,1.73042,9,10,l,0
+22885,2024-01-20 20:00:00,La_liga,2023,Real Sociedad,Celta Vigo,Away,1,0,0.630224,0.257377,6,6,w,3
+22903,2024-01-27 13:00:00,La_liga,2023,Real Sociedad,Rayo Vallecano,Home,0,0,0.251108,0.129675,6,5,d,1
+22907,2024-02-03 20:00:00,La_liga,2023,Real Sociedad,Girona,Away,0,0,0.583723,1.04543,11,11,d,1
+22924,2024-02-10 15:15:00,La_liga,2023,Real Sociedad,Osasuna,Home,0,1,2.50503,0.704714,21,9,l,0
+22927,2024-02-18 17:30:00,La_liga,2023,Real Sociedad,Mallorca,Away,2,1,1.20859,0.188904,19,4,w,3
+22940,2024-02-23 20:00:00,La_liga,2023,Real Sociedad,Villarreal,Home,1,3,1.48985,1.6421,21,6,l,0
+22952,2024-03-02 13:00:00,La_liga,2023,Real Sociedad,Sevilla,Away,2,3,1.27238,2.15506,13,12,l,0
+22959,2024-03-09 17:30:00,La_liga,2023,Real Sociedad,Granada,Away,3,2,1.88323,2.0551,11,13,w,3
+22970,2024-03-15 20:00:00,La_liga,2023,Real Sociedad,Cadiz,Home,2,0,2.34962,0.695705,14,13,w,3
+22980,2024-03-31 17:30:00,La_liga,2023,Real Sociedad,Alaves,Away,1,0,1.29248,0.142958,12,3,w,3
+22991,2024-04-14 19:00:00,La_liga,2023,Real Sociedad,Almeria,Home,2,2,1.68743,1.77546,17,7,d,1
+22998,2024-04-21 12:00:00,La_liga,2023,Real Sociedad,Getafe,Away,1,1,1.03517,1.19821,7,7,d,1
+23014,2024-04-26 19:00:00,La_liga,2023,Real Sociedad,Real Madrid,Home,0,1,0.380904,0.462672,9,5,l,0
+23023,2024-05-04 12:00:00,La_liga,2023,Real Sociedad,Las Palmas,Home,2,0,0.899129,0.56693,9,8,w,3
+23027,2024-05-13 19:00:00,La_liga,2023,Real Sociedad,Barcelona,Away,0,2,0.799193,1.66029,10,14,l,0
+23037,2024-05-16 20:00:00,La_liga,2023,Real Sociedad,Valencia,Home,1,0,1.13192,0.774644,10,7,w,3
+23048,2024-05-19 17:00:00,La_liga,2023,Real Sociedad,Real Betis,Away,2,0,0.792849,1.60754,5,18,w,3
+23061,2024-05-25 14:15:00,La_liga,2023,Real Sociedad,Atletico Madrid,Home,0,2,0.570544,2.19824,14,10,l,0
+26988,2024-08-18 17:00:00,La_liga,2024,Real Sociedad,Rayo Vallecano,Home,1,2,1.56608,1.60148,11,12,l,0
+26997,2024-08-24 19:30:00,La_liga,2024,Real Sociedad,Espanyol,Away,1,0,0.796104,1.79566,8,13,w,3
+27008,2024-08-28 19:30:00,La_liga,2024,Real Sociedad,Alaves,Home,1,2,0.951647,2.62561,10,14,l,0
+27020,2024-09-01 17:15:00,La_liga,2024,Real Sociedad,Getafe,Away,0,0,0.0209183,0.547095,1,16,d,1
+27031,2024-09-14 19:00:00,La_liga,2024,Real Sociedad,Real Madrid,Home,0,2,1.41828,2.2759,11,16,l,0
+27045,2024-09-17 19:00:00,La_liga,2024,Real Sociedad,Mallorca,Away,0,1,0.499139,1.56932,13,10,l,0
+27039,2024-09-21 12:00:00,La_liga,2024,Real Sociedad,Real Valladolid,Away,0,0,1.3906,0.952589,14,15,d,1
+27055,2024-09-28 16:30:00,La_liga,2024,Real Sociedad,Valencia,Home,3,0,3.6853,0.805963,11,9,w,3
+27067,2024-10-06 19:00:00,La_liga,2024,Real Sociedad,Atletico Madrid,Home,1,1,1.08517,0.561748,16,4,d,1
+27076,2024-10-19 16:30:00,La_liga,2024,Real Sociedad,Girona,Away,1,0,1.86082,0.446152,14,8,w,3
+27088,2024-10-27 20:00:00,La_liga,2024,Real Sociedad,Osasuna,Home,0,2,1.6767,1.06487,19,10,l,0
+27100,2024-11-03 17:30:00,La_liga,2024,Real Sociedad,Sevilla,Away,2,0,1.21835,0.629505,9,8,w,3
+27108,2024-11-10 20:00:00,La_liga,2024,Real Sociedad,Barcelona,Home,1,0,1.88518,0.514102,14,11,w,3
+27112,2024-11-24 20:00:00,La_liga,2024,Real Sociedad,Athletic Club,Away,0,1,0.799084,1.65075,6,12,l,0
+27130,2024-12-01 20:00:00,La_liga,2024,Real Sociedad,Real Betis,Home,2,0,0.818081,0.366137,2,8,w,3
+27133,2024-12-08 13:00:00,La_liga,2024,Real Sociedad,Leganes,Away,3,0,1.74462,0.463722,15,11,w,3
+27151,2024-12-15 17:30:00,La_liga,2024,Real Sociedad,Las Palmas,Home,0,0,1.24562,0.840973,15,9,d,1
+27154,2024-12-21 15:15:00,La_liga,2024,Real Sociedad,Celta Vigo,Away,0,2,0.314488,1.22165,7,11,l,0
+27164,2025-01-13 20:00:00,La_liga,2024,Real Sociedad,Villarreal,Home,1,0,0.805968,1.22527,6,15,w,3
+27179,2025-01-19 20:00:00,La_liga,2024,Real Sociedad,Valencia,Away,0,1,0.758224,1.77248,9,7,l,0
+27188,2025-01-26 15:15:00,La_liga,2024,Real Sociedad,Getafe,Home,0,3,1.26074,2.01027,13,13,l,0
+27195,2025-02-02 17:30:00,La_liga,2024,Real Sociedad,Osasuna,Away,1,2,2.35115,1.11088,13,11,l,0
+27202,2025-02-09 17:30:00,La_liga,2024,Real Sociedad,Espanyol,Home,2,1,1.67839,0.872507,13,4,w,3
+27218,2025-02-16 20:00:00,La_liga,2024,Real Sociedad,Real Betis,Away,0,3,0.20529,2.49445,5,24,l,0
+27230,2025-02-23 20:00:00,La_liga,2024,Real Sociedad,Leganes,Home,3,0,1.0679,0.256673,12,8,w,3
+27232,2025-03-02 15:15:00,La_liga,2024,Real Sociedad,Barcelona,Away,0,4,0.0,3.63697,0,33,l,0
+27247,2025-03-09 20:00:00,La_liga,2024,Real Sociedad,Sevilla,Home,0,1,0.803868,1.01162,7,9,l,0
+27254,2025-03-16 17:30:00,La_liga,2024,Real Sociedad,Rayo Vallecano,Away,2,2,0.905535,0.536859,8,10,d,1
+27265,2025-03-29 13:00:00,La_liga,2024,Real Sociedad,Real Valladolid,Home,2,1,1.32811,1.29525,12,12,w,3
+27274,2025-04-06 12:00:00,La_liga,2024,Real Sociedad,Las Palmas,Away,3,1,2.81501,1.75387,13,13,w,3
+27290,2025-04-12 12:00:00,La_liga,2024,Real Sociedad,Mallorca,Home,0,2,0.616782,0.801126,15,7,l,0
+27298,2025-04-20 14:15:00,La_liga,2024,Real Sociedad,Villarreal,Away,2,2,2.29777,2.14498,4,20,d,1
+27310,2025-04-23 19:30:00,La_liga,2024,Real Sociedad,Alaves,Away,0,1,0.472083,0.815479,6,10,l,0
+27315,2025-05-04 19:00:00,La_liga,2024,Real Sociedad,Athletic Club,Home,0,0,0.893155,0.232928,12,3,d,1
+27323,2025-05-10 19:00:00,La_liga,2024,Real Sociedad,Atletico Madrid,Away,0,4,0.298675,1.71528,6,13,l,0
+27337,2025-05-13 18:00:00,La_liga,2024,Real Sociedad,Celta Vigo,Home,0,1,3.31324,1.29945,15,6,l,0
+27347,2025-05-18 17:00:00,La_liga,2024,Real Sociedad,Girona,Home,3,2,1.87253,1.64512,15,9,w,3
+27355,2025-05-24 14:15:00,La_liga,2024,Real Sociedad,Real Madrid,Away,0,2,1.18496,2.61915,9,16,l,0
+29162,2025-08-16 19:30:00,La_liga,2025,Real Sociedad,Valencia,Away,1,1,1.04897,1.58599,13,18,d,1
+29174,2025-08-24 17:30:00,La_liga,2025,Real Sociedad,Espanyol,Home,2,2,1.43366,1.87234,15,14,d,1
+29182,2025-08-30 17:00:00,La_liga,2025,Real Sociedad,Real Oviedo,Away,0,1,0.92221,0.45706,18,8,l,0
+29195,2025-09-13 14:15:00,La_liga,2025,Real Sociedad,Real Madrid,Home,1,2,3.14772,2.54171,23,16,l,0
+29200,2025-09-19 19:00:00,La_liga,2025,Real Sociedad,Real Betis,Away,1,3,0.606673,2.53579,12,21,l,0
+29215,2025-09-24 19:30:00,La_liga,2025,Real Sociedad,Mallorca,Home,1,0,2.82857,0.641137,17,7,w,3
+29220,2025-09-28 16:30:00,La_liga,2025,Real Sociedad,Barcelona,Away,1,2,0.957079,3.00954,7,22,l,0
+29237,2025-10-05 16:30:00,La_liga,2025,Real Sociedad,Rayo Vallecano,Home,0,1,0.768998,0.684504,10,7,l,0
+29241,2025-10-19 14:15:00,La_liga,2025,Real Sociedad,Celta Vigo,Away,1,1,2.13562,0.717367,17,4,d,1

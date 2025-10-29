@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+27744,2024-08-24 13:30:00,Bundesliga,2024,Holstein Kiel,Hoffenheim,Away,2,3,1.97238,3.73706,17,21,l,0
+27754,2024-08-31 13:30:00,Bundesliga,2024,Holstein Kiel,Wolfsburg,Home,0,2,0.89489,1.4619,13,13,l,0
+27766,2024-09-14 16:30:00,Bundesliga,2024,Holstein Kiel,Bayern Munich,Home,1,6,0.299776,4.13442,6,23,l,0
+27771,2024-09-21 13:30:00,Bundesliga,2024,Holstein Kiel,Bochum,Away,2,2,2.26878,1.32383,14,14,d,1
+27785,2024-09-29 13:30:00,Bundesliga,2024,Holstein Kiel,Eintracht Frankfurt,Home,2,4,1.02971,2.43436,10,20,l,0
+27794,2024-10-05 13:30:00,Bundesliga,2024,Holstein Kiel,Bayer Leverkusen,Away,2,2,1.98438,2.5839,8,23,d,1
+27804,2024-10-20 13:30:00,Bundesliga,2024,Holstein Kiel,Union Berlin,Home,0,2,0.901058,1.2809,12,14,l,0
+27805,2024-10-26 13:30:00,Bundesliga,2024,Holstein Kiel,VfB Stuttgart,Away,1,2,0.680092,1.90999,9,16,l,0
+27822,2024-11-02 14:30:00,Bundesliga,2024,Holstein Kiel,FC Heidenheim,Home,1,0,2.13316,1.27585,11,17,w,3
+27826,2024-11-09 14:30:00,Bundesliga,2024,Holstein Kiel,Werder Bremen,Away,1,2,0.884231,2.26129,12,16,l,0
+27840,2024-11-24 14:30:00,Bundesliga,2024,Holstein Kiel,Mainz 05,Home,0,3,0.346026,2.13631,7,18,l,0
+27849,2024-11-30 14:30:00,Bundesliga,2024,Holstein Kiel,St. Pauli,Away,1,3,1.1506,1.96179,10,11,l,0
+27856,2024-12-07 14:30:00,Bundesliga,2024,Holstein Kiel,RasenBallsport Leipzig,Home,0,2,1.14963,1.72704,17,9,l,0
+27865,2024-12-14 14:30:00,Bundesliga,2024,Holstein Kiel,Borussia M.Gladbach,Away,1,4,0.323948,2.33425,12,17,l,0
+27876,2024-12-21 14:30:00,Bundesliga,2024,Holstein Kiel,Augsburg,Home,5,1,2.48595,1.13064,8,16,w,3
+27881,2025-01-11 14:30:00,Bundesliga,2024,Holstein Kiel,Freiburg,Away,2,3,1.66855,0.750017,15,14,l,0
+27894,2025-01-14 17:30:00,Bundesliga,2024,Holstein Kiel,Borussia Dortmund,Home,4,2,1.95929,1.16391,11,16,w,3
+27903,2025-01-18 14:30:00,Bundesliga,2024,Holstein Kiel,Hoffenheim,Home,1,3,0.908525,0.905544,12,11,l,0
+27910,2025-01-24 19:30:00,Bundesliga,2024,Holstein Kiel,Wolfsburg,Away,2,2,0.265769,2.52045,5,22,d,1
+27918,2025-02-01 14:30:00,Bundesliga,2024,Holstein Kiel,Bayern Munich,Away,3,4,2.05752,4.93236,10,29,l,0
+27930,2025-02-09 13:30:00,Bundesliga,2024,Holstein Kiel,Bochum,Home,2,2,2.0,2.0,0,0,d,1
+27933,2025-02-16 16:30:00,Bundesliga,2024,Holstein Kiel,Eintracht Frankfurt,Away,1,3,1.26559,3.02527,10,20,l,0
+27948,2025-02-22 14:30:00,Bundesliga,2024,Holstein Kiel,Bayer Leverkusen,Home,0,2,0.494995,2.55557,4,18,l,0
+27955,2025-03-02 14:30:00,Bundesliga,2024,Holstein Kiel,Union Berlin,Away,1,0,0.692509,0.886081,10,14,w,3
+27966,2025-03-08 14:30:00,Bundesliga,2024,Holstein Kiel,VfB Stuttgart,Home,2,2,1.97246,1.0726,17,5,d,1
+27969,2025-03-16 16:30:00,Bundesliga,2024,Holstein Kiel,FC Heidenheim,Away,1,3,1.14988,1.6572,16,14,l,0
+27984,2025-03-29 14:30:00,Bundesliga,2024,Holstein Kiel,Werder Bremen,Home,0,3,0.56476,1.48157,11,14,l,0
+27990,2025-04-05 13:30:00,Bundesliga,2024,Holstein Kiel,Mainz 05,Away,1,1,1.66267,1.65205,9,13,d,1
+28002,2025-04-12 13:30:00,Bundesliga,2024,Holstein Kiel,St. Pauli,Home,1,2,0.692664,1.06614,7,14,l,0
+28003,2025-04-19 13:30:00,Bundesliga,2024,Holstein Kiel,RasenBallsport Leipzig,Away,1,1,1.017,2.16761,13,10,d,1
+28020,2025-04-26 13:30:00,Bundesliga,2024,Holstein Kiel,Borussia M.Gladbach,Home,4,3,3.0385,2.55098,22,16,w,3
+28025,2025-05-04 13:30:00,Bundesliga,2024,Holstein Kiel,Augsburg,Away,3,1,2.10407,3.93001,7,27,w,3
+28038,2025-05-10 13:30:00,Bundesliga,2024,Holstein Kiel,Freiburg,Home,1,2,0.974297,2.01558,15,9,l,0
+28040,2025-05-17 13:30:00,Bundesliga,2024,Holstein Kiel,Borussia Dortmund,Away,0,3,0.574499,2.56073,4,19,l,0

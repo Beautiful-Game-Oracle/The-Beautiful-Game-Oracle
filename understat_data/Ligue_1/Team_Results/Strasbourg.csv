@@ -1,0 +1,115 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result,points
+19649,2022-08-06 15:00:00,Ligue_1,2022,Strasbourg,Monaco,Home,1,2,1.39118,2.47965,11,24,l,0
+19666,2022-08-14 15:05:00,Ligue_1,2022,Strasbourg,Nice,Away,1,1,1.57207,1.51022,9,13,d,1
+19675,2022-08-21 11:00:00,Ligue_1,2022,Strasbourg,Reims,Home,1,1,1.44615,2.03506,12,12,d,1
+19679,2022-08-27 15:00:00,Ligue_1,2022,Strasbourg,Auxerre,Away,0,1,1.65529,0.770114,14,7,l,0
+19695,2022-08-31 17:00:00,Ligue_1,2022,Strasbourg,Nantes,Home,1,1,0.260394,0.582194,5,12,d,1
+19705,2022-09-04 13:00:00,Ligue_1,2022,Strasbourg,Brest,Away,1,1,2.65304,0.726914,10,11,d,1
+19715,2022-09-11 11:00:00,Ligue_1,2022,Strasbourg,Clermont Foot,Home,0,0,2.60466,0.959426,12,10,d,1
+19722,2022-09-17 15:00:00,Ligue_1,2022,Strasbourg,Montpellier,Away,1,2,0.617378,1.8232,8,10,l,0
+19735,2022-10-01 15:00:00,Ligue_1,2022,Strasbourg,Rennes,Home,1,3,1.15088,2.24201,9,17,l,0
+19738,2022-10-09 13:00:00,Ligue_1,2022,Strasbourg,Angers,Away,3,2,2.88307,2.08828,15,15,w,3
+19754,2022-10-14 19:00:00,Ligue_1,2022,Strasbourg,Lille,Home,0,3,0.366401,2.59097,12,10,l,0
+19766,2022-10-23 13:00:00,Ligue_1,2022,Strasbourg,Toulouse,Away,2,2,1.63235,1.86579,11,17,d,1
+19775,2022-10-29 19:00:00,Ligue_1,2022,Strasbourg,Marseille,Home,2,2,0.890654,1.93874,12,14,d,1
+19778,2022-11-05 16:00:00,Ligue_1,2022,Strasbourg,Ajaccio,Away,2,4,0.670138,3.68734,9,12,l,0
+19795,2022-11-13 16:05:00,Ligue_1,2022,Strasbourg,Lorient,Home,1,1,1.84883,0.877509,20,6,d,1
+19804,2022-12-28 20:00:00,Ligue_1,2022,Strasbourg,Paris Saint Germain,Away,1,2,1.1354,2.11764,12,11,l,0
+19815,2023-01-02 14:00:00,Ligue_1,2022,Strasbourg,Troyes,Home,2,3,1.15328,1.32781,17,9,l,0
+19825,2023-01-11 20:00:00,Ligue_1,2022,Strasbourg,Lens,Home,2,2,1.15467,1.5001,9,15,d,1
+19832,2023-01-14 20:00:00,Ligue_1,2022,Strasbourg,Lyon,Away,2,1,1.15481,2.46849,8,28,w,3
+19845,2023-01-29 14:00:00,Ligue_1,2022,Strasbourg,Toulouse,Home,1,2,0.899943,2.05016,11,10,l,0
+19855,2023-02-01 20:00:00,Ligue_1,2022,Strasbourg,Rennes,Away,0,3,0.141426,1.25645,3,6,l,0
+19864,2023-02-05 14:00:00,Ligue_1,2022,Strasbourg,Montpellier,Home,2,0,1.51625,0.613708,6,11,w,3
+19872,2023-02-12 14:00:00,Ligue_1,2022,Strasbourg,Lille,Away,0,2,0.174274,3.65427,5,14,l,0
+19883,2023-02-18 20:00:00,Ligue_1,2022,Strasbourg,Angers,Home,2,1,1.94958,1.04967,18,10,w,3
+19891,2023-02-26 14:00:00,Ligue_1,2022,Strasbourg,Clermont Foot,Away,1,1,0.920081,1.74774,11,11,d,1
+19903,2023-03-05 14:00:00,Ligue_1,2022,Strasbourg,Brest,Home,0,1,0.983616,0.585063,17,8,l,0
+19916,2023-03-12 19:45:00,Ligue_1,2022,Strasbourg,Marseille,Away,2,2,2.2222,1.67973,24,7,d,1
+19924,2023-03-19 14:00:00,Ligue_1,2022,Strasbourg,Auxerre,Home,2,0,2.88267,0.945437,13,8,w,3
+19929,2023-04-02 15:05:00,Ligue_1,2022,Strasbourg,Monaco,Away,3,4,1.55623,1.40127,13,10,l,0
+19945,2023-04-07 19:00:00,Ligue_1,2022,Strasbourg,Lens,Away,1,2,0.580047,1.31665,13,13,l,0
+19954,2023-04-16 13:00:00,Ligue_1,2022,Strasbourg,Ajaccio,Home,3,1,1.59182,0.478923,12,8,w,3
+19967,2023-04-23 11:00:00,Ligue_1,2022,Strasbourg,Reims,Away,2,0,1.33348,1.13179,9,15,w,3
+19973,2023-04-30 19:00:00,Ligue_1,2022,Strasbourg,Lyon,Home,1,2,1.68749,0.889805,11,7,l,0
+19982,2023-05-07 13:00:00,Ligue_1,2022,Strasbourg,Nantes,Away,2,0,1.94833,0.815995,8,13,w,3
+19994,2023-05-13 15:00:00,Ligue_1,2022,Strasbourg,Nice,Home,2,0,1.67065,0.360576,12,9,w,3
+20007,2023-05-21 13:00:00,Ligue_1,2022,Strasbourg,Troyes,Away,1,1,2.30022,0.706571,16,8,d,1
+20015,2023-05-27 19:00:00,Ligue_1,2022,Strasbourg,Paris Saint Germain,Home,1,1,1.33636,1.16057,17,7,d,1
+20022,2023-06-03 17:00:00,Ligue_1,2022,Strasbourg,Lorient,Away,1,2,0.851717,0.489883,15,5,l,0
+23373,2023-08-13 18:45:00,Ligue_1,2023,Strasbourg,Lyon,Home,2,1,1.16184,2.05387,8,23,w,3
+23382,2023-08-20 15:05:00,Ligue_1,2023,Strasbourg,Monaco,Away,0,3,0.552621,1.30947,4,9,l,0
+23390,2023-08-27 13:00:00,Ligue_1,2023,Strasbourg,Toulouse,Home,2,0,2.84995,0.308716,11,7,w,3
+23402,2023-09-03 15:05:00,Ligue_1,2023,Strasbourg,Nice,Away,0,2,0.158524,2.28809,4,16,l,0
+23408,2023-09-17 13:00:00,Ligue_1,2023,Strasbourg,Montpellier,Home,2,2,2.27232,1.03603,14,12,d,1
+23422,2023-09-24 11:00:00,Ligue_1,2023,Strasbourg,Metz,Away,1,0,0.456135,1.03805,4,13,w,3
+23425,2023-09-29 19:00:00,Ligue_1,2023,Strasbourg,Lens,Home,0,1,0.305015,1.52229,8,9,l,0
+23434,2023-10-06 19:00:00,Ligue_1,2023,Strasbourg,Nantes,Home,1,2,0.944783,2.24185,11,16,l,0
+23443,2023-10-21 15:00:00,Ligue_1,2023,Strasbourg,Paris Saint Germain,Away,0,3,0.224242,2.51872,7,8,l,0
+23452,2023-10-29 16:05:00,Ligue_1,2023,Strasbourg,Rennes,Away,1,1,1.02122,1.11025,11,20,d,1
+23462,2023-11-05 14:00:00,Ligue_1,2023,Strasbourg,Clermont Foot,Home,0,0,1.55966,1.05162,18,10,d,1
+23480,2023-11-25 20:00:00,Ligue_1,2023,Strasbourg,Marseille,Home,1,1,1.18208,1.36665,15,16,d,1
+23492,2023-12-01 19:00:00,Ligue_1,2023,Strasbourg,Reims,Away,1,2,1.82995,1.93212,10,13,l,0
+23478,2023-12-07 19:30:00,Ligue_1,2023,Strasbourg,Brest,Away,1,1,1.26839,0.993441,9,13,d,1
+23498,2023-12-10 14:00:00,Ligue_1,2023,Strasbourg,Le Havre,Home,2,1,1.50877,1.62211,12,15,w,3
+23508,2023-12-17 14:00:00,Ligue_1,2023,Strasbourg,Lorient,Away,2,1,1.76122,1.17121,12,7,w,3
+23516,2023-12-20 20:00:00,Ligue_1,2023,Strasbourg,Lille,Home,2,1,0.805349,0.882407,10,10,w,3
+23525,2024-01-12 20:00:00,Ligue_1,2023,Strasbourg,Marseille,Away,1,1,1.14984,1.56944,18,8,d,1
+23539,2024-01-28 14:00:00,Ligue_1,2023,Strasbourg,Clermont Foot,Away,1,1,1.31652,1.53045,6,14,d,1
+23542,2024-02-02 20:00:00,Ligue_1,2023,Strasbourg,Paris Saint Germain,Home,1,2,2.57864,1.90654,20,9,l,0
+23558,2024-02-10 16:00:00,Ligue_1,2023,Strasbourg,Lens,Away,1,3,1.66695,1.91964,19,10,l,0
+23560,2024-02-18 12:00:00,Ligue_1,2023,Strasbourg,Lorient,Home,1,3,1.71908,2.13729,18,13,l,0
+23577,2024-02-24 20:00:00,Ligue_1,2023,Strasbourg,Brest,Home,0,3,0.147244,1.75632,6,15,l,0
+23585,2024-03-03 14:00:00,Ligue_1,2023,Strasbourg,Montpellier,Away,2,2,1.61588,1.55397,12,21,d,1
+23588,2024-03-10 14:00:00,Ligue_1,2023,Strasbourg,Monaco,Home,0,1,0.268122,1.32837,8,17,l,0
+23602,2024-03-16 16:00:00,Ligue_1,2023,Strasbourg,Nantes,Away,3,1,1.88754,0.709166,11,11,w,3
+23605,2024-03-31 16:05:00,Ligue_1,2023,Strasbourg,Rennes,Home,2,0,2.45769,0.913264,14,12,w,3
+23615,2024-04-07 13:00:00,Ligue_1,2023,Strasbourg,Toulouse,Away,0,0,0.582127,0.825103,8,11,d,1
+23625,2024-04-13 15:00:00,Ligue_1,2023,Strasbourg,Reims,Home,3,1,2.30507,0.739073,13,8,w,3
+23634,2024-04-21 13:00:00,Ligue_1,2023,Strasbourg,Lille,Away,0,1,0.948728,1.26308,8,6,l,0
+23642,2024-04-28 13:00:00,Ligue_1,2023,Strasbourg,Nice,Home,1,3,1.04231,1.89803,13,8,l,0
+23656,2024-05-04 13:00:00,Ligue_1,2023,Strasbourg,Le Havre,Away,1,3,0.631836,2.56306,5,15,l,0
+23660,2024-05-12 19:00:00,Ligue_1,2023,Strasbourg,Metz,Home,2,1,1.38725,0.896939,10,11,w,3
+23671,2024-05-19 19:00:00,Ligue_1,2023,Strasbourg,Lyon,Away,1,2,1.12544,3.26691,10,15,l,0
+28053,2024-08-18 15:00:00,Ligue_1,2024,Strasbourg,Montpellier,Away,1,1,1.10476,1.44704,11,8,d,1
+28063,2024-08-25 15:00:00,Ligue_1,2024,Strasbourg,Rennes,Home,3,1,1.58875,1.40309,11,15,w,3
+28066,2024-08-30 18:45:00,Ligue_1,2024,Strasbourg,Lyon,Away,3,4,2.44695,3.22754,15,20,l,0
+28083,2024-09-15 15:00:00,Ligue_1,2024,Strasbourg,Angers,Home,1,1,2.47918,0.855084,10,12,d,1
+28090,2024-09-21 15:00:00,Ligue_1,2024,Strasbourg,Lille,Away,3,3,3.02005,2.30213,12,15,d,1
+28093,2024-09-29 18:45:00,Ligue_1,2024,Strasbourg,Marseille,Home,1,0,1.67455,0.782395,14,10,w,3
+28110,2024-10-06 15:00:00,Ligue_1,2024,Strasbourg,Lens,Home,2,2,1.31135,1.43012,8,12,d,1
+28119,2024-10-19 19:00:00,Ligue_1,2024,Strasbourg,Paris Saint Germain,Away,2,4,2.22038,4.66981,16,18,l,0
+28125,2024-10-27 16:00:00,Ligue_1,2024,Strasbourg,Nantes,Home,3,1,1.99679,0.761926,9,8,w,3
+28137,2024-11-02 20:00:00,Ligue_1,2024,Strasbourg,Saint-Etienne,Away,0,2,0.451174,2.82745,9,13,l,0
+28140,2024-11-09 16:00:00,Ligue_1,2024,Strasbourg,Monaco,Home,1,3,0.771173,3.42574,5,19,l,0
+28149,2024-11-24 19:45:00,Ligue_1,2024,Strasbourg,Nice,Away,1,2,0.524154,2.03827,11,15,l,0
+28159,2024-11-30 18:00:00,Ligue_1,2024,Strasbourg,Brest,Away,1,3,0.930345,2.90417,12,11,l,0
+28171,2024-12-08 16:00:00,Ligue_1,2024,Strasbourg,Reims,Home,0,0,1.0949,1.28455,7,11,d,1
+28175,2024-12-15 16:00:00,Ligue_1,2024,Strasbourg,Le Havre,Away,3,0,1.39172,1.58328,9,10,w,3
+28190,2025-01-05 14:00:00,Ligue_1,2024,Strasbourg,Auxerre,Home,3,1,2.89722,1.7605,11,14,w,3
+28192,2025-01-12 16:15:00,Ligue_1,2024,Strasbourg,Toulouse,Away,2,1,1.82783,1.19281,9,19,w,3
+28201,2025-01-19 19:45:00,Ligue_1,2024,Strasbourg,Marseille,Away,1,1,0.854933,3.29082,7,18,d,1
+28210,2025-01-25 18:00:00,Ligue_1,2024,Strasbourg,Lille,Home,2,1,1.19703,1.95469,11,15,w,3
+28226,2025-02-02 16:15:00,Ligue_1,2024,Strasbourg,Rennes,Away,0,1,0.994427,0.763344,7,13,l,0
+28230,2025-02-09 16:15:00,Ligue_1,2024,Strasbourg,Montpellier,Home,2,0,3.17215,1.9822,22,11,w,3
+28240,2025-02-16 16:15:00,Ligue_1,2024,Strasbourg,Lens,Away,2,0,1.97845,0.265561,13,7,w,3
+28249,2025-02-23 16:15:00,Ligue_1,2024,Strasbourg,Brest,Home,0,0,0.785346,0.498988,3,12,d,1
+28261,2025-03-02 16:15:00,Ligue_1,2024,Strasbourg,Auxerre,Away,1,0,1.52559,2.09273,6,14,w,3
+28266,2025-03-09 16:15:00,Ligue_1,2024,Strasbourg,Nantes,Away,1,0,1.17018,0.66134,9,11,w,3
+28279,2025-03-16 16:15:00,Ligue_1,2024,Strasbourg,Toulouse,Home,2,1,1.98742,1.39687,11,11,w,3
+28285,2025-03-28 19:45:00,Ligue_1,2024,Strasbourg,Lyon,Home,4,2,1.77552,2.87161,14,16,w,3
+28298,2025-04-06 15:15:00,Ligue_1,2024,Strasbourg,Reims,Away,1,0,2.80314,0.891063,13,14,w,3
+28304,2025-04-12 19:05:00,Ligue_1,2024,Strasbourg,Nice,Home,2,2,0.789035,1.83829,11,23,d,1
+28316,2025-04-19 17:00:00,Ligue_1,2024,Strasbourg,Monaco,Away,0,0,0.340219,0.969947,5,12,d,1
+28319,2025-04-26 15:00:00,Ligue_1,2024,Strasbourg,Saint-Etienne,Home,3,1,2.8346,2.2201,18,17,w,3
+28328,2025-05-03 15:00:00,Ligue_1,2024,Strasbourg,Paris Saint Germain,Home,2,1,1.42064,2.35931,9,21,w,3
+28338,2025-05-10 19:00:00,Ligue_1,2024,Strasbourg,Angers,Away,1,2,0.710143,1.33058,15,5,l,0
+28345,2025-05-17 19:00:00,Ligue_1,2024,Strasbourg,Le Havre,Home,2,3,1.74414,2.49529,6,10,l,0
+29545,2025-08-17 15:15:00,Ligue_1,2025,Strasbourg,Metz,Away,1,0,0.731013,0.184483,9,2,w,3
+29552,2025-08-24 15:15:00,Ligue_1,2025,Strasbourg,Nantes,Home,1,0,1.81743,0.425423,15,9,w,3
+29563,2025-08-31 15:15:00,Ligue_1,2025,Strasbourg,Monaco,Away,2,3,1.7732,2.35547,12,12,l,0
+29573,2025-09-14 15:15:00,Ligue_1,2025,Strasbourg,Le Havre,Home,1,0,1.43354,0.524832,9,10,w,3
+29582,2025-09-21 13:00:00,Ligue_1,2025,Strasbourg,Paris FC,Away,3,2,2.46459,1.9014,8,18,w,3
+29590,2025-09-26 18:45:00,Ligue_1,2025,Strasbourg,Marseille,Home,1,2,1.0976,2.00258,9,16,l,0
+29600,2025-10-05 15:15:00,Ligue_1,2025,Strasbourg,Angers,Home,5,0,4.2783,0.294622,18,5,w,3
+29608,2025-10-17 18:45:00,Ligue_1,2025,Strasbourg,Paris Saint Germain,Away,3,3,1.92082,2.85659,12,21,d,1
