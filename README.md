@@ -82,4 +82,17 @@ The motivation for this project comes from our shared interest in football analy
 - **Integration Path:** Align RL agent inputs with existing `match_features_df`; reuse TensorFlow pipelines for feature normalization. Compare agent-derived policies against supervised baselines via season replay simulations and run attribution (Shapley/LOO) on policy value drivers.
 - **Next Steps:** Formalize reward definition, create environment wrapper (Gym-style), and prototype contextual bandit as low-risk stepping stone before full RL rollout.
 
+### Momentum Interaction Reward Shaping
 
+- The `momentum_policy_rl` baseline now feeds bookmaker implied probabilities alongside momentum features when constructing training episodes; each season trajectory carries a `(states, actions, market_probs)` tuple for reward analysis.
+- REINFORCE updates still optimise expected discounted accuracy, but correct draw predictions receive an additive bonus (`draw_correct_bonus`) to offset the class imbalance that previously discouraged neutral outcomes.
+- Correctly calling a result that the market priced as an underdog yields a scaled upset bonus (`market_upset_bonus`) proportional to how far the implied probability falls below the configurable `market_underdog_threshold`.
+- Reward parameters are configurable through `FEATURE_SETS["momentum_policy_rl"]["reward_config"]`, enabling quick sensitivity passes without rewriting the agent; defaults target higher draw coverage while spotlighting genuine market overperformance.
+
+### Performance Dense Preprocessing
+
+- The supervised `performance_dense` baseline now constructs a private copy of the match table before training, limiting each run to its own feature view and eliminating cross-model data leakage.
+- Rolling aggregates are smoothed with season/team priors before conversion to per-match averages, preventing cold-start zeros from overwhelming the dense layers early in the season.
+- Compact, ratio-based features (e.g., log goal/xG/points ratios plus attack/defence gaps) tailor the input space to what a dense net can learn efficiently while stripping redundant raw sums.
+- Features are z-scored using training-split statistics (`scale_strategy="zscore"`) and paired with seasonal sin/cos context, stabilising optimisation without distorting the RL or market pipelines.
+- Splits receive their own `tf.data` pipelines derived from the scaled arrays, so validation/test performance reflects the exact preprocessing state used at inference time.
