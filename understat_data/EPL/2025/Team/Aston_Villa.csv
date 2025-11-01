@@ -1,0 +1,9 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+28779,2025-08-16 11:30:00,EPL,2025,Aston_Villa,Newcastle United,Home,0,0,0.318601,1.40098,3,16,d
+28790,2025-08-23 14:00:00,EPL,2025,Aston_Villa,Brentford,Away,0,1,0.976852,1.12964,17,9,l
+28807,2025-08-31 18:00:00,EPL,2025,Aston_Villa,Crystal Palace,Home,0,3,1.20586,2.59713,13,6,l
+28812,2025-09-13 14:00:00,EPL,2025,Aston_Villa,Everton,Away,0,0,0.354327,1.8927,7,20,d
+28826,2025-09-21 13:00:00,EPL,2025,Aston_Villa,Sunderland,Away,1,1,0.939354,0.938312,11,14,d
+28831,2025-09-28 13:00:00,EPL,2025,Aston_Villa,Fulham,Home,3,1,1.36575,0.952612,9,11,w
+28840,2025-10-05 13:00:00,EPL,2025,Aston_Villa,Burnley,Home,2,1,1.73572,0.502292,15,5,w
+28856,2025-10-19 13:00:00,EPL,2025,Aston_Villa,Tottenham,Away,2,1,0.352231,1.51461,8,9,w

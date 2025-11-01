@@ -1,0 +1,8 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+30231,2025-08-24 13:30:00,Bundesliga,2025,FC_Cologne,Mainz 05,Away,1,0,1.64676,1.31655,12,19,w
+30241,2025-08-31 17:30:00,Bundesliga,2025,FC_Cologne,Freiburg,Home,4,1,1.84068,0.933072,18,12,w
+30246,2025-09-13 13:30:00,Bundesliga,2025,FC_Cologne,Wolfsburg,Away,3,3,1.72631,1.79835,14,14,d
+30256,2025-09-20 16:30:00,Bundesliga,2025,FC_Cologne,RasenBallsport Leipzig,Away,1,3,1.39264,3.79591,13,18,l
+30267,2025-09-28 15:30:00,Bundesliga,2025,FC_Cologne,VfB Stuttgart,Home,1,2,1.07972,2.20939,14,15,l
+30274,2025-10-03 18:30:00,Bundesliga,2025,FC_Cologne,Hoffenheim,Away,1,0,1.30873,1.42371,9,15,w
+30279,2025-10-18 13:30:00,Bundesliga,2025,FC_Cologne,Augsburg,Home,1,1,0.523854,1.11917,9,10,d

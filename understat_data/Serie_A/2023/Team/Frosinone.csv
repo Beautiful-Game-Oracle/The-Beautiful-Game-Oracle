@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+22306,2023-08-19 16:30:00,Serie_A,2023,Frosinone,Napoli,Home,1,3,0.871157,1.31464,4,19,l
+22315,2023-08-26 16:30:00,Serie_A,2023,Frosinone,Atalanta,Home,2,1,0.760807,1.44199,13,18,w
+22327,2023-09-02 16:30:00,Serie_A,2023,Frosinone,Udinese,Away,0,0,2.41709,2.07837,12,12,d
+22339,2023-09-17 13:00:00,Serie_A,2023,Frosinone,Sassuolo,Home,4,2,2.97022,1.93433,16,18,w
+22350,2023-09-22 16:30:00,Serie_A,2023,Frosinone,Salernitana,Away,1,1,0.98737,0.834621,9,19,d
+22364,2023-09-28 16:30:00,Serie_A,2023,Frosinone,Fiorentina,Home,1,1,0.976021,1.45269,11,19,d
+22369,2023-10-01 18:45:00,Serie_A,2023,Frosinone,Roma,Away,0,2,0.791935,0.830718,8,11,l
+22377,2023-10-08 13:00:00,Serie_A,2023,Frosinone,Verona,Home,2,1,1.91977,0.506291,11,16,w
+22386,2023-10-22 13:00:00,Serie_A,2023,Frosinone,Bologna,Away,1,2,1.42786,1.63336,12,12,l
+22395,2023-10-29 11:30:00,Serie_A,2023,Frosinone,Cagliari,Away,3,4,1.29593,4.07472,10,24,l
+22411,2023-11-06 17:30:00,Serie_A,2023,Frosinone,Empoli,Home,2,1,0.80376,1.87117,17,10,w
+22424,2023-11-12 20:45:00,Serie_A,2023,Frosinone,Inter,Away,0,2,0.58612,3.2782,12,21,l
+22428,2023-11-26 14:00:00,Serie_A,2023,Frosinone,Genoa,Home,2,1,0.990501,1.82552,9,13,w
+22440,2023-12-02 19:45:00,Serie_A,2023,Frosinone,AC Milan,Away,1,3,0.728766,1.01016,15,10,l
+22448,2023-12-10 11:30:00,Serie_A,2023,Frosinone,Torino,Home,0,0,1.50797,1.06355,11,16,d
+22462,2023-12-16 14:00:00,Serie_A,2023,Frosinone,Lecce,Away,1,2,1.84133,0.729342,11,18,l
+22466,2023-12-23 11:30:00,Serie_A,2023,Frosinone,Juventus,Home,1,2,0.495508,1.27523,10,13,l
+22483,2023-12-29 19:45:00,Serie_A,2023,Frosinone,Lazio,Away,1,3,1.13132,1.74892,11,13,l
+22487,2024-01-06 14:00:00,Serie_A,2023,Frosinone,Monza,Home,2,3,1.14998,1.45289,11,7,l
+22495,2024-01-15 19:45:00,Serie_A,2023,Frosinone,Atalanta,Away,0,5,0.434507,4.91726,8,21,l
+22508,2024-01-21 11:30:00,Serie_A,2023,Frosinone,Cagliari,Home,3,1,2.9278,0.599249,17,9,w
+22516,2024-01-28 14:00:00,Serie_A,2023,Frosinone,Verona,Away,1,1,1.66579,2.29871,11,15,d
+22531,2024-02-03 17:00:00,Serie_A,2023,Frosinone,AC Milan,Home,2,3,1.0672,2.01173,7,13,l
+22537,2024-02-11 11:30:00,Serie_A,2023,Frosinone,Fiorentina,Away,1,5,1.2861,3.17846,11,18,l
+22552,2024-02-18 17:00:00,Serie_A,2023,Frosinone,Roma,Home,0,3,1.62402,1.81853,25,13,l
+22562,2024-02-25 11:30:00,Serie_A,2023,Frosinone,Juventus,Away,2,3,0.570671,1.74414,7,22,l
+22566,2024-03-03 14:00:00,Serie_A,2023,Frosinone,Lecce,Home,1,1,1.53511,1.29494,16,11,d
+22580,2024-03-09 14:00:00,Serie_A,2023,Frosinone,Sassuolo,Away,0,1,1.38509,0.596618,11,10,l
+22586,2024-03-16 19:45:00,Serie_A,2023,Frosinone,Lazio,Home,2,3,1.90054,3.30539,14,22,l
+22602,2024-03-30 14:00:00,Serie_A,2023,Frosinone,Genoa,Away,1,1,1.00689,1.65796,15,9,d
+22614,2024-04-07 10:30:00,Serie_A,2023,Frosinone,Bologna,Home,0,0,0.568316,2.46415,12,13,d
+22618,2024-04-14 10:30:00,Serie_A,2023,Frosinone,Napoli,Away,2,2,2.31434,2.7326,13,20,d
+22632,2024-04-21 13:00:00,Serie_A,2023,Frosinone,Torino,Away,0,0,0.57895,0.520991,12,13,d
+22640,2024-04-26 18:45:00,Serie_A,2023,Frosinone,Salernitana,Home,3,0,1.75172,1.03098,11,17,w
+22646,2024-05-05 13:00:00,Serie_A,2023,Frosinone,Empoli,Away,0,0,0.947755,0.318217,17,7,d
+22657,2024-05-10 18:45:00,Serie_A,2023,Frosinone,Inter,Home,0,5,1.88809,2.05666,17,14,l
+22671,2024-05-19 16:00:00,Serie_A,2023,Frosinone,Monza,Away,1,0,2.22694,1.24886,16,14,w
+22678,2024-05-26 18:45:00,Serie_A,2023,Frosinone,Udinese,Home,0,1,0.869244,0.895463,21,10,l

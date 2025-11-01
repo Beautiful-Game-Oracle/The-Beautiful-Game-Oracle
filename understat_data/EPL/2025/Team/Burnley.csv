@@ -1,0 +1,9 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+28782,2025-08-16 14:00:00,EPL,2025,Burnley,Tottenham,Away,0,3,0.734138,1.97858,14,16,l
+28791,2025-08-23 14:00:00,EPL,2025,Burnley,Sunderland,Home,2,0,1.00381,1.12127,7,9,w
+28802,2025-08-30 14:00:00,EPL,2025,Burnley,Manchester United,Away,2,3,1.32618,4.02237,7,26,l
+28816,2025-09-14 13:00:00,EPL,2025,Burnley,Liverpool,Home,0,1,0.168041,2.79492,3,27,l
+28822,2025-09-20 14:00:00,EPL,2025,Burnley,Nottingham Forest,Home,1,1,1.14159,0.830779,12,17,d
+28833,2025-09-27 14:00:00,EPL,2025,Burnley,Manchester City,Away,1,5,0.509491,3.22133,11,21,l
+28840,2025-10-05 13:00:00,EPL,2025,Burnley,Aston Villa,Away,1,2,0.502292,1.73572,5,15,l
+28849,2025-10-18 14:00:00,EPL,2025,Burnley,Leeds,Home,2,0,0.509647,2.33152,4,19,w

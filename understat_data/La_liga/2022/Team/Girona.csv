@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+18967,2022-08-14 17:30:00,La_liga,2022,Girona,Valencia,Away,0,1,0.132198,1.87878,5,17,l
+18981,2022-08-22 20:00:00,La_liga,2022,Girona,Getafe,Home,3,1,1.52171,0.692785,12,8,w
+18982,2022-08-26 18:00:00,La_liga,2022,Girona,Celta Vigo,Home,0,1,0.566228,0.625546,11,11,l
+19001,2022-09-03 12:00:00,La_liga,2022,Girona,Mallorca,Away,1,1,1.09499,0.895835,10,10,d
+19008,2022-09-09 19:00:00,La_liga,2022,Girona,Real Valladolid,Home,2,1,2.59252,0.510622,14,14,w
+19014,2022-09-18 16:30:00,La_liga,2022,Girona,Real Betis,Away,1,2,1.34699,1.49153,8,9,l
+19025,2022-10-02 16:30:00,La_liga,2022,Girona,Real Sociedad,Home,3,5,0.932579,2.23639,16,11,l
+19032,2022-10-08 14:15:00,La_liga,2022,Girona,Atletico Madrid,Away,1,2,0.721587,2.19801,11,13,l
+19049,2022-10-15 12:00:00,La_liga,2022,Girona,Cadiz,Home,1,1,2.36044,1.3467,23,9,d
+19056,2022-10-20 17:00:00,La_liga,2022,Girona,Almeria,Away,2,3,2.65444,2.08595,14,13,l
+19064,2022-10-23 16:30:00,La_liga,2022,Girona,Osasuna,Home,1,1,0.666875,0.693721,7,9,d
+19081,2022-10-30 15:15:00,La_liga,2022,Girona,Real Madrid,Away,1,1,1.99848,2.65755,8,19,d
+19087,2022-11-04 20:00:00,La_liga,2022,Girona,Athletic Club,Home,2,1,1.06554,0.81175,19,11,w
+19093,2022-11-08 18:00:00,La_liga,2022,Girona,Elche,Away,2,1,2.20883,0.914455,21,11,w
+19106,2022-12-29 16:00:00,La_liga,2022,Girona,Rayo Vallecano,Home,2,2,2.26829,1.3213,16,12,d
+19115,2023-01-07 20:00:00,La_liga,2022,Girona,Espanyol,Away,2,2,1.65781,1.26728,12,12,d
+19126,2023-01-14 15:15:00,La_liga,2022,Girona,Sevilla,Home,2,1,2.8461,0.784402,19,10,w
+19141,2023-01-22 13:00:00,La_liga,2022,Girona,Villarreal,Away,0,1,0.637476,2.79546,8,19,l
+19147,2023-01-28 15:15:00,La_liga,2022,Girona,Barcelona,Home,0,1,0.893789,0.981042,8,8,l
+19160,2023-02-05 15:15:00,La_liga,2022,Girona,Valencia,Home,1,0,2.57015,0.877751,20,8,w
+19163,2023-02-10 20:00:00,La_liga,2022,Girona,Cadiz,Away,0,2,0.213596,0.717862,7,12,l
+19181,2023-02-17 17:00:00,La_liga,2022,Girona,Almeria,Home,6,2,3.22586,1.23696,14,16,w
+19184,2023-02-26 13:00:00,La_liga,2022,Girona,Athletic Club,Away,3,2,1.33877,1.34464,8,19,w
+19195,2023-03-04 13:00:00,La_liga,2022,Girona,Getafe,Away,2,3,0.845978,1.86918,9,10,l
+19207,2023-03-13 20:00:00,La_liga,2022,Girona,Atletico Madrid,Home,0,1,0.301909,1.80682,6,14,l
+19221,2023-03-18 15:15:00,La_liga,2022,Girona,Rayo Vallecano,Away,2,2,1.50856,1.71981,12,15,d
+19228,2023-04-01 12:00:00,La_liga,2022,Girona,Espanyol,Home,2,1,1.45036,0.946182,14,5,w
+19232,2023-04-10 19:00:00,La_liga,2022,Girona,Barcelona,Away,0,0,0.491057,1.05077,5,18,d
+19248,2023-04-16 12:00:00,La_liga,2022,Girona,Elche,Home,2,0,1.22906,0.577847,14,13,w
+19261,2023-04-22 16:30:00,La_liga,2022,Girona,Real Valladolid,Away,0,1,1.0586,1.11143,12,15,l
+19268,2023-04-25 17:30:00,La_liga,2022,Girona,Real Madrid,Home,4,2,2.4202,1.63006,13,18,w
+19281,2023-05-01 19:00:00,La_liga,2022,Girona,Sevilla,Away,2,0,1.13007,2.35198,9,23,w
+19289,2023-05-04 17:30:00,La_liga,2022,Girona,Mallorca,Home,2,1,2.20534,1.34254,17,8,w
+19292,2023-05-13 12:00:00,La_liga,2022,Girona,Real Sociedad,Away,2,2,1.4691,3.05494,13,15,d
+19304,2023-05-20 12:00:00,La_liga,2022,Girona,Villarreal,Home,1,2,1.31674,1.71579,9,10,l
+19313,2023-05-23 17:30:00,La_liga,2022,Girona,Celta Vigo,Away,1,1,1.40034,0.933339,11,16,d
+19329,2023-05-28 17:00:00,La_liga,2022,Girona,Real Betis,Home,1,2,1.63315,2.32066,9,18,l
+19338,2023-06-04 18:00:00,La_liga,2022,Girona,Osasuna,Away,1,2,0.822488,1.91718,11,14,l

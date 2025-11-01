@@ -1,0 +1,8 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29849,2025-08-24 16:30:00,Serie_A,2025,Lazio,Como,Away,0,2,0.202984,1.28478,5,19,l
+29863,2025-08-31 18:45:00,Serie_A,2025,Lazio,Verona,Home,4,0,3.96645,0.600485,22,12,w
+29870,2025-09-14 16:00:00,Serie_A,2025,Lazio,Sassuolo,Away,0,1,0.858246,1.2156,13,10,l
+29881,2025-09-21 10:30:00,Serie_A,2025,Lazio,Roma,Home,0,1,0.666967,1.22639,10,13,l
+29886,2025-09-29 18:45:00,Serie_A,2025,Lazio,Genoa,Away,3,0,3.54059,1.47659,9,17,w
+29899,2025-10-04 13:00:00,Serie_A,2025,Lazio,Torino,Home,3,3,1.45075,2.18108,9,16,d
+29904,2025-10-19 16:00:00,Serie_A,2025,Lazio,Atalanta,Away,0,0,0.220276,2.38095,4,16,d

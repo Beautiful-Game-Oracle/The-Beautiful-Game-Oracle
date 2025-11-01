@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+22688,2023-08-12 17:30:00,La_liga,2023,Mallorca,Las Palmas,Away,1,1,1.49411,0.871699,12,5,d
+22695,2023-08-18 17:30:00,La_liga,2023,Mallorca,Villarreal,Home,0,1,0.370077,2.12458,8,15,l
+22708,2023-08-26 17:30:00,La_liga,2023,Mallorca,Granada,Away,2,3,2.50232,1.81377,10,10,l
+22721,2023-09-03 14:15:00,La_liga,2023,Mallorca,Athletic Club,Home,0,0,0.403052,0.645541,8,11,d
+22727,2023-09-16 16:30:00,La_liga,2023,Mallorca,Celta Vigo,Away,1,0,0.853213,2.06489,7,16,w
+22739,2023-09-23 12:00:00,La_liga,2023,Mallorca,Girona,Away,3,5,2.42602,4.19225,15,23,l
+22749,2023-09-26 19:30:00,La_liga,2023,Mallorca,Barcelona,Home,2,2,1.21366,1.62815,10,10,d
+22764,2023-09-30 14:15:00,La_liga,2023,Mallorca,Rayo Vallecano,Away,2,2,1.33689,1.78616,9,19,d
+22768,2023-10-07 16:30:00,La_liga,2023,Mallorca,Valencia,Home,1,1,0.919992,0.509313,9,11,d
+22781,2023-10-21 12:00:00,La_liga,2023,Mallorca,Real Sociedad,Away,0,1,2.03914,2.0056,18,14,l
+22793,2023-10-28 16:30:00,La_liga,2023,Mallorca,Getafe,Home,0,0,0.722341,0.292202,15,8,d
+22795,2023-11-04 15:15:00,La_liga,2023,Mallorca,Real Betis,Away,0,2,0.540374,2.84664,8,22,l
+22815,2023-11-25 20:00:00,La_liga,2023,Mallorca,Atletico Madrid,Away,0,1,0.945212,2.29683,8,20,l
+22810,2023-11-29 20:00:00,La_liga,2023,Mallorca,Cadiz,Home,1,1,0.8514,0.251799,16,6,d
+22834,2023-12-03 13:00:00,La_liga,2023,Mallorca,Alaves,Home,0,0,0.909609,0.277842,7,7,d
+22839,2023-12-09 20:00:00,La_liga,2023,Mallorca,Sevilla,Home,1,0,0.533315,0.554467,5,19,w
+22845,2023-12-17 13:00:00,La_liga,2023,Mallorca,Almeria,Away,0,0,1.51369,0.314828,20,7,d
+22859,2023-12-21 20:30:00,La_liga,2023,Mallorca,Osasuna,Home,3,2,1.68391,1.5871,15,12,w
+22873,2024-01-03 18:15:00,La_liga,2023,Mallorca,Real Madrid,Away,0,1,0.840414,1.87575,7,17,l
+22883,2024-01-13 15:15:00,La_liga,2023,Mallorca,Celta Vigo,Home,1,1,2.59976,0.711693,17,6,d
+22893,2024-01-20 15:15:00,La_liga,2023,Mallorca,Villarreal,Away,1,1,0.430539,1.7328,8,18,d
+22901,2024-01-27 20:00:00,La_liga,2023,Mallorca,Real Betis,Home,0,1,1.72961,0.400759,14,8,l
+22905,2024-02-02 20:00:00,La_liga,2023,Mallorca,Athletic Club,Away,0,4,0.469702,1.95995,6,13,l
+22917,2024-02-11 15:15:00,La_liga,2023,Mallorca,Rayo Vallecano,Home,2,1,0.82898,1.40787,8,11,w
+22927,2024-02-18 17:30:00,La_liga,2023,Mallorca,Real Sociedad,Home,1,2,0.188904,1.20859,4,19,l
+22943,2024-02-24 17:30:00,La_liga,2023,Mallorca,Alaves,Away,1,1,1.80166,0.501891,15,9,d
+22950,2024-03-03 17:30:00,La_liga,2023,Mallorca,Girona,Home,1,0,0.943297,1.08616,16,15,w
+22956,2024-03-08 20:00:00,La_liga,2023,Mallorca,Barcelona,Away,0,1,0.504754,2.06225,9,20,l
+22973,2024-03-16 13:00:00,La_liga,2023,Mallorca,Granada,Home,1,0,1.65502,0.295993,18,8,w
+22984,2024-03-30 17:30:00,La_liga,2023,Mallorca,Valencia,Away,0,0,0.673736,1.33845,11,14,d
+22988,2024-04-13 16:30:00,La_liga,2023,Mallorca,Real Madrid,Home,0,1,0.592998,1.81161,6,16,l
+23003,2024-04-22 19:00:00,La_liga,2023,Mallorca,Sevilla,Away,1,2,0.879845,1.72842,8,11,l
+23008,2024-04-28 12:00:00,La_liga,2023,Mallorca,Cadiz,Away,1,1,0.827497,0.441837,10,10,d
+23018,2024-05-04 19:00:00,La_liga,2023,Mallorca,Atletico Madrid,Home,0,1,0.328479,0.874778,7,9,l
+23034,2024-05-11 12:00:00,La_liga,2023,Mallorca,Las Palmas,Home,1,0,0.45718,0.313172,7,7,w
+23042,2024-05-14 17:30:00,La_liga,2023,Mallorca,Osasuna,Away,1,1,0.919263,0.428998,10,10,d
+23051,2024-05-19 17:00:00,La_liga,2023,Mallorca,Almeria,Home,2,2,2.45608,0.238391,29,7,d
+23057,2024-05-26 12:00:00,La_liga,2023,Mallorca,Getafe,Away,2,1,1.34437,1.07908,9,16,w

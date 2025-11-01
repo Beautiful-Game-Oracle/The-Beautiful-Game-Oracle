@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+23065,2023-08-18 18:30:00,Bundesliga,2023,Werder_Bremen,Bayern Munich,Home,0,4,0.63974,2.89704,6,25,l
+23075,2023-08-26 13:30:00,Bundesliga,2023,Werder_Bremen,Freiburg,Away,0,1,0.696983,1.71877,15,23,l
+23086,2023-09-02 13:30:00,Bundesliga,2023,Werder_Bremen,Mainz 05,Home,4,0,3.01318,0.65805,13,13,w
+23099,2023-09-17 13:30:00,Bundesliga,2023,Werder_Bremen,FC Heidenheim,Away,2,4,2.55978,1.96235,11,18,l
+23107,2023-09-23 16:30:00,Bundesliga,2023,Werder_Bremen,FC Cologne,Home,2,1,1.59965,1.98951,17,14,w
+23117,2023-10-01 13:30:00,Bundesliga,2023,Werder_Bremen,Darmstadt,Away,2,4,1.54627,2.34923,11,14,l
+23124,2023-10-07 16:30:00,Bundesliga,2023,Werder_Bremen,Hoffenheim,Home,2,3,1.03064,1.52805,13,10,l
+23128,2023-10-20 18:30:00,Bundesliga,2023,Werder_Bremen,Borussia Dortmund,Away,0,1,0.53973,2.7285,5,23,l
+23142,2023-10-28 13:30:00,Bundesliga,2023,Werder_Bremen,Union Berlin,Home,2,0,0.690799,0.368624,10,8,w
+23149,2023-11-05 14:30:00,Bundesliga,2023,Werder_Bremen,Wolfsburg,Away,2,2,1.40324,1.81371,13,14,d
+23159,2023-11-12 16:30:00,Bundesliga,2023,Werder_Bremen,Eintracht Frankfurt,Home,2,2,1.93909,2.02339,13,14,d
+23171,2023-11-25 14:30:00,Bundesliga,2023,Werder_Bremen,Bayer Leverkusen,Home,0,3,0.306657,1.7528,3,14,l
+23180,2023-12-02 17:30:00,Bundesliga,2023,Werder_Bremen,VfB Stuttgart,Away,0,2,0.65905,4.01803,12,19,l
+23188,2023-12-09 14:30:00,Bundesliga,2023,Werder_Bremen,Augsburg,Home,2,0,1.84577,0.627715,14,11,w
+23196,2023-12-15 19:30:00,Bundesliga,2023,Werder_Bremen,Borussia M.Gladbach,Away,2,2,1.64723,1.20813,13,14,d
+23206,2023-12-19 17:30:00,Bundesliga,2023,Werder_Bremen,RasenBallsport Leipzig,Home,1,1,1.48185,1.99449,11,17,d
+23215,2024-01-14 14:30:00,Bundesliga,2023,Werder_Bremen,Bochum,Away,1,1,0.934194,1.24017,16,14,d
+23218,2024-01-21 14:30:00,Bundesliga,2023,Werder_Bremen,Bayern Munich,Away,1,0,0.429252,1.54562,8,22,w
+23233,2024-01-27 14:30:00,Bundesliga,2023,Werder_Bremen,Freiburg,Home,3,1,2.33032,1.33739,14,7,w
+23240,2024-02-03 14:30:00,Bundesliga,2023,Werder_Bremen,Mainz 05,Away,1,0,0.395044,1.04044,6,23,w
+23249,2024-02-10 14:30:00,Bundesliga,2023,Werder_Bremen,FC Heidenheim,Home,1,2,1.62589,2.1722,15,11,l
+23258,2024-02-16 19:30:00,Bundesliga,2023,Werder_Bremen,FC Cologne,Away,1,0,1.35198,0.627448,13,13,w
+23265,2024-02-24 14:30:00,Bundesliga,2023,Werder_Bremen,Darmstadt,Home,1,1,1.5891,0.890186,13,12,d
+23277,2024-03-03 16:30:00,Bundesliga,2023,Werder_Bremen,Hoffenheim,Away,1,2,1.34942,2.06582,18,14,l
+23286,2024-03-09 17:30:00,Bundesliga,2023,Werder_Bremen,Borussia Dortmund,Home,1,2,1.34789,1.23563,16,13,l
+23291,2024-03-16 14:30:00,Bundesliga,2023,Werder_Bremen,Union Berlin,Away,1,2,0.833042,1.42836,11,11,l
+23304,2024-03-30 14:30:00,Bundesliga,2023,Werder_Bremen,Wolfsburg,Home,0,2,0.738782,2.44615,6,16,l
+23311,2024-04-05 18:30:00,Bundesliga,2023,Werder_Bremen,Eintracht Frankfurt,Away,1,1,1.60098,2.18898,11,24,d
+23319,2024-04-14 15:30:00,Bundesliga,2023,Werder_Bremen,Bayer Leverkusen,Away,0,5,0.885426,3.33579,7,20,l
+23333,2024-04-21 13:30:00,Bundesliga,2023,Werder_Bremen,VfB Stuttgart,Home,2,1,1.40776,3.32355,9,14,w
+23342,2024-04-27 13:30:00,Bundesliga,2023,Werder_Bremen,Augsburg,Away,3,0,2.53138,0.54257,15,13,w
+23350,2024-05-04 13:30:00,Bundesliga,2023,Werder_Bremen,Borussia M.Gladbach,Home,2,2,1.31618,2.28533,18,17,d
+23354,2024-05-11 13:30:00,Bundesliga,2023,Werder_Bremen,RasenBallsport Leipzig,Away,1,1,1.0305,1.60961,11,14,d
+23368,2024-05-18 13:30:00,Bundesliga,2023,Werder_Bremen,Bochum,Home,4,1,3.80667,2.14301,26,27,w

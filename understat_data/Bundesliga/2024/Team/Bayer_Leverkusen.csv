@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+27742,2024-08-23 18:30:00,Bundesliga,2024,Bayer_Leverkusen,Borussia M.Gladbach,Away,3,2,3.23588,1.51665,25,14,w
+27757,2024-08-31 16:30:00,Bundesliga,2024,Bayer_Leverkusen,RasenBallsport Leipzig,Home,2,3,3.42266,1.50532,26,8,l
+27761,2024-09-14 13:30:00,Bundesliga,2024,Bayer_Leverkusen,Hoffenheim,Away,4,1,3.41829,1.06356,20,15,w
+27775,2024-09-22 13:30:00,Bundesliga,2024,Bayer_Leverkusen,Wolfsburg,Home,4,3,1.71874,0.836406,21,9,w
+27784,2024-09-28 16:30:00,Bundesliga,2024,Bayer_Leverkusen,Bayern Munich,Away,1,1,0.0870163,1.19457,3,18,d
+27794,2024-10-05 13:30:00,Bundesliga,2024,Bayer_Leverkusen,Holstein Kiel,Home,2,2,2.5839,1.98438,23,8,d
+27796,2024-10-19 13:30:00,Bundesliga,2024,Bayer_Leverkusen,Eintracht Frankfurt,Home,2,1,4.07146,1.55158,27,9,w
+27808,2024-10-26 16:30:00,Bundesliga,2024,Bayer_Leverkusen,Werder Bremen,Away,2,2,1.30852,1.78808,14,14,d
+27814,2024-11-01 19:30:00,Bundesliga,2024,Bayer_Leverkusen,VfB Stuttgart,Home,0,0,2.78287,0.223778,19,4,d
+27830,2024-11-09 14:30:00,Bundesliga,2024,Bayer_Leverkusen,Bochum,Away,1,1,1.40554,0.777554,11,15,d
+27832,2024-11-23 14:30:00,Bundesliga,2024,Bayer_Leverkusen,FC Heidenheim,Home,5,2,2.02581,1.03141,20,6,w
+27848,2024-11-30 14:30:00,Bundesliga,2024,Bayer_Leverkusen,Union Berlin,Away,2,1,0.906684,1.11328,8,8,w
+27850,2024-12-07 14:30:00,Bundesliga,2024,Bayer_Leverkusen,St. Pauli,Home,2,1,0.729523,2.18395,6,12,w
+27863,2024-12-14 14:30:00,Bundesliga,2024,Bayer_Leverkusen,Augsburg,Away,2,0,1.02095,0.43671,14,8,w
+27868,2024-12-21 17:30:00,Bundesliga,2024,Bayer_Leverkusen,Freiburg,Home,5,1,3.25968,1.34161,20,8,w
+27878,2025-01-10 19:30:00,Bundesliga,2024,Bayer_Leverkusen,Borussia Dortmund,Away,3,2,1.8834,1.48663,7,12,w
+27886,2025-01-14 19:30:00,Bundesliga,2024,Bayer_Leverkusen,Mainz 05,Home,1,0,1.99412,0.603471,20,7,w
+27895,2025-01-18 17:30:00,Bundesliga,2024,Bayer_Leverkusen,Borussia M.Gladbach,Home,3,1,2.08382,0.473935,10,7,w
+27904,2025-01-25 14:30:00,Bundesliga,2024,Bayer_Leverkusen,RasenBallsport Leipzig,Away,2,2,2.57674,0.708246,14,7,d
+27916,2025-02-02 16:30:00,Bundesliga,2024,Bayer_Leverkusen,Hoffenheim,Home,3,1,1.35418,1.94944,9,16,w
+27927,2025-02-08 14:30:00,Bundesliga,2024,Bayer_Leverkusen,Wolfsburg,Away,0,0,1.66317,0.895017,15,13,d
+27931,2025-02-15 17:30:00,Bundesliga,2024,Bayer_Leverkusen,Bayern Munich,Home,0,0,2.55729,0.0720406,15,2,d
+27948,2025-02-22 14:30:00,Bundesliga,2024,Bayer_Leverkusen,Holstein Kiel,Away,2,0,2.55557,0.494995,18,4,w
+27951,2025-03-01 17:30:00,Bundesliga,2024,Bayer_Leverkusen,Eintracht Frankfurt,Away,4,1,2.37018,1.00046,20,7,w
+27958,2025-03-08 14:30:00,Bundesliga,2024,Bayer_Leverkusen,Werder Bremen,Home,0,2,1.36325,1.67701,17,11,l
+27967,2025-03-16 18:30:00,Bundesliga,2024,Bayer_Leverkusen,VfB Stuttgart,Away,4,3,2.07439,2.85024,17,12,w
+27976,2025-03-28 19:30:00,Bundesliga,2024,Bayer_Leverkusen,Bochum,Home,3,1,2.08076,0.702152,14,8,w
+27986,2025-04-05 13:30:00,Bundesliga,2024,Bayer_Leverkusen,FC Heidenheim,Away,1,0,0.367393,1.30234,6,10,w
+27994,2025-04-12 13:30:00,Bundesliga,2024,Bayer_Leverkusen,Union Berlin,Home,0,0,0.495489,0.513825,16,7,d
+28011,2025-04-20 17:30:00,Bundesliga,2024,Bayer_Leverkusen,St. Pauli,Away,1,1,1.13491,2.3164,6,10,d
+28012,2025-04-26 13:30:00,Bundesliga,2024,Bayer_Leverkusen,Augsburg,Home,2,0,1.03782,0.640893,14,11,w
+28024,2025-05-04 15:30:00,Bundesliga,2024,Bayer_Leverkusen,Freiburg,Away,2,2,0.227838,0.904468,6,7,d
+28030,2025-05-11 13:30:00,Bundesliga,2024,Bayer_Leverkusen,Borussia Dortmund,Home,2,4,1.90473,1.39477,19,9,l
+28045,2025-05-17 13:30:00,Bundesliga,2024,Bayer_Leverkusen,Mainz 05,Away,2,2,1.33572,2.89903,7,19,d

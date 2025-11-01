@@ -1,0 +1,8 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+30224,2025-08-22 18:30:00,Bundesliga,2025,Bayern_Munich,RasenBallsport Leipzig,Home,6,0,3.29885,0.52226,19,12,w
+30238,2025-08-30 16:30:00,Bundesliga,2025,Bayern_Munich,Augsburg,Away,3,2,3.37523,0.506028,20,10,w
+30248,2025-09-13 16:30:00,Bundesliga,2025,Bayern_Munich,Hamburger SV,Home,5,0,3.03718,0.559174,22,9,w
+30255,2025-09-20 13:30:00,Bundesliga,2025,Bayern_Munich,Hoffenheim,Away,4,1,2.7142,1.03716,18,12,w
+30260,2025-09-26 18:30:00,Bundesliga,2025,Bayern_Munich,Werder Bremen,Home,4,0,4.31859,0.298618,26,8,w
+30272,2025-10-04 16:30:00,Bundesliga,2025,Bayern_Munich,Eintracht Frankfurt,Away,3,0,2.2301,0.560138,12,6,w
+30278,2025-10-18 16:30:00,Bundesliga,2025,Bayern_Munich,Borussia Dortmund,Home,2,1,2.81994,1.41011,15,8,w

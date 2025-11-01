@@ -1,0 +1,10 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29163,2025-08-17 15:00:00,La_liga,2025,Celta_Vigo,Getafe,Home,0,2,0.744247,1.50131,11,10,l
+29169,2025-08-23 15:00:00,La_liga,2025,Celta_Vigo,Mallorca,Away,1,1,0.917413,0.664974,8,12,d
+29178,2025-08-27 19:00:00,La_liga,2025,Celta_Vigo,Real Betis,Home,1,1,0.905201,0.714458,14,7,d
+29185,2025-08-31 15:00:00,La_liga,2025,Celta_Vigo,Villarreal,Home,1,1,0.876041,0.96978,10,8,d
+29192,2025-09-14 12:00:00,La_liga,2025,Celta_Vigo,Girona,Home,1,1,1.80278,1.41213,21,13,d
+29205,2025-09-21 12:00:00,La_liga,2025,Celta_Vigo,Rayo Vallecano,Away,1,1,1.28175,1.3145,9,15,d
+29226,2025-09-28 14:15:00,La_liga,2025,Celta_Vigo,Elche,Away,1,2,0.821768,4.03596,8,17,l
+29232,2025-10-05 19:00:00,La_liga,2025,Celta_Vigo,Atletico Madrid,Home,1,1,2.27285,0.710823,19,6,d
+29241,2025-10-19 14:15:00,La_liga,2025,Celta_Vigo,Real Sociedad,Home,1,1,0.717367,2.13562,4,17,d

@@ -1,0 +1,9 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+28784,2025-08-17 13:00:00,EPL,2025,Chelsea,Crystal Palace,Home,0,0,1.36793,1.03414,19,12,d
+28788,2025-08-22 19:00:00,EPL,2025,Chelsea,West Ham,Away,5,1,3.94997,0.978572,12,12,w
+28798,2025-08-30 11:30:00,EPL,2025,Chelsea,Fulham,Home,2,0,2.4324,0.736228,13,11,w
+28815,2025-09-13 19:00:00,EPL,2025,Chelsea,Brentford,Away,2,2,0.755999,1.17533,16,7,d
+28824,2025-09-20 16:30:00,EPL,2025,Chelsea,Manchester United,Away,1,2,0.469843,1.34458,5,11,l
+28829,2025-09-27 14:00:00,EPL,2025,Chelsea,Brighton,Home,1,3,2.02653,2.4751,13,12,l
+28842,2025-10-04 16:30:00,EPL,2025,Chelsea,Liverpool,Home,2,1,1.23721,2.05981,12,12,w
+28854,2025-10-18 11:30:00,EPL,2025,Chelsea,Nottingham Forest,Away,3,0,2.5583,2.0555,17,11,w

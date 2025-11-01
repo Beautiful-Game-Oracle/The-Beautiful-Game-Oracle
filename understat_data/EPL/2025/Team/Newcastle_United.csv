@@ -1,0 +1,9 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+28779,2025-08-16 11:30:00,EPL,2025,Newcastle_United,Aston Villa,Away,0,0,1.40098,0.318601,16,3,d
+28797,2025-08-25 19:00:00,EPL,2025,Newcastle_United,Liverpool,Home,2,3,1.96342,0.646559,10,5,l
+28803,2025-08-30 16:30:00,EPL,2025,Newcastle_United,Leeds,Away,0,0,0.303635,0.6773,8,10,d
+28809,2025-09-13 14:00:00,EPL,2025,Newcastle_United,Wolverhampton Wanderers,Home,1,0,1.19186,0.375942,16,8,w
+28823,2025-09-21 13:00:00,EPL,2025,Newcastle_United,Bournemouth,Away,0,0,0.153629,0.55066,4,11,d
+28836,2025-09-28 15:30:00,EPL,2025,Newcastle_United,Arsenal,Home,1,2,0.739851,2.07048,8,20,l
+28846,2025-10-05 13:00:00,EPL,2025,Newcastle_United,Nottingham Forest,Home,2,0,3.81662,0.337689,18,5,w
+28848,2025-10-18 14:00:00,EPL,2025,Newcastle_United,Brighton,Away,1,2,1.28313,0.857104,16,13,l

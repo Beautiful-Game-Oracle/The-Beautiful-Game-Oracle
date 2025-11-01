@@ -1,0 +1,9 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+28781,2025-08-16 14:00:00,EPL,2025,West_Ham,Sunderland,Away,0,3,0.558948,0.724368,12,10,l
+28788,2025-08-22 19:00:00,EPL,2025,West_Ham,Chelsea,Home,1,5,0.978572,3.94997,12,12,l
+28804,2025-08-31 13:00:00,EPL,2025,West_Ham,Nottingham Forest,Away,3,0,2.236,0.716018,12,11,w
+28814,2025-09-13 16:30:00,EPL,2025,West_Ham,Tottenham,Home,0,3,0.793248,1.51402,7,14,l
+28819,2025-09-20 14:00:00,EPL,2025,West_Ham,Crystal Palace,Home,1,2,0.466365,2.33565,8,18,l
+28837,2025-09-29 19:00:00,EPL,2025,West_Ham,Everton,Away,1,1,0.775766,0.909703,14,12,d
+28839,2025-10-04 14:00:00,EPL,2025,West_Ham,Arsenal,Away,0,2,0.864549,3.0585,4,21,l
+28857,2025-10-20 19:00:00,EPL,2025,West_Ham,Brentford,Home,0,2,0.260251,3.46635,7,22,l

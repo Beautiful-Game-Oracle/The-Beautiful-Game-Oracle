@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+23068,2023-08-19 13:30:00,Bundesliga,2023,Hoffenheim,Freiburg,Home,1,2,1.67186,3.24821,23,18,l
+23078,2023-08-26 13:30:00,Bundesliga,2023,Hoffenheim,FC Heidenheim,Away,3,2,2.75768,2.72999,16,20,w
+23085,2023-09-02 13:30:00,Bundesliga,2023,Hoffenheim,Wolfsburg,Home,3,1,1.78689,1.4154,10,13,w
+23097,2023-09-16 13:30:00,Bundesliga,2023,Hoffenheim,FC Cologne,Away,3,1,1.06988,1.19432,14,18,w
+23106,2023-09-23 13:30:00,Bundesliga,2023,Hoffenheim,Union Berlin,Away,2,0,2.15364,1.62442,11,22,w
+23110,2023-09-29 18:30:00,Bundesliga,2023,Hoffenheim,Borussia Dortmund,Home,1,3,1.85129,1.69401,15,6,l
+23124,2023-10-07 16:30:00,Bundesliga,2023,Hoffenheim,Werder Bremen,Away,3,2,1.52805,1.03064,10,13,w
+23132,2023-10-21 13:30:00,Bundesliga,2023,Hoffenheim,Eintracht Frankfurt,Home,1,3,1.13281,2.13235,14,14,l
+23145,2023-10-28 13:30:00,Bundesliga,2023,Hoffenheim,VfB Stuttgart,Away,3,2,1.74412,3.15109,7,23,w
+23152,2023-11-04 14:30:00,Bundesliga,2023,Hoffenheim,Bayer Leverkusen,Home,2,3,1.27214,1.05046,12,9,l
+23161,2023-11-11 14:30:00,Bundesliga,2023,Hoffenheim,Augsburg,Away,1,1,0.897413,0.937133,12,11,d
+23170,2023-11-26 16:30:00,Bundesliga,2023,Hoffenheim,Mainz 05,Home,1,1,0.7002,1.96701,15,13,d
+23177,2023-12-02 14:30:00,Bundesliga,2023,Hoffenheim,Borussia M.Gladbach,Away,1,2,1.33696,1.60234,19,9,l
+23187,2023-12-08 19:30:00,Bundesliga,2023,Hoffenheim,Bochum,Home,3,1,2.27533,1.82523,17,23,w
+23192,2023-12-16 17:30:00,Bundesliga,2023,Hoffenheim,RasenBallsport Leipzig,Away,1,3,1.04243,2.91669,9,22,l
+23205,2023-12-19 19:30:00,Bundesliga,2023,Hoffenheim,Darmstadt,Home,3,3,2.81806,0.952662,14,15,d
+23209,2024-01-12 19:30:00,Bundesliga,2023,Hoffenheim,Bayern Munich,Away,0,3,1.61888,3.4164,11,27,l
+23220,2024-01-20 14:30:00,Bundesliga,2023,Hoffenheim,Freiburg,Away,2,3,1.76349,2.47971,16,18,l
+23232,2024-01-27 14:30:00,Bundesliga,2023,Hoffenheim,FC Heidenheim,Home,1,1,3.23703,1.10065,23,14,d
+23239,2024-02-04 14:30:00,Bundesliga,2023,Hoffenheim,Wolfsburg,Away,2,2,1.93269,1.60418,17,14,d
+23247,2024-02-11 16:30:00,Bundesliga,2023,Hoffenheim,FC Cologne,Home,1,1,0.726907,0.172441,10,6,d
+23259,2024-02-17 14:30:00,Bundesliga,2023,Hoffenheim,Union Berlin,Home,0,1,1.24508,2.1649,18,10,l
+23270,2024-02-25 16:30:00,Bundesliga,2023,Hoffenheim,Borussia Dortmund,Away,3,2,1.31588,3.06361,9,21,w
+23277,2024-03-03 16:30:00,Bundesliga,2023,Hoffenheim,Werder Bremen,Home,2,1,2.06582,1.34942,14,18,w
+23284,2024-03-10 16:30:00,Bundesliga,2023,Hoffenheim,Eintracht Frankfurt,Away,1,3,0.695868,3.53168,6,18,l
+23296,2024-03-16 17:30:00,Bundesliga,2023,Hoffenheim,VfB Stuttgart,Home,0,3,0.229186,3.1752,7,25,l
+23301,2024-03-30 14:30:00,Bundesliga,2023,Hoffenheim,Bayer Leverkusen,Away,1,2,0.657688,3.03672,6,34,l
+23314,2024-04-07 13:30:00,Bundesliga,2023,Hoffenheim,Augsburg,Home,3,1,2.21977,0.806763,18,15,w
+23320,2024-04-13 13:30:00,Bundesliga,2023,Hoffenheim,Mainz 05,Away,1,4,0.529727,2.58388,5,25,l
+23332,2024-04-20 13:30:00,Bundesliga,2023,Hoffenheim,Borussia M.Gladbach,Home,4,3,2.77278,1.36369,28,13,w
+23341,2024-04-26 18:30:00,Bundesliga,2023,Hoffenheim,Bochum,Away,2,3,1.28293,3.91029,10,36,l
+23349,2024-05-03 18:30:00,Bundesliga,2023,Hoffenheim,RasenBallsport Leipzig,Home,1,1,1.80367,1.03434,20,8,d
+23361,2024-05-12 13:30:00,Bundesliga,2023,Hoffenheim,Darmstadt,Away,6,0,3.67135,0.467229,12,10,w
+23367,2024-05-18 13:30:00,Bundesliga,2023,Hoffenheim,Bayern Munich,Home,4,2,2.44188,1.69159,17,11,w

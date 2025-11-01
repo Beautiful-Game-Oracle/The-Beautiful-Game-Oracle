@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+23073,2023-08-20 15:30:00,Bundesliga,2023,Darmstadt,Eintracht Frankfurt,Away,0,1,0.813333,1.2399,10,9,l
+23079,2023-08-26 13:30:00,Bundesliga,2023,Darmstadt,Union Berlin,Home,1,4,2.59994,1.6379,21,13,l
+23084,2023-09-02 13:30:00,Bundesliga,2023,Darmstadt,Bayer Leverkusen,Away,1,5,0.681851,3.42599,5,25,l
+23100,2023-09-17 15:30:00,Bundesliga,2023,Darmstadt,Borussia M.Gladbach,Home,3,3,1.328,3.49324,15,22,d
+23101,2023-09-22 18:30:00,Bundesliga,2023,Darmstadt,VfB Stuttgart,Away,1,3,0.272376,3.04946,3,19,l
+23117,2023-10-01 13:30:00,Bundesliga,2023,Darmstadt,Werder Bremen,Home,4,2,2.34923,1.54627,14,11,w
+23122,2023-10-07 13:30:00,Bundesliga,2023,Darmstadt,Augsburg,Away,2,1,1.96153,1.18473,17,19,w
+23133,2023-10-21 13:30:00,Bundesliga,2023,Darmstadt,RasenBallsport Leipzig,Home,1,3,1.68331,1.83161,18,9,l
+23137,2023-10-28 13:30:00,Bundesliga,2023,Darmstadt,Bayern Munich,Away,0,8,0.924873,5.884,9,29,l
+23154,2023-11-03 19:30:00,Bundesliga,2023,Darmstadt,Bochum,Home,1,2,0.854923,1.56273,15,9,l
+23163,2023-11-11 14:30:00,Bundesliga,2023,Darmstadt,Mainz 05,Home,0,0,0.449952,0.624718,10,11,d
+23166,2023-11-25 14:30:00,Bundesliga,2023,Darmstadt,Freiburg,Away,1,1,0.34181,1.34505,7,15,d
+23181,2023-12-01 18:30:00,Bundesliga,2023,Darmstadt,FC Cologne,Home,0,1,0.61755,1.30112,11,12,l
+23190,2023-12-09 14:30:00,Bundesliga,2023,Darmstadt,FC Heidenheim,Away,2,3,1.00759,1.86894,20,17,l
+23199,2023-12-16 14:30:00,Bundesliga,2023,Darmstadt,Wolfsburg,Home,0,1,0.942093,0.587028,14,11,l
+23205,2023-12-19 19:30:00,Bundesliga,2023,Darmstadt,Hoffenheim,Away,3,3,0.952662,2.81806,15,14,d
+23217,2024-01-13 17:30:00,Bundesliga,2023,Darmstadt,Borussia Dortmund,Home,0,3,0.825788,3.14682,11,17,l
+23226,2024-01-20 14:30:00,Bundesliga,2023,Darmstadt,Eintracht Frankfurt,Home,2,2,1.3877,1.28892,12,8,d
+23228,2024-01-28 14:30:00,Bundesliga,2023,Darmstadt,Union Berlin,Away,0,1,1.00135,3.54733,16,21,l
+23244,2024-02-03 14:30:00,Bundesliga,2023,Darmstadt,Bayer Leverkusen,Home,0,2,0.432778,2.18207,8,20,l
+23245,2024-02-10 14:30:00,Bundesliga,2023,Darmstadt,Borussia M.Gladbach,Away,0,0,0.817722,1.47353,9,21,d
+23262,2024-02-17 14:30:00,Bundesliga,2023,Darmstadt,VfB Stuttgart,Home,1,2,2.66748,1.74454,20,13,l
+23265,2024-02-24 14:30:00,Bundesliga,2023,Darmstadt,Werder Bremen,Away,1,1,0.890186,1.5891,12,13,d
+23280,2024-03-02 14:30:00,Bundesliga,2023,Darmstadt,Augsburg,Home,0,6,1.113,3.39611,10,22,l
+23282,2024-03-09 14:30:00,Bundesliga,2023,Darmstadt,RasenBallsport Leipzig,Away,0,2,0.394275,4.25377,10,28,l
+23298,2024-03-16 14:30:00,Bundesliga,2023,Darmstadt,Bayern Munich,Home,2,5,1.2476,5.11913,7,27,l
+23305,2024-03-31 18:30:00,Bundesliga,2023,Darmstadt,Bochum,Away,2,2,0.879015,2.29251,12,21,d
+23313,2024-04-06 13:30:00,Bundesliga,2023,Darmstadt,Mainz 05,Away,0,4,0.558152,3.84973,14,18,l
+23325,2024-04-14 13:30:00,Bundesliga,2023,Darmstadt,Freiburg,Home,0,1,0.962275,1.34437,17,9,l
+23331,2024-04-20 13:30:00,Bundesliga,2023,Darmstadt,FC Cologne,Away,2,0,1.95124,1.1117,12,19,w
+23343,2024-04-28 17:30:00,Bundesliga,2023,Darmstadt,FC Heidenheim,Home,0,1,0.532047,1.49165,11,17,l
+23347,2024-05-04 13:30:00,Bundesliga,2023,Darmstadt,Wolfsburg,Away,0,3,0.372357,3.16035,6,21,l
+23361,2024-05-12 13:30:00,Bundesliga,2023,Darmstadt,Hoffenheim,Home,0,6,0.467229,3.67135,10,12,l
+23362,2024-05-18 13:30:00,Bundesliga,2023,Darmstadt,Borussia Dortmund,Away,0,4,0.281801,3.0526,6,21,l

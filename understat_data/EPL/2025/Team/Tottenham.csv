@@ -1,0 +1,9 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+28782,2025-08-16 14:00:00,EPL,2025,Tottenham,Burnley,Home,3,0,1.97858,0.734138,16,14,w
+28789,2025-08-23 11:30:00,EPL,2025,Tottenham,Manchester City,Away,2,0,1.28015,1.2475,12,10,w
+28799,2025-08-30 14:00:00,EPL,2025,Tottenham,Bournemouth,Home,0,1,0.17067,2.1201,5,19,l
+28814,2025-09-13 16:30:00,EPL,2025,Tottenham,West Ham,Away,3,0,1.51402,0.793248,14,7,w
+28821,2025-09-20 14:00:00,EPL,2025,Tottenham,Brighton,Away,2,2,1.19181,1.40466,11,13,d
+28835,2025-09-27 19:00:00,EPL,2025,Tottenham,Wolverhampton Wanderers,Home,1,1,0.818711,1.15951,10,9,d
+28844,2025-10-04 11:30:00,EPL,2025,Tottenham,Leeds,Away,2,1,0.688198,1.48051,9,16,w
+28856,2025-10-19 13:00:00,EPL,2025,Tottenham,Aston Villa,Home,1,2,1.51461,0.352231,9,8,l

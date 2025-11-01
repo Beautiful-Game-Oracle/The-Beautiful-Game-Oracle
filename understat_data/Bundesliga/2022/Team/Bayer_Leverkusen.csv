@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+19348,2022-08-06 16:30:00,Bundesliga,2022,Bayer_Leverkusen,Borussia Dortmund,Away,0,1,1.23566,2.38349,8,15,l
+19352,2022-08-13 13:30:00,Bundesliga,2022,Bayer_Leverkusen,Augsburg,Home,1,2,2.7843,0.749163,24,6,l
+19365,2022-08-20 13:30:00,Bundesliga,2022,Bayer_Leverkusen,Hoffenheim,Home,0,3,1.10143,1.30099,14,10,l
+19371,2022-08-27 13:30:00,Bundesliga,2022,Bayer_Leverkusen,Mainz 05,Away,3,0,1.40426,1.62032,8,18,w
+19379,2022-09-03 13:30:00,Bundesliga,2022,Bayer_Leverkusen,Freiburg,Home,2,3,1.79727,2.35383,15,6,l
+19392,2022-09-10 13:30:00,Bundesliga,2022,Bayer_Leverkusen,Hertha Berlin,Away,2,2,1.76829,2.35137,11,17,d
+19398,2022-09-17 13:30:00,Bundesliga,2022,Bayer_Leverkusen,Werder Bremen,Home,1,1,1.82302,2.02218,19,19,d
+19405,2022-09-30 18:30:00,Bundesliga,2022,Bayer_Leverkusen,Bayern Munich,Away,0,4,0.940717,2.13413,10,20,l
+19415,2022-10-08 13:30:00,Bundesliga,2022,Bayer_Leverkusen,Schalke 04,Home,4,0,2.06947,0.139609,13,2,w
+19427,2022-10-15 13:30:00,Bundesliga,2022,Bayer_Leverkusen,Eintracht Frankfurt,Away,1,5,0.503272,4.35761,5,19,l
+19433,2022-10-22 13:30:00,Bundesliga,2022,Bayer_Leverkusen,Wolfsburg,Home,2,2,2.36747,1.15093,14,9,d
+19442,2022-10-29 13:30:00,Bundesliga,2022,Bayer_Leverkusen,RasenBallsport Leipzig,Away,0,2,0.141987,1.63234,4,10,l
+19458,2022-11-06 14:30:00,Bundesliga,2022,Bayer_Leverkusen,Union Berlin,Home,5,0,1.7807,0.231839,11,7,w
+19462,2022-11-09 17:30:00,Bundesliga,2022,Bayer_Leverkusen,FC Cologne,Away,2,1,1.04474,1.38128,10,19,w
+19468,2022-11-12 14:30:00,Bundesliga,2022,Bayer_Leverkusen,VfB Stuttgart,Home,2,0,1.88305,0.277105,12,7,w
+19481,2023-01-22 16:30:00,Bundesliga,2022,Bayer_Leverkusen,Borussia M.Gladbach,Away,3,2,1.68471,0.993895,13,15,w
+19487,2023-01-25 19:30:00,Bundesliga,2022,Bayer_Leverkusen,Bochum,Home,2,0,1.8906,0.821758,11,10,w
+19496,2023-01-29 16:30:00,Bundesliga,2022,Bayer_Leverkusen,Borussia Dortmund,Home,0,2,1.84499,0.977834,22,7,l
+19511,2023-02-03 19:30:00,Bundesliga,2022,Bayer_Leverkusen,Augsburg,Away,0,1,0.461505,0.924397,13,10,l
+19518,2023-02-11 14:30:00,Bundesliga,2022,Bayer_Leverkusen,Hoffenheim,Away,3,1,1.47655,0.781599,12,11,w
+19523,2023-02-19 18:30:00,Bundesliga,2022,Bayer_Leverkusen,Mainz 05,Home,2,3,3.01434,2.00397,21,12,l
+19533,2023-02-26 14:30:00,Bundesliga,2022,Bayer_Leverkusen,Freiburg,Away,1,1,2.0609,1.288,18,9,d
+19541,2023-03-05 14:30:00,Bundesliga,2022,Bayer_Leverkusen,Hertha Berlin,Home,4,1,2.2646,0.957931,16,7,w
+19557,2023-03-12 16:30:00,Bundesliga,2022,Bayer_Leverkusen,Werder Bremen,Away,3,2,1.21761,1.70833,14,12,w
+19559,2023-03-19 16:30:00,Bundesliga,2022,Bayer_Leverkusen,Bayern Munich,Home,2,1,1.85014,1.10651,11,11,w
+19572,2023-04-01 13:30:00,Bundesliga,2022,Bayer_Leverkusen,Schalke 04,Away,3,0,3.28042,0.976664,18,12,w
+19577,2023-04-08 13:30:00,Bundesliga,2022,Bayer_Leverkusen,Eintracht Frankfurt,Home,3,1,2.35055,0.7609,14,9,w
+19590,2023-04-16 17:30:00,Bundesliga,2022,Bayer_Leverkusen,Wolfsburg,Away,0,0,0.992006,0.616929,15,11,d
+19595,2023-04-23 15:30:00,Bundesliga,2022,Bayer_Leverkusen,RasenBallsport Leipzig,Home,2,0,1.03404,2.11824,7,26,w
+19605,2023-04-29 13:30:00,Bundesliga,2022,Bayer_Leverkusen,Union Berlin,Away,0,0,0.550938,0.580861,9,9,d
+19613,2023-05-05 18:30:00,Bundesliga,2022,Bayer_Leverkusen,FC Cologne,Home,1,2,0.724879,1.02795,13,7,l
+19629,2023-05-14 13:30:00,Bundesliga,2022,Bayer_Leverkusen,VfB Stuttgart,Away,1,1,1.57634,1.42711,12,9,d
+19631,2023-05-21 17:30:00,Bundesliga,2022,Bayer_Leverkusen,Borussia M.Gladbach,Home,2,2,1.89906,2.06056,13,11,d
+19646,2023-05-27 13:30:00,Bundesliga,2022,Bayer_Leverkusen,Bochum,Away,0,3,0.863964,1.56183,11,12,l

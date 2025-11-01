@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+18965,2022-08-13 19:00:00,La_liga,2022,Barcelona,Rayo Vallecano,Home,0,0,1.37129,0.77153,21,4,d
+18979,2022-08-21 20:00:00,La_liga,2022,Barcelona,Real Sociedad,Away,4,1,2.04035,0.79913,15,10,w
+18988,2022-08-28 17:30:00,La_liga,2022,Barcelona,Real Valladolid,Home,4,0,3.28674,0.720063,24,8,w
+18995,2022-09-03 19:00:00,La_liga,2022,Barcelona,Sevilla,Away,3,0,4.67838,0.829157,19,9,w
+19010,2022-09-10 16:30:00,La_liga,2022,Barcelona,Cadiz,Away,4,0,2.66856,0.24818,16,6,w
+19013,2022-09-17 14:15:00,La_liga,2022,Barcelona,Elche,Home,3,0,5.17903,0.0129931,25,1,w
+19027,2022-10-01 19:00:00,La_liga,2022,Barcelona,Mallorca,Away,1,0,0.636371,0.925106,11,13,w
+19033,2022-10-09 19:00:00,La_liga,2022,Barcelona,Celta Vigo,Home,1,0,1.98459,1.35022,13,14,w
+19046,2022-10-16 14:15:00,La_liga,2022,Barcelona,Real Madrid,Away,1,3,1.66548,1.46965,18,8,l
+19053,2022-10-20 19:00:00,La_liga,2022,Barcelona,Villarreal,Home,3,0,3.61604,0.503294,16,5,w
+19065,2022-10-23 19:00:00,La_liga,2022,Barcelona,Athletic Club,Home,4,0,2.13539,0.240803,10,5,w
+19077,2022-10-29 19:00:00,La_liga,2022,Barcelona,Valencia,Away,1,0,2.33418,0.187414,13,3,w
+19091,2022-11-05 20:00:00,La_liga,2022,Barcelona,Almeria,Home,2,0,4.33587,0.538049,27,4,w
+19097,2022-11-08 20:30:00,La_liga,2022,Barcelona,Osasuna,Away,2,1,1.01467,1.23564,9,15,w
+19103,2022-12-31 13:00:00,La_liga,2022,Barcelona,Espanyol,Home,1,1,2.74555,0.846842,21,4,d
+19113,2023-01-08 20:00:00,La_liga,2022,Barcelona,Atletico Madrid,Away,1,0,1.23617,1.93573,10,20,w
+19134,2023-01-22 17:30:00,La_liga,2022,Barcelona,Getafe,Home,1,0,0.712066,1.2457,8,7,w
+19147,2023-01-28 15:15:00,La_liga,2022,Barcelona,Girona,Away,1,0,0.981042,0.893789,8,8,w
+19128,2023-02-01 20:00:00,La_liga,2022,Barcelona,Real Betis,Away,2,1,2.38335,0.760581,14,5,w
+19154,2023-02-05 20:00:00,La_liga,2022,Barcelona,Sevilla,Home,3,0,3.09763,0.0413799,16,3,w
+19168,2023-02-12 20:00:00,La_liga,2022,Barcelona,Villarreal,Away,1,0,1.37827,1.05151,6,11,w
+19172,2023-02-19 20:00:00,La_liga,2022,Barcelona,Cadiz,Home,2,0,2.28935,1.404,16,14,w
+19188,2023-02-26 17:30:00,La_liga,2022,Barcelona,Almeria,Away,0,1,1.15571,0.828027,13,6,l
+19193,2023-03-05 15:15:00,La_liga,2022,Barcelona,Valencia,Home,1,0,2.09199,0.629336,13,13,w
+19202,2023-03-12 20:00:00,La_liga,2022,Barcelona,Athletic Club,Away,1,0,0.724931,1.13701,10,15,w
+19213,2023-03-19 20:00:00,La_liga,2022,Barcelona,Real Madrid,Home,2,1,1.66532,0.524212,18,11,w
+19227,2023-04-01 19:00:00,La_liga,2022,Barcelona,Elche,Away,4,0,1.61804,0.508304,12,15,w
+19232,2023-04-10 19:00:00,La_liga,2022,Barcelona,Girona,Home,0,0,1.05077,0.491057,18,5,d
+19247,2023-04-16 14:15:00,La_liga,2022,Barcelona,Getafe,Away,0,0,1.04627,0.621219,15,5,d
+19255,2023-04-23 14:15:00,La_liga,2022,Barcelona,Atletico Madrid,Home,1,0,2.12803,0.714419,13,13,w
+19269,2023-04-26 20:00:00,La_liga,2022,Barcelona,Rayo Vallecano,Away,1,2,1.00988,0.862266,10,9,l
+19272,2023-04-29 19:00:00,La_liga,2022,Barcelona,Real Betis,Home,4,0,3.0864,0.231066,15,5,w
+19284,2023-05-02 17:30:00,La_liga,2022,Barcelona,Osasuna,Home,1,0,2.40046,0.355588,21,7,w
+19299,2023-05-14 19:00:00,La_liga,2022,Barcelona,Espanyol,Away,4,2,3.6498,2.72734,15,15,w
+19310,2023-05-20 19:00:00,La_liga,2022,Barcelona,Real Sociedad,Home,1,2,1.8413,2.8035,13,13,l
+19318,2023-05-23 20:00:00,La_liga,2022,Barcelona,Real Valladolid,Away,1,3,1.72866,2.20591,17,8,l
+19324,2023-05-28 17:00:00,La_liga,2022,Barcelona,Mallorca,Home,3,0,4.40817,0.124265,28,3,w
+19334,2023-06-04 18:00:00,La_liga,2022,Barcelona,Celta Vigo,Away,1,2,1.41678,0.565601,9,12,l

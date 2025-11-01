@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+18965,2022-08-13 19:00:00,La_liga,2022,Rayo_Vallecano,Barcelona,Away,0,0,0.77153,1.37129,4,21,d
+18972,2022-08-19 18:00:00,La_liga,2022,Rayo_Vallecano,Espanyol,Away,2,0,1.69789,0.904012,8,13,w
+18985,2022-08-27 17:30:00,La_liga,2022,Rayo_Vallecano,Mallorca,Home,0,2,0.864794,0.855715,15,9,l
+18993,2022-09-04 12:00:00,La_liga,2022,Rayo_Vallecano,Osasuna,Away,1,2,0.179917,3.1751,5,13,l
+19006,2022-09-10 12:00:00,La_liga,2022,Rayo_Vallecano,Valencia,Home,2,1,2.01158,2.18195,14,18,w
+19012,2022-09-17 19:00:00,La_liga,2022,Rayo_Vallecano,Athletic Club,Away,2,3,0.62187,2.17305,11,14,l
+19029,2022-10-03 19:00:00,La_liga,2022,Rayo_Vallecano,Elche,Home,2,1,0.651238,0.924633,15,5,w
+19039,2022-10-08 12:00:00,La_liga,2022,Rayo_Vallecano,Almeria,Away,1,3,0.893142,1.05684,12,10,l
+19048,2022-10-14 19:00:00,La_liga,2022,Rayo_Vallecano,Getafe,Home,0,0,1.11946,0.395734,14,6,d
+19052,2022-10-18 19:00:00,La_liga,2022,Rayo_Vallecano,Atletico Madrid,Away,1,1,1.61962,0.817771,14,12,d
+19069,2022-10-22 12:00:00,La_liga,2022,Rayo_Vallecano,Cadiz,Home,5,1,3.88516,0.642193,29,3,w
+19080,2022-10-29 16:30:00,La_liga,2022,Rayo_Vallecano,Sevilla,Away,1,0,0.773435,0.978055,15,11,w
+19086,2022-11-07 20:00:00,La_liga,2022,Rayo_Vallecano,Real Madrid,Home,3,2,1.65854,2.21264,15,16,w
+19099,2022-11-10 18:00:00,La_liga,2022,Rayo_Vallecano,Celta Vigo,Home,0,0,0.442488,0.677591,10,11,d
+19106,2022-12-29 16:00:00,La_liga,2022,Rayo_Vallecano,Girona,Away,2,2,1.3213,2.26829,12,16,d
+19117,2023-01-08 15:15:00,La_liga,2022,Rayo_Vallecano,Real Betis,Home,1,2,1.38976,0.735098,16,14,l
+19131,2023-01-14 13:00:00,La_liga,2022,Rayo_Vallecano,Real Valladolid,Away,1,0,1.16996,0.611009,13,9,w
+19136,2023-01-21 13:00:00,La_liga,2022,Rayo_Vallecano,Real Sociedad,Home,0,2,0.64183,1.43612,14,12,l
+19151,2023-01-30 20:00:00,La_liga,2022,Rayo_Vallecano,Villarreal,Away,1,0,0.830107,1.19676,11,12,w
+19161,2023-02-06 20:00:00,La_liga,2022,Rayo_Vallecano,Almeria,Home,2,0,1.38079,1.37549,15,15,w
+19162,2023-02-12 13:00:00,La_liga,2022,Rayo_Vallecano,Getafe,Away,1,1,1.70522,1.23739,19,14,d
+19178,2023-02-19 15:15:00,La_liga,2022,Rayo_Vallecano,Sevilla,Home,1,1,1.37468,0.476153,18,7,d
+19186,2023-02-25 15:15:00,La_liga,2022,Rayo_Vallecano,Cadiz,Away,0,1,0.407208,0.816453,11,5,l
+19197,2023-03-05 17:30:00,La_liga,2022,Rayo_Vallecano,Athletic Club,Home,0,0,0.853959,1.25683,18,16,d
+19203,2023-03-11 17:30:00,La_liga,2022,Rayo_Vallecano,Celta Vigo,Away,0,3,0.697265,2.13766,13,15,l
+19221,2023-03-18 15:15:00,La_liga,2022,Rayo_Vallecano,Girona,Home,2,2,1.71981,1.50856,15,12,d
+19230,2023-04-03 19:00:00,La_liga,2022,Rayo_Vallecano,Valencia,Away,1,1,0.645345,2.71116,7,18,d
+19237,2023-04-09 19:00:00,La_liga,2022,Rayo_Vallecano,Atletico Madrid,Home,1,2,0.564426,2.36535,15,14,l
+19249,2023-04-14 19:00:00,La_liga,2022,Rayo_Vallecano,Osasuna,Home,2,1,1.08431,0.373133,12,9,w
+19260,2023-04-22 16:30:00,La_liga,2022,Rayo_Vallecano,Real Sociedad,Away,1,2,0.359842,0.814682,8,7,l
+19269,2023-04-26 20:00:00,La_liga,2022,Rayo_Vallecano,Barcelona,Home,2,1,0.862266,1.00988,9,10,w
+19273,2023-04-29 14:15:00,La_liga,2022,Rayo_Vallecano,Elche,Away,0,4,0.565048,3.37969,14,18,l
+19287,2023-05-04 20:00:00,La_liga,2022,Rayo_Vallecano,Real Valladolid,Home,2,1,1.57028,0.571427,16,7,w
+19295,2023-05-15 19:00:00,La_liga,2022,Rayo_Vallecano,Real Betis,Away,1,3,1.71956,2.69596,16,11,l
+19307,2023-05-21 12:00:00,La_liga,2022,Rayo_Vallecano,Espanyol,Home,1,2,1.83113,1.3061,15,10,l
+19320,2023-05-24 17:30:00,La_liga,2022,Rayo_Vallecano,Real Madrid,Away,1,2,0.446413,1.66281,14,12,l
+19327,2023-05-28 17:00:00,La_liga,2022,Rayo_Vallecano,Villarreal,Home,2,1,1.16605,0.622891,15,7,w
+19340,2023-06-04 18:00:00,La_liga,2022,Rayo_Vallecano,Mallorca,Away,0,3,1.04004,2.25123,21,8,l

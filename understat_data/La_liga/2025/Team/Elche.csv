@@ -1,0 +1,10 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29166,2025-08-18 19:00:00,La_liga,2025,Elche,Real Betis,Home,1,1,0.981494,1.59562,6,12,d
+29170,2025-08-23 17:30:00,La_liga,2025,Elche,Atletico Madrid,Away,1,1,0.313268,1.68159,6,13,d
+29179,2025-08-29 17:30:00,La_liga,2025,Elche,Levante,Home,2,0,1.44309,0.969663,16,11,w
+29189,2025-09-12 19:00:00,La_liga,2025,Elche,Sevilla,Away,2,2,0.781151,0.346397,5,7,d
+29201,2025-09-21 16:30:00,La_liga,2025,Elche,Real Oviedo,Home,1,0,1.57497,1.10565,15,12,w
+29214,2025-09-25 17:30:00,La_liga,2025,Elche,Osasuna,Away,1,1,1.05089,1.17524,12,9,d
+29226,2025-09-28 14:15:00,La_liga,2025,Elche,Celta Vigo,Home,2,1,4.03596,0.821768,17,8,w
+29228,2025-10-05 12:00:00,La_liga,2025,Elche,Alaves,Away,1,3,0.661537,2.85063,6,25,l
+29244,2025-10-19 12:00:00,La_liga,2025,Elche,Athletic Club,Home,0,0,0.823916,0.240214,15,4,d

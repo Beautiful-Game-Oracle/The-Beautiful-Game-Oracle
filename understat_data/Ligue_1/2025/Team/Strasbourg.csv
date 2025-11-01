@@ -1,0 +1,9 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29545,2025-08-17 15:15:00,Ligue_1,2025,Strasbourg,Metz,Away,1,0,0.731013,0.184483,9,2,w
+29552,2025-08-24 15:15:00,Ligue_1,2025,Strasbourg,Nantes,Home,1,0,1.81743,0.425423,15,9,w
+29563,2025-08-31 15:15:00,Ligue_1,2025,Strasbourg,Monaco,Away,2,3,1.7732,2.35547,12,12,l
+29573,2025-09-14 15:15:00,Ligue_1,2025,Strasbourg,Le Havre,Home,1,0,1.43354,0.524832,9,10,w
+29582,2025-09-21 13:00:00,Ligue_1,2025,Strasbourg,Paris FC,Away,3,2,2.46459,1.9014,8,18,w
+29590,2025-09-26 18:45:00,Ligue_1,2025,Strasbourg,Marseille,Home,1,2,1.0976,2.00258,9,16,l
+29600,2025-10-05 15:15:00,Ligue_1,2025,Strasbourg,Angers,Home,5,0,4.2783,0.294622,18,5,w
+29608,2025-10-17 18:45:00,Ligue_1,2025,Strasbourg,Paris Saint Germain,Away,3,3,1.92082,2.85659,12,21,d

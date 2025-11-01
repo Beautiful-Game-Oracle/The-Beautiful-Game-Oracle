@@ -1,0 +1,9 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+28785,2025-08-17 13:00:00,EPL,2025,Nottingham_Forest,Brentford,Home,3,1,1.7555,1.32516,11,10,w
+28794,2025-08-24 13:00:00,EPL,2025,Nottingham_Forest,Crystal Palace,Away,1,1,1.32987,1.10188,9,8,d
+28804,2025-08-31 13:00:00,EPL,2025,Nottingham_Forest,West Ham,Home,0,3,0.716018,2.236,11,12,l
+28808,2025-09-13 11:30:00,EPL,2025,Nottingham_Forest,Arsenal,Away,0,3,0.293681,2.8817,5,16,l
+28822,2025-09-20 14:00:00,EPL,2025,Nottingham_Forest,Burnley,Away,1,1,0.830779,1.14159,17,12,d
+28834,2025-09-27 16:30:00,EPL,2025,Nottingham_Forest,Sunderland,Home,0,1,1.4203,1.94154,22,11,l
+28846,2025-10-05 13:00:00,EPL,2025,Nottingham_Forest,Newcastle United,Away,0,2,0.337689,3.81662,5,18,l
+28854,2025-10-18 11:30:00,EPL,2025,Nottingham_Forest,Chelsea,Home,0,3,2.0555,2.5583,11,17,l

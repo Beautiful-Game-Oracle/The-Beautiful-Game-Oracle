@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+22311,2023-08-20 18:45:00,Serie_A,2023,Juventus,Udinese,Away,3,0,1.86438,1.20988,9,18,w
+22320,2023-08-27 16:30:00,Serie_A,2023,Juventus,Bologna,Home,1,1,0.915803,0.687398,14,10,d
+22333,2023-09-03 18:45:00,Serie_A,2023,Juventus,Empoli,Away,2,0,3.04937,0.304187,18,7,w
+22335,2023-09-16 13:00:00,Serie_A,2023,Juventus,Lazio,Home,3,1,2.6734,0.704843,17,16,w
+22353,2023-09-23 16:00:00,Serie_A,2023,Juventus,Sassuolo,Away,2,4,1.36816,1.74238,16,19,l
+22359,2023-09-26 18:45:00,Serie_A,2023,Juventus,Lecce,Home,1,0,1.64987,0.0667791,14,2,w
+22365,2023-10-01 16:00:00,Serie_A,2023,Juventus,Atalanta,Away,0,0,0.203059,1.97735,5,15,d
+22379,2023-10-07 16:00:00,Serie_A,2023,Juventus,Torino,Home,2,0,2.40906,0.592513,17,10,w
+22391,2023-10-22 18:45:00,Serie_A,2023,Juventus,AC Milan,Away,1,0,1.80571,0.238518,14,7,w
+22403,2023-10-28 18:45:00,Serie_A,2023,Juventus,Verona,Home,1,0,3.64831,0.318759,30,7,w
+22408,2023-11-05 19:45:00,Serie_A,2023,Juventus,Fiorentina,Away,1,0,0.855784,0.675388,4,25,w
+22421,2023-11-11 17:00:00,Serie_A,2023,Juventus,Cagliari,Home,2,1,3.04248,0.477922,18,11,w
+22432,2023-11-26 19:45:00,Serie_A,2023,Juventus,Inter,Home,1,1,0.488914,0.692636,4,8,d
+22443,2023-12-01 18:45:00,Serie_A,2023,Juventus,Monza,Away,2,1,2.95935,0.656513,18,16,w
+22451,2023-12-08 19:45:00,Serie_A,2023,Juventus,Napoli,Home,1,0,0.662608,1.00524,11,13,w
+22458,2023-12-15 19:45:00,Serie_A,2023,Juventus,Genoa,Away,1,1,2.10424,0.844502,11,11,d
+22466,2023-12-23 11:30:00,Serie_A,2023,Juventus,Frosinone,Away,2,1,1.27523,0.495508,13,10,w
+22480,2023-12-30 19:45:00,Serie_A,2023,Juventus,Roma,Home,1,0,1.63273,0.39518,13,11,w
+22492,2024-01-07 17:00:00,Serie_A,2023,Juventus,Salernitana,Away,2,1,1.82515,0.930992,18,8,w
+22498,2024-01-16 19:45:00,Serie_A,2023,Juventus,Sassuolo,Home,3,0,1.23237,0.29509,12,8,w
+22511,2024-01-21 19:45:00,Serie_A,2023,Juventus,Lecce,Away,3,0,2.48407,0.493249,15,12,w
+22517,2024-01-27 17:00:00,Serie_A,2023,Juventus,Empoli,Home,1,1,0.990773,0.696403,9,16,d
+22532,2024-02-04 19:45:00,Serie_A,2023,Juventus,Inter,Away,0,1,0.597312,1.64254,13,15,l
+22538,2024-02-12 19:45:00,Serie_A,2023,Juventus,Udinese,Home,0,1,2.01527,1.13222,14,8,l
+22551,2024-02-17 17:00:00,Serie_A,2023,Juventus,Verona,Away,2,2,1.80606,0.617246,18,14,d
+22562,2024-02-25 11:30:00,Serie_A,2023,Juventus,Frosinone,Home,3,2,1.74414,0.570671,22,7,w
+22573,2024-03-03 19:45:00,Serie_A,2023,Juventus,Napoli,Away,1,2,2.0359,1.7764,18,14,l
+22578,2024-03-10 17:00:00,Serie_A,2023,Juventus,Atalanta,Home,2,2,1.66716,0.470912,18,7,d
+22589,2024-03-17 11:30:00,Serie_A,2023,Juventus,Genoa,Home,0,0,1.38709,0.175513,17,5,d
+22603,2024-03-30 17:00:00,Serie_A,2023,Juventus,Lazio,Away,0,1,0.479175,1.24248,9,16,l
+22605,2024-04-07 18:45:00,Serie_A,2023,Juventus,Fiorentina,Home,1,0,2.46449,0.508961,7,13,w
+22619,2024-04-13 16:00:00,Serie_A,2023,Juventus,Torino,Away,0,0,1.25957,0.834792,8,13,d
+22625,2024-04-19 18:45:00,Serie_A,2023,Juventus,Cagliari,Away,2,2,0.595113,1.97822,11,10,d
+22638,2024-04-27 16:00:00,Serie_A,2023,Juventus,AC Milan,Home,0,0,1.76562,0.277994,18,9,d
+22652,2024-05-05 18:45:00,Serie_A,2023,Juventus,Roma,Away,1,1,0.95263,1.60597,16,19,d
+22660,2024-05-12 16:00:00,Serie_A,2023,Juventus,Salernitana,Home,1,1,2.36999,0.921042,25,13,d
+22665,2024-05-20 18:45:00,Serie_A,2023,Juventus,Bologna,Away,3,3,1.27372,1.379,11,10,d
+22680,2024-05-25 16:00:00,Serie_A,2023,Juventus,Monza,Home,2,0,1.92843,1.13394,12,12,w

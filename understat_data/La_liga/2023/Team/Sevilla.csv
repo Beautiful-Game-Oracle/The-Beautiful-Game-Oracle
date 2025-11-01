@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+22686,2023-08-11 19:30:00,La_liga,2023,Sevilla,Valencia,Home,1,2,0.714148,1.06796,9,10,l
+22703,2023-08-21 17:00:00,La_liga,2023,Sevilla,Alaves,Away,3,4,0.958638,2.17962,12,15,l
+22709,2023-08-26 19:30:00,La_liga,2023,Sevilla,Girona,Home,1,2,1.93643,1.07498,21,8,l
+22733,2023-09-17 16:30:00,La_liga,2023,Sevilla,Las Palmas,Home,1,0,2.43059,1.03513,26,14,w
+22740,2023-09-23 14:15:00,La_liga,2023,Sevilla,Osasuna,Away,0,0,0.693906,1.57361,15,16,d
+22747,2023-09-26 17:00:00,La_liga,2023,Sevilla,Almeria,Home,5,1,2.90509,1.37069,18,10,w
+22757,2023-09-29 19:00:00,La_liga,2023,Sevilla,Barcelona,Away,0,1,1.07557,2.5598,13,18,l
+22773,2023-10-07 19:00:00,La_liga,2023,Sevilla,Rayo Vallecano,Home,2,2,0.807105,0.998714,22,7,d
+22782,2023-10-21 16:30:00,La_liga,2023,Sevilla,Real Madrid,Home,1,1,1.8723,2.17904,17,15,d
+22789,2023-10-28 19:00:00,La_liga,2023,Sevilla,Cadiz,Away,2,2,1.28392,1.42705,20,10,d
+22796,2023-11-04 17:30:00,La_liga,2023,Sevilla,Celta Vigo,Away,1,1,1.25089,3.01524,13,15,d
+22809,2023-11-12 17:30:00,La_liga,2023,Sevilla,Real Betis,Home,1,1,0.615603,2.17922,13,14,d
+22818,2023-11-26 15:15:00,La_liga,2023,Sevilla,Real Sociedad,Away,1,2,0.374082,1.05204,9,11,l
+22829,2023-12-03 17:30:00,La_liga,2023,Sevilla,Villarreal,Home,1,1,2.4784,1.47061,18,5,d
+22839,2023-12-09 20:00:00,La_liga,2023,Sevilla,Mallorca,Away,0,1,0.554467,0.533315,19,5,l
+22853,2023-12-16 17:30:00,La_liga,2023,Sevilla,Getafe,Home,0,3,0.80788,2.83746,12,14,l
+22861,2023-12-19 20:30:00,La_liga,2023,Sevilla,Granada,Away,3,0,0.514939,1.12822,12,12,w
+22716,2023-12-23 14:15:00,La_liga,2023,Sevilla,Atletico Madrid,Away,0,1,0.279969,1.53277,8,12,l
+22868,2024-01-04 18:15:00,La_liga,2023,Sevilla,Athletic Club,Home,0,2,0.54777,1.99704,11,15,l
+22884,2024-01-12 20:00:00,La_liga,2023,Sevilla,Alaves,Home,2,3,2.49561,2.08895,19,16,l
+22886,2024-01-21 20:00:00,La_liga,2023,Sevilla,Girona,Away,1,5,0.947841,2.95279,9,12,l
+22902,2024-01-28 17:30:00,La_liga,2023,Sevilla,Osasuna,Home,1,1,1.42372,1.07779,10,11,d
+22908,2024-02-05 20:00:00,La_liga,2023,Sevilla,Rayo Vallecano,Away,2,1,1.77647,2.1306,10,22,w
+22920,2024-02-11 17:30:00,La_liga,2023,Sevilla,Atletico Madrid,Home,1,0,2.15338,1.67549,10,16,w
+22933,2024-02-17 20:00:00,La_liga,2023,Sevilla,Valencia,Away,0,0,0.0457854,1.11987,1,14,d
+22939,2024-02-25 20:00:00,La_liga,2023,Sevilla,Real Madrid,Away,0,1,0.967099,1.01644,4,16,l
+22952,2024-03-02 13:00:00,La_liga,2023,Sevilla,Real Sociedad,Home,3,2,2.15506,1.27238,12,13,w
+22955,2024-03-11 20:00:00,La_liga,2023,Sevilla,Almeria,Away,2,2,2.6495,1.81235,19,14,d
+22971,2024-03-17 13:00:00,La_liga,2023,Sevilla,Celta Vigo,Home,1,2,1.75591,2.23423,11,18,l
+22979,2024-03-30 13:00:00,La_liga,2023,Sevilla,Getafe,Away,1,0,0.901033,1.57791,10,18,w
+22990,2024-04-14 12:00:00,La_liga,2023,Sevilla,Las Palmas,Away,2,0,2.06406,0.0909476,10,5,w
+23003,2024-04-22 19:00:00,La_liga,2023,Sevilla,Mallorca,Home,2,1,1.72842,0.879845,11,8,w
+23007,2024-04-28 19:00:00,La_liga,2023,Sevilla,Real Betis,Away,1,1,1.26484,2.39465,10,15,d
+23022,2024-05-05 19:00:00,La_liga,2023,Sevilla,Granada,Home,3,0,2.45224,0.227083,11,8,w
+23033,2024-05-11 14:15:00,La_liga,2023,Sevilla,Villarreal,Away,2,3,1.95835,3.10775,8,25,l
+23041,2024-05-15 17:30:00,La_liga,2023,Sevilla,Cadiz,Home,0,1,1.43788,2.85137,14,19,l
+23045,2024-05-19 17:00:00,La_liga,2023,Sevilla,Athletic Club,Away,0,2,1.29208,1.78593,9,15,l
+23062,2024-05-26 19:00:00,La_liga,2023,Sevilla,Barcelona,Home,1,2,1.96266,1.4772,15,11,l

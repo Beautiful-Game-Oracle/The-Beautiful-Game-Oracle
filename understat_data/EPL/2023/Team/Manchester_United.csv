@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+22284,2023-08-14 19:00:00,EPL,2023,Manchester_United,Wolverhampton Wanderers,Home,1,0,1.97087,1.72228,15,23,w
+22290,2023-08-19 16:30:00,EPL,2023,Manchester_United,Tottenham,Away,0,2,2.44604,2.53904,23,17,l
+22300,2023-08-26 14:00:00,EPL,2023,Manchester_United,Nottingham Forest,Home,3,2,3.02803,0.960354,18,9,w
+21934,2023-09-03 15:30:00,EPL,2023,Manchester_United,Arsenal,Away,1,3,0.966109,1.90973,10,17,l
+21940,2023-09-16 14:00:00,EPL,2023,Manchester_United,Brighton,Home,1,3,0.719951,1.93908,14,10,l
+21950,2023-09-23 19:00:00,EPL,2023,Manchester_United,Burnley,Away,1,0,0.840273,0.935444,11,12,w
+21957,2023-09-30 14:00:00,EPL,2023,Manchester_United,Crystal Palace,Home,0,1,1.55408,1.19015,19,8,l
+21972,2023-10-07 14:00:00,EPL,2023,Manchester_United,Brentford,Home,2,1,1.29356,1.02509,21,11,w
+21983,2023-10-21 19:00:00,EPL,2023,Manchester_United,Sheffield United,Away,2,1,1.46187,1.41074,14,12,w
+21992,2023-10-29 15:30:00,EPL,2023,Manchester_United,Manchester City,Home,0,3,0.714628,4.54595,7,21,l
+21998,2023-11-04 12:30:00,EPL,2023,Manchester_United,Fulham,Away,1,0,0.697095,1.18241,12,18,w
+22012,2023-11-11 15:00:00,EPL,2023,Manchester_United,Luton,Home,1,0,2.74105,0.408265,15,10,w
+22017,2023-11-26 16:30:00,EPL,2023,Manchester_United,Everton,Away,3,0,2.07334,2.49764,9,23,w
+22032,2023-12-02 20:00:00,EPL,2023,Manchester_United,Newcastle United,Away,0,1,0.422674,2.90191,8,22,l
+22044,2023-12-06 20:15:00,EPL,2023,Manchester_United,Chelsea,Home,2,1,4.03949,2.3512,28,13,w
+22051,2023-12-09 15:00:00,EPL,2023,Manchester_United,Bournemouth,Home,0,3,1.11296,1.9742,20,10,l
+22060,2023-12-17 16:30:00,EPL,2023,Manchester_United,Liverpool,Away,0,0,0.632715,1.97111,6,34,d
+22072,2023-12-23 12:30:00,EPL,2023,Manchester_United,West Ham,Away,0,2,0.730496,1.51468,11,12,l
+22082,2023-12-26 20:00:00,EPL,2023,Manchester_United,Aston Villa,Home,3,2,1.20104,1.83637,13,10,w
+22091,2023-12-30 17:30:00,EPL,2023,Manchester_United,Nottingham Forest,Away,1,2,0.651905,0.744348,10,8,l
+22099,2024-01-14 16:30:00,EPL,2023,Manchester_United,Tottenham,Home,2,2,0.923233,1.31224,9,16,d
+22111,2024-02-01 20:15:00,EPL,2023,Manchester_United,Wolverhampton Wanderers,Away,4,3,3.22698,2.27609,21,16,w
+22122,2024-02-04 14:00:00,EPL,2023,Manchester_United,West Ham,Home,3,0,0.96721,1.1807,12,22,w
+22125,2024-02-11 16:30:00,EPL,2023,Manchester_United,Aston Villa,Away,2,1,2.44591,2.64675,17,23,w
+22139,2024-02-18 16:30:00,EPL,2023,Manchester_United,Luton,Away,2,1,3.58973,1.57234,21,22,w
+22152,2024-02-24 15:00:00,EPL,2023,Manchester_United,Fulham,Home,1,2,1.96036,1.1385,21,17,l
+22160,2024-03-03 15:30:00,EPL,2023,Manchester_United,Manchester City,Away,1,3,0.153764,2.64173,2,27,l
+22172,2024-03-09 12:30:00,EPL,2023,Manchester_United,Everton,Home,2,0,2.9016,1.8214,15,23,w
+22187,2024-03-30 20:00:00,EPL,2023,Manchester_United,Brentford,Away,1,1,0.989565,3.16487,11,31,d
+22201,2024-04-04 19:15:00,EPL,2023,Manchester_United,Chelsea,Away,3,4,1.56686,3.48048,19,28,l
+22211,2024-04-07 14:30:00,EPL,2023,Manchester_United,Liverpool,Home,2,2,0.814509,4.43457,9,28,d
+22215,2024-04-13 16:30:00,EPL,2023,Manchester_United,Bournemouth,Away,2,2,1.52274,2.38519,8,20,d
+22182,2024-04-24 19:00:00,EPL,2023,Manchester_United,Sheffield United,Home,4,2,3.51311,1.20517,25,10,w
+22239,2024-04-27 14:00:00,EPL,2023,Manchester_United,Burnley,Home,1,1,3.06197,1.89591,27,16,d
+22250,2024-05-06 19:00:00,EPL,2023,Manchester_United,Crystal Palace,Away,0,4,0.341417,2.0656,7,18,l
+22259,2024-05-12 15:30:00,EPL,2023,Manchester_United,Arsenal,Home,0,1,0.551669,1.73104,14,11,l
+22231,2024-05-15 19:00:00,EPL,2023,Manchester_United,Newcastle United,Home,3,2,1.49706,2.27657,17,21,w
+22267,2024-05-19 15:00:00,EPL,2023,Manchester_United,Brighton,Away,2,0,1.00404,1.9717,11,17,w

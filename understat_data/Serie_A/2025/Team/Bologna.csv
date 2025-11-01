@@ -1,0 +1,8 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29847,2025-08-23 18:45:00,Serie_A,2025,Bologna,Roma,Away,0,1,0.443508,1.47691,10,14,l
+29856,2025-08-30 16:30:00,Serie_A,2025,Bologna,Como,Home,1,0,1.51584,0.521585,15,13,w
+29871,2025-09-14 18:45:00,Serie_A,2025,Bologna,AC Milan,Away,0,1,0.198634,1.15538,5,14,l
+29877,2025-09-20 13:00:00,Serie_A,2025,Bologna,Genoa,Home,2,1,1.78786,0.794732,14,7,w
+29888,2025-09-28 16:00:00,Serie_A,2025,Bologna,Lecce,Away,2,2,1.5908,2.09017,14,12,d
+29895,2025-10-05 13:00:00,Serie_A,2025,Bologna,Pisa,Home,4,0,3.69928,0.0265067,24,2,w
+29905,2025-10-19 13:00:00,Serie_A,2025,Bologna,Cagliari,Away,2,0,1.15836,0.367775,10,4,w

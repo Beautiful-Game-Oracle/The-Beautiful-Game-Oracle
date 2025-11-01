@@ -1,0 +1,8 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29846,2025-08-23 18:45:00,Serie_A,2025,Cremonese,AC Milan,Away,2,1,0.363576,2.08498,4,24,w
+29854,2025-08-29 16:30:00,Serie_A,2025,Cremonese,Sassuolo,Home,3,2,3.52949,1.32978,11,9,w
+29872,2025-09-15 16:30:00,Serie_A,2025,Cremonese,Verona,Away,0,0,0.166346,1.8883,6,20,d
+29878,2025-09-21 13:00:00,Serie_A,2025,Cremonese,Parma Calcio 1913,Home,0,0,0.172561,0.902031,3,15,d
+29885,2025-09-27 13:00:00,Serie_A,2025,Cremonese,Como,Away,1,1,0.564557,1.44033,9,14,d
+29897,2025-10-04 16:00:00,Serie_A,2025,Cremonese,Inter,Away,1,4,0.619599,4.65231,3,27,l
+29908,2025-10-20 18:45:00,Serie_A,2025,Cremonese,Udinese,Home,1,1,1.22876,0.962572,11,8,d

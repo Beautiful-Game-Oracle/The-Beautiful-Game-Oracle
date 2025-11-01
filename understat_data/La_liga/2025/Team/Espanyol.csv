@@ -1,0 +1,10 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29165,2025-08-17 19:30:00,La_liga,2025,Espanyol,Atletico Madrid,Home,2,1,1.41508,1.29319,9,15,w
+29174,2025-08-24 17:30:00,La_liga,2025,Espanyol,Real Sociedad,Away,2,2,1.87234,1.43366,14,15,d
+29187,2025-08-31 17:30:00,La_liga,2025,Espanyol,Osasuna,Home,1,0,1.36886,1.38167,10,10,w
+29198,2025-09-15 19:00:00,La_liga,2025,Espanyol,Mallorca,Home,3,2,2.67405,2.03185,9,23,w
+29206,2025-09-20 14:15:00,La_liga,2025,Espanyol,Real Madrid,Away,0,2,0.969443,2.06136,8,16,l
+29209,2025-09-23 17:00:00,La_liga,2025,Espanyol,Valencia,Home,2,2,3.31313,1.00785,21,5,d
+29227,2025-09-26 19:00:00,La_liga,2025,Espanyol,Girona,Away,0,0,0.949116,1.07661,20,12,d
+29234,2025-10-05 16:30:00,La_liga,2025,Espanyol,Real Betis,Home,1,2,2.0699,1.43721,14,12,l
+29246,2025-10-17 19:00:00,La_liga,2025,Espanyol,Real Oviedo,Away,2,0,4.46256,1.21155,19,13,w

@@ -1,0 +1,8 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29848,2025-08-24 16:30:00,Serie_A,2025,Cagliari,Fiorentina,Home,1,1,1.51736,1.14261,14,4,d
+29859,2025-08-30 18:45:00,Serie_A,2025,Cagliari,Napoli,Away,0,1,0.64413,1.73158,10,20,l
+29864,2025-09-13 13:00:00,Serie_A,2025,Cagliari,Parma Calcio 1913,Home,2,0,1.76945,1.95549,12,16,w
+29882,2025-09-19 18:45:00,Serie_A,2025,Cagliari,Lecce,Away,2,1,2.21034,1.13998,15,11,w
+29884,2025-09-27 18:45:00,Serie_A,2025,Cagliari,Inter,Home,0,2,0.475174,3.95419,6,20,l
+29902,2025-10-05 10:30:00,Serie_A,2025,Cagliari,Udinese,Away,1,1,0.789093,2.98545,8,23,d
+29905,2025-10-19 13:00:00,Serie_A,2025,Cagliari,Bologna,Home,0,2,0.367775,1.15836,4,10,l

@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+27748,2024-08-24 16:30:00,Bundesliga,2024,Eintracht_Frankfurt,Borussia Dortmund,Away,0,2,1.15188,1.9263,7,20,l
+27756,2024-08-31 13:30:00,Bundesliga,2024,Eintracht_Frankfurt,Hoffenheim,Home,3,1,2.68507,0.832386,18,11,w
+27764,2024-09-14 13:30:00,Bundesliga,2024,Eintracht_Frankfurt,Wolfsburg,Away,2,1,2.86858,1.23249,14,18,w
+27774,2024-09-21 16:30:00,Bundesliga,2024,Eintracht_Frankfurt,Borussia M.Gladbach,Home,2,0,2.93252,1.19669,19,25,w
+27785,2024-09-29 13:30:00,Bundesliga,2024,Eintracht_Frankfurt,Holstein Kiel,Away,4,2,2.43436,1.02971,20,10,w
+27787,2024-10-06 15:30:00,Bundesliga,2024,Eintracht_Frankfurt,Bayern Munich,Home,3,3,1.49515,2.83119,6,24,d
+27796,2024-10-19 13:30:00,Bundesliga,2024,Eintracht_Frankfurt,Bayer Leverkusen,Away,1,2,1.55158,4.07146,9,27,l
+27811,2024-10-27 16:30:00,Bundesliga,2024,Eintracht_Frankfurt,Union Berlin,Away,1,1,1.54058,1.86305,17,13,d
+27817,2024-11-02 14:30:00,Bundesliga,2024,Eintracht_Frankfurt,Bochum,Home,7,2,3.83028,2.08714,18,11,w
+27823,2024-11-10 16:30:00,Bundesliga,2024,Eintracht_Frankfurt,VfB Stuttgart,Away,3,2,1.93894,2.81862,8,22,w
+27836,2024-11-23 17:30:00,Bundesliga,2024,Eintracht_Frankfurt,Werder Bremen,Home,1,0,1.47057,0.632819,15,8,w
+27843,2024-12-01 16:30:00,Bundesliga,2024,Eintracht_Frankfurt,FC Heidenheim,Away,4,0,3.19019,0.861094,14,8,w
+27858,2024-12-07 14:30:00,Bundesliga,2024,Eintracht_Frankfurt,Augsburg,Home,2,2,1.53465,1.17089,16,8,d
+27859,2024-12-15 18:30:00,Bundesliga,2024,Eintracht_Frankfurt,RasenBallsport Leipzig,Away,1,2,0.839379,2.4958,16,19,l
+27871,2024-12-21 14:30:00,Bundesliga,2024,Eintracht_Frankfurt,Mainz 05,Home,1,3,2.58915,0.753285,35,9,l
+27885,2025-01-11 14:30:00,Bundesliga,2024,Eintracht_Frankfurt,St. Pauli,Away,1,0,2.23689,2.5542,14,18,w
+27889,2025-01-14 19:30:00,Bundesliga,2024,Eintracht_Frankfurt,Freiburg,Home,4,1,2.82238,0.587762,23,7,w
+27898,2025-01-17 19:30:00,Bundesliga,2024,Eintracht_Frankfurt,Borussia Dortmund,Home,2,0,2.05106,0.57641,13,12,w
+27906,2025-01-26 14:30:00,Bundesliga,2024,Eintracht_Frankfurt,Hoffenheim,Away,2,2,2.30325,2.32141,12,24,d
+27919,2025-02-02 14:30:00,Bundesliga,2024,Eintracht_Frankfurt,Wolfsburg,Home,1,1,1.69604,1.46292,17,11,d
+27929,2025-02-08 17:30:00,Bundesliga,2024,Eintracht_Frankfurt,Borussia M.Gladbach,Away,1,1,2.5487,0.656491,15,8,d
+27933,2025-02-16 16:30:00,Bundesliga,2024,Eintracht_Frankfurt,Holstein Kiel,Home,3,1,3.02527,1.26559,20,10,w
+27940,2025-02-23 16:30:00,Bundesliga,2024,Eintracht_Frankfurt,Bayern Munich,Away,0,4,0.49278,4.48699,7,19,l
+27951,2025-03-01 17:30:00,Bundesliga,2024,Eintracht_Frankfurt,Bayer Leverkusen,Home,1,4,1.00046,2.37018,7,20,l
+27961,2025-03-09 14:30:00,Bundesliga,2024,Eintracht_Frankfurt,Union Berlin,Home,1,2,2.00811,0.725817,14,11,l
+27974,2025-03-16 15:30:00,Bundesliga,2024,Eintracht_Frankfurt,Bochum,Away,3,1,3.29403,1.88062,18,17,w
+27978,2025-03-29 17:30:00,Bundesliga,2024,Eintracht_Frankfurt,VfB Stuttgart,Home,1,0,3.69196,0.863163,19,8,w
+27987,2025-04-05 16:30:00,Bundesliga,2024,Eintracht_Frankfurt,Werder Bremen,Away,0,2,0.515073,1.22711,9,12,l
+27997,2025-04-13 15:30:00,Bundesliga,2024,Eintracht_Frankfurt,FC Heidenheim,Home,3,0,3.64515,1.28841,19,14,w
+28008,2025-04-20 13:30:00,Bundesliga,2024,Eintracht_Frankfurt,Augsburg,Away,0,0,1.39546,1.14215,8,13,d
+28015,2025-04-26 16:30:00,Bundesliga,2024,Eintracht_Frankfurt,RasenBallsport Leipzig,Home,4,0,2.23942,0.316263,9,7,w
+28026,2025-05-04 17:30:00,Bundesliga,2024,Eintracht_Frankfurt,Mainz 05,Away,1,1,1.3876,1.64254,8,12,d
+28033,2025-05-11 15:30:00,Bundesliga,2024,Eintracht_Frankfurt,St. Pauli,Home,2,2,1.82027,0.666882,13,5,d
+28043,2025-05-17 13:30:00,Bundesliga,2024,Eintracht_Frankfurt,Freiburg,Away,3,1,2.61814,1.14001,11,8,w

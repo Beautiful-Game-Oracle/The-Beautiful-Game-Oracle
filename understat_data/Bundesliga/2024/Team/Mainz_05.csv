@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+27747,2024-08-24 13:30:00,Bundesliga,2024,Mainz_05,Union Berlin,Home,1,1,1.77023,0.731569,14,15,d
+27755,2024-08-31 13:30:00,Bundesliga,2024,Mainz_05,VfB Stuttgart,Away,3,3,1.95179,4.2134,11,28,d
+27768,2024-09-15 15:30:00,Bundesliga,2024,Mainz_05,Werder Bremen,Home,1,2,1.67115,1.8089,16,14,l
+27769,2024-09-20 18:30:00,Bundesliga,2024,Mainz_05,Augsburg,Away,3,2,1.25788,2.79562,5,29,w
+27781,2024-09-28 13:30:00,Bundesliga,2024,Mainz_05,FC Heidenheim,Home,0,2,0.371434,1.09304,7,14,l
+27793,2024-10-05 16:30:00,Bundesliga,2024,Mainz_05,St. Pauli,Away,3,0,1.29606,0.805413,8,19,w
+27802,2024-10-19 13:30:00,Bundesliga,2024,Mainz_05,RasenBallsport Leipzig,Home,0,2,0.611288,2.16084,16,11,l
+27810,2024-10-25 18:30:00,Bundesliga,2024,Mainz_05,Borussia M.Gladbach,Home,1,1,1.45557,0.934033,22,10,d
+27819,2024-11-03 14:30:00,Bundesliga,2024,Mainz_05,Freiburg,Away,0,0,0.903716,0.463898,9,10,d
+27828,2024-11-09 14:30:00,Bundesliga,2024,Mainz_05,Borussia Dortmund,Home,3,1,3.18749,0.845107,13,2,w
+27840,2024-11-24 14:30:00,Bundesliga,2024,Mainz_05,Holstein Kiel,Away,3,0,2.13631,0.346026,18,7,w
+27847,2024-12-01 16:30:00,Bundesliga,2024,Mainz_05,Hoffenheim,Home,2,0,2.62793,0.814599,18,10,w
+27853,2024-12-08 14:30:00,Bundesliga,2024,Mainz_05,Wolfsburg,Away,3,4,3.02237,1.48692,12,10,l
+27864,2024-12-14 14:30:00,Bundesliga,2024,Mainz_05,Bayern Munich,Home,2,1,1.64219,0.992002,8,13,w
+27871,2024-12-21 14:30:00,Bundesliga,2024,Mainz_05,Eintracht Frankfurt,Away,3,1,0.753285,2.58915,9,35,w
+27883,2025-01-11 14:30:00,Bundesliga,2024,Mainz_05,Bochum,Home,2,0,1.7238,0.697735,10,11,w
+27886,2025-01-14 19:30:00,Bundesliga,2024,Mainz_05,Bayer Leverkusen,Away,0,1,0.603471,1.99412,7,20,l
+27901,2025-01-19 14:30:00,Bundesliga,2024,Mainz_05,Union Berlin,Away,1,2,1.40424,2.44953,9,12,l
+27909,2025-01-25 14:30:00,Bundesliga,2024,Mainz_05,VfB Stuttgart,Home,2,0,2.22883,0.917385,11,10,w
+27921,2025-01-31 19:30:00,Bundesliga,2024,Mainz_05,Werder Bremen,Away,0,1,1.01597,2.58542,13,12,l
+27928,2025-02-08 14:30:00,Bundesliga,2024,Mainz_05,Augsburg,Home,0,0,1.99994,0.260742,9,8,d
+27934,2025-02-16 18:30:00,Bundesliga,2024,Mainz_05,FC Heidenheim,Away,2,0,1.94932,0.545205,6,12,w
+27946,2025-02-22 14:30:00,Bundesliga,2024,Mainz_05,St. Pauli,Home,2,0,1.35603,0.90068,10,12,w
+27950,2025-03-01 14:30:00,Bundesliga,2024,Mainz_05,RasenBallsport Leipzig,Away,2,1,1.64735,1.78404,15,13,w
+27965,2025-03-07 19:30:00,Bundesliga,2024,Mainz_05,Borussia M.Gladbach,Away,3,1,1.98889,1.25544,16,12,w
+27972,2025-03-15 14:30:00,Bundesliga,2024,Mainz_05,Freiburg,Home,2,2,1.33307,2.93264,9,24,d
+27979,2025-03-30 16:30:00,Bundesliga,2024,Mainz_05,Borussia Dortmund,Away,1,3,0.654443,2.69722,12,18,l
+27990,2025-04-05 13:30:00,Bundesliga,2024,Mainz_05,Holstein Kiel,Home,1,1,1.65205,1.66267,13,9,d
+27998,2025-04-12 13:30:00,Bundesliga,2024,Mainz_05,Hoffenheim,Away,0,2,0.969601,1.42393,14,8,l
+28009,2025-04-19 13:30:00,Bundesliga,2024,Mainz_05,Wolfsburg,Home,2,2,2.68235,1.80796,18,16,d
+28014,2025-04-26 13:30:00,Bundesliga,2024,Mainz_05,Bayern Munich,Away,0,3,0.923874,1.70143,8,14,l
+28026,2025-05-04 17:30:00,Bundesliga,2024,Mainz_05,Eintracht Frankfurt,Home,1,1,1.64254,1.3876,12,8,d
+28037,2025-05-10 13:30:00,Bundesliga,2024,Mainz_05,Bochum,Away,4,1,2.48765,0.734972,22,11,w
+28045,2025-05-17 13:30:00,Bundesliga,2024,Mainz_05,Bayer Leverkusen,Home,2,2,2.89903,1.33572,19,7,d

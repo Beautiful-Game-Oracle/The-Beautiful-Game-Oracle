@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+18586,2022-08-14 16:30:00,Serie_A,2022,Bologna,Lazio,Away,1,2,1.59632,0.709672,12,9,l
+18598,2022-08-21 18:45:00,Serie_A,2022,Bologna,Verona,Home,1,1,1.13475,2.46808,17,19,d
+18606,2022-08-27 18:45:00,Serie_A,2022,Bologna,AC Milan,Away,0,2,0.505259,2.83694,8,19,l
+18621,2022-09-01 18:45:00,Serie_A,2022,Bologna,Salernitana,Home,1,1,1.96131,1.19651,11,20,d
+18626,2022-09-04 13:00:00,Serie_A,2022,Bologna,Spezia,Away,2,2,1.02319,1.06255,14,15,d
+18633,2022-09-11 13:00:00,Serie_A,2022,Bologna,Fiorentina,Home,2,1,1.25233,1.17879,12,13,w
+18642,2022-09-17 13:00:00,Serie_A,2022,Bologna,Empoli,Home,0,1,1.7821,1.66438,16,12,l
+18656,2022-10-02 18:45:00,Serie_A,2022,Bologna,Juventus,Away,0,3,0.330255,2.51162,9,17,l
+18662,2022-10-08 18:45:00,Serie_A,2022,Bologna,Sampdoria,Home,1,1,0.669175,0.823033,10,9,d
+18678,2022-10-16 16:00:00,Serie_A,2022,Bologna,Napoli,Away,2,3,1.05317,4.47916,16,30,l
+18683,2022-10-23 13:00:00,Serie_A,2022,Bologna,Lecce,Home,2,0,2.1232,0.336101,9,8,w
+18698,2022-10-31 19:45:00,Serie_A,2022,Bologna,Monza,Away,2,1,1.16962,1.09073,10,9,w
+18703,2022-11-06 11:30:00,Serie_A,2022,Bologna,Torino,Home,2,1,2.44593,1.01138,9,7,w
+18715,2022-11-09 19:45:00,Serie_A,2022,Bologna,Inter,Away,1,6,0.657702,2.78307,10,13,l
+18723,2022-11-12 19:45:00,Serie_A,2022,Bologna,Sassuolo,Home,3,0,0.761979,0.793558,8,9,w
+18736,2023-01-04 15:30:00,Serie_A,2022,Bologna,Roma,Away,0,1,0.752989,2.08071,11,14,l
+18742,2023-01-09 19:45:00,Serie_A,2022,Bologna,Atalanta,Home,1,2,0.386319,0.685431,12,7,l
+18761,2023-01-15 14:00:00,Serie_A,2022,Bologna,Udinese,Away,2,1,1.96519,2.44779,15,20,w
+18762,2023-01-23 17:30:00,Serie_A,2022,Bologna,Cremonese,Home,1,1,0.850469,1.79982,21,10,d
+18773,2023-01-27 17:30:00,Serie_A,2022,Bologna,Spezia,Home,2,0,1.86506,0.485936,18,6,w
+18783,2023-02-05 17:00:00,Serie_A,2022,Bologna,Fiorentina,Away,2,1,1.82438,1.33534,11,19,w
+18793,2023-02-12 14:00:00,Serie_A,2022,Bologna,Monza,Home,0,1,0.435137,0.771658,12,5,l
+18808,2023-02-18 14:00:00,Serie_A,2022,Bologna,Sampdoria,Away,2,1,0.714025,2.60391,12,9,w
+18812,2023-02-26 11:30:00,Serie_A,2022,Bologna,Inter,Home,1,0,1.06501,1.14705,14,13,w
+18831,2023-03-06 19:45:00,Serie_A,2022,Bologna,Torino,Away,0,1,0.420593,1.03473,11,12,l
+18832,2023-03-11 19:45:00,Serie_A,2022,Bologna,Lazio,Home,0,0,1.09225,0.559995,16,5,d
+18847,2023-03-18 17:00:00,Serie_A,2022,Bologna,Salernitana,Away,2,2,0.363647,0.713612,10,14,d
+18852,2023-04-02 10:30:00,Serie_A,2022,Bologna,Udinese,Home,3,0,1.29647,0.765574,11,15,w
+18862,2023-04-08 14:30:00,Serie_A,2022,Bologna,Atalanta,Away,2,0,1.48593,1.36434,13,15,w
+18872,2023-04-15 13:00:00,Serie_A,2022,Bologna,AC Milan,Home,1,1,0.76877,1.40673,6,19,d
+18885,2023-04-21 18:45:00,Serie_A,2022,Bologna,Verona,Away,1,2,1.54636,1.58693,17,9,l
+18892,2023-04-30 18:45:00,Serie_A,2022,Bologna,Juventus,Home,1,1,1.94769,2.45408,16,14,d
+18903,2023-05-04 18:45:00,Serie_A,2022,Bologna,Empoli,Away,1,3,1.83365,1.46309,19,13,l
+18919,2023-05-08 18:45:00,Serie_A,2022,Bologna,Sassuolo,Away,1,1,0.293231,0.308471,12,6,d
+18922,2023-05-14 16:00:00,Serie_A,2022,Bologna,Roma,Home,0,0,0.303645,1.35745,12,7,d
+18933,2023-05-20 13:00:00,Serie_A,2022,Bologna,Cremonese,Away,5,1,2.89722,0.994736,19,13,w
+18942,2023-05-28 13:00:00,Serie_A,2022,Bologna,Napoli,Home,2,2,1.9362,2.0181,18,11,d
+18955,2023-06-04 19:00:00,Serie_A,2022,Bologna,Lecce,Away,3,2,0.775712,1.21291,11,20,w

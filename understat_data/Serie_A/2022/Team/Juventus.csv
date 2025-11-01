@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+18591,2022-08-15 18:45:00,Serie_A,2022,Juventus,Sassuolo,Home,3,0,2.24204,0.878583,14,19,w
+18601,2022-08-22 18:45:00,Serie_A,2022,Juventus,Sampdoria,Away,0,0,0.807606,0.948831,10,10,d
+18604,2022-08-27 16:30:00,Serie_A,2022,Juventus,Roma,Home,1,1,0.633345,0.963959,14,8,d
+18619,2022-08-31 18:45:00,Serie_A,2022,Juventus,Spezia,Home,2,0,1.76503,0.175145,15,9,w
+18622,2022-09-03 13:00:00,Serie_A,2022,Juventus,Fiorentina,Away,1,1,1.07522,1.83258,4,17,d
+18636,2022-09-11 18:45:00,Serie_A,2022,Juventus,Salernitana,Home,2,2,1.83929,2.07448,22,11,d
+18646,2022-09-18 13:00:00,Serie_A,2022,Juventus,Monza,Away,0,1,1.20518,2.52643,10,17,l
+18656,2022-10-02 18:45:00,Serie_A,2022,Juventus,Bologna,Home,3,0,2.51162,0.330255,17,9,w
+18665,2022-10-08 16:00:00,Serie_A,2022,Juventus,AC Milan,Away,0,2,0.673421,2.30469,10,21,l
+18681,2022-10-15 16:00:00,Serie_A,2022,Juventus,Torino,Away,1,0,2.34335,0.517644,14,15,w
+18686,2022-10-21 18:45:00,Serie_A,2022,Juventus,Empoli,Home,4,0,3.78986,0.507227,21,12,w
+18697,2022-10-29 16:00:00,Serie_A,2022,Juventus,Lecce,Away,1,0,0.512337,0.166187,13,5,w
+18705,2022-11-06 19:45:00,Serie_A,2022,Juventus,Inter,Home,2,0,1.55487,1.51619,8,14,w
+18714,2022-11-10 17:30:00,Serie_A,2022,Juventus,Verona,Away,1,0,0.877959,1.14515,11,15,w
+18726,2022-11-13 19:45:00,Serie_A,2022,Juventus,Lazio,Home,3,0,1.70269,0.38627,13,10,w
+18732,2023-01-04 17:30:00,Serie_A,2022,Juventus,Cremonese,Away,1,0,1.61459,0.698907,19,13,w
+18745,2023-01-07 17:00:00,Serie_A,2022,Juventus,Udinese,Home,1,0,2.59304,0.306949,14,11,w
+18757,2023-01-13 19:45:00,Serie_A,2022,Juventus,Napoli,Away,1,5,0.962617,2.23581,11,14,l
+18766,2023-01-22 19:45:00,Serie_A,2022,Juventus,Atalanta,Home,3,3,1.91809,1.16585,15,14,d
+18776,2023-01-29 14:00:00,Serie_A,2022,Juventus,Monza,Home,0,2,1.37709,1.37396,22,3,l
+18788,2023-02-07 19:45:00,Serie_A,2022,Juventus,Salernitana,Away,3,0,2.89699,0.516144,17,10,w
+18796,2023-02-12 17:00:00,Serie_A,2022,Juventus,Fiorentina,Home,1,0,1.48805,0.664528,7,11,w
+18810,2023-02-19 17:00:00,Serie_A,2022,Juventus,Spezia,Away,2,0,1.414,0.836135,15,18,w
+18820,2023-02-28 19:45:00,Serie_A,2022,Juventus,Torino,Home,4,2,1.52038,0.972144,13,8,w
+18827,2023-03-05 19:45:00,Serie_A,2022,Juventus,Roma,Away,0,1,0.722595,0.534608,14,6,l
+18836,2023-03-12 19:45:00,Serie_A,2022,Juventus,Sampdoria,Home,4,2,2.83726,0.487533,24,9,w
+18844,2023-03-19 19:45:00,Serie_A,2022,Juventus,Inter,Away,1,0,0.460517,1.07278,7,18,w
+18857,2023-04-01 18:45:00,Serie_A,2022,Juventus,Verona,Home,1,0,1.62901,0.406105,10,10,w
+18865,2023-04-08 18:45:00,Serie_A,2022,Juventus,Lazio,Away,1,2,2.18145,1.1873,11,9,l
+18879,2023-04-16 16:00:00,Serie_A,2022,Juventus,Sassuolo,Away,0,1,0.652728,1.13145,13,11,l
+18884,2023-04-23 18:45:00,Serie_A,2022,Juventus,Napoli,Home,0,1,0.276119,1.73457,7,17,l
+18892,2023-04-30 18:45:00,Serie_A,2022,Juventus,Bologna,Away,1,1,2.45408,1.94769,14,16,d
+18905,2023-05-03 16:00:00,Serie_A,2022,Juventus,Lecce,Home,2,1,1.71206,1.3193,16,14,w
+18912,2023-05-07 10:30:00,Serie_A,2022,Juventus,Atalanta,Away,2,0,1.43164,0.898943,10,24,w
+18926,2023-05-14 18:45:00,Serie_A,2022,Juventus,Cremonese,Home,2,0,1.80205,0.0587152,24,3,w
+18934,2023-05-22 18:45:00,Serie_A,2022,Juventus,Empoli,Away,1,4,2.20387,3.54313,19,14,l
+18946,2023-05-28 18:45:00,Serie_A,2022,Juventus,AC Milan,Home,0,1,0.585437,0.662594,16,9,l
+18961,2023-06-04 19:00:00,Serie_A,2022,Juventus,Udinese,Away,1,0,1.47447,0.955695,20,13,w

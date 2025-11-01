@@ -1,0 +1,9 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29544,2025-08-17 15:15:00,Ligue_1,2025,Angers,Paris FC,Home,1,0,0.82142,0.71125,8,17,w
+29547,2025-08-22 18:45:00,Ligue_1,2025,Angers,Paris Saint Germain,Away,0,1,0.176876,2.0878,3,21,l
+29560,2025-08-31 13:00:00,Ligue_1,2025,Angers,Rennes,Home,1,1,1.58619,1.73758,10,15,d
+29569,2025-09-14 15:15:00,Ligue_1,2025,Angers,Metz,Away,1,1,1.98184,1.76271,10,9,d
+29578,2025-09-19 18:45:00,Ligue_1,2025,Angers,Lyon,Away,0,1,0.677354,2.20483,10,16,l
+29583,2025-09-28 15:15:00,Ligue_1,2025,Angers,Brest,Home,0,2,0.501827,1.34192,11,7,l
+29600,2025-10-05 15:15:00,Ligue_1,2025,Angers,Strasbourg,Away,0,5,0.294622,4.2783,5,18,l
+29601,2025-10-18 17:00:00,Ligue_1,2025,Angers,Monaco,Home,1,1,1.58102,1.65166,16,11,d

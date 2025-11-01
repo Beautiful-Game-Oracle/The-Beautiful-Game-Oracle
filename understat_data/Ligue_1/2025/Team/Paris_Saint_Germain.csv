@@ -1,0 +1,9 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29546,2025-08-17 18:45:00,Ligue_1,2025,Paris_Saint_Germain,Nantes,Away,1,0,1.35682,0.124428,18,5,w
+29547,2025-08-22 18:45:00,Ligue_1,2025,Paris_Saint_Germain,Angers,Home,1,0,2.0878,0.176876,21,3,w
+29559,2025-08-30 19:05:00,Ligue_1,2025,Paris_Saint_Germain,Toulouse,Away,6,3,2.49609,2.33006,13,14,w
+29571,2025-09-14 15:15:00,Ligue_1,2025,Paris_Saint_Germain,Lens,Home,2,0,1.05815,1.2242,14,11,w
+29579,2025-09-22 18:45:00,Ligue_1,2025,Paris_Saint_Germain,Marseille,Away,0,1,0.919565,1.77744,12,9,l
+29588,2025-09-27 19:05:00,Ligue_1,2025,Paris_Saint_Germain,Auxerre,Home,2,0,2.11672,0.73132,15,12,w
+29595,2025-10-05 18:45:00,Ligue_1,2025,Paris_Saint_Germain,Lille,Away,1,1,1.71207,0.647492,17,9,d
+29608,2025-10-17 18:45:00,Ligue_1,2025,Paris_Saint_Germain,Strasbourg,Home,3,3,2.85659,1.92082,21,12,d

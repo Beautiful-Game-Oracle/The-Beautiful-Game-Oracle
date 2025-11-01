@@ -1,0 +1,9 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+28783,2025-08-16 16:30:00,EPL,2025,Manchester_City,Wolverhampton Wanderers,Away,4,0,2.29903,0.519436,15,9,w
+28789,2025-08-23 11:30:00,EPL,2025,Manchester_City,Tottenham,Home,0,2,1.2475,1.28015,10,12,l
+28805,2025-08-31 13:00:00,EPL,2025,Manchester_City,Brighton,Away,1,2,2.13418,2.20864,12,12,l
+28817,2025-09-14 15:30:00,EPL,2025,Manchester_City,Manchester United,Home,3,0,1.99725,1.51915,12,13,w
+28827,2025-09-21 15:30:00,EPL,2025,Manchester_City,Arsenal,Away,1,1,1.1227,0.718575,5,12,d
+28833,2025-09-27 14:00:00,EPL,2025,Manchester_City,Burnley,Home,5,1,3.22133,0.509491,21,11,w
+28841,2025-10-05 15:30:00,EPL,2025,Manchester_City,Brentford,Away,1,0,1.09647,0.693758,10,6,w
+28853,2025-10-18 14:00:00,EPL,2025,Manchester_City,Everton,Home,2,0,2.4799,0.794622,19,5,w

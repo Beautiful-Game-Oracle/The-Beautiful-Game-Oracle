@@ -1,0 +1,9 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29542,2025-08-17 13:00:00,Ligue_1,2025,Lille,Brest,Away,3,3,1.84218,1.49573,10,18,d
+29555,2025-08-24 18:45:00,Ligue_1,2025,Lille,Monaco,Home,1,0,2.41091,1.52213,18,6,w
+29557,2025-08-30 15:00:00,Ligue_1,2025,Lille,Lorient,Away,7,1,3.70255,1.1603,20,6,w
+29567,2025-09-14 13:00:00,Ligue_1,2025,Lille,Toulouse,Home,2,1,2.42116,1.15678,21,9,w
+29577,2025-09-20 19:05:00,Ligue_1,2025,Lille,Lens,Away,0,3,1.89889,3.8174,17,15,l
+29584,2025-09-28 15:15:00,Ligue_1,2025,Lille,Lyon,Home,0,1,1.65271,0.642572,14,5,l
+29595,2025-10-05 18:45:00,Ligue_1,2025,Lille,Paris Saint Germain,Home,1,1,0.647492,1.71207,9,17,d
+29605,2025-10-19 18:45:00,Ligue_1,2025,Lille,Nantes,Away,2,0,2.7603,0.772603,23,8,w

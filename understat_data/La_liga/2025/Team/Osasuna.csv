@@ -1,0 +1,10 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29167,2025-08-19 19:00:00,La_liga,2025,Osasuna,Real Madrid,Away,0,1,0.201044,1.4294,2,18,l
+29172,2025-08-24 15:00:00,La_liga,2025,Osasuna,Valencia,Home,1,0,0.946758,0.589594,16,4,w
+29187,2025-08-31 17:30:00,La_liga,2025,Osasuna,Espanyol,Away,0,1,1.38167,1.36886,10,10,l
+29197,2025-09-14 16:30:00,La_liga,2025,Osasuna,Rayo Vallecano,Home,2,0,1.4012,0.979149,9,19,w
+29207,2025-09-20 16:30:00,La_liga,2025,Osasuna,Villarreal,Away,1,2,1.95599,3.56395,6,26,l
+29214,2025-09-25 17:30:00,La_liga,2025,Osasuna,Elche,Home,1,1,1.17524,1.05089,9,12,d
+29221,2025-09-28 19:00:00,La_liga,2025,Osasuna,Real Betis,Away,0,2,0.578485,1.18955,12,12,l
+29235,2025-10-03 19:00:00,La_liga,2025,Osasuna,Getafe,Home,2,1,0.692026,0.856515,7,6,w
+29239,2025-10-18 19:00:00,La_liga,2025,Osasuna,Atletico Madrid,Away,0,1,0.981492,2.24415,9,18,l

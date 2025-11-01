@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+18966,2022-08-14 15:30:00,La_liga,2022,Cadiz,Real Sociedad,Home,0,1,0.294358,2.64367,7,15,l
+18974,2022-08-20 15:30:00,La_liga,2022,Cadiz,Osasuna,Away,0,2,1.01741,2.92362,9,16,l
+18990,2022-08-29 18:00:00,La_liga,2022,Cadiz,Athletic Club,Home,0,4,0.239303,3.18677,9,20,l
+18999,2022-09-02 19:00:00,La_liga,2022,Cadiz,Celta Vigo,Away,0,3,0.234828,1.50986,7,9,l
+19010,2022-09-10 16:30:00,La_liga,2022,Cadiz,Barcelona,Home,0,4,0.24818,2.66856,6,16,l
+19017,2022-09-16 19:00:00,La_liga,2022,Cadiz,Real Valladolid,Away,1,0,0.523314,1.98829,7,18,w
+19023,2022-10-01 12:00:00,La_liga,2022,Cadiz,Villarreal,Home,0,0,1.06071,1.43089,10,14,d
+19036,2022-10-09 14:15:00,La_liga,2022,Cadiz,Espanyol,Home,2,2,1.33811,1.47057,8,9,d
+19049,2022-10-15 12:00:00,La_liga,2022,Cadiz,Girona,Away,1,1,1.3467,2.36044,9,23,d
+19058,2022-10-19 17:00:00,La_liga,2022,Cadiz,Real Betis,Home,0,0,0.74688,1.22222,13,12,d
+19069,2022-10-22 12:00:00,La_liga,2022,Cadiz,Rayo Vallecano,Away,1,5,0.642193,3.88516,3,29,l
+19076,2022-10-29 14:15:00,La_liga,2022,Cadiz,Atletico Madrid,Home,3,2,1.58908,1.79745,11,16,w
+19090,2022-11-05 14:00:00,La_liga,2022,Cadiz,Getafe,Away,0,0,1.24542,0.517067,15,13,d
+19100,2022-11-10 20:30:00,La_liga,2022,Cadiz,Real Madrid,Away,1,2,1.11674,1.73107,10,18,l
+19111,2022-12-30 18:15:00,La_liga,2022,Cadiz,Almeria,Home,1,1,1.57833,2.22992,12,18,d
+19120,2023-01-06 20:00:00,La_liga,2022,Cadiz,Valencia,Away,1,0,0.434224,0.495475,6,11,w
+19123,2023-01-16 20:00:00,La_liga,2022,Cadiz,Elche,Home,1,1,1.40204,0.654686,16,12,d
+19139,2023-01-21 20:00:00,La_liga,2022,Cadiz,Sevilla,Away,0,1,0.0765073,1.66028,4,17,l
+19142,2023-01-28 13:00:00,La_liga,2022,Cadiz,Mallorca,Home,2,0,1.8313,0.306812,11,9,w
+19152,2023-02-03 20:00:00,La_liga,2022,Cadiz,Athletic Club,Away,1,4,1.55348,2.30209,15,17,l
+19163,2023-02-10 20:00:00,La_liga,2022,Cadiz,Girona,Home,2,0,0.717862,0.213596,12,7,w
+19172,2023-02-19 20:00:00,La_liga,2022,Cadiz,Barcelona,Away,0,2,1.404,2.28935,14,16,l
+19186,2023-02-25 15:15:00,La_liga,2022,Cadiz,Rayo Vallecano,Home,1,0,0.816453,0.407208,5,11,w
+19200,2023-03-03 20:00:00,La_liga,2022,Cadiz,Real Sociedad,Away,0,0,0.847252,1.07575,6,14,d
+19206,2023-03-10 20:00:00,La_liga,2022,Cadiz,Getafe,Home,2,2,1.73207,2.6986,11,16,d
+19217,2023-03-18 13:00:00,La_liga,2022,Cadiz,Almeria,Away,1,1,1.13127,2.69365,10,17,d
+19225,2023-04-01 16:30:00,La_liga,2022,Cadiz,Sevilla,Home,0,2,0.691241,1.72869,14,11,l
+19233,2023-04-09 14:15:00,La_liga,2022,Cadiz,Real Betis,Away,2,0,2.85597,1.58835,15,8,w
+19245,2023-04-15 19:00:00,La_liga,2022,Cadiz,Real Madrid,Home,0,2,0.583718,4.49059,12,35,l
+19259,2023-04-21 19:00:00,La_liga,2022,Cadiz,Espanyol,Away,0,0,1.12699,1.52285,11,14,d
+19266,2023-04-25 17:30:00,La_liga,2022,Cadiz,Osasuna,Home,0,1,1.4054,0.865548,20,6,l
+19274,2023-04-30 12:00:00,La_liga,2022,Cadiz,Valencia,Home,2,1,2.16593,1.05204,8,16,w
+19283,2023-05-03 20:00:00,La_liga,2022,Cadiz,Atletico Madrid,Away,1,5,0.0260457,4.25954,2,18,l
+19301,2023-05-12 19:00:00,La_liga,2022,Cadiz,Mallorca,Away,0,1,0.611231,1.6025,14,8,l
+19302,2023-05-19 19:00:00,La_liga,2022,Cadiz,Real Valladolid,Home,2,0,2.1319,0.20683,11,6,w
+19319,2023-05-24 17:30:00,La_liga,2022,Cadiz,Villarreal,Away,0,2,2.09634,2.9741,16,13,l
+19326,2023-05-28 17:00:00,La_liga,2022,Cadiz,Celta Vigo,Home,1,0,1.59827,0.599427,13,9,w
+19336,2023-06-04 18:00:00,La_liga,2022,Cadiz,Elche,Away,1,1,2.22255,1.534,14,12,d

@@ -1,0 +1,8 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29851,2025-08-24 18:45:00,Serie_A,2025,Juventus,Parma Calcio 1913,Home,2,0,2.74202,0.815567,25,8,w
+29860,2025-08-31 16:30:00,Serie_A,2025,Juventus,Genoa,Away,1,0,1.55128,0.593013,13,10,w
+29865,2025-09-13 16:00:00,Serie_A,2025,Juventus,Inter,Home,4,3,0.768943,1.01628,12,18,w
+29876,2025-09-20 16:00:00,Serie_A,2025,Juventus,Verona,Away,1,1,0.470357,1.65885,10,14,d
+29887,2025-09-27 16:00:00,Serie_A,2025,Juventus,Atalanta,Home,1,1,1.84242,0.885278,24,12,d
+29898,2025-10-05 18:45:00,Serie_A,2025,Juventus,AC Milan,Home,0,0,0.570595,1.55707,12,13,d
+29907,2025-10-19 10:30:00,Serie_A,2025,Juventus,Como,Away,0,2,0.964723,1.68785,15,12,l

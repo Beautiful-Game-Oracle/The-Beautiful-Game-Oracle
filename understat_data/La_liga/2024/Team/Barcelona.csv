@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+26987,2024-08-17 19:30:00,La_liga,2024,Barcelona,Valencia,Away,2,1,3.48824,1.55206,18,6,w
+26995,2024-08-24 17:00:00,La_liga,2024,Barcelona,Athletic Club,Home,2,1,2.41577,1.09985,13,9,w
+27004,2024-08-27 19:30:00,La_liga,2024,Barcelona,Rayo Vallecano,Away,2,1,1.51872,0.392473,22,8,w
+27012,2024-08-31 15:00:00,La_liga,2024,Barcelona,Real Valladolid,Home,7,0,4.94022,0.422493,23,4,w
+27028,2024-09-15 14:15:00,La_liga,2024,Barcelona,Girona,Away,4,1,2.5936,1.09568,20,9,w
+27037,2024-09-22 16:30:00,La_liga,2024,Barcelona,Villarreal,Away,5,1,4.1937,2.39605,17,13,w
+27043,2024-09-25 19:00:00,La_liga,2024,Barcelona,Getafe,Home,1,0,2.20799,0.929851,15,7,w
+27056,2024-09-28 19:00:00,La_liga,2024,Barcelona,Osasuna,Away,2,4,0.751814,2.50067,12,11,l
+27064,2024-10-06 14:15:00,La_liga,2024,Barcelona,Alaves,Away,3,0,2.49367,0.794829,14,11,w
+27074,2024-10-20 19:00:00,La_liga,2024,Barcelona,Sevilla,Home,5,1,4.08528,0.599652,21,7,w
+27085,2024-10-26 19:00:00,La_liga,2024,Barcelona,Real Madrid,Away,4,0,2.51566,1.40359,15,9,w
+27101,2024-11-03 15:15:00,La_liga,2024,Barcelona,Espanyol,Home,3,1,1.94398,0.787359,14,10,w
+27108,2024-11-10 20:00:00,La_liga,2024,Barcelona,Real Sociedad,Away,0,1,0.514102,1.88518,11,14,l
+27117,2024-11-23 20:00:00,La_liga,2024,Barcelona,Celta Vigo,Away,2,2,1.93782,2.75981,9,15,d
+27122,2024-11-30 13:00:00,La_liga,2024,Barcelona,Las Palmas,Home,1,2,2.18354,0.599185,27,5,l
+27167,2024-12-03 18:00:00,La_liga,2024,Barcelona,Mallorca,Away,5,1,5.38074,0.921728,20,6,w
+27139,2024-12-07 15:15:00,La_liga,2024,Barcelona,Real Betis,Away,2,2,1.54117,2.76257,9,12,d
+27143,2024-12-15 20:00:00,La_liga,2024,Barcelona,Leganes,Home,0,1,2.16597,0.77236,20,6,l
+27160,2024-12-21 20:00:00,La_liga,2024,Barcelona,Atletico Madrid,Home,1,2,3.37424,0.710716,19,5,l
+27177,2025-01-18 20:00:00,La_liga,2024,Barcelona,Getafe,Away,1,1,3.50383,1.16921,21,10,d
+27184,2025-01-26 20:00:00,La_liga,2024,Barcelona,Valencia,Home,7,1,4.35875,1.30328,22,8,w
+27200,2025-02-02 13:00:00,La_liga,2024,Barcelona,Alaves,Home,1,0,1.18526,0.126278,11,3,w
+27206,2025-02-09 20:00:00,La_liga,2024,Barcelona,Sevilla,Away,4,1,1.93199,0.921429,10,8,w
+27214,2025-02-17 20:00:00,La_liga,2024,Barcelona,Rayo Vallecano,Home,1,0,2.82775,1.30941,14,9,w
+27226,2025-02-22 20:00:00,La_liga,2024,Barcelona,Las Palmas,Away,2,0,1.66486,0.431009,15,10,w
+27232,2025-03-02 15:15:00,La_liga,2024,Barcelona,Real Sociedad,Home,4,0,3.63697,0.0,33,0,w
+27252,2025-03-16 20:00:00,La_liga,2024,Barcelona,Atletico Madrid,Away,4,2,2.16215,1.09435,13,7,w
+27244,2025-03-27 20:00:00,La_liga,2024,Barcelona,Osasuna,Home,3,0,4.63707,0.53356,19,4,w
+27270,2025-03-30 15:15:00,La_liga,2024,Barcelona,Girona,Home,4,1,2.75333,0.490847,21,5,w
+27272,2025-04-05 19:00:00,La_liga,2024,Barcelona,Real Betis,Home,1,1,1.46844,0.249939,13,6,d
+27288,2025-04-12 19:00:00,La_liga,2024,Barcelona,Leganes,Away,1,0,1.10105,0.5988,12,7,w
+27292,2025-04-19 14:15:00,La_liga,2024,Barcelona,Celta Vigo,Home,4,3,2.56587,2.50499,18,11,w
+27305,2025-04-22 19:30:00,La_liga,2024,Barcelona,Mallorca,Home,1,0,3.43457,0.326579,40,4,w
+27316,2025-05-03 19:00:00,La_liga,2024,Barcelona,Real Valladolid,Away,2,1,2.21168,0.745612,24,5,w
+27324,2025-05-11 14:15:00,La_liga,2024,Barcelona,Real Madrid,Home,4,3,4.10632,2.5616,23,9,w
+27332,2025-05-15 19:30:00,La_liga,2024,Barcelona,Espanyol,Away,2,0,0.735877,1.51531,12,9,w
+27343,2025-05-18 17:00:00,La_liga,2024,Barcelona,Villarreal,Home,2,3,1.569,1.96183,24,7,l
+27353,2025-05-25 19:00:00,La_liga,2024,Barcelona,Athletic Club,Away,3,0,3.36402,0.750806,13,10,w

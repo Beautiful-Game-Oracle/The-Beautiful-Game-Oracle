@@ -1,0 +1,8 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+30227,2025-08-23 13:30:00,Bundesliga,2025,Union_Berlin,VfB Stuttgart,Home,2,1,0.529421,1.80147,8,21,w
+30240,2025-08-31 15:30:00,Bundesliga,2025,Union_Berlin,Borussia Dortmund,Away,0,3,0.971167,1.82606,12,11,l
+30247,2025-09-13 13:30:00,Bundesliga,2025,Union_Berlin,Hoffenheim,Home,2,4,3.0814,3.34084,20,9,l
+30257,2025-09-21 13:30:00,Bundesliga,2025,Union_Berlin,Eintracht Frankfurt,Away,4,3,2.23419,1.75582,11,19,w
+30268,2025-09-28 17:30:00,Bundesliga,2025,Union_Berlin,Hamburger SV,Home,0,0,1.54274,1.11274,11,16,d
+30269,2025-10-04 13:30:00,Bundesliga,2025,Union_Berlin,Bayer Leverkusen,Away,0,2,1.19684,3.35673,10,20,l
+30285,2025-10-17 18:30:00,Bundesliga,2025,Union_Berlin,Borussia M.Gladbach,Home,3,1,1.53032,0.628848,16,9,w

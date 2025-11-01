@@ -1,0 +1,8 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+30231,2025-08-24 13:30:00,Bundesliga,2025,Mainz_05,FC Cologne,Home,0,1,1.31655,1.64676,19,12,l
+30239,2025-08-31 13:30:00,Bundesliga,2025,Mainz_05,Wolfsburg,Away,1,1,1.81482,0.616661,17,11,d
+30245,2025-09-13 13:30:00,Bundesliga,2025,Mainz_05,RasenBallsport Leipzig,Home,0,1,0.770276,1.5009,13,19,l
+30253,2025-09-20 13:30:00,Bundesliga,2025,Mainz_05,Augsburg,Away,4,1,2.57047,0.870451,12,18,w
+30262,2025-09-27 13:30:00,Bundesliga,2025,Mainz_05,Borussia Dortmund,Home,0,2,0.525149,1.75519,8,10,l
+30273,2025-10-05 15:30:00,Bundesliga,2025,Mainz_05,Hamburger SV,Away,0,4,0.591161,1.65883,11,15,l
+30282,2025-10-18 13:30:00,Bundesliga,2025,Mainz_05,Bayer Leverkusen,Home,3,4,1.62978,4.43462,12,20,l

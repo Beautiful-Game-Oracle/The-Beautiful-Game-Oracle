@@ -1,0 +1,10 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29167,2025-08-19 19:00:00,La_liga,2025,Real_Madrid,Osasuna,Home,1,0,1.4294,0.201044,18,2,w
+29175,2025-08-24 19:30:00,La_liga,2025,Real_Madrid,Real Oviedo,Away,3,0,1.82072,0.33749,26,6,w
+29184,2025-08-30 19:30:00,La_liga,2025,Real_Madrid,Mallorca,Home,2,1,1.84116,0.549872,17,9,w
+29195,2025-09-13 14:15:00,La_liga,2025,Real_Madrid,Real Sociedad,Away,2,1,2.54171,3.14772,16,23,w
+29206,2025-09-20 14:15:00,La_liga,2025,Real_Madrid,Espanyol,Home,2,0,2.06136,0.969443,16,8,w
+29210,2025-09-23 19:30:00,La_liga,2025,Real_Madrid,Levante,Away,4,1,4.06315,1.70121,24,11,w
+29219,2025-09-27 14:15:00,La_liga,2025,Real_Madrid,Atletico Madrid,Away,2,5,1.02797,2.79075,6,13,l
+29231,2025-10-04 19:00:00,La_liga,2025,Real_Madrid,Villarreal,Home,3,1,4.32336,0.956644,26,9,w
+29242,2025-10-19 19:00:00,La_liga,2025,Real_Madrid,Getafe,Away,1,0,2.14595,0.530119,23,7,w

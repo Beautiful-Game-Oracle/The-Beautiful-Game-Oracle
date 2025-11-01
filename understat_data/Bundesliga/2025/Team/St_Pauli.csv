@@ -1,0 +1,8 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+30230,2025-08-23 16:30:00,Bundesliga,2025,St_Pauli,Borussia Dortmund,Home,3,3,1.46772,2.10289,11,8,d
+30233,2025-08-29 18:30:00,Bundesliga,2025,St_Pauli,Hamburger SV,Away,2,0,1.85404,0.74111,17,5,w
+30249,2025-09-14 13:30:00,Bundesliga,2025,St_Pauli,Augsburg,Home,2,1,1.95499,0.934223,13,10,w
+30251,2025-09-19 18:30:00,Bundesliga,2025,St_Pauli,VfB Stuttgart,Away,0,2,1.05657,2.78829,9,17,l
+30263,2025-09-27 13:30:00,Bundesliga,2025,St_Pauli,Bayer Leverkusen,Home,1,2,0.813325,1.28912,13,5,l
+30277,2025-10-04 13:30:00,Bundesliga,2025,St_Pauli,Werder Bremen,Away,0,1,0.912425,1.77957,13,15,l
+30284,2025-10-19 15:30:00,Bundesliga,2025,St_Pauli,Hoffenheim,Home,0,3,0.871968,1.79103,10,14,l

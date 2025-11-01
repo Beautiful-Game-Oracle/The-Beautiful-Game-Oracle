@@ -1,0 +1,8 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29847,2025-08-23 18:45:00,Serie_A,2025,Roma,Bologna,Home,1,0,1.47691,0.443508,14,10,w
+29858,2025-08-30 18:45:00,Serie_A,2025,Roma,Pisa,Away,1,0,0.953921,0.6627,10,7,w
+29867,2025-09-14 10:30:00,Serie_A,2025,Roma,Torino,Home,0,1,1.02943,0.805089,21,8,l
+29881,2025-09-21 10:30:00,Serie_A,2025,Roma,Lazio,Away,1,0,1.22639,0.666967,13,10,w
+29892,2025-09-28 13:00:00,Serie_A,2025,Roma,Verona,Home,2,0,1.30542,1.35351,10,12,w
+29896,2025-10-05 13:00:00,Serie_A,2025,Roma,Fiorentina,Away,2,1,1.22512,1.11719,8,11,w
+29913,2025-10-18 18:45:00,Serie_A,2025,Roma,Inter,Home,0,1,2.1538,0.96386,15,12,l

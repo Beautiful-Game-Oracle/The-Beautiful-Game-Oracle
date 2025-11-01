@@ -1,0 +1,9 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29540,2025-08-16 17:00:00,Ligue_1,2025,Le_Havre,Monaco,Away,1,3,0.427494,1.88048,10,13,l
+29553,2025-08-24 15:15:00,Ligue_1,2025,Le_Havre,Lens,Home,1,2,2.0398,1.29098,18,6,l
+29561,2025-08-31 15:15:00,Ligue_1,2025,Le_Havre,Nice,Home,3,1,1.75553,0.715595,12,7,w
+29573,2025-09-14 15:15:00,Ligue_1,2025,Le_Havre,Strasbourg,Away,0,1,0.524832,1.43354,10,9,l
+29576,2025-09-21 15:15:00,Ligue_1,2025,Le_Havre,Lorient,Home,1,1,2.23396,1.26993,12,8,d
+29586,2025-09-28 15:15:00,Ligue_1,2025,Le_Havre,Metz,Away,0,0,0.395921,0.39939,11,7,d
+29594,2025-10-05 15:15:00,Ligue_1,2025,Le_Havre,Rennes,Home,2,2,1.98097,1.21285,10,9,d
+29604,2025-10-18 19:05:00,Ligue_1,2025,Le_Havre,Marseille,Away,2,6,0.352985,4.20445,8,18,l

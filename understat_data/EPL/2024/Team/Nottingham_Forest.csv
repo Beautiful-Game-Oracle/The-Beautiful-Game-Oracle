@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+26607,2024-08-17 14:00:00,EPL,2024,Nottingham_Forest,Bournemouth,Home,1,1,1.24405,1.90915,14,13,d
+26616,2024-08-24 14:00:00,EPL,2024,Nottingham_Forest,Southampton,Away,1,0,2.86475,0.214952,23,5,w
+26627,2024-08-31 14:00:00,EPL,2024,Nottingham_Forest,Wolverhampton Wanderers,Home,1,1,1.41069,0.937632,16,11,d
+26635,2024-09-14 14:00:00,EPL,2024,Nottingham_Forest,Liverpool,Away,1,0,0.589532,1.17044,5,14,w
+26650,2024-09-22 13:00:00,EPL,2024,Nottingham_Forest,Brighton,Away,2,2,1.36923,1.56836,4,14,d
+26653,2024-09-28 14:00:00,EPL,2024,Nottingham_Forest,Fulham,Home,0,1,0.614351,1.43592,11,14,l
+26668,2024-10-06 13:00:00,EPL,2024,Nottingham_Forest,Chelsea,Away,1,1,1.66654,2.27752,16,22,d
+26677,2024-10-21 19:00:00,EPL,2024,Nottingham_Forest,Crystal Palace,Home,1,0,1.88573,0.835001,20,20,w
+26682,2024-10-25 19:00:00,EPL,2024,Nottingham_Forest,Leicester,Away,3,1,2.54488,0.832415,20,11,w
+26698,2024-11-02 15:00:00,EPL,2024,Nottingham_Forest,West Ham,Home,3,0,2.35011,0.132317,19,4,w
+26704,2024-11-10 14:00:00,EPL,2024,Nottingham_Forest,Newcastle United,Home,1,3,1.17852,1.86904,9,17,l
+26714,2024-11-23 15:00:00,EPL,2024,Nottingham_Forest,Arsenal,Away,0,3,0.403136,1.66016,7,19,l
+26728,2024-11-30 15:00:00,EPL,2024,Nottingham_Forest,Ipswich,Home,1,0,1.76587,0.462771,12,7,w
+26739,2024-12-04 19:30:00,EPL,2024,Nottingham_Forest,Manchester City,Away,0,3,0.802155,3.20169,12,17,l
+26744,2024-12-07 17:30:00,EPL,2024,Nottingham_Forest,Manchester United,Away,3,2,0.651217,1.4697,11,17,w
+26761,2024-12-14 17:30:00,EPL,2024,Nottingham_Forest,Aston Villa,Home,2,1,2.2861,0.389423,17,8,w
+26766,2024-12-21 15:00:00,EPL,2024,Nottingham_Forest,Brentford,Away,2,0,0.964897,0.769004,10,7,w
+26779,2024-12-26 15:00:00,EPL,2024,Nottingham_Forest,Tottenham,Home,1,0,1.30018,1.05758,10,13,w
+26785,2024-12-29 15:00:00,EPL,2024,Nottingham_Forest,Everton,Away,2,0,2.02753,0.615191,11,13,w
+26801,2025-01-06 20:00:00,EPL,2024,Nottingham_Forest,Wolverhampton Wanderers,Away,3,0,2.57227,1.90463,11,13,w
+26807,2025-01-14 20:00:00,EPL,2024,Nottingham_Forest,Liverpool,Home,1,1,0.5292,2.72291,6,23,d
+26820,2025-01-19 14:00:00,EPL,2024,Nottingham_Forest,Southampton,Home,3,2,2.36419,1.25922,14,10,w
+26822,2025-01-25 15:00:00,EPL,2024,Nottingham_Forest,Bournemouth,Away,0,5,0.996166,2.8254,18,16,l
+26840,2025-02-01 12:30:00,EPL,2024,Nottingham_Forest,Brighton,Home,7,0,4.0677,0.756296,14,11,w
+26845,2025-02-15 15:00:00,EPL,2024,Nottingham_Forest,Fulham,Away,1,2,0.331301,2.20993,8,24,l
+26860,2025-02-23 14:00:00,EPL,2024,Nottingham_Forest,Newcastle United,Away,3,4,2.38603,3.45858,17,13,l
+26864,2025-02-26 19:30:00,EPL,2024,Nottingham_Forest,Arsenal,Home,0,0,0.508611,1.31766,6,13,d
+26878,2025-03-08 12:30:00,EPL,2024,Nottingham_Forest,Manchester City,Home,1,0,0.501476,0.721234,9,14,w
+26887,2025-03-15 15:00:00,EPL,2024,Nottingham_Forest,Ipswich,Away,4,2,1.30722,0.520839,11,11,w
+26894,2025-04-01 20:00:00,EPL,2024,Nottingham_Forest,Manchester United,Home,1,0,0.512063,1.86688,8,23,w
+26902,2025-04-05 16:30:00,EPL,2024,Nottingham_Forest,Aston Villa,Away,1,2,0.96769,2.63349,19,17,l
+26920,2025-04-12 14:00:00,EPL,2024,Nottingham_Forest,Everton,Home,0,1,0.423949,1.26036,10,13,l
+26930,2025-04-21 19:00:00,EPL,2024,Nottingham_Forest,Tottenham,Away,2,1,0.557682,2.4024,4,22,w
+26939,2025-05-01 18:30:00,EPL,2024,Nottingham_Forest,Brentford,Home,0,2,0.670607,1.52054,14,11,l
+26949,2025-05-05 19:00:00,EPL,2024,Nottingham_Forest,Crystal Palace,Away,1,1,0.63684,2.34037,12,20,d
+26958,2025-05-11 13:15:00,EPL,2024,Nottingham_Forest,Leicester,Home,2,2,1.76909,1.22949,15,10,d
+26971,2025-05-18 13:15:00,EPL,2024,Nottingham_Forest,West Ham,Away,2,1,2.14756,0.850457,10,16,w
+26972,2025-05-25 15:00:00,EPL,2024,Nottingham_Forest,Chelsea,Home,0,1,1.58014,1.30874,10,6,l

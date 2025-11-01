@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+28048,2024-08-16 18:45:00,Ligue_1,2024,Paris_Saint_Germain,Le Havre,Away,4,1,2.9098,0.197023,15,5,w
+28057,2024-08-23 18:45:00,Ligue_1,2024,Paris_Saint_Germain,Montpellier,Home,6,0,4.93703,0.772997,27,8,w
+28074,2024-09-01 18:45:00,Ligue_1,2024,Paris_Saint_Germain,Lille,Away,3,1,3.24139,1.57562,11,8,w
+28079,2024-09-14 19:00:00,Ligue_1,2024,Paris_Saint_Germain,Brest,Home,3,1,2.91245,1.00928,22,5,w
+28086,2024-09-21 19:00:00,Ligue_1,2024,Paris_Saint_Germain,Reims,Away,1,1,1.90277,0.760314,11,8,d
+28094,2024-09-27 19:00:00,Ligue_1,2024,Paris_Saint_Germain,Rennes,Home,3,1,3.22405,2.02646,24,12,w
+28104,2024-10-06 18:45:00,Ligue_1,2024,Paris_Saint_Germain,Nice,Away,1,1,0.822322,0.326466,19,9,d
+28119,2024-10-19 19:00:00,Ligue_1,2024,Paris_Saint_Germain,Strasbourg,Home,4,2,4.66981,2.22038,18,16,w
+28127,2024-10-27 19:45:00,Ligue_1,2024,Paris_Saint_Germain,Marseille,Away,3,0,4.04221,0.277951,19,6,w
+28130,2024-11-02 16:00:00,Ligue_1,2024,Paris_Saint_Germain,Lens,Home,1,0,2.76932,0.803421,18,13,w
+28142,2024-11-09 20:00:00,Ligue_1,2024,Paris_Saint_Germain,Angers,Away,4,2,4.38095,1.21483,26,10,w
+28147,2024-11-22 20:00:00,Ligue_1,2024,Paris_Saint_Germain,Toulouse,Home,3,0,1.63216,1.84157,17,11,w
+28161,2024-11-30 20:00:00,Ligue_1,2024,Paris_Saint_Germain,Nantes,Home,1,1,3.85838,0.742742,24,5,d
+28166,2024-12-06 20:00:00,Ligue_1,2024,Paris_Saint_Germain,Auxerre,Away,0,0,3.04535,0.34154,25,6,d
+28182,2024-12-15 19:45:00,Ligue_1,2024,Paris_Saint_Germain,Lyon,Home,3,1,2.59615,1.23945,13,7,w
+28183,2024-12-18 20:00:00,Ligue_1,2024,Paris_Saint_Germain,Monaco,Away,4,2,2.40654,3.10193,17,15,w
+28199,2025-01-12 19:45:00,Ligue_1,2024,Paris_Saint_Germain,Saint-Etienne,Home,2,1,5.07062,0.410024,25,8,w
+28202,2025-01-18 16:00:00,Ligue_1,2024,Paris_Saint_Germain,Lens,Away,2,1,1.57299,1.34901,9,10,w
+28216,2025-01-25 20:05:00,Ligue_1,2024,Paris_Saint_Germain,Reims,Home,1,1,1.79628,0.613384,18,6,d
+28220,2025-02-01 16:00:00,Ligue_1,2024,Paris_Saint_Germain,Brest,Away,5,2,3.94899,0.63646,14,14,w
+28233,2025-02-07 20:05:00,Ligue_1,2024,Paris_Saint_Germain,Monaco,Home,4,1,3.13964,0.924683,16,9,w
+28237,2025-02-15 20:05:00,Ligue_1,2024,Paris_Saint_Germain,Toulouse,Away,1,0,2.93281,1.19618,20,14,w
+28254,2025-02-23 19:45:00,Ligue_1,2024,Paris_Saint_Germain,Lyon,Away,3,2,2.74583,1.76184,15,14,w
+28255,2025-03-01 20:05:00,Ligue_1,2024,Paris_Saint_Germain,Lille,Home,4,1,3.59846,0.872733,26,6,w
+28271,2025-03-08 16:00:00,Ligue_1,2024,Paris_Saint_Germain,Rennes,Away,4,1,3.39834,2.10922,19,13,w
+28273,2025-03-16 19:45:00,Ligue_1,2024,Paris_Saint_Germain,Marseille,Home,3,1,2.60859,0.734284,16,12,w
+28287,2025-03-29 18:00:00,Ligue_1,2024,Paris_Saint_Germain,Saint-Etienne,Away,6,1,3.96021,1.27635,22,11,w
+28297,2025-04-05 15:00:00,Ligue_1,2024,Paris_Saint_Germain,Angers,Home,1,0,1.64379,0.280438,20,5,w
+28313,2025-04-19 15:00:00,Ligue_1,2024,Paris_Saint_Germain,Le Havre,Home,2,1,3.19233,0.709291,18,9,w
+28303,2025-04-22 18:45:00,Ligue_1,2024,Paris_Saint_Germain,Nantes,Away,1,1,2.30552,0.520926,10,8,d
+28324,2025-04-25 18:45:00,Ligue_1,2024,Paris_Saint_Germain,Nice,Home,1,3,4.50698,1.63001,32,7,l
+28328,2025-05-03 15:00:00,Ligue_1,2024,Paris_Saint_Germain,Strasbourg,Away,1,2,2.35931,1.42064,21,9,l
+28341,2025-05-10 19:00:00,Ligue_1,2024,Paris_Saint_Germain,Montpellier,Away,4,1,1.78222,0.594471,10,9,w
+28351,2025-05-17 19:00:00,Ligue_1,2024,Paris_Saint_Germain,Auxerre,Home,3,1,3.71972,0.9013,21,7,w

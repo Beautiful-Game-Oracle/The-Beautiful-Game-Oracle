@@ -1,0 +1,8 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29844,2025-08-23 16:30:00,Serie_A,2025,Lecce,Genoa,Away,0,0,0.55094,0.56563,7,5,d
+29855,2025-08-29 18:45:00,Serie_A,2025,Lecce,AC Milan,Home,0,2,0.481693,2.13175,7,14,l
+29869,2025-09-14 13:00:00,Serie_A,2025,Lecce,Atalanta,Away,1,4,0.532382,2.62415,12,19,l
+29882,2025-09-19 18:45:00,Serie_A,2025,Lecce,Cagliari,Home,1,2,1.13998,2.21034,11,15,l
+29888,2025-09-28 16:00:00,Serie_A,2025,Lecce,Bologna,Home,2,2,2.09017,1.5908,12,14,d
+29901,2025-10-04 13:00:00,Serie_A,2025,Lecce,Parma Calcio 1913,Away,1,0,0.622459,1.08896,7,9,w
+29910,2025-10-18 13:00:00,Serie_A,2025,Lecce,Sassuolo,Home,0,0,0.66998,0.77146,11,9,d

@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+26604,2024-08-17 14:00:00,EPL,2024,Wolverhampton_Wanderers,Arsenal,Away,0,2,0.575835,1.6283,9,18,l
+26619,2024-08-25 13:00:00,EPL,2024,Wolverhampton_Wanderers,Chelsea,Home,2,6,2.4181,2.02935,12,14,l
+26627,2024-08-31 14:00:00,EPL,2024,Wolverhampton_Wanderers,Nottingham Forest,Away,1,1,0.937632,1.41069,11,16,d
+26641,2024-09-15 15:30:00,EPL,2024,Wolverhampton_Wanderers,Newcastle United,Home,1,2,1.46969,1.48343,12,14,l
+26647,2024-09-21 14:00:00,EPL,2024,Wolverhampton_Wanderers,Aston Villa,Away,1,3,0.520117,2.37351,10,9,l
+26658,2024-09-28 16:30:00,EPL,2024,Wolverhampton_Wanderers,Liverpool,Home,1,2,0.748925,2.11724,7,10,l
+26667,2024-10-05 14:00:00,EPL,2024,Wolverhampton_Wanderers,Brentford,Away,3,5,0.696254,4.13513,17,19,l
+26681,2024-10-20 13:00:00,EPL,2024,Wolverhampton_Wanderers,Manchester City,Home,1,2,0.761217,1.36569,3,22,l
+26686,2024-10-26 14:00:00,EPL,2024,Wolverhampton_Wanderers,Brighton,Away,2,2,1.11074,1.51347,14,19,d
+26701,2024-11-02 17:30:00,EPL,2024,Wolverhampton_Wanderers,Crystal Palace,Home,2,2,1.65018,2.64849,11,19,d
+26711,2024-11-09 15:00:00,EPL,2024,Wolverhampton_Wanderers,Southampton,Home,2,0,0.912781,0.792655,8,9,w
+26717,2024-11-23 15:00:00,EPL,2024,Wolverhampton_Wanderers,Fulham,Away,4,1,1.33903,0.717158,10,10,w
+26731,2024-11-30 15:00:00,EPL,2024,Wolverhampton_Wanderers,Bournemouth,Home,2,4,0.866034,3.07901,10,12,l
+26735,2024-12-04 19:30:00,EPL,2024,Wolverhampton_Wanderers,Everton,Away,0,4,0.847724,1.49904,8,13,l
+26746,2024-12-09 20:00:00,EPL,2024,Wolverhampton_Wanderers,West Ham,Away,1,2,1.47567,1.19808,19,19,l
+26758,2024-12-14 15:00:00,EPL,2024,Wolverhampton_Wanderers,Ipswich,Home,1,2,1.23748,1.73349,17,10,l
+26770,2024-12-22 14:00:00,EPL,2024,Wolverhampton_Wanderers,Leicester,Away,3,0,1.13531,0.78868,8,9,w
+26781,2024-12-26 17:30:00,EPL,2024,Wolverhampton_Wanderers,Manchester United,Home,2,0,0.826489,0.358876,7,11,w
+26790,2024-12-29 15:00:00,EPL,2024,Wolverhampton_Wanderers,Tottenham,Away,2,2,0.640697,2.28433,11,13,d
+26801,2025-01-06 20:00:00,EPL,2024,Wolverhampton_Wanderers,Nottingham Forest,Home,0,3,1.90463,2.57227,13,11,l
+26810,2025-01-15 19:30:00,EPL,2024,Wolverhampton_Wanderers,Newcastle United,Away,0,3,1.47433,2.13327,13,17,l
+26814,2025-01-20 20:00:00,EPL,2024,Wolverhampton_Wanderers,Chelsea,Away,1,3,1.06726,3.14882,9,19,l
+26831,2025-01-25 15:00:00,EPL,2024,Wolverhampton_Wanderers,Arsenal,Home,0,1,0.514724,0.887358,9,9,l
+26841,2025-02-01 17:30:00,EPL,2024,Wolverhampton_Wanderers,Aston Villa,Home,2,0,2.00146,0.742809,8,10,w
+26847,2025-02-16 14:00:00,EPL,2024,Wolverhampton_Wanderers,Liverpool,Away,1,2,1.05329,1.86758,16,10,l
+26852,2025-02-22 15:00:00,EPL,2024,Wolverhampton_Wanderers,Bournemouth,Away,1,0,2.10124,0.629691,13,8,w
+26867,2025-02-25 19:30:00,EPL,2024,Wolverhampton_Wanderers,Fulham,Home,1,2,0.928973,1.43473,18,11,l
+26881,2025-03-08 20:00:00,EPL,2024,Wolverhampton_Wanderers,Everton,Home,1,1,0.812432,1.3672,11,12,d
+26891,2025-03-15 15:00:00,EPL,2024,Wolverhampton_Wanderers,Southampton,Away,2,1,0.540718,1.2821,5,10,w
+26895,2025-04-01 19:45:00,EPL,2024,Wolverhampton_Wanderers,West Ham,Home,1,0,1.10359,1.73057,9,10,w
+26907,2025-04-05 14:00:00,EPL,2024,Wolverhampton_Wanderers,Ipswich,Away,2,1,2.8096,0.872356,22,6,w
+26919,2025-04-13 13:00:00,EPL,2024,Wolverhampton_Wanderers,Tottenham,Home,4,2,2.22977,1.62887,13,12,w
+26929,2025-04-20 13:00:00,EPL,2024,Wolverhampton_Wanderers,Manchester United,Away,1,0,0.187814,1.13966,4,12,w
+26941,2025-04-26 14:00:00,EPL,2024,Wolverhampton_Wanderers,Leicester,Home,3,0,2.57666,1.04978,20,8,w
+26942,2025-05-02 19:00:00,EPL,2024,Wolverhampton_Wanderers,Manchester City,Away,0,1,0.622455,0.859463,6,9,l
+26961,2025-05-10 14:00:00,EPL,2024,Wolverhampton_Wanderers,Brighton,Home,0,2,0.73395,1.41254,10,7,l
+26967,2025-05-20 19:00:00,EPL,2024,Wolverhampton_Wanderers,Crystal Palace,Away,2,4,1.42886,1.68451,12,14,l
+26978,2025-05-25 15:00:00,EPL,2024,Wolverhampton_Wanderers,Brentford,Home,1,1,1.10889,1.97196,18,13,d

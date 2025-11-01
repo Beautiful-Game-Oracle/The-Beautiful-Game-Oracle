@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+23072,2023-08-20 13:30:00,Bundesliga,2023,Union_Berlin,Mainz 05,Home,4,1,2.11281,2.51995,11,10,w
+23079,2023-08-26 13:30:00,Bundesliga,2023,Union_Berlin,Darmstadt,Away,4,1,1.6379,2.59994,13,21,w
+23091,2023-09-03 15:30:00,Bundesliga,2023,Union_Berlin,RasenBallsport Leipzig,Home,0,3,0.17815,1.21402,3,14,l
+23095,2023-09-16 13:30:00,Bundesliga,2023,Union_Berlin,Wolfsburg,Away,1,2,1.56941,0.566932,19,8,l
+23106,2023-09-23 13:30:00,Bundesliga,2023,Union_Berlin,Hoffenheim,Home,0,2,1.62442,2.15364,22,11,l
+23112,2023-09-30 13:30:00,Bundesliga,2023,Union_Berlin,FC Heidenheim,Away,0,1,2.1613,0.542933,20,10,l
+23120,2023-10-07 13:30:00,Bundesliga,2023,Union_Berlin,Borussia Dortmund,Away,2,4,1.5245,1.76935,13,14,l
+23129,2023-10-21 13:30:00,Bundesliga,2023,Union_Berlin,VfB Stuttgart,Home,0,3,0.573025,1.87513,9,10,l
+23142,2023-10-28 13:30:00,Bundesliga,2023,Union_Berlin,Werder Bremen,Away,0,2,0.368624,0.690799,8,10,l
+23147,2023-11-04 14:30:00,Bundesliga,2023,Union_Berlin,Eintracht Frankfurt,Home,0,3,1.066,1.56887,11,4,l
+23157,2023-11-12 14:30:00,Bundesliga,2023,Union_Berlin,Bayer Leverkusen,Away,0,4,0.0283806,3.04223,2,18,l
+23165,2023-11-25 14:30:00,Bundesliga,2023,Union_Berlin,Augsburg,Home,1,1,2.40798,1.84043,15,11,d
+23183,2023-12-09 14:30:00,Bundesliga,2023,Union_Berlin,Borussia M.Gladbach,Home,3,1,2.5675,1.03267,16,11,w
+23197,2023-12-16 14:30:00,Bundesliga,2023,Union_Berlin,Bochum,Away,0,3,0.670719,3.57797,9,22,l
+23201,2023-12-20 17:30:00,Bundesliga,2023,Union_Berlin,FC Cologne,Home,2,0,1.86539,0.897866,11,16,w
+23211,2024-01-13 14:30:00,Bundesliga,2023,Union_Berlin,Freiburg,Away,0,0,0.424997,2.1675,9,13,d
+23173,2024-01-24 18:30:00,Bundesliga,2023,Union_Berlin,Bayern Munich,Away,0,1,0.477644,2.172,4,22,l
+23228,2024-01-28 14:30:00,Bundesliga,2023,Union_Berlin,Darmstadt,Home,1,0,3.54733,1.00135,21,16,w
+23237,2024-02-04 16:30:00,Bundesliga,2023,Union_Berlin,RasenBallsport Leipzig,Away,0,2,0.65912,1.7598,10,16,l
+23221,2024-02-07 17:30:00,Bundesliga,2023,Union_Berlin,Mainz 05,Away,1,1,1.53583,1.37814,16,16,d
+23248,2024-02-10 14:30:00,Bundesliga,2023,Union_Berlin,Wolfsburg,Home,1,0,0.575454,1.08099,8,17,w
+23259,2024-02-17 14:30:00,Bundesliga,2023,Union_Berlin,Hoffenheim,Away,1,0,2.1649,1.24508,10,18,w
+23269,2024-02-24 14:30:00,Bundesliga,2023,Union_Berlin,FC Heidenheim,Home,2,2,1.20933,1.33022,12,10,d
+23272,2024-03-02 14:30:00,Bundesliga,2023,Union_Berlin,Borussia Dortmund,Home,0,2,0.999042,1.63921,14,13,l
+23289,2024-03-08 19:30:00,Bundesliga,2023,Union_Berlin,VfB Stuttgart,Away,0,2,0.839212,1.30933,9,14,l
+23291,2024-03-16 14:30:00,Bundesliga,2023,Union_Berlin,Werder Bremen,Home,2,1,1.42836,0.833042,11,11,w
+23302,2024-03-30 14:30:00,Bundesliga,2023,Union_Berlin,Eintracht Frankfurt,Away,0,0,1.07679,1.3089,11,16,d
+23309,2024-04-06 13:30:00,Bundesliga,2023,Union_Berlin,Bayer Leverkusen,Home,0,1,0.269865,2.7617,9,20,l
+23323,2024-04-12 18:30:00,Bundesliga,2023,Union_Berlin,Augsburg,Away,0,2,1.55042,1.7073,17,10,l
+23327,2024-04-20 16:30:00,Bundesliga,2023,Union_Berlin,Bayern Munich,Home,1,5,1.06863,1.92795,15,19,l
+23340,2024-04-28 13:30:00,Bundesliga,2023,Union_Berlin,Borussia M.Gladbach,Away,0,0,1.11351,1.21021,14,13,d
+23345,2024-05-05 13:30:00,Bundesliga,2023,Union_Berlin,Bochum,Home,3,4,1.49561,1.84679,12,18,l
+23358,2024-05-11 13:30:00,Bundesliga,2023,Union_Berlin,FC Cologne,Away,2,3,1.66062,3.02417,13,18,l
+23363,2024-05-18 13:30:00,Bundesliga,2023,Union_Berlin,Freiburg,Home,2,1,2.28943,0.963773,13,13,w

@@ -1,0 +1,9 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+28778,2025-08-15 19:00:00,EPL,2025,Bournemouth,Liverpool,Away,2,4,1.57303,2.33007,10,19,l
+28792,2025-08-23 14:00:00,EPL,2025,Bournemouth,Wolverhampton Wanderers,Home,1,0,1.78462,0.373367,14,6,w
+28799,2025-08-30 14:00:00,EPL,2025,Bournemouth,Tottenham,Away,1,0,2.1201,0.17067,19,5,w
+28810,2025-09-13 14:00:00,EPL,2025,Bournemouth,Brighton,Home,2,1,1.44187,0.624923,13,6,w
+28823,2025-09-21 13:00:00,EPL,2025,Bournemouth,Newcastle United,Home,0,0,0.55066,0.153629,11,4,d
+28832,2025-09-27 14:00:00,EPL,2025,Bournemouth,Leeds,Away,2,2,1.06033,2.04728,12,19,d
+28838,2025-10-03 19:00:00,EPL,2025,Bournemouth,Fulham,Home,3,1,1.33458,0.84335,11,12,w
+28850,2025-10-18 14:00:00,EPL,2025,Bournemouth,Crystal Palace,Away,3,3,2.0471,4.56284,8,20,d

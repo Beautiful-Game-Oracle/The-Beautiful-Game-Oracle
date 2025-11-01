@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+18587,2022-08-14 16:30:00,Serie_A,2022,Cremonese,Fiorentina,Away,2,3,1.76638,2.01254,14,27,l
+18600,2022-08-22 16:30:00,Serie_A,2022,Cremonese,Roma,Away,0,1,0.508942,2.91426,14,27,l
+18605,2022-08-27 16:30:00,Serie_A,2022,Cremonese,Torino,Home,1,2,0.815757,2.71403,16,14,l
+18614,2022-08-30 18:45:00,Serie_A,2022,Cremonese,Inter,Away,1,3,1.06761,2.79797,11,18,l
+18625,2022-09-04 10:30:00,Serie_A,2022,Cremonese,Sassuolo,Home,0,0,0.417337,1.70824,10,17,d
+18632,2022-09-11 10:30:00,Serie_A,2022,Cremonese,Atalanta,Away,1,1,0.620155,0.636633,7,14,d
+18643,2022-09-18 13:00:00,Serie_A,2022,Cremonese,Lazio,Home,0,4,0.992274,3.61789,18,14,l
+18658,2022-10-02 13:00:00,Serie_A,2022,Cremonese,Lecce,Away,1,1,1.55939,0.945844,13,6,d
+18663,2022-10-09 16:00:00,Serie_A,2022,Cremonese,Napoli,Home,1,4,0.762438,4.47078,12,21,l
+18680,2022-10-16 13:00:00,Serie_A,2022,Cremonese,Spezia,Away,2,2,2.46395,1.09416,24,15,d
+18684,2022-10-24 16:30:00,Serie_A,2022,Cremonese,Sampdoria,Home,0,1,1.72584,1.19704,21,8,l
+18692,2022-10-30 14:00:00,Serie_A,2022,Cremonese,Udinese,Home,0,0,0.639202,1.46552,13,13,d
+18709,2022-11-05 14:00:00,Serie_A,2022,Cremonese,Salernitana,Away,2,2,1.6138,1.57799,11,11,d
+18712,2022-11-08 19:45:00,Serie_A,2022,Cremonese,AC Milan,Home,0,0,0.192159,1.2958,6,16,d
+18724,2022-11-11 19:45:00,Serie_A,2022,Cremonese,Empoli,Away,0,2,1.34565,2.652,19,13,l
+18732,2023-01-04 17:30:00,Serie_A,2022,Cremonese,Juventus,Home,0,1,0.698907,1.61459,13,19,l
+18744,2023-01-09 17:30:00,Serie_A,2022,Cremonese,Verona,Away,0,2,0.810314,1.92775,15,9,l
+18753,2023-01-14 14:00:00,Serie_A,2022,Cremonese,Monza,Home,2,3,0.456418,2.49329,11,8,l
+18762,2023-01-23 17:30:00,Serie_A,2022,Cremonese,Bologna,Away,1,1,1.79982,0.850469,10,21,d
+18774,2023-01-28 17:00:00,Serie_A,2022,Cremonese,Inter,Home,1,2,0.723453,2.37567,12,30,l
+18782,2023-02-04 14:00:00,Serie_A,2022,Cremonese,Lecce,Home,0,2,0.597112,1.5587,12,9,l
+18800,2023-02-12 19:45:00,Serie_A,2022,Cremonese,Napoli,Away,0,3,0.15718,1.88832,6,15,l
+18811,2023-02-20 19:45:00,Serie_A,2022,Cremonese,Torino,Away,2,2,0.488613,2.40761,11,16,d
+18817,2023-02-28 17:30:00,Serie_A,2022,Cremonese,Roma,Home,2,1,0.993955,0.650695,6,10,w
+18829,2023-03-06 17:30:00,Serie_A,2022,Cremonese,Sassuolo,Away,2,3,1.25832,1.04818,13,13,l
+18833,2023-03-12 14:00:00,Serie_A,2022,Cremonese,Fiorentina,Home,0,2,1.43995,1.19417,16,10,l
+18846,2023-03-18 14:00:00,Serie_A,2022,Cremonese,Monza,Away,1,1,0.723507,1.11436,8,15,d
+18853,2023-04-01 13:00:00,Serie_A,2022,Cremonese,Atalanta,Home,1,3,1.41841,3.0016,15,12,l
+18869,2023-04-08 14:30:00,Serie_A,2022,Cremonese,Sampdoria,Away,3,2,1.12248,2.63086,17,13,w
+18873,2023-04-14 16:30:00,Serie_A,2022,Cremonese,Empoli,Home,1,0,1.06807,0.858907,14,15,w
+18887,2023-04-23 13:00:00,Serie_A,2022,Cremonese,Udinese,Away,0,3,0.996906,1.62407,12,17,l
+18893,2023-04-30 13:00:00,Serie_A,2022,Cremonese,Verona,Home,1,1,0.547558,0.863565,12,14,d
+18907,2023-05-03 19:00:00,Serie_A,2022,Cremonese,AC Milan,Away,1,1,1.02505,2.0138,6,18,d
+18913,2023-05-06 18:45:00,Serie_A,2022,Cremonese,Spezia,Home,2,0,0.7603,0.784032,9,18,w
+18926,2023-05-14 18:45:00,Serie_A,2022,Cremonese,Juventus,Away,0,2,0.0587152,1.80205,3,24,l
+18933,2023-05-20 13:00:00,Serie_A,2022,Cremonese,Bologna,Home,1,5,0.994736,2.89722,13,19,l
+18947,2023-05-28 16:00:00,Serie_A,2022,Cremonese,Lazio,Away,2,3,0.381018,2.45341,11,13,l
+18953,2023-06-03 19:00:00,Serie_A,2022,Cremonese,Salernitana,Home,2,0,1.58052,0.396859,12,11,w

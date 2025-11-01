@@ -1,0 +1,8 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+30225,2025-08-23 13:30:00,Bundesliga,2025,FC_Heidenheim,Wolfsburg,Home,1,3,0.783156,2.57718,7,15,l
+30235,2025-08-30 13:30:00,Bundesliga,2025,FC_Heidenheim,RasenBallsport Leipzig,Away,0,2,0.969982,3.29717,5,19,l
+30244,2025-09-13 13:30:00,Bundesliga,2025,FC_Heidenheim,Borussia Dortmund,Home,0,2,0.299026,2.84999,6,17,l
+30254,2025-09-20 13:30:00,Bundesliga,2025,FC_Heidenheim,Hamburger SV,Away,1,2,2.63607,3.32157,21,22,l
+30261,2025-09-27 13:30:00,Bundesliga,2025,FC_Heidenheim,Augsburg,Home,2,1,1.79097,0.619833,11,8,w
+30275,2025-10-05 13:30:00,Bundesliga,2025,FC_Heidenheim,VfB Stuttgart,Away,0,1,0.290942,1.10781,5,18,l
+30281,2025-10-18 13:30:00,Bundesliga,2025,FC_Heidenheim,Werder Bremen,Home,2,2,3.07635,1.85638,31,11,d

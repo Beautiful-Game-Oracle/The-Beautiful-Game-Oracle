@@ -1,0 +1,10 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29162,2025-08-16 19:30:00,La_liga,2025,Real_Sociedad,Valencia,Away,1,1,1.04897,1.58599,13,18,d
+29174,2025-08-24 17:30:00,La_liga,2025,Real_Sociedad,Espanyol,Home,2,2,1.43366,1.87234,15,14,d
+29182,2025-08-30 17:00:00,La_liga,2025,Real_Sociedad,Real Oviedo,Away,0,1,0.92221,0.45706,18,8,l
+29195,2025-09-13 14:15:00,La_liga,2025,Real_Sociedad,Real Madrid,Home,1,2,3.14772,2.54171,23,16,l
+29200,2025-09-19 19:00:00,La_liga,2025,Real_Sociedad,Real Betis,Away,1,3,0.606673,2.53579,12,21,l
+29215,2025-09-24 19:30:00,La_liga,2025,Real_Sociedad,Mallorca,Home,1,0,2.82857,0.641137,17,7,w
+29220,2025-09-28 16:30:00,La_liga,2025,Real_Sociedad,Barcelona,Away,1,2,0.957079,3.00954,7,22,l
+29237,2025-10-05 16:30:00,La_liga,2025,Real_Sociedad,Rayo Vallecano,Home,0,1,0.768998,0.684504,10,7,l
+29241,2025-10-19 14:15:00,La_liga,2025,Real_Sociedad,Celta Vigo,Away,1,1,2.13562,0.717367,17,4,d

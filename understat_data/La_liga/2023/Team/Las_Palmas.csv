@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+22688,2023-08-12 17:30:00,La_liga,2023,Las_Palmas,Mallorca,Home,1,1,0.871699,1.49411,5,12,d
+22696,2023-08-18 19:30:00,La_liga,2023,Las_Palmas,Valencia,Away,0,1,0.741978,1.50324,7,9,l
+22705,2023-08-25 17:30:00,La_liga,2023,Las_Palmas,Real Sociedad,Home,0,0,1.56933,1.11751,11,8,d
+22719,2023-09-03 12:00:00,La_liga,2023,Las_Palmas,Girona,Away,0,1,1.18696,1.42397,10,11,l
+22733,2023-09-17 16:30:00,La_liga,2023,Las_Palmas,Sevilla,Away,0,1,1.03513,2.43059,14,26,l
+22744,2023-09-24 16:30:00,La_liga,2023,Las_Palmas,Granada,Home,1,0,0.701293,0.0378648,10,2,w
+22753,2023-09-27 17:00:00,La_liga,2023,Las_Palmas,Real Madrid,Away,0,2,0.618032,2.71542,16,21,l
+22763,2023-10-02 19:00:00,La_liga,2023,Las_Palmas,Celta Vigo,Home,2,1,1.46382,1.54337,16,11,w
+22774,2023-10-08 12:00:00,La_liga,2023,Las_Palmas,Villarreal,Away,2,1,1.1602,1.16305,8,9,w
+22775,2023-10-22 12:00:00,La_liga,2023,Las_Palmas,Rayo Vallecano,Home,0,1,1.18559,1.25598,12,12,l
+22785,2023-10-28 12:00:00,La_liga,2023,Las_Palmas,Almeria,Away,2,1,1.06446,0.275712,10,10,w
+22799,2023-11-03 19:00:00,La_liga,2023,Las_Palmas,Atletico Madrid,Home,2,1,0.452709,1.52768,9,13,w
+22813,2023-11-11 17:30:00,La_liga,2023,Las_Palmas,Osasuna,Away,1,1,0.291858,1.44069,6,11,d
+22816,2023-11-26 20:00:00,La_liga,2023,Las_Palmas,Real Betis,Away,0,1,0.751589,1.92649,15,12,l
+22832,2023-12-01 19:00:00,La_liga,2023,Las_Palmas,Getafe,Home,2,0,1.8817,0.76355,11,12,w
+22840,2023-12-09 13:00:00,La_liga,2023,Las_Palmas,Alaves,Away,1,0,0.473883,2.20546,9,19,w
+22852,2023-12-17 17:30:00,La_liga,2023,Las_Palmas,Cadiz,Home,1,1,0.826817,1.42619,7,13,d
+22855,2023-12-20 20:30:00,La_liga,2023,Las_Palmas,Athletic Club,Away,0,1,0.2514,3.53577,5,19,l
+22870,2024-01-04 20:30:00,La_liga,2023,Las_Palmas,Barcelona,Home,1,2,0.967341,2.3608,12,15,l
+22882,2024-01-13 13:00:00,La_liga,2023,Las_Palmas,Villarreal,Home,3,0,0.963955,1.71198,8,17,w
+22894,2024-01-20 13:00:00,La_liga,2023,Las_Palmas,Rayo Vallecano,Away,2,0,0.786109,2.16832,10,16,w
+22899,2024-01-27 15:15:00,La_liga,2023,Las_Palmas,Real Madrid,Home,1,2,0.929969,2.05683,7,13,l
+22909,2024-02-03 15:15:00,La_liga,2023,Las_Palmas,Granada,Away,1,1,1.27614,0.155607,16,3,d
+22918,2024-02-10 20:00:00,La_liga,2023,Las_Palmas,Valencia,Home,2,0,1.41954,0.251178,8,7,w
+22926,2024-02-17 13:00:00,La_liga,2023,Las_Palmas,Atletico Madrid,Away,0,5,0.660284,2.79269,11,13,l
+22942,2024-02-25 17:30:00,La_liga,2023,Las_Palmas,Osasuna,Home,1,1,0.942659,0.387933,9,6,d
+22947,2024-03-02 17:30:00,La_liga,2023,Las_Palmas,Getafe,Away,3,3,1.37145,2.38804,14,16,d
+22961,2024-03-10 15:15:00,La_liga,2023,Las_Palmas,Athletic Club,Home,0,2,0.834663,1.27321,14,7,l
+22968,2024-03-17 16:15:00,La_liga,2023,Las_Palmas,Almeria,Home,0,1,0.793707,0.688106,21,3,l
+22976,2024-03-30 20:00:00,La_liga,2023,Las_Palmas,Barcelona,Away,0,1,0.314295,1.72947,8,14,l
+22990,2024-04-14 12:00:00,La_liga,2023,Las_Palmas,Sevilla,Home,0,2,0.0909476,2.06406,5,10,l
+22997,2024-04-20 12:00:00,La_liga,2023,Las_Palmas,Celta Vigo,Away,1,4,0.90843,3.58931,9,21,l
+23012,2024-04-27 12:00:00,La_liga,2023,Las_Palmas,Girona,Home,0,2,1.41676,2.0472,10,6,l
+23023,2024-05-04 12:00:00,La_liga,2023,Las_Palmas,Real Sociedad,Away,0,2,0.56693,0.899129,8,9,l
+23034,2024-05-11 12:00:00,La_liga,2023,Las_Palmas,Mallorca,Away,0,1,0.313172,0.45718,7,7,l
+23040,2024-05-16 17:30:00,La_liga,2023,Las_Palmas,Real Betis,Home,2,2,2.61533,1.3277,17,6,d
+23049,2024-05-19 17:00:00,La_liga,2023,Las_Palmas,Cadiz,Away,0,0,0.966249,1.36112,9,10,d
+23064,2024-05-26 14:15:00,La_liga,2023,Las_Palmas,Alaves,Home,1,1,1.15618,2.23542,9,14,d

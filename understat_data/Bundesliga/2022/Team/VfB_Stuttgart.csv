@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+19349,2022-08-07 13:30:00,Bundesliga,2022,VfB_Stuttgart,RasenBallsport Leipzig,Home,1,1,0.565488,2.13153,11,27,d
+19354,2022-08-13 13:30:00,Bundesliga,2022,VfB_Stuttgart,Werder Bremen,Away,2,2,1.31637,0.704357,14,5,d
+19363,2022-08-20 13:30:00,Bundesliga,2022,VfB_Stuttgart,Freiburg,Home,0,1,0.766656,0.903953,17,9,l
+19376,2022-08-28 13:30:00,Bundesliga,2022,VfB_Stuttgart,FC Cologne,Away,0,0,1.96538,0.385951,14,7,d
+19381,2022-09-03 13:30:00,Bundesliga,2022,VfB_Stuttgart,Schalke 04,Home,1,1,0.706188,2.10477,13,12,d
+19388,2022-09-10 13:30:00,Bundesliga,2022,VfB_Stuttgart,Bayern Munich,Away,2,2,1.18754,2.2976,7,19,d
+19400,2022-09-17 13:30:00,Bundesliga,2022,VfB_Stuttgart,Eintracht Frankfurt,Home,1,3,0.773751,1.49027,15,13,l
+19410,2022-10-01 13:30:00,Bundesliga,2022,VfB_Stuttgart,Wolfsburg,Away,2,3,2.34936,1.75417,14,19,l
+19421,2022-10-09 17:30:00,Bundesliga,2022,VfB_Stuttgart,Union Berlin,Home,0,1,1.09713,0.73441,9,7,l
+19429,2022-10-15 13:30:00,Bundesliga,2022,VfB_Stuttgart,Bochum,Home,4,1,2.40775,1.52762,17,14,w
+19432,2022-10-22 13:30:00,Bundesliga,2022,VfB_Stuttgart,Borussia Dortmund,Away,0,5,0.989781,2.63936,10,18,l
+19447,2022-10-29 13:30:00,Bundesliga,2022,VfB_Stuttgart,Augsburg,Home,2,1,3.12054,0.754506,29,11,w
+19453,2022-11-04 18:30:00,Bundesliga,2022,VfB_Stuttgart,Borussia M.Gladbach,Away,1,3,1.46207,1.33462,14,13,l
+19466,2022-11-08 19:30:00,Bundesliga,2022,VfB_Stuttgart,Hertha Berlin,Home,2,1,2.00216,1.05233,17,11,w
+19468,2022-11-12 14:30:00,Bundesliga,2022,VfB_Stuttgart,Bayer Leverkusen,Away,0,2,0.277105,1.88305,7,12,l
+19485,2023-01-21 14:30:00,Bundesliga,2022,VfB_Stuttgart,Mainz 05,Home,1,1,1.8803,1.38032,16,13,d
+19490,2023-01-24 19:30:00,Bundesliga,2022,VfB_Stuttgart,Hoffenheim,Away,2,2,0.658333,1.82139,8,14,d
+19497,2023-01-27 19:30:00,Bundesliga,2022,VfB_Stuttgart,RasenBallsport Leipzig,Away,1,2,1.86965,1.59146,12,10,l
+19512,2023-02-05 14:30:00,Bundesliga,2022,VfB_Stuttgart,Werder Bremen,Home,0,2,1.48817,0.45062,17,9,l
+19515,2023-02-11 14:30:00,Bundesliga,2022,VfB_Stuttgart,Freiburg,Away,1,2,1.02739,2.21054,15,9,l
+19530,2023-02-18 14:30:00,Bundesliga,2022,VfB_Stuttgart,FC Cologne,Home,3,0,1.69842,0.452073,17,12,w
+19538,2023-02-25 17:30:00,Bundesliga,2022,VfB_Stuttgart,Schalke 04,Away,1,2,1.66843,1.86618,17,12,l
+19548,2023-03-04 17:30:00,Bundesliga,2022,VfB_Stuttgart,Bayern Munich,Home,1,2,0.596921,2.55612,11,14,l
+19553,2023-03-11 14:30:00,Bundesliga,2022,VfB_Stuttgart,Eintracht Frankfurt,Away,1,1,0.434277,0.525223,10,10,d
+19566,2023-03-18 14:30:00,Bundesliga,2022,VfB_Stuttgart,Wolfsburg,Home,0,1,0.471275,0.6744,12,9,l
+19567,2023-04-01 13:30:00,Bundesliga,2022,VfB_Stuttgart,Union Berlin,Away,0,3,2.62164,1.70372,18,12,l
+19582,2023-04-09 15:30:00,Bundesliga,2022,VfB_Stuttgart,Bochum,Away,3,2,2.37385,2.22259,15,12,w
+19591,2023-04-15 13:30:00,Bundesliga,2022,VfB_Stuttgart,Borussia Dortmund,Home,3,3,1.34955,1.52309,12,15,d
+19601,2023-04-21 18:30:00,Bundesliga,2022,VfB_Stuttgart,Augsburg,Away,1,1,1.17537,0.729024,7,4,d
+19610,2023-04-29 13:30:00,Bundesliga,2022,VfB_Stuttgart,Borussia M.Gladbach,Home,2,1,2.73645,1.2489,17,9,w
+19619,2023-05-06 13:30:00,Bundesliga,2022,VfB_Stuttgart,Hertha Berlin,Away,1,2,1.08971,1.4984,14,7,l
+19629,2023-05-14 13:30:00,Bundesliga,2022,VfB_Stuttgart,Bayer Leverkusen,Home,1,1,1.42711,1.57634,9,12,d
+19633,2023-05-21 13:30:00,Bundesliga,2022,VfB_Stuttgart,Mainz 05,Away,4,1,1.40314,1.41611,7,10,w
+19647,2023-05-27 13:30:00,Bundesliga,2022,VfB_Stuttgart,Hoffenheim,Home,1,1,2.19198,1.16078,23,8,d

@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+27370,2024-08-19 16:30:00,Serie_A,2024,Atalanta,Lecce,Away,4,0,2.45909,1.88414,11,21,w
+27377,2024-08-25 16:30:00,Serie_A,2024,Atalanta,Torino,Away,1,2,3.08667,2.49919,25,13,l
+27383,2024-08-30 18:45:00,Serie_A,2024,Atalanta,Inter,Away,0,4,1.17772,2.28876,12,13,l
+27393,2024-09-15 13:00:00,Serie_A,2024,Atalanta,Fiorentina,Home,3,2,2.4507,1.96392,13,13,w
+27402,2024-09-24 18:45:00,Serie_A,2024,Atalanta,Como,Home,2,3,1.31694,0.579703,9,14,l
+27412,2024-09-28 18:45:00,Serie_A,2024,Atalanta,Bologna,Away,1,1,2.47751,0.176428,23,5,d
+27422,2024-10-05 16:00:00,Serie_A,2024,Atalanta,Genoa,Home,5,1,4.0137,0.543171,23,7,w
+27433,2024-10-20 13:00:00,Serie_A,2024,Atalanta,Venezia,Away,2,0,1.83371,0.881872,16,12,w
+27443,2024-10-26 18:45:00,Serie_A,2024,Atalanta,Verona,Home,6,1,3.84122,0.22446,19,4,w
+27452,2024-10-30 19:45:00,Serie_A,2024,Atalanta,Monza,Home,2,0,1.65221,0.0805941,16,4,w
+27464,2024-11-03 11:30:00,Serie_A,2024,Atalanta,Napoli,Away,3,0,1.50982,0.611112,12,13,w
+27481,2024-11-10 11:30:00,Serie_A,2024,Atalanta,Udinese,Home,2,1,1.60488,0.90914,10,12,w
+27491,2024-11-23 19:45:00,Serie_A,2024,Atalanta,Parma Calcio 1913,Away,3,1,3.54363,0.622186,15,9,w
+27493,2024-12-02 19:45:00,Serie_A,2024,Atalanta,Roma,Away,2,0,1.76696,0.667881,18,5,w
+27502,2024-12-06 19:45:00,Serie_A,2024,Atalanta,AC Milan,Home,2,1,2.62823,0.899516,17,6,w
+27517,2024-12-14 14:00:00,Serie_A,2024,Atalanta,Cagliari,Away,1,0,2.37449,1.90937,12,12,w
+27525,2024-12-22 17:00:00,Serie_A,2024,Atalanta,Empoli,Home,3,2,2.08379,1.21827,16,7,w
+27535,2024-12-28 19:45:00,Serie_A,2024,Atalanta,Lazio,Away,1,1,2.98315,0.564499,14,11,d
+27561,2025-01-11 14:00:00,Serie_A,2024,Atalanta,Udinese,Away,0,0,0.233045,2.05217,4,12,d
+27542,2025-01-14 19:45:00,Serie_A,2024,Atalanta,Juventus,Home,1,1,1.5823,2.27956,17,17,d
+27562,2025-01-18 19:45:00,Serie_A,2024,Atalanta,Napoli,Home,2,3,0.709505,1.2536,15,6,l
+27581,2025-01-25 14:00:00,Serie_A,2024,Atalanta,Como,Away,2,1,1.04831,0.704371,5,15,w
+27584,2025-02-01 17:00:00,Serie_A,2024,Atalanta,Torino,Home,1,1,3.35128,0.629596,22,5,d
+27595,2025-02-08 17:00:00,Serie_A,2024,Atalanta,Verona,Away,5,0,2.14751,1.78844,17,18,w
+27603,2025-02-15 14:00:00,Serie_A,2024,Atalanta,Cagliari,Home,0,0,0.473748,0.123294,9,3,d
+27612,2025-02-23 17:00:00,Serie_A,2024,Atalanta,Empoli,Away,5,0,2.50618,0.775943,14,11,w
+27622,2025-03-01 14:00:00,Serie_A,2024,Atalanta,Venezia,Home,0,0,3.34552,0.359199,18,8,d
+27637,2025-03-09 19:45:00,Serie_A,2024,Atalanta,Juventus,Away,4,0,3.93513,0.940693,19,9,w
+27643,2025-03-16 19:45:00,Serie_A,2024,Atalanta,Inter,Home,0,2,0.682065,2.28143,16,14,l
+27661,2025-03-30 14:00:00,Serie_A,2024,Atalanta,Fiorentina,Away,0,1,0.918743,1.92673,9,12,l
+27664,2025-04-06 16:00:00,Serie_A,2024,Atalanta,Lazio,Home,0,1,1.04022,0.523108,10,8,l
+27674,2025-04-13 10:30:00,Serie_A,2024,Atalanta,Bologna,Home,2,0,1.15847,0.546815,4,12,w
+27686,2025-04-20 18:45:00,Serie_A,2024,Atalanta,AC Milan,Away,1,0,2.07826,0.495327,11,12,w
+27693,2025-04-27 18:45:00,Serie_A,2024,Atalanta,Lecce,Home,1,1,2.45836,1.45404,21,10,d
+27708,2025-05-04 13:00:00,Serie_A,2024,Atalanta,Monza,Away,4,0,3.05078,0.827428,15,13,w
+27712,2025-05-12 18:45:00,Serie_A,2024,Atalanta,Roma,Home,2,1,2.87542,0.572288,16,10,w
+27724,2025-05-18 13:00:00,Serie_A,2024,Atalanta,Genoa,Away,3,2,1.56926,1.44057,13,12,w
+27733,2025-05-25 18:45:00,Serie_A,2024,Atalanta,Parma Calcio 1913,Home,2,3,1.90265,2.82535,11,18,l

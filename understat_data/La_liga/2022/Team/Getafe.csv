@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+18970,2022-08-15 17:30:00,La_liga,2022,Getafe,Atletico Madrid,Home,0,3,1.14045,1.48417,10,12,l
+18981,2022-08-22 20:00:00,La_liga,2022,Getafe,Girona,Away,1,3,0.692785,1.52171,8,12,l
+18987,2022-08-28 15:30:00,La_liga,2022,Getafe,Villarreal,Home,0,0,0.273957,1.13195,8,11,d
+18998,2022-09-04 19:00:00,La_liga,2022,Getafe,Valencia,Away,1,5,0.572495,2.92757,7,24,l
+19004,2022-09-11 16:30:00,La_liga,2022,Getafe,Real Sociedad,Home,2,1,1.06907,1.32142,8,13,w
+19016,2022-09-18 12:00:00,La_liga,2022,Getafe,Osasuna,Away,2,0,1.43239,1.1323,10,12,w
+19022,2022-10-01 14:15:00,La_liga,2022,Getafe,Real Valladolid,Home,2,3,2.50588,1.32186,14,14,l
+19035,2022-10-08 19:00:00,La_liga,2022,Getafe,Real Madrid,Home,0,1,0.262283,1.48053,9,19,l
+19048,2022-10-14 19:00:00,La_liga,2022,Getafe,Rayo Vallecano,Away,0,0,0.395734,1.11946,6,14,d
+19057,2022-10-18 18:00:00,La_liga,2022,Getafe,Athletic Club,Home,2,2,0.753077,1.10208,11,14,d
+19062,2022-10-24 19:00:00,La_liga,2022,Getafe,Celta Vigo,Away,1,1,0.226128,0.821869,4,17,d
+19073,2022-10-31 20:00:00,La_liga,2022,Getafe,Elche,Away,1,0,0.372744,1.22713,8,12,w
+19090,2022-11-05 14:00:00,La_liga,2022,Getafe,Cadiz,Home,0,0,0.517067,1.24542,13,15,d
+19095,2022-11-09 18:00:00,La_liga,2022,Getafe,Almeria,Away,0,1,0.451929,0.346293,11,8,l
+19105,2022-12-30 16:00:00,La_liga,2022,Getafe,Mallorca,Home,2,0,1.32751,0.359715,14,3,w
+19119,2023-01-08 17:30:00,La_liga,2022,Getafe,Sevilla,Away,1,2,1.17518,1.21643,11,11,l
+19130,2023-01-15 13:00:00,La_liga,2022,Getafe,Espanyol,Home,1,2,0.496479,0.460177,10,10,l
+19134,2023-01-22 17:30:00,La_liga,2022,Getafe,Barcelona,Away,0,1,1.2457,0.712066,7,8,l
+19148,2023-01-28 20:00:00,La_liga,2022,Getafe,Real Betis,Home,0,1,0.206383,2.00036,6,14,l
+19153,2023-02-04 17:30:00,La_liga,2022,Getafe,Atletico Madrid,Away,1,1,1.13659,1.01341,9,12,d
+19162,2023-02-12 13:00:00,La_liga,2022,Getafe,Rayo Vallecano,Home,1,1,1.23739,1.70522,14,19,d
+19176,2023-02-20 20:00:00,La_liga,2022,Getafe,Valencia,Home,1,0,2.13388,1.09398,15,8,w
+19191,2023-02-27 20:00:00,La_liga,2022,Getafe,Villarreal,Away,1,2,0.467981,1.9115,8,11,l
+19195,2023-03-04 13:00:00,La_liga,2022,Getafe,Girona,Home,3,2,1.86918,0.845978,10,9,w
+19206,2023-03-10 20:00:00,La_liga,2022,Getafe,Cadiz,Away,2,2,2.6986,1.73207,16,11,d
+19215,2023-03-19 17:30:00,La_liga,2022,Getafe,Sevilla,Home,2,0,2.0733,0.81914,15,11,w
+19222,2023-04-01 14:15:00,La_liga,2022,Getafe,Athletic Club,Away,0,0,0.723494,0.751393,9,17,d
+19241,2023-04-08 16:30:00,La_liga,2022,Getafe,Real Sociedad,Away,0,2,0.243923,2.1178,6,11,l
+19247,2023-04-16 14:15:00,La_liga,2022,Getafe,Barcelona,Home,0,0,0.621219,1.04627,5,15,d
+19258,2023-04-23 16:30:00,La_liga,2022,Getafe,Mallorca,Away,1,3,0.118861,1.917,3,8,l
+19271,2023-04-26 17:30:00,La_liga,2022,Getafe,Almeria,Home,1,2,1.66712,2.08963,21,23,l
+19275,2023-04-30 16:30:00,La_liga,2022,Getafe,Espanyol,Away,0,1,0.410072,2.44417,7,17,l
+19290,2023-05-03 20:00:00,La_liga,2022,Getafe,Celta Vigo,Home,1,0,2.8705,0.219098,14,7,w
+19300,2023-05-13 19:00:00,La_liga,2022,Getafe,Real Madrid,Away,0,1,0.586304,0.879325,9,16,l
+19306,2023-05-20 16:30:00,La_liga,2022,Getafe,Elche,Home,1,1,1.58846,1.34186,9,13,d
+19312,2023-05-24 20:00:00,La_liga,2022,Getafe,Real Betis,Away,1,0,0.344449,1.09282,9,11,w
+19325,2023-05-28 17:00:00,La_liga,2022,Getafe,Osasuna,Home,2,1,2.7187,0.432264,16,10,w
+19335,2023-06-04 18:00:00,La_liga,2022,Getafe,Real Valladolid,Away,0,0,0.27917,0.686831,4,15,d

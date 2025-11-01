@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+26988,2024-08-18 17:00:00,La_liga,2024,Real_Sociedad,Rayo Vallecano,Home,1,2,1.56608,1.60148,11,12,l
+26997,2024-08-24 19:30:00,La_liga,2024,Real_Sociedad,Espanyol,Away,1,0,0.796104,1.79566,8,13,w
+27008,2024-08-28 19:30:00,La_liga,2024,Real_Sociedad,Alaves,Home,1,2,0.951647,2.62561,10,14,l
+27020,2024-09-01 17:15:00,La_liga,2024,Real_Sociedad,Getafe,Away,0,0,0.0209183,0.547095,1,16,d
+27031,2024-09-14 19:00:00,La_liga,2024,Real_Sociedad,Real Madrid,Home,0,2,1.41828,2.2759,11,16,l
+27045,2024-09-17 19:00:00,La_liga,2024,Real_Sociedad,Mallorca,Away,0,1,0.499139,1.56932,13,10,l
+27039,2024-09-21 12:00:00,La_liga,2024,Real_Sociedad,Real Valladolid,Away,0,0,1.3906,0.952589,14,15,d
+27055,2024-09-28 16:30:00,La_liga,2024,Real_Sociedad,Valencia,Home,3,0,3.6853,0.805963,11,9,w
+27067,2024-10-06 19:00:00,La_liga,2024,Real_Sociedad,Atletico Madrid,Home,1,1,1.08517,0.561748,16,4,d
+27076,2024-10-19 16:30:00,La_liga,2024,Real_Sociedad,Girona,Away,1,0,1.86082,0.446152,14,8,w
+27088,2024-10-27 20:00:00,La_liga,2024,Real_Sociedad,Osasuna,Home,0,2,1.6767,1.06487,19,10,l
+27100,2024-11-03 17:30:00,La_liga,2024,Real_Sociedad,Sevilla,Away,2,0,1.21835,0.629505,9,8,w
+27108,2024-11-10 20:00:00,La_liga,2024,Real_Sociedad,Barcelona,Home,1,0,1.88518,0.514102,14,11,w
+27112,2024-11-24 20:00:00,La_liga,2024,Real_Sociedad,Athletic Club,Away,0,1,0.799084,1.65075,6,12,l
+27130,2024-12-01 20:00:00,La_liga,2024,Real_Sociedad,Real Betis,Home,2,0,0.818081,0.366137,2,8,w
+27133,2024-12-08 13:00:00,La_liga,2024,Real_Sociedad,Leganes,Away,3,0,1.74462,0.463722,15,11,w
+27151,2024-12-15 17:30:00,La_liga,2024,Real_Sociedad,Las Palmas,Home,0,0,1.24562,0.840973,15,9,d
+27154,2024-12-21 15:15:00,La_liga,2024,Real_Sociedad,Celta Vigo,Away,0,2,0.314488,1.22165,7,11,l
+27164,2025-01-13 20:00:00,La_liga,2024,Real_Sociedad,Villarreal,Home,1,0,0.805968,1.22527,6,15,w
+27179,2025-01-19 20:00:00,La_liga,2024,Real_Sociedad,Valencia,Away,0,1,0.758224,1.77248,9,7,l
+27188,2025-01-26 15:15:00,La_liga,2024,Real_Sociedad,Getafe,Home,0,3,1.26074,2.01027,13,13,l
+27195,2025-02-02 17:30:00,La_liga,2024,Real_Sociedad,Osasuna,Away,1,2,2.35115,1.11088,13,11,l
+27202,2025-02-09 17:30:00,La_liga,2024,Real_Sociedad,Espanyol,Home,2,1,1.67839,0.872507,13,4,w
+27218,2025-02-16 20:00:00,La_liga,2024,Real_Sociedad,Real Betis,Away,0,3,0.20529,2.49445,5,24,l
+27230,2025-02-23 20:00:00,La_liga,2024,Real_Sociedad,Leganes,Home,3,0,1.0679,0.256673,12,8,w
+27232,2025-03-02 15:15:00,La_liga,2024,Real_Sociedad,Barcelona,Away,0,4,0.0,3.63697,0,33,l
+27247,2025-03-09 20:00:00,La_liga,2024,Real_Sociedad,Sevilla,Home,0,1,0.803868,1.01162,7,9,l
+27254,2025-03-16 17:30:00,La_liga,2024,Real_Sociedad,Rayo Vallecano,Away,2,2,0.905535,0.536859,8,10,d
+27265,2025-03-29 13:00:00,La_liga,2024,Real_Sociedad,Real Valladolid,Home,2,1,1.32811,1.29525,12,12,w
+27274,2025-04-06 12:00:00,La_liga,2024,Real_Sociedad,Las Palmas,Away,3,1,2.81501,1.75387,13,13,w
+27290,2025-04-12 12:00:00,La_liga,2024,Real_Sociedad,Mallorca,Home,0,2,0.616782,0.801126,15,7,l
+27298,2025-04-20 14:15:00,La_liga,2024,Real_Sociedad,Villarreal,Away,2,2,2.29777,2.14498,4,20,d
+27310,2025-04-23 19:30:00,La_liga,2024,Real_Sociedad,Alaves,Away,0,1,0.472083,0.815479,6,10,l
+27315,2025-05-04 19:00:00,La_liga,2024,Real_Sociedad,Athletic Club,Home,0,0,0.893155,0.232928,12,3,d
+27323,2025-05-10 19:00:00,La_liga,2024,Real_Sociedad,Atletico Madrid,Away,0,4,0.298675,1.71528,6,13,l
+27337,2025-05-13 18:00:00,La_liga,2024,Real_Sociedad,Celta Vigo,Home,0,1,3.31324,1.29945,15,6,l
+27347,2025-05-18 17:00:00,La_liga,2024,Real_Sociedad,Girona,Home,3,2,1.87253,1.64512,15,9,w
+27355,2025-05-24 14:15:00,La_liga,2024,Real_Sociedad,Real Madrid,Away,0,2,1.18496,2.61915,9,16,l

@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+22284,2023-08-14 19:00:00,EPL,2023,Wolverhampton_Wanderers,Manchester United,Away,0,1,1.72228,1.97087,23,15,l
+22286,2023-08-19 14:00:00,EPL,2023,Wolverhampton_Wanderers,Brighton,Home,1,4,2.68821,3.15562,16,16,l
+22299,2023-08-26 14:00:00,EPL,2023,Wolverhampton_Wanderers,Everton,Away,1,0,1.40228,1.89792,11,15,w
+21932,2023-09-03 13:00:00,EPL,2023,Wolverhampton_Wanderers,Crystal Palace,Away,2,3,1.13911,2.32935,12,16,l
+21935,2023-09-16 11:30:00,EPL,2023,Wolverhampton_Wanderers,Liverpool,Home,1,3,0.538833,2.82701,12,16,l
+21945,2023-09-23 14:00:00,EPL,2023,Wolverhampton_Wanderers,Luton,Away,1,1,0.762984,2.24101,3,20,d
+21961,2023-09-30 14:00:00,EPL,2023,Wolverhampton_Wanderers,Manchester City,Home,2,1,0.673985,0.98075,3,24,w
+21974,2023-10-08 13:00:00,EPL,2023,Wolverhampton_Wanderers,Aston Villa,Home,1,1,1.76232,1.81618,8,18,d
+21975,2023-10-21 14:00:00,EPL,2023,Wolverhampton_Wanderers,Bournemouth,Away,2,1,2.30454,1.01839,20,7,w
+21994,2023-10-28 16:30:00,EPL,2023,Wolverhampton_Wanderers,Newcastle United,Home,2,2,0.863393,2.31987,11,13,d
+22003,2023-11-04 15:00:00,EPL,2023,Wolverhampton_Wanderers,Sheffield United,Away,1,2,1.14803,1.10165,10,11,l
+22014,2023-11-11 12:30:00,EPL,2023,Wolverhampton_Wanderers,Tottenham,Home,2,1,1.90884,0.432315,17,6,w
+22018,2023-11-27 20:00:00,EPL,2023,Wolverhampton_Wanderers,Fulham,Away,2,3,1.57875,2.49057,10,12,l
+22026,2023-12-02 15:00:00,EPL,2023,Wolverhampton_Wanderers,Arsenal,Away,1,2,1.07886,3.30368,6,19,l
+22042,2023-12-05 19:30:00,EPL,2023,Wolverhampton_Wanderers,Burnley,Home,1,0,1.11886,0.781542,7,12,w
+22054,2023-12-09 15:00:00,EPL,2023,Wolverhampton_Wanderers,Nottingham Forest,Home,1,1,1.02199,1.21801,10,8,d
+22064,2023-12-17 14:00:00,EPL,2023,Wolverhampton_Wanderers,West Ham,Away,0,3,0.556206,1.03828,14,13,l
+22073,2023-12-24 13:00:00,EPL,2023,Wolverhampton_Wanderers,Chelsea,Home,2,1,1.74626,1.75447,14,16,w
+22077,2023-12-27 19:30:00,EPL,2023,Wolverhampton_Wanderers,Brentford,Away,4,1,1.89483,2.59347,11,14,w
+22094,2023-12-30 15:00:00,EPL,2023,Wolverhampton_Wanderers,Everton,Home,3,0,2.64477,0.519641,12,10,w
+22095,2024-01-22 19:45:00,EPL,2023,Wolverhampton_Wanderers,Brighton,Away,0,0,1.14116,1.3701,8,11,d
+22111,2024-02-01 20:15:00,EPL,2023,Wolverhampton_Wanderers,Manchester United,Home,3,4,2.27609,3.22698,16,21,l
+22120,2024-02-04 14:00:00,EPL,2023,Wolverhampton_Wanderers,Chelsea,Away,4,2,2.48996,2.35967,14,16,w
+22134,2024-02-10 15:00:00,EPL,2023,Wolverhampton_Wanderers,Brentford,Home,0,2,1.05781,1.84908,17,9,l
+22144,2024-02-17 15:00:00,EPL,2023,Wolverhampton_Wanderers,Tottenham,Away,2,1,1.77591,1.59768,12,15,w
+22154,2024-02-25 13:30:00,EPL,2023,Wolverhampton_Wanderers,Sheffield United,Home,1,0,1.21618,0.654342,13,12,w
+22161,2024-03-02 15:00:00,EPL,2023,Wolverhampton_Wanderers,Newcastle United,Away,0,3,0.507769,3.33495,12,14,l
+22174,2024-03-09 15:00:00,EPL,2023,Wolverhampton_Wanderers,Fulham,Home,2,1,1.29589,2.94155,8,24,w
+22186,2024-03-30 17:30:00,EPL,2023,Wolverhampton_Wanderers,Aston Villa,Away,0,2,1.66232,1.28271,13,11,l
+22197,2024-04-02 18:45:00,EPL,2023,Wolverhampton_Wanderers,Burnley,Away,1,1,1.01021,1.12581,8,13,d
+22214,2024-04-06 14:00:00,EPL,2023,Wolverhampton_Wanderers,West Ham,Home,1,2,1.78341,1.14133,14,11,l
+22223,2024-04-13 14:00:00,EPL,2023,Wolverhampton_Wanderers,Nottingham Forest,Away,2,2,1.45688,1.76244,11,18,d
+22234,2024-04-20 18:30:00,EPL,2023,Wolverhampton_Wanderers,Arsenal,Home,0,2,0.164516,1.66179,5,24,l
+22184,2024-04-24 18:45:00,EPL,2023,Wolverhampton_Wanderers,Bournemouth,Home,0,1,0.484454,2.40311,15,21,l
+22244,2024-04-27 14:00:00,EPL,2023,Wolverhampton_Wanderers,Luton,Home,2,1,1.49011,0.90435,13,9,w
+22253,2024-05-04 16:30:00,EPL,2023,Wolverhampton_Wanderers,Manchester City,Away,1,5,0.396887,4.52542,2,20,l
+22264,2024-05-11 14:00:00,EPL,2023,Wolverhampton_Wanderers,Crystal Palace,Home,1,3,1.1561,2.51452,13,13,l
+22271,2024-05-19 15:00:00,EPL,2023,Wolverhampton_Wanderers,Liverpool,Away,0,2,0.731254,5.65937,4,36,l
