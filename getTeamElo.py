@@ -9,10 +9,6 @@ START_ELO = 1500
 K_FACTOR = 20
 HOME_ADVANTAGE = 35  # Elo points added to home side when computing expected score
 
-# New knobs to amplify upsets and weight by margin
-UPSET_WEIGHT = 2.0    # larger -> bigger reward/penalty for upsets
-GOAL_WEIGHT = 1.0     # scales margin-of-victory effect
-
 
 def expected_score(elo_a: float, elo_b: float, home_adv_a: float = 0.0) -> float:
     """
@@ -158,28 +154,9 @@ def process_league(league_dir: Path) -> None:
         # actual scores
         S_home, S_away = result_to_score(h_goals, a_goals)
 
-        # margin and upset handling:
-        goal_diff = abs(h_goals - a_goals)
-        # goal multiplier: grows with margin but not linearly
-        goal_mult = 1.0 + GOAL_WEIGHT * math.log1p(goal_diff)
-
-        # Determine winner's expected probability for upset multiplier
-        if S_home == 1.0:
-            p_winner = E_home
-        elif S_away == 1.0:
-            p_winner = E_away
-        else:
-            # draw: use the favorite's expected prob to scale (smaller reward if favorite draws)
-            p_winner = max(E_home, E_away)
-
-        upset_mult = 1.0 + UPSET_WEIGHT * (1.0 - p_winner)
-
-        # Combined dynamic K
-        dynamic_K = K_FACTOR * goal_mult * upset_mult
-
         # update
-        delta_home = dynamic_K * (S_home - E_home)
-        delta_away = dynamic_K * (S_away - E_away)
+        delta_home = K_FACTOR * (S_home - E_home)
+        delta_away = K_FACTOR * (S_away - E_away)
 
         elos[home] = elo_home + delta_home
         elos[away] = elo_away + delta_away
@@ -197,7 +174,7 @@ def process_league(league_dir: Path) -> None:
             stats[home]["draws"] += 1
             stats[away]["draws"] += 1
 
-        # record timeseries after match (include deltas and expectations for debugging)
+        # record timeseries after match
         timeseries_records.append(
             {
                 "match_id": match_id,
@@ -205,14 +182,6 @@ def process_league(league_dir: Path) -> None:
                 "league": league_dir.name,
                 "home_team": home,
                 "away_team": away,
-                "home_elo_pre": round(elo_home, 2),
-                "away_elo_pre": round(elo_away, 2),
-                "E_home": round(E_home, 3),
-                "E_away": round(E_away, 3),
-                "goal_diff": goal_diff,
-                "dynamic_K": round(dynamic_K, 3),
-                "delta_home": round(delta_home, 3),
-                "delta_away": round(delta_away, 3),
                 "home_elo_post": round(elos[home], 2),
                 "away_elo_post": round(elos[away], 2),
             }
@@ -250,11 +219,12 @@ def main():
         print("No leagues found in understat_data/")
         return
 
-    print("Calculating Elo ratings for each league...")
+    print("Calculating Elo ratings per league...")
     for league in sorted(leagues, key=lambda p: p.name.lower()):
         print(f"Processing league: {league.name}")
         process_league(league)
     print("Done.")
+
 
 if __name__ == "__main__":
     main()
