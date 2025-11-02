@@ -208,3 +208,6 @@ __marimo__/
 AGENTS.md
 .DS_Store
 
+# Local runs
+artifacts/
+
