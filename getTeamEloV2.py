@@ -281,14 +281,18 @@ def main():
     if not BASE_DIR.exists():
         print("understat_data not found")
         return
-    leagues = [p for p in BASE_DIR.iterdir() if p.is_dir()]
-    if not leagues:
-        print("no league folders")
-        return
+    
+    # Only process the main football leagues
+    target_leagues = ["Bundesliga", "EPL", "La_liga", "Ligue_1", "Serie_A"]
+    
     print("Computing Elo for leagues...")
-    for league in sorted(leagues, key=lambda p: p.name.lower()):
-        print(f"Processing {league.name}")
-        compute_elos_for_league(league)
+    for league_name in target_leagues:
+        league_dir = BASE_DIR / league_name
+        if league_dir.exists() and league_dir.is_dir():
+            print(f"Processing {league_name}")
+            compute_elos_for_league(league_dir)
+        else:
+            print(f"  Skip {league_name}: directory not found")
     print("Done.")
 
 
