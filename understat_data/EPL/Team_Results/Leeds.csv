@@ -45,3 +45,5 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28832,2025-09-27 14:00:00,EPL,2025,Leeds,Bournemouth,Home,2,2,2.04728,1.06033,19,12,d,1
 28844,2025-10-04 11:30:00,EPL,2025,Leeds,Tottenham,Home,1,2,1.48051,0.688198,16,9,l,0
 28849,2025-10-18 14:00:00,EPL,2025,Leeds,Burnley,Away,0,2,2.33152,0.509647,19,4,l,0
+28864,2025-10-24 19:00:00,EPL,2025,Leeds,West Ham,Home,2,1,2.2214,0.498653,13,9,w,3
+28868,2025-11-01 15:00:00,EPL,2025,Leeds,Brighton,Away,0,3,0.35919,2.64127,5,14,l,0

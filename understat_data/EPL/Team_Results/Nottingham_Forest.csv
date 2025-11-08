@@ -121,3 +121,5 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28834,2025-09-27 16:30:00,EPL,2025,Nottingham Forest,Sunderland,Home,0,1,1.4203,1.94154,22,11,l,0
 28846,2025-10-05 13:00:00,EPL,2025,Nottingham Forest,Newcastle United,Away,0,2,0.337689,3.81662,5,18,l,0
 28854,2025-10-18 11:30:00,EPL,2025,Nottingham Forest,Chelsea,Home,0,3,2.0555,2.5583,11,17,l,0
+28858,2025-10-26 13:00:00,EPL,2025,Nottingham Forest,Bournemouth,Away,0,2,0.305493,0.656601,8,13,l,0
+28874,2025-11-01 15:00:00,EPL,2025,Nottingham Forest,Manchester United,Home,2,2,1.55066,0.91622,17,18,d,1

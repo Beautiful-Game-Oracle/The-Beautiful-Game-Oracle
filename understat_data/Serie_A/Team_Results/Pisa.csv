@@ -6,3 +6,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29891,2025-09-28 13:00:00,Serie_A,2025,Pisa,Fiorentina,Home,0,0,0.580471,0.840093,11,14,d,1
 29895,2025-10-05 13:00:00,Serie_A,2025,Pisa,Bologna,Away,0,4,0.0265067,3.69928,2,24,l,0
 29912,2025-10-18 13:00:00,Serie_A,2025,Pisa,Verona,Home,0,0,0.572009,1.65491,7,15,d,1
+29919,2025-10-24 18:45:00,Serie_A,2025,Pisa,AC Milan,Away,2,2,1.22514,1.97232,8,19,d,1
+29932,2025-10-30 18:45:00,Serie_A,2025,Pisa,Lazio,Home,0,0,0.780185,0.657914,10,11,d,1
+29941,2025-11-02 14:00:00,Serie_A,2025,Pisa,Torino,Away,2,2,1.90329,1.22388,11,15,d,1
+29952,2025-11-07 19:45:00,Serie_A,2025,Pisa,Cremonese,Home,1,0,1.45109,1.23118,13,13,w,3

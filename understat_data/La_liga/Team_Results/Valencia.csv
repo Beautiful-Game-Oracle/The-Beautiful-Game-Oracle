@@ -122,3 +122,5 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29218,2025-09-29 19:00:00,La_liga,2025,Valencia,Real Oviedo,Home,1,2,1.72261,0.997143,16,10,l,0
 29230,2025-10-04 14:15:00,La_liga,2025,Valencia,Girona,Away,1,2,2.22808,1.16415,19,4,l,0
 29238,2025-10-20 19:00:00,La_liga,2025,Valencia,Alaves,Away,0,0,0.318076,1.05624,5,13,d,1
+29251,2025-10-25 19:00:00,La_liga,2025,Valencia,Villarreal,Home,0,2,0.641435,2.62387,15,12,l,0
+29263,2025-11-01 20:00:00,La_liga,2025,Valencia,Real Madrid,Away,0,4,0.292177,2.89965,4,21,l,0

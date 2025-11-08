@@ -120,3 +120,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29891,2025-09-28 13:00:00,Serie_A,2025,Fiorentina,Pisa,Away,0,0,0.840093,0.580471,14,11,d,1
 29896,2025-10-05 13:00:00,Serie_A,2025,Fiorentina,Roma,Home,1,2,1.11719,1.22512,11,8,l,0
 29911,2025-10-19 18:45:00,Serie_A,2025,Fiorentina,AC Milan,Away,1,2,0.965997,2.01853,5,14,l,0
+29917,2025-10-26 16:00:00,Serie_A,2025,Fiorentina,Bologna,Home,2,2,3.87905,0.883347,19,6,d,1
+29929,2025-10-29 18:45:00,Serie_A,2025,Fiorentina,Inter,Away,0,3,0.741937,2.87253,10,22,l,0
+29935,2025-11-02 14:00:00,Serie_A,2025,Fiorentina,Lecce,Home,0,1,1.38997,1.3239,15,11,l,0

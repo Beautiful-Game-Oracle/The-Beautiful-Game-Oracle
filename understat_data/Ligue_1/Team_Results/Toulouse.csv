@@ -113,3 +113,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29591,2025-09-27 17:00:00,Ligue_1,2025,Toulouse,Nantes,Home,2,2,1.98573,1.8303,20,12,d,1
 29596,2025-10-05 13:00:00,Ligue_1,2025,Toulouse,Lyon,Away,2,1,1.36525,1.42206,14,13,w,3
 29607,2025-10-19 15:15:00,Ligue_1,2025,Toulouse,Metz,Home,4,0,2.73037,0.119104,16,2,w,3
+29615,2025-10-25 17:00:00,Ligue_1,2025,Toulouse,Monaco,Away,0,1,0.584122,3.37276,10,14,l,0
+29626,2025-10-29 19:05:00,Ligue_1,2025,Toulouse,Rennes,Home,2,2,1.62131,1.26096,15,11,d,1
+29636,2025-11-02 16:15:00,Ligue_1,2025,Toulouse,Le Havre,Home,0,0,1.07851,1.07299,19,9,d,1

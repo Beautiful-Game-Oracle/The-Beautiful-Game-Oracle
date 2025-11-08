@@ -121,3 +121,5 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28830,2025-09-27 14:00:00,EPL,2025,Liverpool,Crystal Palace,Away,1,2,3.10176,3.53323,20,16,l,0
 28842,2025-10-04 16:30:00,EPL,2025,Liverpool,Chelsea,Away,1,2,2.05981,1.23721,12,12,l,0
 28852,2025-10-19 15:30:00,EPL,2025,Liverpool,Manchester United,Home,1,2,2.60972,2.53117,19,12,l,0
+28861,2025-10-25 19:00:00,EPL,2025,Liverpool,Brentford,Away,2,3,2.11838,3.27126,14,17,l,0
+28872,2025-11-01 20:00:00,EPL,2025,Liverpool,Aston Villa,Home,2,0,1.47021,0.43502,16,10,w,3

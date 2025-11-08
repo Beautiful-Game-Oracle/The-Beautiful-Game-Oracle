@@ -113,3 +113,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29588,2025-09-27 19:05:00,Ligue_1,2025,Paris Saint Germain,Auxerre,Home,2,0,2.11672,0.73132,15,12,w,3
 29595,2025-10-05 18:45:00,Ligue_1,2025,Paris Saint Germain,Lille,Away,1,1,1.71207,0.647492,17,9,d,1
 29608,2025-10-17 18:45:00,Ligue_1,2025,Paris Saint Germain,Strasbourg,Home,3,3,2.85659,1.92082,21,12,d,1
+29613,2025-10-25 15:00:00,Ligue_1,2025,Paris Saint Germain,Brest,Away,3,0,2.92453,1.89257,18,8,w,3
+29621,2025-10-29 17:00:00,Ligue_1,2025,Paris Saint Germain,Lorient,Away,1,1,1.28813,0.192946,15,5,d,1
+29634,2025-11-01 16:00:00,Ligue_1,2025,Paris Saint Germain,Nice,Home,1,0,1.88647,0.3867,28,5,w,3

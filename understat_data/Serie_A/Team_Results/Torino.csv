@@ -120,3 +120,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29890,2025-09-29 16:30:00,Serie_A,2025,Torino,Parma Calcio 1913,Away,1,2,0.660829,1.44462,15,13,l,0
 29899,2025-10-04 13:00:00,Serie_A,2025,Torino,Lazio,Away,3,3,2.18108,1.45075,16,9,d,1
 29906,2025-10-18 16:00:00,Serie_A,2025,Torino,Napoli,Home,1,0,1.90815,1.71911,12,22,w,3
+29923,2025-10-26 10:30:00,Serie_A,2025,Torino,Genoa,Home,2,1,1.8196,1.9796,13,12,w,3
+29925,2025-10-29 18:45:00,Serie_A,2025,Torino,Bologna,Away,0,0,0.797473,0.3322,8,11,d,1
+29941,2025-11-02 14:00:00,Serie_A,2025,Torino,Pisa,Home,2,2,1.22388,1.90329,15,11,d,1
+29949,2025-11-08 17:00:00,Serie_A,2025,Torino,Juventus,Away,0,0,0.405589,1.93707,8,21,d,1

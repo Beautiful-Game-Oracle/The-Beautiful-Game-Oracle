@@ -74,3 +74,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30261,2025-09-27 13:30:00,Bundesliga,2025,FC Heidenheim,Augsburg,Home,2,1,1.79097,0.619833,11,8,w,3
 30275,2025-10-05 13:30:00,Bundesliga,2025,FC Heidenheim,VfB Stuttgart,Away,0,1,0.290942,1.10781,5,18,l,0
 30281,2025-10-18 13:30:00,Bundesliga,2025,FC Heidenheim,Werder Bremen,Home,2,2,3.07635,1.85638,31,11,d,1
+30293,2025-10-25 13:30:00,Bundesliga,2025,FC Heidenheim,Hoffenheim,Away,1,3,0.902315,2.4278,12,14,l,0
+30299,2025-11-01 14:30:00,Bundesliga,2025,FC Heidenheim,Eintracht Frankfurt,Home,1,1,0.831882,1.22406,9,16,d,1
+30305,2025-11-08 14:30:00,Bundesliga,2025,FC Heidenheim,Bayer Leverkusen,Away,0,6,0.063377,3.90142,1,25,l,0

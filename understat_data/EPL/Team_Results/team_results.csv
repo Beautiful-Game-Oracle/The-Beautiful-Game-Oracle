@@ -121,6 +121,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28836,2025-09-28 15:30:00,EPL,2025,Arsenal,Newcastle United,Away,2,1,2.07048,0.739851,20,8,w,3
 28839,2025-10-04 14:00:00,EPL,2025,Arsenal,West Ham,Home,2,0,3.0585,0.864549,21,4,w,3
 28851,2025-10-18 16:30:00,EPL,2025,Arsenal,Fulham,Away,1,0,2.07823,0.502332,16,9,w,3
+28859,2025-10-26 13:00:00,EPL,2025,Arsenal,Crystal Palace,Home,1,0,0.856175,0.350534,10,7,w,3
+28869,2025-11-01 15:00:00,EPL,2025,Arsenal,Burnley,Away,2,0,2.51649,0.679177,12,3,w,3
+28885,2025-11-08 17:30:00,EPL,2025,Arsenal,Sunderland,Away,2,2,2.32943,1.20495,17,6,d,1
 18204,2022-08-06 14:00:00,EPL,2022,Aston Villa,Bournemouth,Away,0,2,0.488895,0.588341,15,7,l,0
 18212,2022-08-13 11:30:00,EPL,2022,Aston Villa,Everton,Home,2,1,2.66696,1.37507,13,15,w,3
 18223,2022-08-20 14:00:00,EPL,2022,Aston Villa,Crystal Palace,Away,1,3,0.803828,2.91137,13,17,l,0
@@ -243,6 +246,8 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28831,2025-09-28 13:00:00,EPL,2025,Aston Villa,Fulham,Home,3,1,1.36575,0.952612,9,11,w,3
 28840,2025-10-05 13:00:00,EPL,2025,Aston Villa,Burnley,Home,2,1,1.73572,0.502292,15,5,w,3
 28856,2025-10-19 13:00:00,EPL,2025,Aston Villa,Tottenham,Away,2,1,0.352231,1.51461,8,9,w,3
+28860,2025-10-26 13:00:00,EPL,2025,Aston Villa,Manchester City,Home,1,0,0.843906,1.36914,9,18,w,3
+28872,2025-11-01 20:00:00,EPL,2025,Aston Villa,Liverpool,Away,0,2,0.43502,1.47021,10,16,l,0
 18204,2022-08-06 14:00:00,EPL,2022,Bournemouth,Aston Villa,Home,2,0,0.588341,0.488895,7,15,w,3
 18214,2022-08-13 14:00:00,EPL,2022,Bournemouth,Manchester City,Away,0,4,0.123946,1.69064,4,19,l,0
 18227,2022-08-20 16:30:00,EPL,2022,Bournemouth,Arsenal,Home,0,3,0.211335,1.71081,6,14,l,0
@@ -365,6 +370,8 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28832,2025-09-27 14:00:00,EPL,2025,Bournemouth,Leeds,Away,2,2,1.06033,2.04728,12,19,d,1
 28838,2025-10-03 19:00:00,EPL,2025,Bournemouth,Fulham,Home,3,1,1.33458,0.84335,11,12,w,3
 28850,2025-10-18 14:00:00,EPL,2025,Bournemouth,Crystal Palace,Away,3,3,2.0471,4.56284,8,20,d,1
+28858,2025-10-26 13:00:00,EPL,2025,Bournemouth,Nottingham Forest,Home,2,0,0.656601,0.305493,13,8,w,3
+28873,2025-11-02 16:30:00,EPL,2025,Bournemouth,Manchester City,Away,1,3,0.899846,2.48999,8,15,l,0
 18210,2022-08-07 13:00:00,EPL,2022,Brentford,Leicester,Away,2,2,0.931067,0.455695,9,14,d,1
 18218,2022-08-13 16:30:00,EPL,2022,Brentford,Manchester United,Home,4,0,1.38785,0.896038,13,15,w,3
 18225,2022-08-20 14:00:00,EPL,2022,Brentford,Fulham,Away,2,3,1.59352,2.89934,13,18,l,0
@@ -487,6 +494,8 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28828,2025-09-27 11:30:00,EPL,2025,Brentford,Manchester United,Home,3,1,2.78726,2.23609,10,14,w,3
 28841,2025-10-05 15:30:00,EPL,2025,Brentford,Manchester City,Home,0,1,0.693758,1.09647,6,10,l,0
 28857,2025-10-20 19:00:00,EPL,2025,Brentford,West Ham,Away,2,0,3.46635,0.260251,22,7,w,3
+28861,2025-10-25 19:00:00,EPL,2025,Brentford,Liverpool,Home,3,2,3.27126,2.11838,17,14,w,3
+28870,2025-11-01 15:00:00,EPL,2025,Brentford,Crystal Palace,Away,0,2,0.820498,0.734558,7,9,l,0
 18209,2022-08-07 13:00:00,EPL,2022,Brighton,Manchester United,Away,2,1,1.7289,1.42103,16,17,w,3
 18213,2022-08-13 14:00:00,EPL,2022,Brighton,Newcastle United,Home,0,0,1.60835,0.183952,13,4,d,1
 18229,2022-08-21 13:00:00,EPL,2022,Brighton,West Ham,Away,2,0,1.82645,0.768634,11,13,w,3
@@ -609,6 +618,8 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28829,2025-09-27 14:00:00,EPL,2025,Brighton,Chelsea,Away,3,1,2.4751,2.02653,12,13,w,3
 28847,2025-10-05 13:00:00,EPL,2025,Brighton,Wolverhampton Wanderers,Away,1,1,1.39158,0.369404,18,6,d,1
 28848,2025-10-18 14:00:00,EPL,2025,Brighton,Newcastle United,Home,2,1,0.857104,1.28313,13,16,w,3
+28865,2025-10-25 16:30:00,EPL,2025,Brighton,Manchester United,Away,2,4,0.947154,1.96231,17,13,l,0
+28868,2025-11-01 15:00:00,EPL,2025,Brighton,Leeds,Home,3,0,2.64127,0.35919,14,5,w,3
 22275,2023-08-11 19:00:00,EPL,2023,Burnley,Manchester City,Home,0,3,0.311032,2.40074,6,17,l,0
 22302,2023-08-27 13:00:00,EPL,2023,Burnley,Aston Villa,Home,1,3,0.630605,2.83691,9,16,l,0
 21929,2023-09-02 14:00:00,EPL,2023,Burnley,Tottenham,Home,2,5,1.66604,2.39785,16,20,l,0
@@ -655,6 +666,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28833,2025-09-27 14:00:00,EPL,2025,Burnley,Manchester City,Away,1,5,0.509491,3.22133,11,21,l,0
 28840,2025-10-05 13:00:00,EPL,2025,Burnley,Aston Villa,Away,1,2,0.502292,1.73572,5,15,l,0
 28849,2025-10-18 14:00:00,EPL,2025,Burnley,Leeds,Home,2,0,0.509647,2.33152,4,19,w,3
+28867,2025-10-26 13:00:00,EPL,2025,Burnley,Wolverhampton Wanderers,Away,3,2,1.54544,2.58132,11,15,w,3
+28869,2025-11-01 15:00:00,EPL,2025,Burnley,Arsenal,Home,0,2,0.679177,2.51649,3,12,l,0
+28887,2025-11-08 15:00:00,EPL,2025,Burnley,West Ham,Away,2,3,1.87478,2.96728,16,15,l,0
 18208,2022-08-06 16:30:00,EPL,2022,Chelsea,Everton,Away,1,0,1.92315,0.541983,15,8,w,3
 18220,2022-08-14 15:30:00,EPL,2022,Chelsea,Tottenham,Home,2,2,1.83945,1.58708,16,10,d,1
 18228,2022-08-21 13:00:00,EPL,2022,Chelsea,Leeds,Away,0,3,0.692492,2.20971,14,12,l,0
@@ -777,6 +791,8 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28829,2025-09-27 14:00:00,EPL,2025,Chelsea,Brighton,Home,1,3,2.02653,2.4751,13,12,l,0
 28842,2025-10-04 16:30:00,EPL,2025,Chelsea,Liverpool,Home,2,1,1.23721,2.05981,12,12,w,3
 28854,2025-10-18 11:30:00,EPL,2025,Chelsea,Nottingham Forest,Away,3,0,2.5583,2.0555,17,11,w,3
+28862,2025-10-25 14:00:00,EPL,2025,Chelsea,Sunderland,Home,1,2,1.21332,1.5506,16,10,l,0
+28876,2025-11-01 17:30:00,EPL,2025,Chelsea,Tottenham,Away,1,0,3.34251,0.146954,15,3,w,3
 18202,2022-08-05 19:00:00,EPL,2022,Crystal Palace,Arsenal,Home,0,2,1.20637,1.43601,11,10,l,0
 18221,2022-08-15 19:00:00,EPL,2022,Crystal Palace,Liverpool,Away,1,1,1.64468,2.23596,7,24,d,1
 18223,2022-08-20 14:00:00,EPL,2022,Crystal Palace,Aston Villa,Home,3,1,2.91137,0.803828,17,13,w,3
@@ -899,6 +915,8 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28830,2025-09-27 14:00:00,EPL,2025,Crystal Palace,Liverpool,Home,2,1,3.53323,3.10176,16,20,w,3
 28843,2025-10-05 13:00:00,EPL,2025,Crystal Palace,Everton,Away,1,2,2.17789,2.13876,15,14,l,0
 28850,2025-10-18 14:00:00,EPL,2025,Crystal Palace,Bournemouth,Home,3,3,4.56284,2.0471,20,8,d,1
+28859,2025-10-26 13:00:00,EPL,2025,Crystal Palace,Arsenal,Away,0,1,0.350534,0.856175,7,10,l,0
+28870,2025-11-01 15:00:00,EPL,2025,Crystal Palace,Brentford,Home,2,0,0.734558,0.820498,9,7,w,3
 18208,2022-08-06 16:30:00,EPL,2022,Everton,Chelsea,Home,0,1,0.541983,1.92315,8,15,l,0
 18212,2022-08-13 11:30:00,EPL,2022,Everton,Aston Villa,Away,1,2,1.37507,2.66696,15,13,l,0
 18224,2022-08-20 14:00:00,EPL,2022,Everton,Nottingham Forest,Home,1,1,1.43408,0.918315,19,14,d,1
@@ -1021,6 +1039,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28837,2025-09-29 19:00:00,EPL,2025,Everton,West Ham,Home,1,1,0.909703,0.775766,12,14,d,1
 28843,2025-10-05 13:00:00,EPL,2025,Everton,Crystal Palace,Home,2,1,2.13876,2.17789,14,15,w,3
 28853,2025-10-18 14:00:00,EPL,2025,Everton,Manchester City,Away,0,2,0.794622,2.4799,5,19,l,0
+28863,2025-10-26 15:30:00,EPL,2025,Everton,Tottenham,Home,0,3,1.4032,2.09327,12,7,l,0
+28875,2025-11-03 20:00:00,EPL,2025,Everton,Sunderland,Away,1,1,1.00741,1.18068,8,17,d,1
+28882,2025-11-08 15:00:00,EPL,2025,Everton,Fulham,Home,2,0,2.30607,0.424478,14,8,w,3
 18203,2022-08-06 11:30:00,EPL,2022,Fulham,Liverpool,Home,2,2,1.26822,2.34111,9,11,d,1
 18216,2022-08-13 14:00:00,EPL,2022,Fulham,Wolverhampton Wanderers,Away,0,0,1.08813,0.975375,9,7,d,1
 18225,2022-08-20 14:00:00,EPL,2022,Fulham,Brentford,Home,3,2,2.89934,1.59352,18,13,w,3
@@ -1143,6 +1164,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28831,2025-09-28 13:00:00,EPL,2025,Fulham,Aston Villa,Away,1,3,0.952612,1.36575,11,9,l,0
 28838,2025-10-03 19:00:00,EPL,2025,Fulham,Bournemouth,Away,1,3,0.84335,1.33458,12,11,l,0
 28851,2025-10-18 16:30:00,EPL,2025,Fulham,Arsenal,Home,0,1,0.502332,2.07823,9,16,l,0
+28866,2025-10-25 14:00:00,EPL,2025,Fulham,Newcastle United,Away,1,2,1.52001,2.76806,12,18,l,0
+28871,2025-11-01 15:00:00,EPL,2025,Fulham,Wolverhampton Wanderers,Home,3,0,1.91207,0.209934,19,6,w,3
+28882,2025-11-08 15:00:00,EPL,2025,Fulham,Everton,Away,0,2,0.424478,2.30607,8,14,l,0
 26603,2024-08-17 11:30:00,EPL,2024,Ipswich,Liverpool,Home,0,2,0.342601,3.92906,7,19,l,0
 26615,2024-08-24 14:00:00,EPL,2024,Ipswich,Manchester City,Away,1,4,0.479999,3.07818,1,14,l,0
 26625,2024-08-31 14:00:00,EPL,2024,Ipswich,Fulham,Home,1,1,0.707048,1.18883,11,9,d,1
@@ -1227,6 +1251,8 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28832,2025-09-27 14:00:00,EPL,2025,Leeds,Bournemouth,Home,2,2,2.04728,1.06033,19,12,d,1
 28844,2025-10-04 11:30:00,EPL,2025,Leeds,Tottenham,Home,1,2,1.48051,0.688198,16,9,l,0
 28849,2025-10-18 14:00:00,EPL,2025,Leeds,Burnley,Away,0,2,2.33152,0.509647,19,4,l,0
+28864,2025-10-24 19:00:00,EPL,2025,Leeds,West Ham,Home,2,1,2.2214,0.498653,13,9,w,3
+28868,2025-11-01 15:00:00,EPL,2025,Leeds,Brighton,Away,0,3,0.35919,2.64127,5,14,l,0
 18210,2022-08-07 13:00:00,EPL,2022,Leicester,Brentford,Home,2,2,0.455695,0.931067,14,9,d,1
 18217,2022-08-13 14:00:00,EPL,2022,Leicester,Arsenal,Away,2,4,0.690679,3.0107,6,20,l,0
 18226,2022-08-20 14:00:00,EPL,2022,Leicester,Southampton,Home,1,2,0.242948,1.24155,6,9,l,0
@@ -1425,6 +1451,8 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28830,2025-09-27 14:00:00,EPL,2025,Liverpool,Crystal Palace,Away,1,2,3.10176,3.53323,20,16,l,0
 28842,2025-10-04 16:30:00,EPL,2025,Liverpool,Chelsea,Away,1,2,2.05981,1.23721,12,12,l,0
 28852,2025-10-19 15:30:00,EPL,2025,Liverpool,Manchester United,Home,1,2,2.60972,2.53117,19,12,l,0
+28861,2025-10-25 19:00:00,EPL,2025,Liverpool,Brentford,Away,2,3,2.11838,3.27126,14,17,l,0
+28872,2025-11-01 20:00:00,EPL,2025,Liverpool,Aston Villa,Home,2,0,1.47021,0.43502,16,10,w,3
 22278,2023-08-12 14:00:00,EPL,2023,Luton,Brighton,Away,1,4,1.88594,4.36748,9,27,l,0
 22295,2023-08-25 19:00:00,EPL,2023,Luton,Chelsea,Away,0,3,0.465741,3.41419,11,19,l,0
 21925,2023-09-01 19:00:00,EPL,2023,Luton,West Ham,Home,1,2,2.02244,1.22528,16,9,l,0
@@ -1585,6 +1613,8 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28833,2025-09-27 14:00:00,EPL,2025,Manchester City,Burnley,Home,5,1,3.22133,0.509491,21,11,w,3
 28841,2025-10-05 15:30:00,EPL,2025,Manchester City,Brentford,Away,1,0,1.09647,0.693758,10,6,w,3
 28853,2025-10-18 14:00:00,EPL,2025,Manchester City,Everton,Home,2,0,2.4799,0.794622,19,5,w,3
+28860,2025-10-26 13:00:00,EPL,2025,Manchester City,Aston Villa,Away,0,1,1.36914,0.843906,18,9,l,0
+28873,2025-11-02 16:30:00,EPL,2025,Manchester City,Bournemouth,Home,3,1,2.48999,0.899846,15,8,w,3
 18209,2022-08-07 13:00:00,EPL,2022,Manchester United,Brighton,Home,1,2,1.42103,1.7289,17,16,l,0
 18218,2022-08-13 16:30:00,EPL,2022,Manchester United,Brentford,Away,0,4,0.896038,1.38785,15,13,l,0
 18231,2022-08-22 19:00:00,EPL,2022,Manchester United,Liverpool,Home,2,1,2.01764,1.52301,12,17,w,3
@@ -1707,6 +1737,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28828,2025-09-27 11:30:00,EPL,2025,Manchester United,Brentford,Away,1,3,2.23609,2.78726,14,10,l,0
 28845,2025-10-04 14:00:00,EPL,2025,Manchester United,Sunderland,Home,2,0,1.9298,0.807119,15,8,w,3
 28852,2025-10-19 15:30:00,EPL,2025,Manchester United,Liverpool,Away,2,1,2.53117,2.60972,12,19,w,3
+28865,2025-10-25 16:30:00,EPL,2025,Manchester United,Brighton,Home,4,2,1.96231,0.947154,13,17,w,3
+28874,2025-11-01 15:00:00,EPL,2025,Manchester United,Nottingham Forest,Away,2,2,0.91622,1.55066,18,17,d,1
+28886,2025-11-08 12:30:00,EPL,2025,Manchester United,Tottenham,Away,2,2,0.820256,1.35532,5,10,d,1
 18206,2022-08-06 14:00:00,EPL,2022,Newcastle United,Nottingham Forest,Home,2,0,1.8591,0.235825,23,5,w,3
 18213,2022-08-13 14:00:00,EPL,2022,Newcastle United,Brighton,Away,0,0,0.183952,1.60835,4,13,d,1
 18230,2022-08-21 15:30:00,EPL,2022,Newcastle United,Manchester City,Home,3,3,2.2127,3.67382,12,21,d,1
@@ -1829,6 +1862,8 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28836,2025-09-28 15:30:00,EPL,2025,Newcastle United,Arsenal,Home,1,2,0.739851,2.07048,8,20,l,0
 28846,2025-10-05 13:00:00,EPL,2025,Newcastle United,Nottingham Forest,Home,2,0,3.81662,0.337689,18,5,w,3
 28848,2025-10-18 14:00:00,EPL,2025,Newcastle United,Brighton,Away,1,2,1.28313,0.857104,16,13,l,0
+28866,2025-10-25 14:00:00,EPL,2025,Newcastle United,Fulham,Home,2,1,2.76806,1.52001,18,12,w,3
+28877,2025-11-02 14:00:00,EPL,2025,Newcastle United,West Ham,Away,1,3,0.523615,1.41383,13,14,l,0
 18206,2022-08-06 14:00:00,EPL,2022,Nottingham Forest,Newcastle United,Away,0,2,0.235825,1.8591,5,23,l,0
 18219,2022-08-14 13:00:00,EPL,2022,Nottingham Forest,West Ham,Home,1,0,1.9717,2.08634,13,19,w,3
 18224,2022-08-20 14:00:00,EPL,2022,Nottingham Forest,Everton,Away,1,1,0.918315,1.43408,14,19,d,1
@@ -1951,6 +1986,8 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28834,2025-09-27 16:30:00,EPL,2025,Nottingham Forest,Sunderland,Home,0,1,1.4203,1.94154,22,11,l,0
 28846,2025-10-05 13:00:00,EPL,2025,Nottingham Forest,Newcastle United,Away,0,2,0.337689,3.81662,5,18,l,0
 28854,2025-10-18 11:30:00,EPL,2025,Nottingham Forest,Chelsea,Home,0,3,2.0555,2.5583,11,17,l,0
+28858,2025-10-26 13:00:00,EPL,2025,Nottingham Forest,Bournemouth,Away,0,2,0.305493,0.656601,8,13,l,0
+28874,2025-11-01 15:00:00,EPL,2025,Nottingham Forest,Manchester United,Home,2,2,1.55066,0.91622,17,18,d,1
 22280,2023-08-12 14:00:00,EPL,2023,Sheffield United,Crystal Palace,Home,0,1,0.422704,2.27616,8,24,l,0
 22285,2023-08-18 18:45:00,EPL,2023,Sheffield United,Nottingham Forest,Away,1,2,0.551038,1.37181,7,16,l,0
 22303,2023-08-27 13:00:00,EPL,2023,Sheffield United,Manchester City,Home,1,2,0.762232,3.84804,6,30,l,0
@@ -2073,6 +2110,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28834,2025-09-27 16:30:00,EPL,2025,Sunderland,Nottingham Forest,Away,1,0,1.94154,1.4203,11,22,w,3
 28845,2025-10-04 14:00:00,EPL,2025,Sunderland,Manchester United,Away,0,2,0.807119,1.9298,8,15,l,0
 28855,2025-10-18 14:00:00,EPL,2025,Sunderland,Wolverhampton Wanderers,Home,2,0,1.02481,0.676323,8,17,w,3
+28862,2025-10-25 14:00:00,EPL,2025,Sunderland,Chelsea,Away,2,1,1.5506,1.21332,10,16,w,3
+28875,2025-11-03 20:00:00,EPL,2025,Sunderland,Everton,Home,1,1,1.18068,1.00741,17,8,d,1
+28885,2025-11-08 17:30:00,EPL,2025,Sunderland,Arsenal,Home,2,2,1.20495,2.32943,6,17,d,1
 18207,2022-08-06 14:00:00,EPL,2022,Tottenham,Southampton,Home,4,1,1.6172,0.386546,18,10,w,3
 18220,2022-08-14 15:30:00,EPL,2022,Tottenham,Chelsea,Away,2,2,1.58708,1.83945,10,16,d,1
 18222,2022-08-20 11:30:00,EPL,2022,Tottenham,Wolverhampton Wanderers,Home,1,0,1.46608,0.686123,11,20,w,3
@@ -2195,6 +2235,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28835,2025-09-27 19:00:00,EPL,2025,Tottenham,Wolverhampton Wanderers,Home,1,1,0.818711,1.15951,10,9,d,1
 28844,2025-10-04 11:30:00,EPL,2025,Tottenham,Leeds,Away,2,1,0.688198,1.48051,9,16,w,3
 28856,2025-10-19 13:00:00,EPL,2025,Tottenham,Aston Villa,Home,1,2,1.51461,0.352231,9,8,l,0
+28863,2025-10-26 15:30:00,EPL,2025,Tottenham,Everton,Away,3,0,2.09327,1.4032,7,12,w,3
+28876,2025-11-01 17:30:00,EPL,2025,Tottenham,Chelsea,Home,0,1,0.146954,3.34251,3,15,l,0
+28886,2025-11-08 12:30:00,EPL,2025,Tottenham,Manchester United,Home,2,2,1.35532,0.820256,10,5,d,1
 18211,2022-08-07 15:30:00,EPL,2022,West Ham,Manchester City,Home,0,2,0.246188,2.58739,6,14,l,0
 18219,2022-08-14 13:00:00,EPL,2022,West Ham,Nottingham Forest,Away,0,1,2.08634,1.9717,19,13,l,0
 18229,2022-08-21 13:00:00,EPL,2022,West Ham,Brighton,Home,0,2,0.768634,1.82645,13,11,l,0
@@ -2317,6 +2360,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28837,2025-09-29 19:00:00,EPL,2025,West Ham,Everton,Away,1,1,0.775766,0.909703,14,12,d,1
 28839,2025-10-04 14:00:00,EPL,2025,West Ham,Arsenal,Away,0,2,0.864549,3.0585,4,21,l,0
 28857,2025-10-20 19:00:00,EPL,2025,West Ham,Brentford,Home,0,2,0.260251,3.46635,7,22,l,0
+28864,2025-10-24 19:00:00,EPL,2025,West Ham,Leeds,Away,1,2,0.498653,2.2214,9,13,l,0
+28877,2025-11-02 14:00:00,EPL,2025,West Ham,Newcastle United,Home,3,1,1.41383,0.523615,14,13,w,3
+28887,2025-11-08 15:00:00,EPL,2025,West Ham,Burnley,Home,3,2,2.96728,1.87478,15,16,w,3
 18205,2022-08-06 14:00:00,EPL,2022,Wolverhampton Wanderers,Leeds,Away,1,2,1.10119,0.88917,16,12,l,0
 18216,2022-08-13 14:00:00,EPL,2022,Wolverhampton Wanderers,Fulham,Home,0,0,0.975375,1.08813,7,9,d,1
 18222,2022-08-20 11:30:00,EPL,2022,Wolverhampton Wanderers,Tottenham,Away,0,1,0.686123,1.46608,20,11,l,0
@@ -2439,3 +2485,5 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28835,2025-09-27 19:00:00,EPL,2025,Wolverhampton Wanderers,Tottenham,Away,1,1,1.15951,0.818711,9,10,d,1
 28847,2025-10-05 13:00:00,EPL,2025,Wolverhampton Wanderers,Brighton,Home,1,1,0.369404,1.39158,6,18,d,1
 28855,2025-10-18 14:00:00,EPL,2025,Wolverhampton Wanderers,Sunderland,Away,0,2,0.676323,1.02481,17,8,l,0
+28867,2025-10-26 13:00:00,EPL,2025,Wolverhampton Wanderers,Burnley,Home,2,3,2.58132,1.54544,15,11,l,0
+28871,2025-11-01 15:00:00,EPL,2025,Wolverhampton Wanderers,Fulham,Away,0,3,0.209934,1.91207,6,19,l,0

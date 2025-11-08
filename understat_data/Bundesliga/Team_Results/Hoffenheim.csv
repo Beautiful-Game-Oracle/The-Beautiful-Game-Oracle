@@ -108,3 +108,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30266,2025-09-28 13:30:00,Bundesliga,2025,Hoffenheim,Freiburg,Away,1,1,2.24224,1.2587,15,6,d,1
 30274,2025-10-03 18:30:00,Bundesliga,2025,Hoffenheim,FC Cologne,Home,0,1,1.42371,1.30873,15,9,l,0
 30284,2025-10-19 15:30:00,Bundesliga,2025,Hoffenheim,St. Pauli,Away,3,0,1.79103,0.871968,14,10,w,3
+30293,2025-10-25 13:30:00,Bundesliga,2025,Hoffenheim,FC Heidenheim,Home,3,1,2.4278,0.902315,14,12,w,3
+30304,2025-11-02 16:30:00,Bundesliga,2025,Hoffenheim,Wolfsburg,Away,3,2,1.74291,1.40117,10,12,w,3
+30310,2025-11-08 14:30:00,Bundesliga,2025,Hoffenheim,RasenBallsport Leipzig,Home,3,1,1.92349,1.56187,12,17,w,3

@@ -122,3 +122,5 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29221,2025-09-28 19:00:00,La_liga,2025,Real Betis,Osasuna,Home,2,0,1.18955,0.578485,12,12,w,3
 29234,2025-10-05 16:30:00,La_liga,2025,Real Betis,Espanyol,Away,2,1,1.43721,2.0699,12,14,w,3
 29245,2025-10-18 16:30:00,La_liga,2025,Real Betis,Villarreal,Away,2,2,0.895532,0.980598,16,7,d,1
+29253,2025-10-27 20:00:00,La_liga,2025,Real Betis,Atletico Madrid,Home,0,2,1.33792,0.876554,17,9,l,0
+29261,2025-11-02 20:00:00,La_liga,2025,Real Betis,Mallorca,Home,3,0,2.82134,0.749852,15,14,w,3

@@ -79,3 +79,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29588,2025-09-27 19:05:00,Ligue_1,2025,Auxerre,Paris Saint Germain,Away,0,2,0.73132,2.11672,12,15,l,0
 29592,2025-10-04 19:05:00,Ligue_1,2025,Auxerre,Lens,Home,1,2,1.27422,0.471027,18,7,l,0
 29609,2025-10-19 15:15:00,Ligue_1,2025,Auxerre,Rennes,Away,2,2,1.66634,1.93587,7,19,d,1
+29611,2025-10-26 15:15:00,Ligue_1,2025,Auxerre,Le Havre,Home,0,1,0.563862,1.52215,13,9,l,0
+29627,2025-10-29 19:05:00,Ligue_1,2025,Auxerre,Strasbourg,Away,0,3,0.68695,4.10806,6,18,l,0
+29628,2025-11-01 20:05:00,Ligue_1,2025,Auxerre,Marseille,Home,0,1,1.09464,0.698037,9,6,l,0

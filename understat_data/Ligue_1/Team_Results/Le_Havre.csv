@@ -75,3 +75,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29586,2025-09-28 15:15:00,Ligue_1,2025,Le Havre,Metz,Away,0,0,0.395921,0.39939,11,7,d,1
 29594,2025-10-05 15:15:00,Ligue_1,2025,Le Havre,Rennes,Home,2,2,1.98097,1.21285,10,9,d,1
 29604,2025-10-18 19:05:00,Ligue_1,2025,Le Havre,Marseille,Away,2,6,0.352985,4.20445,8,18,l,0
+29611,2025-10-26 15:15:00,Ligue_1,2025,Le Havre,Auxerre,Away,1,0,1.52215,0.563862,9,13,w,3
+29619,2025-10-29 17:00:00,Ligue_1,2025,Le Havre,Brest,Home,1,0,0.556063,0.370311,13,8,w,3
+29636,2025-11-02 16:15:00,Ligue_1,2025,Le Havre,Toulouse,Away,0,0,1.07299,1.07851,9,19,d,1
+29638,2025-11-08 18:00:00,Ligue_1,2025,Le Havre,Nantes,Home,1,1,0.984753,0.353936,17,5,d,1

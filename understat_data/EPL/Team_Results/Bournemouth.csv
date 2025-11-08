@@ -121,3 +121,5 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28832,2025-09-27 14:00:00,EPL,2025,Bournemouth,Leeds,Away,2,2,1.06033,2.04728,12,19,d,1
 28838,2025-10-03 19:00:00,EPL,2025,Bournemouth,Fulham,Home,3,1,1.33458,0.84335,11,12,w,3
 28850,2025-10-18 14:00:00,EPL,2025,Bournemouth,Crystal Palace,Away,3,3,2.0471,4.56284,8,20,d,1
+28858,2025-10-26 13:00:00,EPL,2025,Bournemouth,Nottingham Forest,Home,2,0,0.656601,0.305493,13,8,w,3
+28873,2025-11-02 16:30:00,EPL,2025,Bournemouth,Manchester City,Away,1,3,0.899846,2.48999,8,15,l,0

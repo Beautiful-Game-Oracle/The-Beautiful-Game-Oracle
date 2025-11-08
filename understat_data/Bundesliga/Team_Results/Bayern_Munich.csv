@@ -108,3 +108,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30260,2025-09-26 18:30:00,Bundesliga,2025,Bayern Munich,Werder Bremen,Home,4,0,4.31859,0.298618,26,8,w,3
 30272,2025-10-04 16:30:00,Bundesliga,2025,Bayern Munich,Eintracht Frankfurt,Away,3,0,2.2301,0.560138,12,6,w,3
 30278,2025-10-18 16:30:00,Bundesliga,2025,Bayern Munich,Borussia Dortmund,Home,2,1,2.81994,1.41011,15,8,w,3
+30289,2025-10-25 13:30:00,Bundesliga,2025,Bayern Munich,Borussia M.Gladbach,Away,3,0,2.65026,0.757777,27,1,w,3
+30297,2025-11-01 17:30:00,Bundesliga,2025,Bayern Munich,Bayer Leverkusen,Home,3,0,2.28295,0.382774,18,8,w,3
+30312,2025-11-08 14:30:00,Bundesliga,2025,Bayern Munich,Union Berlin,Away,2,2,1.34246,1.02778,12,12,d,1

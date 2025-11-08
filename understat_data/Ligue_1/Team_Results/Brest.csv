@@ -113,3 +113,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29583,2025-09-28 15:15:00,Ligue_1,2025,Brest,Angers,Away,2,0,1.34192,0.501827,7,11,w,3
 29593,2025-10-04 17:00:00,Ligue_1,2025,Brest,Nantes,Home,0,0,1.44552,0.489862,17,6,d,1
 29603,2025-10-19 15:15:00,Ligue_1,2025,Brest,Lorient,Away,3,3,1.56803,1.5878,8,13,d,1
+29613,2025-10-25 15:00:00,Ligue_1,2025,Brest,Paris Saint Germain,Home,0,3,1.89257,2.92453,8,18,l,0
+29619,2025-10-29 17:00:00,Ligue_1,2025,Brest,Le Havre,Away,0,1,0.370311,0.556063,8,13,l,0
+29629,2025-11-02 19:45:00,Ligue_1,2025,Brest,Lyon,Home,0,0,1.63942,0.143862,13,4,d,1
+29641,2025-11-08 16:00:00,Ligue_1,2025,Brest,Marseille,Away,0,3,0.69584,3.09058,4,19,l,0

@@ -122,3 +122,5 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29225,2025-09-27 19:00:00,La_liga,2025,Athletic Club,Villarreal,Away,0,1,1.56287,1.86396,16,14,l,0
 29229,2025-10-04 16:30:00,La_liga,2025,Athletic Club,Mallorca,Home,2,1,1.73351,0.213773,18,6,w,3
 29244,2025-10-19 12:00:00,La_liga,2025,Athletic Club,Elche,Away,0,0,0.240214,0.823916,4,15,d,1
+29248,2025-10-25 16:30:00,La_liga,2025,Athletic Club,Getafe,Home,0,1,0.358524,1.00378,7,8,l,0
+29264,2025-11-01 17:30:00,La_liga,2025,Athletic Club,Real Sociedad,Away,2,3,1.13112,1.8412,11,9,l,0

@@ -122,3 +122,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29223,2025-09-28 12:00:00,La_liga,2025,Sevilla,Rayo Vallecano,Away,1,0,0.579597,1.89093,4,18,w,3
 29233,2025-10-05 14:15:00,La_liga,2025,Sevilla,Barcelona,Home,4,1,2.89414,2.4823,13,17,w,3
 29247,2025-10-18 12:00:00,La_liga,2025,Sevilla,Mallorca,Home,1,3,1.25884,1.95555,13,7,l,0
+29250,2025-10-24 19:00:00,La_liga,2025,Sevilla,Real Sociedad,Away,1,2,0.247146,1.64382,6,5,l,0
+29259,2025-11-01 15:15:00,La_liga,2025,Sevilla,Atletico Madrid,Away,0,3,0.376887,2.98632,10,15,l,0
+29277,2025-11-08 15:15:00,La_liga,2025,Sevilla,Osasuna,Home,1,0,1.22271,0.967352,10,9,w,3

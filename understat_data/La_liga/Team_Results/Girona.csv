@@ -122,3 +122,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29227,2025-09-26 19:00:00,La_liga,2025,Girona,Espanyol,Home,0,0,1.07661,0.949116,12,20,d,1
 29230,2025-10-04 14:15:00,La_liga,2025,Girona,Valencia,Home,2,1,1.16415,2.22808,4,19,w,3
 29240,2025-10-18 14:15:00,La_liga,2025,Girona,Barcelona,Away,1,2,1.69375,2.41958,11,27,l,0
+29249,2025-10-25 12:00:00,La_liga,2025,Girona,Real Oviedo,Home,3,3,2.24132,2.22406,8,10,d,1
+29262,2025-10-31 20:00:00,La_liga,2025,Girona,Getafe,Away,1,2,1.54366,1.40213,8,12,l,0
+29273,2025-11-08 13:00:00,La_liga,2025,Girona,Alaves,Home,1,0,1.26365,2.00772,10,14,w,3

@@ -82,3 +82,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29886,2025-09-29 18:45:00,Serie_A,2025,Genoa,Lazio,Home,0,3,1.47659,3.54059,17,9,l,0
 29900,2025-10-05 16:00:00,Serie_A,2025,Genoa,Napoli,Away,1,2,0.691583,1.87915,6,12,l,0
 29909,2025-10-19 13:00:00,Serie_A,2025,Genoa,Parma Calcio 1913,Home,0,0,2.21692,0.0544873,23,1,d,1
+29923,2025-10-26 10:30:00,Serie_A,2025,Genoa,Torino,Away,1,2,1.9796,1.8196,12,13,l,0
+29928,2025-10-29 18:45:00,Serie_A,2025,Genoa,Cremonese,Home,0,2,1.3491,1.57974,15,11,l,0
+29940,2025-11-03 17:30:00,Serie_A,2025,Genoa,Sassuolo,Away,2,1,1.83271,1.31641,16,13,w,3

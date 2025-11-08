@@ -108,3 +108,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30264,2025-09-27 13:30:00,Bundesliga,2025,RasenBallsport Leipzig,Wolfsburg,Away,1,0,2.61107,2.59654,20,22,w,3
 30271,2025-10-04 13:30:00,Bundesliga,2025,RasenBallsport Leipzig,Borussia Dortmund,Away,1,1,1.14077,0.668613,13,15,d,1
 30283,2025-10-18 13:30:00,Bundesliga,2025,RasenBallsport Leipzig,Hamburger SV,Home,2,1,1.15611,1.29355,10,16,w,3
+30287,2025-10-25 13:30:00,Bundesliga,2025,RasenBallsport Leipzig,Augsburg,Away,6,0,2.69438,0.639182,15,15,w,3
+30301,2025-11-01 14:30:00,Bundesliga,2025,RasenBallsport Leipzig,VfB Stuttgart,Home,3,1,1.73471,1.0701,16,15,w,3
+30310,2025-11-08 14:30:00,Bundesliga,2025,RasenBallsport Leipzig,Hoffenheim,Away,1,3,1.56187,1.92349,17,12,l,0

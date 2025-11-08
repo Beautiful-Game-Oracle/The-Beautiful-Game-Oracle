@@ -79,3 +79,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29585,2025-09-27 15:00:00,Ligue_1,2025,Lorient,Monaco,Home,3,1,2.09364,0.894035,19,5,w,3
 29599,2025-10-03 18:45:00,Ligue_1,2025,Lorient,Paris FC,Away,0,2,0.855852,1.83687,8,10,l,0
 29603,2025-10-19 15:15:00,Ligue_1,2025,Lorient,Brest,Home,3,3,1.5878,1.56803,13,8,d,1
+29610,2025-10-26 15:15:00,Ligue_1,2025,Lorient,Angers,Away,0,2,2.00206,1.30397,23,7,l,0
+29621,2025-10-29 17:00:00,Ligue_1,2025,Lorient,Paris Saint Germain,Home,1,1,0.192946,1.28813,5,15,d,1
+29630,2025-11-02 16:15:00,Ligue_1,2025,Lorient,Lens,Away,0,3,1.98367,3.21467,12,9,l,0

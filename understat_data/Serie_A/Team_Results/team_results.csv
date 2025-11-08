@@ -120,6 +120,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29889,2025-09-28 18:45:00,Serie_A,2025,AC Milan,Napoli,Home,2,1,0.952575,2.23894,6,19,w,3
 29898,2025-10-05 18:45:00,Serie_A,2025,AC Milan,Juventus,Away,0,0,1.55707,0.570595,13,12,d,1
 29911,2025-10-19 18:45:00,Serie_A,2025,AC Milan,Fiorentina,Home,2,1,2.01853,0.965997,14,5,w,3
+29919,2025-10-24 18:45:00,Serie_A,2025,AC Milan,Pisa,Home,2,2,1.97232,1.22514,19,8,d,1
+29924,2025-10-28 18:45:00,Serie_A,2025,AC Milan,Atalanta,Away,1,1,0.626418,1.28167,6,17,d,1
+29937,2025-11-02 19:45:00,Serie_A,2025,AC Milan,Roma,Home,1,0,3.76419,1.95443,17,20,w,3
 18583,2022-08-13 16:30:00,Serie_A,2022,Atalanta,Sampdoria,Away,2,0,2.28675,0.617683,9,11,w,3
 18599,2022-08-21 18:45:00,Serie_A,2022,Atalanta,AC Milan,Home,1,1,0.538424,1.53637,11,18,d,1
 18609,2022-08-28 16:30:00,Serie_A,2022,Atalanta,Verona,Away,1,0,0.843159,0.369511,15,14,w,3
@@ -241,6 +244,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29887,2025-09-27 16:00:00,Serie_A,2025,Atalanta,Juventus,Away,1,1,0.885278,1.84242,12,24,d,1
 29894,2025-10-04 18:45:00,Serie_A,2025,Atalanta,Como,Home,1,1,1.74169,0.959121,16,12,d,1
 29904,2025-10-19 16:00:00,Serie_A,2025,Atalanta,Lazio,Home,0,0,2.38095,0.220276,16,4,d,1
+29916,2025-10-25 18:45:00,Serie_A,2025,Atalanta,Cremonese,Away,1,1,1.62371,0.967146,20,9,d,1
+29924,2025-10-28 18:45:00,Serie_A,2025,Atalanta,AC Milan,Home,1,1,1.28167,0.626418,17,6,d,1
+29942,2025-11-01 14:00:00,Serie_A,2025,Atalanta,Udinese,Away,0,1,0.270197,0.707338,5,11,l,0
 18586,2022-08-14 16:30:00,Serie_A,2022,Bologna,Lazio,Away,1,2,1.59632,0.709672,12,9,l,0
 18598,2022-08-21 18:45:00,Serie_A,2022,Bologna,Verona,Home,1,1,1.13475,2.46808,17,19,d,1
 18606,2022-08-27 18:45:00,Serie_A,2022,Bologna,AC Milan,Away,0,2,0.505259,2.83694,8,19,l,0
@@ -362,6 +368,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29888,2025-09-28 16:00:00,Serie_A,2025,Bologna,Lecce,Away,2,2,1.5908,2.09017,14,12,d,1
 29895,2025-10-05 13:00:00,Serie_A,2025,Bologna,Pisa,Home,4,0,3.69928,0.0265067,24,2,w,3
 29905,2025-10-19 13:00:00,Serie_A,2025,Bologna,Cagliari,Away,2,0,1.15836,0.367775,10,4,w,3
+29917,2025-10-26 16:00:00,Serie_A,2025,Bologna,Fiorentina,Away,2,2,0.883347,3.87905,6,19,d,1
+29925,2025-10-29 18:45:00,Serie_A,2025,Bologna,Torino,Home,0,0,0.3322,0.797473,11,8,d,1
+29939,2025-11-02 17:00:00,Serie_A,2025,Bologna,Parma Calcio 1913,Away,3,1,3.51745,0.622333,22,7,w,3
 22313,2023-08-21 16:30:00,Serie_A,2023,Cagliari,Torino,Away,0,0,0.443184,1.03099,8,11,d,1
 22324,2023-08-28 18:45:00,Serie_A,2023,Cagliari,Inter,Home,0,2,0.484344,1.25423,12,17,l,0
 22328,2023-09-02 16:30:00,Serie_A,2023,Cagliari,Bologna,Away,1,2,0.537052,2.8268,7,16,l,0
@@ -445,6 +454,10 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29884,2025-09-27 18:45:00,Serie_A,2025,Cagliari,Inter,Home,0,2,0.475174,3.95419,6,20,l,0
 29902,2025-10-05 10:30:00,Serie_A,2025,Cagliari,Udinese,Away,1,1,0.789093,2.98545,8,23,d,1
 29905,2025-10-19 13:00:00,Serie_A,2025,Cagliari,Bologna,Home,0,2,0.367775,1.15836,4,10,l,0
+29915,2025-10-26 13:00:00,Serie_A,2025,Cagliari,Verona,Away,2,2,0.837271,2.03687,7,10,d,1
+29926,2025-10-30 16:30:00,Serie_A,2025,Cagliari,Sassuolo,Home,1,2,0.845219,0.937652,8,12,l,0
+29936,2025-11-03 19:45:00,Serie_A,2025,Cagliari,Lazio,Away,0,2,1.48457,0.587684,17,8,l,0
+29946,2025-11-08 14:00:00,Serie_A,2025,Cagliari,Como,Away,0,0,0.615264,1.0497,4,10,d,1
 27371,2024-08-19 18:45:00,Serie_A,2024,Como,Juventus,Away,0,3,0.171238,1.30582,3,13,l,0
 27380,2024-08-26 16:30:00,Serie_A,2024,Como,Cagliari,Away,1,1,2.08973,1.03532,14,11,d,1
 27391,2024-09-01 18:45:00,Serie_A,2024,Como,Udinese,Away,0,1,1.65728,1.18455,21,10,l,0
@@ -490,6 +503,10 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29885,2025-09-27 13:00:00,Serie_A,2025,Como,Cremonese,Home,1,1,1.44033,0.564557,14,9,d,1
 29894,2025-10-04 18:45:00,Serie_A,2025,Como,Atalanta,Away,1,1,0.959121,1.74169,12,16,d,1
 29907,2025-10-19 10:30:00,Serie_A,2025,Como,Juventus,Home,2,0,1.68785,0.964723,12,15,w,3
+29921,2025-10-25 13:00:00,Serie_A,2025,Como,Parma Calcio 1913,Away,0,0,0.387121,1.56651,6,10,d,1
+29927,2025-10-29 16:30:00,Serie_A,2025,Como,Verona,Home,3,1,1.74279,1.69938,15,13,w,3
+29938,2025-11-01 17:00:00,Serie_A,2025,Como,Napoli,Away,0,0,1.17012,0.762314,14,13,d,1
+29946,2025-11-08 14:00:00,Serie_A,2025,Como,Cagliari,Home,0,0,1.0497,0.615264,10,4,d,1
 18587,2022-08-14 16:30:00,Serie_A,2022,Cremonese,Fiorentina,Away,2,3,1.76638,2.01254,14,27,l,0
 18600,2022-08-22 16:30:00,Serie_A,2022,Cremonese,Roma,Away,0,1,0.508942,2.91426,14,27,l,0
 18605,2022-08-27 16:30:00,Serie_A,2022,Cremonese,Torino,Home,1,2,0.815757,2.71403,16,14,l,0
@@ -535,6 +552,10 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29885,2025-09-27 13:00:00,Serie_A,2025,Cremonese,Como,Away,1,1,0.564557,1.44033,9,14,d,1
 29897,2025-10-04 16:00:00,Serie_A,2025,Cremonese,Inter,Away,1,4,0.619599,4.65231,3,27,l,0
 29908,2025-10-20 18:45:00,Serie_A,2025,Cremonese,Udinese,Home,1,1,1.22876,0.962572,11,8,d,1
+29916,2025-10-25 18:45:00,Serie_A,2025,Cremonese,Atalanta,Home,1,1,0.967146,1.62371,9,20,d,1
+29928,2025-10-29 18:45:00,Serie_A,2025,Cremonese,Genoa,Away,2,0,1.57974,1.3491,11,15,w,3
+29934,2025-11-01 19:45:00,Serie_A,2025,Cremonese,Juventus,Home,1,2,0.611392,2.61402,9,15,l,0
+29952,2025-11-07 19:45:00,Serie_A,2025,Cremonese,Pisa,Away,0,1,1.23118,1.45109,13,13,l,0
 18588,2022-08-14 18:45:00,Serie_A,2022,Empoli,Spezia,Away,0,1,0.987781,0.861875,18,9,l,0
 18597,2022-08-21 16:30:00,Serie_A,2022,Empoli,Fiorentina,Home,0,0,0.757409,0.796219,4,19,d,1
 18610,2022-08-28 18:45:00,Serie_A,2022,Empoli,Lecce,Away,1,1,0.37813,0.813378,9,15,d,1
@@ -770,6 +791,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29891,2025-09-28 13:00:00,Serie_A,2025,Fiorentina,Pisa,Away,0,0,0.840093,0.580471,14,11,d,1
 29896,2025-10-05 13:00:00,Serie_A,2025,Fiorentina,Roma,Home,1,2,1.11719,1.22512,11,8,l,0
 29911,2025-10-19 18:45:00,Serie_A,2025,Fiorentina,AC Milan,Away,1,2,0.965997,2.01853,5,14,l,0
+29917,2025-10-26 16:00:00,Serie_A,2025,Fiorentina,Bologna,Home,2,2,3.87905,0.883347,19,6,d,1
+29929,2025-10-29 18:45:00,Serie_A,2025,Fiorentina,Inter,Away,0,3,0.741937,2.87253,10,22,l,0
+29935,2025-11-02 14:00:00,Serie_A,2025,Fiorentina,Lecce,Home,0,1,1.38997,1.3239,15,11,l,0
 22306,2023-08-19 16:30:00,Serie_A,2023,Frosinone,Napoli,Home,1,3,0.871157,1.31464,4,19,l,0
 22315,2023-08-26 16:30:00,Serie_A,2023,Frosinone,Atalanta,Home,2,1,0.760807,1.44199,13,18,w,3
 22327,2023-09-02 16:30:00,Serie_A,2023,Frosinone,Udinese,Away,0,0,2.41709,2.07837,12,12,d,1
@@ -891,6 +915,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29886,2025-09-29 18:45:00,Serie_A,2025,Genoa,Lazio,Home,0,3,1.47659,3.54059,17,9,l,0
 29900,2025-10-05 16:00:00,Serie_A,2025,Genoa,Napoli,Away,1,2,0.691583,1.87915,6,12,l,0
 29909,2025-10-19 13:00:00,Serie_A,2025,Genoa,Parma Calcio 1913,Home,0,0,2.21692,0.0544873,23,1,d,1
+29923,2025-10-26 10:30:00,Serie_A,2025,Genoa,Torino,Away,1,2,1.9796,1.8196,12,13,l,0
+29928,2025-10-29 18:45:00,Serie_A,2025,Genoa,Cremonese,Home,0,2,1.3491,1.57974,15,11,l,0
+29940,2025-11-03 17:30:00,Serie_A,2025,Genoa,Sassuolo,Away,2,1,1.83271,1.31641,16,13,w,3
 18585,2022-08-13 18:45:00,Serie_A,2022,Inter,Lecce,Away,2,1,2.52817,0.752988,19,10,w,3
 18594,2022-08-20 18:45:00,Serie_A,2022,Inter,Spezia,Home,3,0,2.62744,0.482897,19,2,w,3
 18603,2022-08-26 18:45:00,Serie_A,2022,Inter,Lazio,Away,1,3,1.62842,0.997005,19,11,l,0
@@ -1012,6 +1039,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29884,2025-09-27 18:45:00,Serie_A,2025,Inter,Cagliari,Away,2,0,3.95419,0.475174,20,6,w,3
 29897,2025-10-04 16:00:00,Serie_A,2025,Inter,Cremonese,Home,4,1,4.65231,0.619599,27,3,w,3
 29913,2025-10-18 18:45:00,Serie_A,2025,Inter,Roma,Away,1,0,0.96386,2.1538,12,15,w,3
+29920,2025-10-25 16:00:00,Serie_A,2025,Inter,Napoli,Away,1,3,2.07077,1.18626,15,7,l,0
+29929,2025-10-29 18:45:00,Serie_A,2025,Inter,Fiorentina,Home,3,0,2.87253,0.741937,22,10,w,3
+29943,2025-11-02 11:30:00,Serie_A,2025,Inter,Verona,Away,2,1,1.15025,0.372642,21,9,w,3
 18591,2022-08-15 18:45:00,Serie_A,2022,Juventus,Sassuolo,Home,3,0,2.24204,0.878583,14,19,w,3
 18601,2022-08-22 18:45:00,Serie_A,2022,Juventus,Sampdoria,Away,0,0,0.807606,0.948831,10,10,d,1
 18604,2022-08-27 16:30:00,Serie_A,2022,Juventus,Roma,Home,1,1,0.633345,0.963959,14,8,d,1
@@ -1133,6 +1163,10 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29887,2025-09-27 16:00:00,Serie_A,2025,Juventus,Atalanta,Home,1,1,1.84242,0.885278,24,12,d,1
 29898,2025-10-05 18:45:00,Serie_A,2025,Juventus,AC Milan,Home,0,0,0.570595,1.55707,12,13,d,1
 29907,2025-10-19 10:30:00,Serie_A,2025,Juventus,Como,Away,0,2,0.964723,1.68785,15,12,l,0
+29918,2025-10-26 18:45:00,Serie_A,2025,Juventus,Lazio,Away,0,1,1.24614,0.905304,14,13,l,0
+29930,2025-10-29 16:30:00,Serie_A,2025,Juventus,Udinese,Home,3,1,3.30641,0.604108,25,8,w,3
+29934,2025-11-01 19:45:00,Serie_A,2025,Juventus,Cremonese,Away,2,1,2.61402,0.611392,15,9,w,3
+29949,2025-11-08 17:00:00,Serie_A,2025,Juventus,Torino,Home,0,0,1.93707,0.405589,21,8,d,1
 18586,2022-08-14 16:30:00,Serie_A,2022,Lazio,Bologna,Home,2,1,0.709672,1.59632,9,12,w,3
 18592,2022-08-20 16:30:00,Serie_A,2022,Lazio,Torino,Away,0,0,0.713273,0.996405,7,10,d,1
 18603,2022-08-26 18:45:00,Serie_A,2022,Lazio,Inter,Home,3,1,0.997005,1.62842,11,19,w,3
@@ -1254,6 +1288,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29886,2025-09-29 18:45:00,Serie_A,2025,Lazio,Genoa,Away,3,0,3.54059,1.47659,9,17,w,3
 29899,2025-10-04 13:00:00,Serie_A,2025,Lazio,Torino,Home,3,3,1.45075,2.18108,9,16,d,1
 29904,2025-10-19 16:00:00,Serie_A,2025,Lazio,Atalanta,Away,0,0,0.220276,2.38095,4,16,d,1
+29918,2025-10-26 18:45:00,Serie_A,2025,Lazio,Juventus,Home,1,0,0.905304,1.24614,13,14,w,3
+29932,2025-10-30 18:45:00,Serie_A,2025,Lazio,Pisa,Away,0,0,0.657914,0.780185,11,10,d,1
+29936,2025-11-03 19:45:00,Serie_A,2025,Lazio,Cagliari,Home,2,0,0.587684,1.48457,8,17,w,3
 18585,2022-08-13 18:45:00,Serie_A,2022,Lecce,Inter,Home,1,2,0.752988,2.52817,10,19,l,0
 18595,2022-08-20 18:45:00,Serie_A,2022,Lecce,Sassuolo,Away,0,1,0.703764,0.803483,7,12,l,0
 18610,2022-08-28 18:45:00,Serie_A,2022,Lecce,Empoli,Home,1,1,0.813378,0.37813,15,9,d,1
@@ -1375,6 +1412,10 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29888,2025-09-28 16:00:00,Serie_A,2025,Lecce,Bologna,Home,2,2,2.09017,1.5908,12,14,d,1
 29901,2025-10-04 13:00:00,Serie_A,2025,Lecce,Parma Calcio 1913,Away,1,0,0.622459,1.08896,7,9,w,3
 29910,2025-10-18 13:00:00,Serie_A,2025,Lecce,Sassuolo,Home,0,0,0.66998,0.77146,11,9,d,1
+29914,2025-10-25 13:00:00,Serie_A,2025,Lecce,Udinese,Away,2,3,0.373551,1.51576,13,8,l,0
+29931,2025-10-28 16:30:00,Serie_A,2025,Lecce,Napoli,Home,0,1,1.02929,0.92446,7,14,l,0
+29935,2025-11-02 14:00:00,Serie_A,2025,Lecce,Fiorentina,Away,1,0,1.3239,1.38997,11,15,w,3
+29950,2025-11-08 14:00:00,Serie_A,2025,Lecce,Verona,Home,0,0,0.555045,0.691863,11,5,d,1
 18584,2022-08-13 18:45:00,Serie_A,2022,Monza,Torino,Home,1,2,1.0301,3.13646,15,13,l,0
 18596,2022-08-21 16:30:00,Serie_A,2022,Monza,Napoli,Away,0,4,0.121476,3.26352,4,22,l,0
 18602,2022-08-26 16:30:00,Serie_A,2022,Monza,Udinese,Home,1,2,0.988468,2.26189,10,15,l,0
@@ -1610,6 +1651,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29889,2025-09-28 18:45:00,Serie_A,2025,Napoli,AC Milan,Away,1,2,2.23894,0.952575,19,6,l,0
 29900,2025-10-05 16:00:00,Serie_A,2025,Napoli,Genoa,Home,2,1,1.87915,0.691583,12,6,w,3
 29906,2025-10-18 16:00:00,Serie_A,2025,Napoli,Torino,Away,0,1,1.71911,1.90815,22,12,l,0
+29920,2025-10-25 16:00:00,Serie_A,2025,Napoli,Inter,Home,3,1,1.18626,2.07077,7,15,w,3
+29931,2025-10-28 16:30:00,Serie_A,2025,Napoli,Lecce,Away,1,0,0.92446,1.02929,14,7,w,3
+29938,2025-11-01 17:00:00,Serie_A,2025,Napoli,Como,Home,0,0,0.762314,1.17012,13,14,d,1
 27363,2024-08-17 16:30:00,Serie_A,2024,Parma Calcio 1913,Fiorentina,Home,1,1,1.83796,0.81313,14,15,d,1
 27372,2024-08-24 16:30:00,Serie_A,2024,Parma Calcio 1913,AC Milan,Home,2,1,2.46266,2.09812,9,17,w,3
 27386,2024-08-31 18:45:00,Serie_A,2024,Parma Calcio 1913,Napoli,Away,1,2,1.90229,2.33511,13,29,l,0
@@ -1655,6 +1699,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29890,2025-09-29 16:30:00,Serie_A,2025,Parma Calcio 1913,Torino,Home,2,1,1.44462,0.660829,13,15,w,3
 29901,2025-10-04 13:00:00,Serie_A,2025,Parma Calcio 1913,Lecce,Home,0,1,1.08896,0.622459,9,7,l,0
 29909,2025-10-19 13:00:00,Serie_A,2025,Parma Calcio 1913,Genoa,Away,0,0,0.0544873,2.21692,1,23,d,1
+29921,2025-10-25 13:00:00,Serie_A,2025,Parma Calcio 1913,Como,Home,0,0,1.56651,0.387121,10,6,d,1
+29933,2025-10-29 16:30:00,Serie_A,2025,Parma Calcio 1913,Roma,Away,1,2,1.17796,1.15685,8,18,l,0
+29939,2025-11-02 17:00:00,Serie_A,2025,Parma Calcio 1913,Bologna,Home,1,3,0.622333,3.51745,7,22,l,0
 29850,2025-08-24 18:45:00,Serie_A,2025,Pisa,Atalanta,Away,1,1,1.02901,2.04697,11,22,d,1
 29858,2025-08-30 18:45:00,Serie_A,2025,Pisa,Roma,Home,0,1,0.6627,0.953921,7,10,l,0
 29868,2025-09-14 13:00:00,Serie_A,2025,Pisa,Udinese,Home,0,1,1.27587,1.72902,12,13,l,0
@@ -1662,6 +1709,10 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29891,2025-09-28 13:00:00,Serie_A,2025,Pisa,Fiorentina,Home,0,0,0.580471,0.840093,11,14,d,1
 29895,2025-10-05 13:00:00,Serie_A,2025,Pisa,Bologna,Away,0,4,0.0265067,3.69928,2,24,l,0
 29912,2025-10-18 13:00:00,Serie_A,2025,Pisa,Verona,Home,0,0,0.572009,1.65491,7,15,d,1
+29919,2025-10-24 18:45:00,Serie_A,2025,Pisa,AC Milan,Away,2,2,1.22514,1.97232,8,19,d,1
+29932,2025-10-30 18:45:00,Serie_A,2025,Pisa,Lazio,Home,0,0,0.780185,0.657914,10,11,d,1
+29941,2025-11-02 14:00:00,Serie_A,2025,Pisa,Torino,Away,2,2,1.90329,1.22388,11,15,d,1
+29952,2025-11-07 19:45:00,Serie_A,2025,Pisa,Cremonese,Home,1,0,1.45109,1.23118,13,13,w,3
 18589,2022-08-14 18:45:00,Serie_A,2022,Roma,Salernitana,Away,1,0,2.98256,0.505094,20,13,w,3
 18600,2022-08-22 16:30:00,Serie_A,2022,Roma,Cremonese,Home,1,0,2.91426,0.508942,27,14,w,3
 18604,2022-08-27 16:30:00,Serie_A,2022,Roma,Juventus,Away,1,1,0.963959,0.633345,8,14,d,1
@@ -1783,6 +1834,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29892,2025-09-28 13:00:00,Serie_A,2025,Roma,Verona,Home,2,0,1.30542,1.35351,10,12,w,3
 29896,2025-10-05 13:00:00,Serie_A,2025,Roma,Fiorentina,Away,2,1,1.22512,1.11719,8,11,w,3
 29913,2025-10-18 18:45:00,Serie_A,2025,Roma,Inter,Home,0,1,2.1538,0.96386,15,12,l,0
+29922,2025-10-26 13:00:00,Serie_A,2025,Roma,Sassuolo,Away,1,0,2.25968,0.949353,15,11,w,3
+29933,2025-10-29 16:30:00,Serie_A,2025,Roma,Parma Calcio 1913,Home,2,1,1.15685,1.17796,18,8,w,3
+29937,2025-11-02 19:45:00,Serie_A,2025,Roma,AC Milan,Away,0,1,1.95443,3.76419,20,17,l,0
 18589,2022-08-14 18:45:00,Serie_A,2022,Salernitana,Roma,Home,0,1,0.505094,2.98256,13,20,l,0
 18593,2022-08-20 16:30:00,Serie_A,2022,Salernitana,Udinese,Away,0,0,1.50184,1.42871,17,15,d,1
 18608,2022-08-28 16:30:00,Serie_A,2022,Salernitana,Sampdoria,Home,4,0,1.76461,1.66897,9,17,w,3
@@ -1980,6 +2034,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29893,2025-09-28 10:30:00,Serie_A,2025,Sassuolo,Udinese,Home,3,1,2.31332,1.19344,11,12,w,3
 29903,2025-10-03 18:45:00,Serie_A,2025,Sassuolo,Verona,Away,1,0,1.5058,0.810981,11,17,w,3
 29910,2025-10-18 13:00:00,Serie_A,2025,Sassuolo,Lecce,Away,0,0,0.77146,0.66998,9,11,d,1
+29922,2025-10-26 13:00:00,Serie_A,2025,Sassuolo,Roma,Home,0,1,0.949353,2.25968,11,15,l,0
+29926,2025-10-30 16:30:00,Serie_A,2025,Sassuolo,Cagliari,Away,2,1,0.937652,0.845219,12,8,w,3
+29940,2025-11-03 17:30:00,Serie_A,2025,Sassuolo,Genoa,Home,1,2,1.31641,1.83271,13,16,l,0
 18588,2022-08-14 18:45:00,Serie_A,2022,Spezia,Empoli,Home,1,0,0.861875,0.987781,9,18,w,3
 18594,2022-08-20 18:45:00,Serie_A,2022,Spezia,Inter,Away,0,3,0.482897,2.62744,2,19,l,0
 18607,2022-08-27 18:45:00,Serie_A,2022,Spezia,Sassuolo,Home,2,2,1.17548,2.83921,7,21,d,1
@@ -2139,6 +2196,10 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29890,2025-09-29 16:30:00,Serie_A,2025,Torino,Parma Calcio 1913,Away,1,2,0.660829,1.44462,15,13,l,0
 29899,2025-10-04 13:00:00,Serie_A,2025,Torino,Lazio,Away,3,3,2.18108,1.45075,16,9,d,1
 29906,2025-10-18 16:00:00,Serie_A,2025,Torino,Napoli,Home,1,0,1.90815,1.71911,12,22,w,3
+29923,2025-10-26 10:30:00,Serie_A,2025,Torino,Genoa,Home,2,1,1.8196,1.9796,13,12,w,3
+29925,2025-10-29 18:45:00,Serie_A,2025,Torino,Bologna,Away,0,0,0.797473,0.3322,8,11,d,1
+29941,2025-11-02 14:00:00,Serie_A,2025,Torino,Pisa,Home,2,2,1.22388,1.90329,15,11,d,1
+29949,2025-11-08 17:00:00,Serie_A,2025,Torino,Juventus,Away,0,0,0.405589,1.93707,8,21,d,1
 18582,2022-08-13 16:30:00,Serie_A,2022,Udinese,AC Milan,Away,2,4,0.439661,2.68095,9,14,l,0
 18593,2022-08-20 16:30:00,Serie_A,2022,Udinese,Salernitana,Home,0,0,1.42871,1.50184,15,17,d,1
 18602,2022-08-26 16:30:00,Serie_A,2022,Udinese,Monza,Away,2,1,2.26189,0.988468,15,10,w,3
@@ -2260,6 +2321,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29893,2025-09-28 10:30:00,Serie_A,2025,Udinese,Sassuolo,Away,1,3,1.19344,2.31332,12,11,l,0
 29902,2025-10-05 10:30:00,Serie_A,2025,Udinese,Cagliari,Home,1,1,2.98545,0.789093,23,8,d,1
 29908,2025-10-20 18:45:00,Serie_A,2025,Udinese,Cremonese,Away,1,1,0.962572,1.22876,8,11,d,1
+29914,2025-10-25 13:00:00,Serie_A,2025,Udinese,Lecce,Home,3,2,1.51576,0.373551,8,13,w,3
+29930,2025-10-29 16:30:00,Serie_A,2025,Udinese,Juventus,Away,1,3,0.604108,3.30641,8,25,l,0
+29942,2025-11-01 14:00:00,Serie_A,2025,Udinese,Atalanta,Home,1,0,0.707338,0.270197,11,5,w,3
 27369,2024-08-18 18:45:00,Serie_A,2024,Venezia,Lazio,Away,1,3,0.789649,2.33223,12,13,l,0
 27376,2024-08-25 16:30:00,Serie_A,2024,Venezia,Fiorentina,Away,0,0,1.01295,0.660213,8,14,d,1
 27382,2024-08-30 16:30:00,Serie_A,2024,Venezia,Torino,Home,0,1,0.635612,1.80895,13,12,l,0
@@ -2419,3 +2483,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29892,2025-09-28 13:00:00,Serie_A,2025,Verona,Roma,Away,0,2,1.35351,1.30542,12,10,l,0
 29903,2025-10-03 18:45:00,Serie_A,2025,Verona,Sassuolo,Home,0,1,0.810981,1.5058,17,11,l,0
 29912,2025-10-18 13:00:00,Serie_A,2025,Verona,Pisa,Away,0,0,1.65491,0.572009,15,7,d,1
+29915,2025-10-26 13:00:00,Serie_A,2025,Verona,Cagliari,Home,2,2,2.03687,0.837271,10,7,d,1
+29927,2025-10-29 16:30:00,Serie_A,2025,Verona,Como,Away,1,3,1.69938,1.74279,13,15,l,0
+29943,2025-11-02 11:30:00,Serie_A,2025,Verona,Inter,Home,1,2,0.372642,1.15025,9,21,l,0
+29950,2025-11-08 14:00:00,Serie_A,2025,Verona,Lecce,Away,0,0,0.691863,0.555045,5,11,d,1

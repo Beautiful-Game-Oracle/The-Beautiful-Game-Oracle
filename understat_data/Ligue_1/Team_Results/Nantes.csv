@@ -113,3 +113,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29591,2025-09-27 17:00:00,Ligue_1,2025,Nantes,Toulouse,Away,2,2,1.8303,1.98573,12,20,d,1
 29593,2025-10-04 17:00:00,Ligue_1,2025,Nantes,Brest,Away,0,0,0.489862,1.44552,6,17,d,1
 29605,2025-10-19 18:45:00,Ligue_1,2025,Nantes,Lille,Home,0,2,0.772603,2.7603,8,23,l,0
+29614,2025-10-24 18:45:00,Ligue_1,2025,Nantes,Paris FC,Away,2,1,0.916827,0.951277,11,14,w,3
+29624,2025-10-29 19:05:00,Ligue_1,2025,Nantes,Monaco,Home,3,5,2.1261,4.10211,18,19,l,0
+29633,2025-11-02 16:15:00,Ligue_1,2025,Nantes,Metz,Home,0,2,1.07598,1.36245,16,14,l,0
+29638,2025-11-08 18:00:00,Ligue_1,2025,Nantes,Le Havre,Away,1,1,0.353936,0.984753,5,17,d,1

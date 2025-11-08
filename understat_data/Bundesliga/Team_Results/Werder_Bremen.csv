@@ -108,3 +108,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30260,2025-09-26 18:30:00,Bundesliga,2025,Werder Bremen,Bayern Munich,Away,0,4,0.298618,4.31859,8,26,l,0
 30277,2025-10-04 13:30:00,Bundesliga,2025,Werder Bremen,St. Pauli,Home,1,0,1.77957,0.912425,15,13,w,3
 30281,2025-10-18 13:30:00,Bundesliga,2025,Werder Bremen,FC Heidenheim,Away,2,2,1.85638,3.07635,11,31,d,1
+30295,2025-10-24 18:30:00,Bundesliga,2025,Werder Bremen,Union Berlin,Home,1,0,1.1444,0.487613,16,12,w,3
+30300,2025-11-01 14:30:00,Bundesliga,2025,Werder Bremen,Mainz 05,Away,1,1,0.880505,1.90161,5,10,d,1
+30313,2025-11-07 19:30:00,Bundesliga,2025,Werder Bremen,Wolfsburg,Home,2,1,1.69456,0.676326,20,7,w,3

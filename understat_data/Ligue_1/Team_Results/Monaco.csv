@@ -113,3 +113,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29585,2025-09-27 15:00:00,Ligue_1,2025,Monaco,Lorient,Away,1,3,0.894035,2.09364,5,19,l,0
 29598,2025-10-05 15:15:00,Ligue_1,2025,Monaco,Nice,Home,2,2,2.4556,1.13121,20,9,d,1
 29601,2025-10-18 17:00:00,Ligue_1,2025,Monaco,Angers,Away,1,1,1.65166,1.58102,11,16,d,1
+29615,2025-10-25 17:00:00,Ligue_1,2025,Monaco,Toulouse,Home,1,0,3.37276,0.584122,14,10,w,3
+29624,2025-10-29 19:05:00,Ligue_1,2025,Monaco,Nantes,Away,5,3,4.10211,2.1261,19,18,w,3
+29632,2025-11-01 18:00:00,Ligue_1,2025,Monaco,Paris FC,Home,0,1,0.820947,1.18048,10,10,l,0

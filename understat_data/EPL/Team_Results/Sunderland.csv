@@ -7,3 +7,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28834,2025-09-27 16:30:00,EPL,2025,Sunderland,Nottingham Forest,Away,1,0,1.94154,1.4203,11,22,w,3
 28845,2025-10-04 14:00:00,EPL,2025,Sunderland,Manchester United,Away,0,2,0.807119,1.9298,8,15,l,0
 28855,2025-10-18 14:00:00,EPL,2025,Sunderland,Wolverhampton Wanderers,Home,2,0,1.02481,0.676323,8,17,w,3
+28862,2025-10-25 14:00:00,EPL,2025,Sunderland,Chelsea,Away,2,1,1.5506,1.21332,10,16,w,3
+28875,2025-11-03 20:00:00,EPL,2025,Sunderland,Everton,Home,1,1,1.18068,1.00741,17,8,d,1
+28885,2025-11-08 17:30:00,EPL,2025,Sunderland,Arsenal,Home,2,2,1.20495,2.32943,6,17,d,1

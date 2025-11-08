@@ -44,3 +44,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29885,2025-09-27 13:00:00,Serie_A,2025,Cremonese,Como,Away,1,1,0.564557,1.44033,9,14,d,1
 29897,2025-10-04 16:00:00,Serie_A,2025,Cremonese,Inter,Away,1,4,0.619599,4.65231,3,27,l,0
 29908,2025-10-20 18:45:00,Serie_A,2025,Cremonese,Udinese,Home,1,1,1.22876,0.962572,11,8,d,1
+29916,2025-10-25 18:45:00,Serie_A,2025,Cremonese,Atalanta,Home,1,1,0.967146,1.62371,9,20,d,1
+29928,2025-10-29 18:45:00,Serie_A,2025,Cremonese,Genoa,Away,2,0,1.57974,1.3491,11,15,w,3
+29934,2025-11-01 19:45:00,Serie_A,2025,Cremonese,Juventus,Home,1,2,0.611392,2.61402,9,15,l,0
+29952,2025-11-07 19:45:00,Serie_A,2025,Cremonese,Pisa,Away,0,1,1.23118,1.45109,13,13,l,0

@@ -40,3 +40,5 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30263,2025-09-27 13:30:00,Bundesliga,2025,St. Pauli,Bayer Leverkusen,Home,1,2,0.813325,1.28912,13,5,l,0
 30277,2025-10-04 13:30:00,Bundesliga,2025,St. Pauli,Werder Bremen,Away,0,1,0.912425,1.77957,13,15,l,0
 30284,2025-10-19 15:30:00,Bundesliga,2025,St. Pauli,Hoffenheim,Home,0,3,0.871968,1.79103,10,14,l,0
+30291,2025-10-25 13:30:00,Bundesliga,2025,St. Pauli,Eintracht Frankfurt,Away,0,2,0.519973,2.42632,9,10,l,0
+30302,2025-11-01 14:30:00,Bundesliga,2025,St. Pauli,Borussia M.Gladbach,Home,0,4,0.804394,3.6262,16,15,l,0

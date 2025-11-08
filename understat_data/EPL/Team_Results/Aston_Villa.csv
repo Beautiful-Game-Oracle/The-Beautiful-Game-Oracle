@@ -121,3 +121,5 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28831,2025-09-28 13:00:00,EPL,2025,Aston Villa,Fulham,Home,3,1,1.36575,0.952612,9,11,w,3
 28840,2025-10-05 13:00:00,EPL,2025,Aston Villa,Burnley,Home,2,1,1.73572,0.502292,15,5,w,3
 28856,2025-10-19 13:00:00,EPL,2025,Aston Villa,Tottenham,Away,2,1,0.352231,1.51461,8,9,w,3
+28860,2025-10-26 13:00:00,EPL,2025,Aston Villa,Manchester City,Home,1,0,0.843906,1.36914,9,18,w,3
+28872,2025-11-01 20:00:00,EPL,2025,Aston Villa,Liverpool,Away,0,2,0.43502,1.47021,10,16,l,0

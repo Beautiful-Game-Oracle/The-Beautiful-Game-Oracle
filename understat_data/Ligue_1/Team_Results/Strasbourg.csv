@@ -113,3 +113,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29590,2025-09-26 18:45:00,Ligue_1,2025,Strasbourg,Marseille,Home,1,2,1.0976,2.00258,9,16,l,0
 29600,2025-10-05 15:15:00,Ligue_1,2025,Strasbourg,Angers,Home,5,0,4.2783,0.294622,18,5,w,3
 29608,2025-10-17 18:45:00,Ligue_1,2025,Strasbourg,Paris Saint Germain,Away,3,3,1.92082,2.85659,12,21,d,1
+29616,2025-10-26 18:45:00,Ligue_1,2025,Strasbourg,Lyon,Away,1,2,0.798152,1.14566,8,8,l,0
+29627,2025-10-29 19:05:00,Ligue_1,2025,Strasbourg,Auxerre,Home,3,0,4.10806,0.68695,18,6,w,3
+29635,2025-11-02 14:00:00,Ligue_1,2025,Strasbourg,Rennes,Away,1,4,2.08816,3.06877,20,13,l,0

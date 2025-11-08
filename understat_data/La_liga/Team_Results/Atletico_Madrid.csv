@@ -122,3 +122,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29219,2025-09-27 14:15:00,La_liga,2025,Atletico Madrid,Real Madrid,Home,5,2,2.79075,1.02797,13,6,w,3
 29232,2025-10-05 19:00:00,La_liga,2025,Atletico Madrid,Celta Vigo,Away,1,1,0.710823,2.27285,6,19,d,1
 29239,2025-10-18 19:00:00,La_liga,2025,Atletico Madrid,Osasuna,Home,1,0,2.24415,0.981492,18,9,w,3
+29253,2025-10-27 20:00:00,La_liga,2025,Atletico Madrid,Real Betis,Away,2,0,0.876554,1.33792,9,17,w,3
+29259,2025-11-01 15:15:00,La_liga,2025,Atletico Madrid,Sevilla,Home,3,0,2.98632,0.376887,15,10,w,3
+29269,2025-11-08 17:30:00,La_liga,2025,Atletico Madrid,Levante,Home,3,1,3.03599,1.29112,25,7,w,3

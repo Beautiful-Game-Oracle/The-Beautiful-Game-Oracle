@@ -121,3 +121,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28837,2025-09-29 19:00:00,EPL,2025,West Ham,Everton,Away,1,1,0.775766,0.909703,14,12,d,1
 28839,2025-10-04 14:00:00,EPL,2025,West Ham,Arsenal,Away,0,2,0.864549,3.0585,4,21,l,0
 28857,2025-10-20 19:00:00,EPL,2025,West Ham,Brentford,Home,0,2,0.260251,3.46635,7,22,l,0
+28864,2025-10-24 19:00:00,EPL,2025,West Ham,Leeds,Away,1,2,0.498653,2.2214,9,13,l,0
+28877,2025-11-02 14:00:00,EPL,2025,West Ham,Newcastle United,Home,3,1,1.41383,0.523615,14,13,w,3
+28887,2025-11-08 15:00:00,EPL,2025,West Ham,Burnley,Home,3,2,2.96728,1.87478,15,16,w,3

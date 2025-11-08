@@ -74,3 +74,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30267,2025-09-28 15:30:00,Bundesliga,2025,FC Cologne,VfB Stuttgart,Home,1,2,1.07972,2.20939,14,15,l,0
 30274,2025-10-03 18:30:00,Bundesliga,2025,FC Cologne,Hoffenheim,Away,1,0,1.30873,1.42371,9,15,w,3
 30279,2025-10-18 13:30:00,Bundesliga,2025,FC Cologne,Augsburg,Home,1,1,0.523854,1.11917,9,10,d,1
+30290,2025-10-25 16:30:00,Bundesliga,2025,FC Cologne,Borussia Dortmund,Away,0,1,0.70563,2.09125,5,27,l,0
+30298,2025-11-02 14:30:00,Bundesliga,2025,FC Cologne,Hamburger SV,Home,4,1,3.87376,1.19296,23,11,w,3
+30306,2025-11-08 17:30:00,Bundesliga,2025,FC Cologne,Borussia M.Gladbach,Away,1,3,2.15818,2.46206,19,9,l,0

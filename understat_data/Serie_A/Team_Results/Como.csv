@@ -44,3 +44,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29885,2025-09-27 13:00:00,Serie_A,2025,Como,Cremonese,Home,1,1,1.44033,0.564557,14,9,d,1
 29894,2025-10-04 18:45:00,Serie_A,2025,Como,Atalanta,Away,1,1,0.959121,1.74169,12,16,d,1
 29907,2025-10-19 10:30:00,Serie_A,2025,Como,Juventus,Home,2,0,1.68785,0.964723,12,15,w,3
+29921,2025-10-25 13:00:00,Serie_A,2025,Como,Parma Calcio 1913,Away,0,0,0.387121,1.56651,6,10,d,1
+29927,2025-10-29 16:30:00,Serie_A,2025,Como,Verona,Home,3,1,1.74279,1.69938,15,13,w,3
+29938,2025-11-01 17:00:00,Serie_A,2025,Como,Napoli,Away,0,0,1.17012,0.762314,14,13,d,1
+29946,2025-11-08 14:00:00,Serie_A,2025,Como,Cagliari,Home,0,0,1.0497,0.615264,10,4,d,1

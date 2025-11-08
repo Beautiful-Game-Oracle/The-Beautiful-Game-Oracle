@@ -121,3 +121,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28837,2025-09-29 19:00:00,EPL,2025,Everton,West Ham,Home,1,1,0.909703,0.775766,12,14,d,1
 28843,2025-10-05 13:00:00,EPL,2025,Everton,Crystal Palace,Home,2,1,2.13876,2.17789,14,15,w,3
 28853,2025-10-18 14:00:00,EPL,2025,Everton,Manchester City,Away,0,2,0.794622,2.4799,5,19,l,0
+28863,2025-10-26 15:30:00,EPL,2025,Everton,Tottenham,Home,0,3,1.4032,2.09327,12,7,l,0
+28875,2025-11-03 20:00:00,EPL,2025,Everton,Sunderland,Away,1,1,1.00741,1.18068,8,17,d,1
+28882,2025-11-08 15:00:00,EPL,2025,Everton,Fulham,Home,2,0,2.30607,0.424478,14,8,w,3

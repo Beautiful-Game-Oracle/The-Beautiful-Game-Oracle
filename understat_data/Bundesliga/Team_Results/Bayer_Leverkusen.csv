@@ -108,3 +108,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30263,2025-09-27 13:30:00,Bundesliga,2025,Bayer Leverkusen,St. Pauli,Away,2,1,1.28912,0.813325,5,13,w,3
 30269,2025-10-04 13:30:00,Bundesliga,2025,Bayer Leverkusen,Union Berlin,Home,2,0,3.35673,1.19684,20,10,w,3
 30282,2025-10-18 13:30:00,Bundesliga,2025,Bayer Leverkusen,Mainz 05,Away,4,3,4.43462,1.62978,20,12,w,3
+30288,2025-10-26 13:30:00,Bundesliga,2025,Bayer Leverkusen,Freiburg,Home,2,0,2.46787,0.542897,19,10,w,3
+30297,2025-11-01 17:30:00,Bundesliga,2025,Bayer Leverkusen,Bayern Munich,Away,0,3,0.382774,2.28295,8,18,l,0
+30305,2025-11-08 14:30:00,Bundesliga,2025,Bayer Leverkusen,FC Heidenheim,Home,6,0,3.90142,0.063377,25,1,w,3

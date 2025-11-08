@@ -120,3 +120,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29889,2025-09-28 18:45:00,Serie_A,2025,Napoli,AC Milan,Away,1,2,2.23894,0.952575,19,6,l,0
 29900,2025-10-05 16:00:00,Serie_A,2025,Napoli,Genoa,Home,2,1,1.87915,0.691583,12,6,w,3
 29906,2025-10-18 16:00:00,Serie_A,2025,Napoli,Torino,Away,0,1,1.71911,1.90815,22,12,l,0
+29920,2025-10-25 16:00:00,Serie_A,2025,Napoli,Inter,Home,3,1,1.18626,2.07077,7,15,w,3
+29931,2025-10-28 16:30:00,Serie_A,2025,Napoli,Lecce,Away,1,0,0.92446,1.02929,14,7,w,3
+29938,2025-11-01 17:00:00,Serie_A,2025,Napoli,Como,Home,0,0,0.762314,1.17012,13,14,d,1

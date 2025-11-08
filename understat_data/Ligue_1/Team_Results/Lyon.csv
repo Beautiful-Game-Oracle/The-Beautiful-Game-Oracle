@@ -113,3 +113,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29584,2025-09-28 15:15:00,Ligue_1,2025,Lyon,Lille,Away,1,0,0.642572,1.65271,5,14,w,3
 29596,2025-10-05 13:00:00,Ligue_1,2025,Lyon,Toulouse,Home,1,2,1.42206,1.36525,13,14,l,0
 29606,2025-10-18 15:00:00,Ligue_1,2025,Lyon,Nice,Away,2,3,2.89867,1.16366,29,5,l,0
+29616,2025-10-26 18:45:00,Ligue_1,2025,Lyon,Strasbourg,Home,2,1,1.14566,0.798152,8,8,w,3
+29622,2025-10-29 19:05:00,Ligue_1,2025,Lyon,Paris FC,Away,3,3,1.21871,0.581508,7,11,d,1
+29629,2025-11-02 19:45:00,Ligue_1,2025,Lyon,Brest,Away,0,0,0.143862,1.63942,4,13,d,1

@@ -108,3 +108,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30265,2025-09-27 16:30:00,Bundesliga,2025,Borussia M.Gladbach,Eintracht Frankfurt,Home,4,6,2.12935,3.78879,11,21,l,0
 30270,2025-10-05 17:30:00,Bundesliga,2025,Borussia M.Gladbach,Freiburg,Home,0,0,0.471184,0.689073,9,12,d,1
 30285,2025-10-17 18:30:00,Bundesliga,2025,Borussia M.Gladbach,Union Berlin,Away,1,3,0.628848,1.53032,9,16,l,0
+30289,2025-10-25 13:30:00,Bundesliga,2025,Borussia M.Gladbach,Bayern Munich,Home,0,3,0.757777,2.65026,1,27,l,0
+30302,2025-11-01 14:30:00,Bundesliga,2025,Borussia M.Gladbach,St. Pauli,Away,4,0,3.6262,0.804394,15,16,w,3
+30306,2025-11-08 17:30:00,Bundesliga,2025,Borussia M.Gladbach,FC Cologne,Home,3,1,2.46206,2.15818,9,19,w,3

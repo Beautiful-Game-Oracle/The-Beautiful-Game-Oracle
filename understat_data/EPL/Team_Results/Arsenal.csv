@@ -121,3 +121,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28836,2025-09-28 15:30:00,EPL,2025,Arsenal,Newcastle United,Away,2,1,2.07048,0.739851,20,8,w,3
 28839,2025-10-04 14:00:00,EPL,2025,Arsenal,West Ham,Home,2,0,3.0585,0.864549,21,4,w,3
 28851,2025-10-18 16:30:00,EPL,2025,Arsenal,Fulham,Away,1,0,2.07823,0.502332,16,9,w,3
+28859,2025-10-26 13:00:00,EPL,2025,Arsenal,Crystal Palace,Home,1,0,0.856175,0.350534,10,7,w,3
+28869,2025-11-01 15:00:00,EPL,2025,Arsenal,Burnley,Away,2,0,2.51649,0.679177,12,3,w,3
+28885,2025-11-08 17:30:00,EPL,2025,Arsenal,Sunderland,Away,2,2,2.32943,1.20495,17,6,d,1

@@ -122,3 +122,5 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29222,2025-09-27 12:00:00,La_liga,2025,Getafe,Levante,Home,1,1,0.830967,1.27833,11,11,d,1
 29235,2025-10-03 19:00:00,La_liga,2025,Getafe,Osasuna,Away,1,2,0.856515,0.692026,6,7,l,0
 29242,2025-10-19 19:00:00,La_liga,2025,Getafe,Real Madrid,Home,0,1,0.530119,2.14595,7,23,l,0
+29248,2025-10-25 16:30:00,La_liga,2025,Getafe,Athletic Club,Away,1,0,1.00378,0.358524,8,7,w,3
+29262,2025-10-31 20:00:00,La_liga,2025,Getafe,Girona,Home,2,1,1.40213,1.54366,12,8,w,3

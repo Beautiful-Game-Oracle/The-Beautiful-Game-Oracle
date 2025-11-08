@@ -108,6 +108,8 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30261,2025-09-27 13:30:00,Bundesliga,2025,Augsburg,FC Heidenheim,Away,1,2,0.619833,1.79097,8,11,l,0
 30276,2025-10-04 13:30:00,Bundesliga,2025,Augsburg,Wolfsburg,Home,3,1,1.75326,1.22584,10,14,w,3
 30279,2025-10-18 13:30:00,Bundesliga,2025,Augsburg,FC Cologne,Away,1,1,1.11917,0.523854,10,9,d,1
+30287,2025-10-25 13:30:00,Bundesliga,2025,Augsburg,RasenBallsport Leipzig,Home,0,6,0.639182,2.69438,15,15,l,0
+30296,2025-10-31 19:30:00,Bundesliga,2025,Augsburg,Borussia Dortmund,Home,0,1,0.969501,0.588196,9,5,l,0
 19348,2022-08-06 16:30:00,Bundesliga,2022,Bayer Leverkusen,Borussia Dortmund,Away,0,1,1.23566,2.38349,8,15,l,0
 19352,2022-08-13 13:30:00,Bundesliga,2022,Bayer Leverkusen,Augsburg,Home,1,2,2.7843,0.749163,24,6,l,0
 19365,2022-08-20 13:30:00,Bundesliga,2022,Bayer Leverkusen,Hoffenheim,Home,0,3,1.10143,1.30099,14,10,l,0
@@ -217,6 +219,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30263,2025-09-27 13:30:00,Bundesliga,2025,Bayer Leverkusen,St. Pauli,Away,2,1,1.28912,0.813325,5,13,w,3
 30269,2025-10-04 13:30:00,Bundesliga,2025,Bayer Leverkusen,Union Berlin,Home,2,0,3.35673,1.19684,20,10,w,3
 30282,2025-10-18 13:30:00,Bundesliga,2025,Bayer Leverkusen,Mainz 05,Away,4,3,4.43462,1.62978,20,12,w,3
+30288,2025-10-26 13:30:00,Bundesliga,2025,Bayer Leverkusen,Freiburg,Home,2,0,2.46787,0.542897,19,10,w,3
+30297,2025-11-01 17:30:00,Bundesliga,2025,Bayer Leverkusen,Bayern Munich,Away,0,3,0.382774,2.28295,8,18,l,0
+30305,2025-11-08 14:30:00,Bundesliga,2025,Bayer Leverkusen,FC Heidenheim,Home,6,0,3.90142,0.063377,25,1,w,3
 19342,2022-08-05 18:30:00,Bundesliga,2022,Bayern Munich,Eintracht Frankfurt,Away,6,1,4.56023,0.756176,23,8,w,3
 19359,2022-08-14 15:30:00,Bundesliga,2022,Bayern Munich,Wolfsburg,Home,2,0,1.4017,0.443318,24,8,w,3
 19368,2022-08-21 15:30:00,Bundesliga,2022,Bayern Munich,Bochum,Away,7,0,3.98121,0.747624,22,14,w,3
@@ -326,6 +331,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30260,2025-09-26 18:30:00,Bundesliga,2025,Bayern Munich,Werder Bremen,Home,4,0,4.31859,0.298618,26,8,w,3
 30272,2025-10-04 16:30:00,Bundesliga,2025,Bayern Munich,Eintracht Frankfurt,Away,3,0,2.2301,0.560138,12,6,w,3
 30278,2025-10-18 16:30:00,Bundesliga,2025,Bayern Munich,Borussia Dortmund,Home,2,1,2.81994,1.41011,15,8,w,3
+30289,2025-10-25 13:30:00,Bundesliga,2025,Bayern Munich,Borussia M.Gladbach,Away,3,0,2.65026,0.757777,27,1,w,3
+30297,2025-11-01 17:30:00,Bundesliga,2025,Bayern Munich,Bayer Leverkusen,Home,3,0,2.28295,0.382774,18,8,w,3
+30312,2025-11-08 14:30:00,Bundesliga,2025,Bayern Munich,Union Berlin,Away,2,2,1.34246,1.02778,12,12,d,1
 19346,2022-08-06 13:30:00,Bundesliga,2022,Bochum,Mainz 05,Home,1,2,0.818183,1.59439,15,13,l,0
 19355,2022-08-13 13:30:00,Bundesliga,2022,Bochum,Hoffenheim,Away,2,3,1.47438,2.3761,11,23,l,0
 19368,2022-08-21 15:30:00,Bundesliga,2022,Bochum,Bayern Munich,Home,0,7,0.747624,3.98121,14,22,l,0
@@ -537,6 +545,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30262,2025-09-27 13:30:00,Bundesliga,2025,Borussia Dortmund,Mainz 05,Away,2,0,1.75519,0.525149,10,8,w,3
 30271,2025-10-04 13:30:00,Bundesliga,2025,Borussia Dortmund,RasenBallsport Leipzig,Home,1,1,0.668613,1.14077,15,13,d,1
 30278,2025-10-18 16:30:00,Bundesliga,2025,Borussia Dortmund,Bayern Munich,Away,1,2,1.41011,2.81994,8,15,l,0
+30290,2025-10-25 16:30:00,Bundesliga,2025,Borussia Dortmund,FC Cologne,Home,1,0,2.09125,0.70563,27,5,w,3
+30296,2025-10-31 19:30:00,Bundesliga,2025,Borussia Dortmund,Augsburg,Away,1,0,0.588196,0.969501,5,9,w,3
+30309,2025-11-08 14:30:00,Bundesliga,2025,Borussia Dortmund,Hamburger SV,Away,1,1,1.42582,0.419878,17,8,d,1
 19344,2022-08-06 13:30:00,Bundesliga,2022,Borussia M.Gladbach,Hoffenheim,Home,3,1,2.07456,0.119138,18,2,w,3
 19357,2022-08-13 16:30:00,Bundesliga,2022,Borussia M.Gladbach,Schalke 04,Away,2,2,1.41135,1.69324,14,12,d,1
 19360,2022-08-19 18:30:00,Bundesliga,2022,Borussia M.Gladbach,Hertha Berlin,Home,1,0,2.26575,0.967668,11,17,w,3
@@ -646,6 +657,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30265,2025-09-27 16:30:00,Bundesliga,2025,Borussia M.Gladbach,Eintracht Frankfurt,Home,4,6,2.12935,3.78879,11,21,l,0
 30270,2025-10-05 17:30:00,Bundesliga,2025,Borussia M.Gladbach,Freiburg,Home,0,0,0.471184,0.689073,9,12,d,1
 30285,2025-10-17 18:30:00,Bundesliga,2025,Borussia M.Gladbach,Union Berlin,Away,1,3,0.628848,1.53032,9,16,l,0
+30289,2025-10-25 13:30:00,Bundesliga,2025,Borussia M.Gladbach,Bayern Munich,Home,0,3,0.757777,2.65026,1,27,l,0
+30302,2025-11-01 14:30:00,Bundesliga,2025,Borussia M.Gladbach,St. Pauli,Away,4,0,3.6262,0.804394,15,16,w,3
+30306,2025-11-08 17:30:00,Bundesliga,2025,Borussia M.Gladbach,FC Cologne,Home,3,1,2.46206,2.15818,9,19,w,3
 23073,2023-08-20 15:30:00,Bundesliga,2023,Darmstadt,Eintracht Frankfurt,Away,0,1,0.813333,1.2399,10,9,l,0
 23079,2023-08-26 13:30:00,Bundesliga,2023,Darmstadt,Union Berlin,Home,1,4,2.59994,1.6379,21,13,l,0
 23084,2023-09-02 13:30:00,Bundesliga,2023,Darmstadt,Bayer Leverkusen,Away,1,5,0.681851,3.42599,5,25,l,0
@@ -789,6 +803,8 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30265,2025-09-27 16:30:00,Bundesliga,2025,Eintracht Frankfurt,Borussia M.Gladbach,Away,6,4,3.78879,2.12935,21,11,w,3
 30272,2025-10-04 16:30:00,Bundesliga,2025,Eintracht Frankfurt,Bayern Munich,Home,0,3,0.560138,2.2301,6,12,l,0
 30280,2025-10-19 13:30:00,Bundesliga,2025,Eintracht Frankfurt,Freiburg,Away,2,2,0.772638,1.12896,8,12,d,1
+30291,2025-10-25 13:30:00,Bundesliga,2025,Eintracht Frankfurt,St. Pauli,Home,2,0,2.42632,0.519973,10,9,w,3
+30299,2025-11-01 14:30:00,Bundesliga,2025,Eintracht Frankfurt,FC Heidenheim,Away,1,1,1.22406,0.831882,16,9,d,1
 19350,2022-08-07 15:30:00,Bundesliga,2022,FC Cologne,Schalke 04,Home,3,1,4.42242,0.227735,32,5,w,3
 19353,2022-08-13 13:30:00,Bundesliga,2022,FC Cologne,RasenBallsport Leipzig,Away,2,2,1.51583,1.17885,13,10,d,1
 19367,2022-08-21 13:30:00,Bundesliga,2022,FC Cologne,Eintracht Frankfurt,Away,1,1,0.236472,0.54009,5,9,d,1
@@ -864,6 +880,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30267,2025-09-28 15:30:00,Bundesliga,2025,FC Cologne,VfB Stuttgart,Home,1,2,1.07972,2.20939,14,15,l,0
 30274,2025-10-03 18:30:00,Bundesliga,2025,FC Cologne,Hoffenheim,Away,1,0,1.30873,1.42371,9,15,w,3
 30279,2025-10-18 13:30:00,Bundesliga,2025,FC Cologne,Augsburg,Home,1,1,0.523854,1.11917,9,10,d,1
+30290,2025-10-25 16:30:00,Bundesliga,2025,FC Cologne,Borussia Dortmund,Away,0,1,0.70563,2.09125,5,27,l,0
+30298,2025-11-02 14:30:00,Bundesliga,2025,FC Cologne,Hamburger SV,Home,4,1,3.87376,1.19296,23,11,w,3
+30306,2025-11-08 17:30:00,Bundesliga,2025,FC Cologne,Borussia M.Gladbach,Away,1,3,2.15818,2.46206,19,9,l,0
 23067,2023-08-19 13:30:00,Bundesliga,2023,FC Heidenheim,Wolfsburg,Away,0,2,1.17776,3.21449,14,18,l,0
 23078,2023-08-26 13:30:00,Bundesliga,2023,FC Heidenheim,Hoffenheim,Home,2,3,2.72999,2.75768,20,16,l,0
 23083,2023-09-01 18:30:00,Bundesliga,2023,FC Heidenheim,Borussia Dortmund,Away,2,2,2.09517,2.74794,14,19,d,1
@@ -939,6 +958,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30261,2025-09-27 13:30:00,Bundesliga,2025,FC Heidenheim,Augsburg,Home,2,1,1.79097,0.619833,11,8,w,3
 30275,2025-10-05 13:30:00,Bundesliga,2025,FC Heidenheim,VfB Stuttgart,Away,0,1,0.290942,1.10781,5,18,l,0
 30281,2025-10-18 13:30:00,Bundesliga,2025,FC Heidenheim,Werder Bremen,Home,2,2,3.07635,1.85638,31,11,d,1
+30293,2025-10-25 13:30:00,Bundesliga,2025,FC Heidenheim,Hoffenheim,Away,1,3,0.902315,2.4278,12,14,l,0
+30299,2025-11-01 14:30:00,Bundesliga,2025,FC Heidenheim,Eintracht Frankfurt,Home,1,1,0.831882,1.22406,9,16,d,1
+30305,2025-11-08 14:30:00,Bundesliga,2025,FC Heidenheim,Bayer Leverkusen,Away,0,6,0.063377,3.90142,1,25,l,0
 19347,2022-08-06 13:30:00,Bundesliga,2022,Freiburg,Augsburg,Away,4,0,1.54255,0.585905,19,11,w,3
 19351,2022-08-12 18:30:00,Bundesliga,2022,Freiburg,Borussia Dortmund,Home,1,3,1.0831,0.781529,16,13,l,0
 19363,2022-08-20 13:30:00,Bundesliga,2022,Freiburg,VfB Stuttgart,Away,1,0,0.903953,0.766656,9,17,w,3
@@ -1048,6 +1070,8 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30266,2025-09-28 13:30:00,Bundesliga,2025,Freiburg,Hoffenheim,Home,1,1,1.2587,2.24224,6,15,d,1
 30270,2025-10-05 17:30:00,Bundesliga,2025,Freiburg,Borussia M.Gladbach,Away,0,0,0.689073,0.471184,12,9,d,1
 30280,2025-10-19 13:30:00,Bundesliga,2025,Freiburg,Eintracht Frankfurt,Home,2,2,1.12896,0.772638,12,8,d,1
+30288,2025-10-26 13:30:00,Bundesliga,2025,Freiburg,Bayer Leverkusen,Away,0,2,0.542897,2.46787,10,19,l,0
+30303,2025-11-01 14:30:00,Bundesliga,2025,Freiburg,Union Berlin,Away,0,0,1.16519,1.34842,13,11,d,1
 30232,2025-08-24 15:30:00,Bundesliga,2025,Hamburger SV,Borussia M.Gladbach,Away,0,0,0.285593,1.01717,7,17,d,1
 30233,2025-08-29 18:30:00,Bundesliga,2025,Hamburger SV,St. Pauli,Home,0,2,0.74111,1.85404,5,17,l,0
 30248,2025-09-13 16:30:00,Bundesliga,2025,Hamburger SV,Bayern Munich,Away,0,5,0.559174,3.03718,9,22,l,0
@@ -1055,6 +1079,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30268,2025-09-28 17:30:00,Bundesliga,2025,Hamburger SV,Union Berlin,Away,0,0,1.11274,1.54274,16,11,d,1
 30273,2025-10-05 15:30:00,Bundesliga,2025,Hamburger SV,Mainz 05,Home,4,0,1.65883,0.591161,15,11,w,3
 30283,2025-10-18 13:30:00,Bundesliga,2025,Hamburger SV,RasenBallsport Leipzig,Away,1,2,1.29355,1.15611,16,10,l,0
+30292,2025-10-25 13:30:00,Bundesliga,2025,Hamburger SV,Wolfsburg,Home,0,1,2.40547,0.695528,26,6,l,0
+30298,2025-11-02 14:30:00,Bundesliga,2025,Hamburger SV,FC Cologne,Away,1,4,1.19296,3.87376,11,23,l,0
+30309,2025-11-08 14:30:00,Bundesliga,2025,Hamburger SV,Borussia Dortmund,Home,1,1,0.419878,1.42582,8,17,d,1
 19343,2022-08-06 13:30:00,Bundesliga,2022,Hertha Berlin,Union Berlin,Away,1,3,0.350984,1.18263,7,19,l,0
 19356,2022-08-13 13:30:00,Bundesliga,2022,Hertha Berlin,Eintracht Frankfurt,Home,1,1,2.06497,1.20421,12,11,d,1
 19360,2022-08-19 18:30:00,Bundesliga,2022,Hertha Berlin,Borussia M.Gladbach,Away,0,1,0.967668,2.26575,17,11,l,0
@@ -1198,6 +1225,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30266,2025-09-28 13:30:00,Bundesliga,2025,Hoffenheim,Freiburg,Away,1,1,2.24224,1.2587,15,6,d,1
 30274,2025-10-03 18:30:00,Bundesliga,2025,Hoffenheim,FC Cologne,Home,0,1,1.42371,1.30873,15,9,l,0
 30284,2025-10-19 15:30:00,Bundesliga,2025,Hoffenheim,St. Pauli,Away,3,0,1.79103,0.871968,14,10,w,3
+30293,2025-10-25 13:30:00,Bundesliga,2025,Hoffenheim,FC Heidenheim,Home,3,1,2.4278,0.902315,14,12,w,3
+30304,2025-11-02 16:30:00,Bundesliga,2025,Hoffenheim,Wolfsburg,Away,3,2,1.74291,1.40117,10,12,w,3
+30310,2025-11-08 14:30:00,Bundesliga,2025,Hoffenheim,RasenBallsport Leipzig,Home,3,1,1.92349,1.56187,12,17,w,3
 27744,2024-08-24 13:30:00,Bundesliga,2024,Holstein Kiel,Hoffenheim,Away,2,3,1.97238,3.73706,17,21,l,0
 27754,2024-08-31 13:30:00,Bundesliga,2024,Holstein Kiel,Wolfsburg,Home,0,2,0.89489,1.4619,13,13,l,0
 27766,2024-09-14 16:30:00,Bundesliga,2024,Holstein Kiel,Bayern Munich,Home,1,6,0.299776,4.13442,6,23,l,0
@@ -1341,6 +1371,8 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30262,2025-09-27 13:30:00,Bundesliga,2025,Mainz 05,Borussia Dortmund,Home,0,2,0.525149,1.75519,8,10,l,0
 30273,2025-10-05 15:30:00,Bundesliga,2025,Mainz 05,Hamburger SV,Away,0,4,0.591161,1.65883,11,15,l,0
 30282,2025-10-18 13:30:00,Bundesliga,2025,Mainz 05,Bayer Leverkusen,Home,3,4,1.62978,4.43462,12,20,l,0
+30294,2025-10-26 15:30:00,Bundesliga,2025,Mainz 05,VfB Stuttgart,Away,1,2,1.40956,1.66805,13,19,l,0
+30300,2025-11-01 14:30:00,Bundesliga,2025,Mainz 05,Werder Bremen,Home,1,1,1.90161,0.880505,10,5,d,1
 19349,2022-08-07 13:30:00,Bundesliga,2022,RasenBallsport Leipzig,VfB Stuttgart,Away,1,1,2.13153,0.565488,27,11,d,1
 19353,2022-08-13 13:30:00,Bundesliga,2022,RasenBallsport Leipzig,FC Cologne,Home,2,2,1.17885,1.51583,10,13,d,1
 19366,2022-08-20 16:30:00,Bundesliga,2022,RasenBallsport Leipzig,Union Berlin,Away,1,2,0.958767,0.642263,16,7,l,0
@@ -1450,6 +1482,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30264,2025-09-27 13:30:00,Bundesliga,2025,RasenBallsport Leipzig,Wolfsburg,Away,1,0,2.61107,2.59654,20,22,w,3
 30271,2025-10-04 13:30:00,Bundesliga,2025,RasenBallsport Leipzig,Borussia Dortmund,Away,1,1,1.14077,0.668613,13,15,d,1
 30283,2025-10-18 13:30:00,Bundesliga,2025,RasenBallsport Leipzig,Hamburger SV,Home,2,1,1.15611,1.29355,10,16,w,3
+30287,2025-10-25 13:30:00,Bundesliga,2025,RasenBallsport Leipzig,Augsburg,Away,6,0,2.69438,0.639182,15,15,w,3
+30301,2025-11-01 14:30:00,Bundesliga,2025,RasenBallsport Leipzig,VfB Stuttgart,Home,3,1,1.73471,1.0701,16,15,w,3
+30310,2025-11-08 14:30:00,Bundesliga,2025,RasenBallsport Leipzig,Hoffenheim,Away,1,3,1.56187,1.92349,17,12,l,0
 19350,2022-08-07 15:30:00,Bundesliga,2022,Schalke 04,FC Cologne,Away,1,3,0.227735,4.42242,5,32,l,0
 19357,2022-08-13 16:30:00,Bundesliga,2022,Schalke 04,Borussia M.Gladbach,Home,2,2,1.69324,1.41135,12,14,d,1
 19361,2022-08-20 13:30:00,Bundesliga,2022,Schalke 04,Wolfsburg,Away,0,0,1.03296,1.20648,10,18,d,1
@@ -1525,6 +1560,8 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30263,2025-09-27 13:30:00,Bundesliga,2025,St. Pauli,Bayer Leverkusen,Home,1,2,0.813325,1.28912,13,5,l,0
 30277,2025-10-04 13:30:00,Bundesliga,2025,St. Pauli,Werder Bremen,Away,0,1,0.912425,1.77957,13,15,l,0
 30284,2025-10-19 15:30:00,Bundesliga,2025,St. Pauli,Hoffenheim,Home,0,3,0.871968,1.79103,10,14,l,0
+30291,2025-10-25 13:30:00,Bundesliga,2025,St. Pauli,Eintracht Frankfurt,Away,0,2,0.519973,2.42632,9,10,l,0
+30302,2025-11-01 14:30:00,Bundesliga,2025,St. Pauli,Borussia M.Gladbach,Home,0,4,0.804394,3.6262,16,15,l,0
 19343,2022-08-06 13:30:00,Bundesliga,2022,Union Berlin,Hertha Berlin,Home,3,1,1.18263,0.350984,19,7,w,3
 19358,2022-08-14 13:30:00,Bundesliga,2022,Union Berlin,Mainz 05,Away,0,0,0.301432,0.648549,10,11,d,1
 19366,2022-08-20 16:30:00,Bundesliga,2022,Union Berlin,RasenBallsport Leipzig,Home,2,1,0.642263,0.958767,7,16,w,3
@@ -1634,6 +1671,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30268,2025-09-28 17:30:00,Bundesliga,2025,Union Berlin,Hamburger SV,Home,0,0,1.54274,1.11274,11,16,d,1
 30269,2025-10-04 13:30:00,Bundesliga,2025,Union Berlin,Bayer Leverkusen,Away,0,2,1.19684,3.35673,10,20,l,0
 30285,2025-10-17 18:30:00,Bundesliga,2025,Union Berlin,Borussia M.Gladbach,Home,3,1,1.53032,0.628848,16,9,w,3
+30295,2025-10-24 18:30:00,Bundesliga,2025,Union Berlin,Werder Bremen,Away,0,1,0.487613,1.1444,12,16,l,0
+30303,2025-11-01 14:30:00,Bundesliga,2025,Union Berlin,Freiburg,Home,0,0,1.34842,1.16519,11,13,d,1
+30312,2025-11-08 14:30:00,Bundesliga,2025,Union Berlin,Bayern Munich,Home,2,2,1.02778,1.34246,12,12,d,1
 19349,2022-08-07 13:30:00,Bundesliga,2022,VfB Stuttgart,RasenBallsport Leipzig,Home,1,1,0.565488,2.13153,11,27,d,1
 19354,2022-08-13 13:30:00,Bundesliga,2022,VfB Stuttgart,Werder Bremen,Away,2,2,1.31637,0.704357,14,5,d,1
 19363,2022-08-20 13:30:00,Bundesliga,2022,VfB Stuttgart,Freiburg,Home,0,1,0.766656,0.903953,17,9,l,0
@@ -1743,6 +1783,8 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30267,2025-09-28 15:30:00,Bundesliga,2025,VfB Stuttgart,FC Cologne,Away,2,1,2.20939,1.07972,15,14,w,3
 30275,2025-10-05 13:30:00,Bundesliga,2025,VfB Stuttgart,FC Heidenheim,Home,1,0,1.10781,0.290942,18,5,w,3
 30286,2025-10-18 13:30:00,Bundesliga,2025,VfB Stuttgart,Wolfsburg,Away,3,0,2.39474,0.392885,15,11,w,3
+30294,2025-10-26 15:30:00,Bundesliga,2025,VfB Stuttgart,Mainz 05,Home,2,1,1.66805,1.40956,19,13,w,3
+30301,2025-11-01 14:30:00,Bundesliga,2025,VfB Stuttgart,RasenBallsport Leipzig,Away,1,3,1.0701,1.73471,15,16,l,0
 19345,2022-08-06 13:30:00,Bundesliga,2022,Werder Bremen,Wolfsburg,Away,2,2,1.04228,0.954909,10,11,d,1
 19354,2022-08-13 13:30:00,Bundesliga,2022,Werder Bremen,VfB Stuttgart,Home,2,2,0.704357,1.31637,5,14,d,1
 19364,2022-08-20 13:30:00,Bundesliga,2022,Werder Bremen,Borussia Dortmund,Away,3,2,1.20064,0.625547,14,6,w,3
@@ -1852,6 +1894,9 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30260,2025-09-26 18:30:00,Bundesliga,2025,Werder Bremen,Bayern Munich,Away,0,4,0.298618,4.31859,8,26,l,0
 30277,2025-10-04 13:30:00,Bundesliga,2025,Werder Bremen,St. Pauli,Home,1,0,1.77957,0.912425,15,13,w,3
 30281,2025-10-18 13:30:00,Bundesliga,2025,Werder Bremen,FC Heidenheim,Away,2,2,1.85638,3.07635,11,31,d,1
+30295,2025-10-24 18:30:00,Bundesliga,2025,Werder Bremen,Union Berlin,Home,1,0,1.1444,0.487613,16,12,w,3
+30300,2025-11-01 14:30:00,Bundesliga,2025,Werder Bremen,Mainz 05,Away,1,1,0.880505,1.90161,5,10,d,1
+30313,2025-11-07 19:30:00,Bundesliga,2025,Werder Bremen,Wolfsburg,Home,2,1,1.69456,0.676326,20,7,w,3
 19345,2022-08-06 13:30:00,Bundesliga,2022,Wolfsburg,Werder Bremen,Home,2,2,0.954909,1.04228,11,10,d,1
 19359,2022-08-14 15:30:00,Bundesliga,2022,Wolfsburg,Bayern Munich,Away,0,2,0.443318,1.4017,8,24,l,0
 19361,2022-08-20 13:30:00,Bundesliga,2022,Wolfsburg,Schalke 04,Home,0,0,1.20648,1.03296,18,10,d,1
@@ -1961,3 +2006,6 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30264,2025-09-27 13:30:00,Bundesliga,2025,Wolfsburg,RasenBallsport Leipzig,Home,0,1,2.59654,2.61107,22,20,l,0
 30276,2025-10-04 13:30:00,Bundesliga,2025,Wolfsburg,Augsburg,Away,1,3,1.22584,1.75326,14,10,l,0
 30286,2025-10-18 13:30:00,Bundesliga,2025,Wolfsburg,VfB Stuttgart,Home,0,3,0.392885,2.39474,11,15,l,0
+30292,2025-10-25 13:30:00,Bundesliga,2025,Wolfsburg,Hamburger SV,Away,1,0,0.695528,2.40547,6,26,w,3
+30304,2025-11-02 16:30:00,Bundesliga,2025,Wolfsburg,Hoffenheim,Home,2,3,1.40117,1.74291,12,10,l,0
+30313,2025-11-07 19:30:00,Bundesliga,2025,Wolfsburg,Werder Bremen,Away,1,2,0.676326,1.69456,7,20,l,0
