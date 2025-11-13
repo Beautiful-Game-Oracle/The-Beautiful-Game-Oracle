@@ -47,3 +47,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29921,2025-10-25 13:00:00,Serie_A,2025,Parma Calcio 1913,Como,Home,0,0,1.56651,0.387121,10,6,d,1
 29933,2025-10-29 16:30:00,Serie_A,2025,Parma Calcio 1913,Roma,Away,1,2,1.17796,1.15685,8,18,l,0
 29939,2025-11-02 17:00:00,Serie_A,2025,Parma Calcio 1913,Bologna,Home,1,3,0.622333,3.51745,7,22,l,0
+29951,2025-11-08 19:45:00,Serie_A,2025,Parma Calcio 1913,AC Milan,Home,2,2,1.45012,2.05467,14,9,d,1

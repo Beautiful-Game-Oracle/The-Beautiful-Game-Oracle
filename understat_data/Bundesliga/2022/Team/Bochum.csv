@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+19346,2022-08-06 13:30:00,Bundesliga,2022,Bochum,Mainz 05,Home,1,2,0.818183,1.59439,15,13,l
+19355,2022-08-13 13:30:00,Bundesliga,2022,Bochum,Hoffenheim,Away,2,3,1.47438,2.3761,11,23,l
+19368,2022-08-21 15:30:00,Bundesliga,2022,Bochum,Bayern Munich,Home,0,7,0.747624,3.98121,14,22,l
+19369,2022-08-26 18:30:00,Bundesliga,2022,Bochum,Freiburg,Away,0,1,1.13013,4.40931,15,29,l
+19383,2022-09-03 13:30:00,Bundesliga,2022,Bochum,Werder Bremen,Home,0,2,1.22972,1.9903,20,16,l
+19393,2022-09-10 16:30:00,Bundesliga,2022,Bochum,Schalke 04,Away,1,3,1.31293,1.4133,11,20,l
+19403,2022-09-18 15:30:00,Bundesliga,2022,Bochum,FC Cologne,Home,1,1,0.292667,1.8077,7,19,d
+19406,2022-10-01 13:30:00,Bundesliga,2022,Bochum,RasenBallsport Leipzig,Away,0,4,0.146803,4.21544,2,17,l
+19419,2022-10-08 13:30:00,Bundesliga,2022,Bochum,Eintracht Frankfurt,Home,3,0,0.649959,0.78428,11,13,w
+19429,2022-10-15 13:30:00,Bundesliga,2022,Bochum,VfB Stuttgart,Away,1,4,1.52762,2.40775,14,17,l
+19438,2022-10-23 13:30:00,Bundesliga,2022,Bochum,Union Berlin,Home,2,1,1.11544,1.00303,8,8,w
+19446,2022-10-29 13:30:00,Bundesliga,2022,Bochum,Wolfsburg,Away,0,4,0.444056,2.58922,11,20,l
+19457,2022-11-05 14:30:00,Bundesliga,2022,Bochum,Borussia Dortmund,Away,0,3,0.496214,1.43174,7,6,l
+19465,2022-11-08 19:30:00,Bundesliga,2022,Bochum,Borussia M.Gladbach,Home,2,1,1.68574,0.766603,13,8,w
+19473,2022-11-12 14:30:00,Bundesliga,2022,Bochum,Augsburg,Away,1,0,1.13531,2.34583,11,18,w
+19484,2023-01-21 14:30:00,Bundesliga,2022,Bochum,Hertha Berlin,Home,3,1,1.67446,0.732458,10,11,w
+19487,2023-01-25 19:30:00,Bundesliga,2022,Bochum,Bayer Leverkusen,Away,0,2,0.821758,1.8906,10,11,l
+19499,2023-01-28 14:30:00,Bundesliga,2022,Bochum,Mainz 05,Away,2,5,0.912111,2.86841,15,14,l
+19510,2023-02-04 14:30:00,Bundesliga,2022,Bochum,Hoffenheim,Home,5,2,2.74719,0.82308,16,9,w
+19513,2023-02-11 14:30:00,Bundesliga,2022,Bochum,Bayern Munich,Away,0,3,0.242356,4.37602,7,23,l
+19528,2023-02-18 14:30:00,Bundesliga,2022,Bochum,Freiburg,Home,0,2,1.40839,2.39926,16,18,l
+19539,2023-02-25 14:30:00,Bundesliga,2022,Bochum,Werder Bremen,Away,0,3,0.396228,1.17524,7,11,l
+19546,2023-03-04 14:30:00,Bundesliga,2022,Bochum,Schalke 04,Home,0,2,0.926001,0.873349,8,10,l
+19552,2023-03-10 19:30:00,Bundesliga,2022,Bochum,FC Cologne,Away,2,0,1.73391,0.585398,9,11,w
+19564,2023-03-18 14:30:00,Bundesliga,2022,Bochum,RasenBallsport Leipzig,Home,1,0,1.31052,1.92026,8,22,w
+19570,2023-03-31 19:30:00,Bundesliga,2022,Bochum,Eintracht Frankfurt,Away,1,1,1.15016,3.09855,7,20,d
+19582,2023-04-09 15:30:00,Bundesliga,2022,Bochum,VfB Stuttgart,Home,2,3,2.22259,2.37385,12,15,l
+19587,2023-04-16 15:30:00,Bundesliga,2022,Bochum,Union Berlin,Away,1,1,1.51987,1.05608,14,10,d
+19600,2023-04-22 13:30:00,Bundesliga,2022,Bochum,Wolfsburg,Home,1,5,2.7745,3.34214,23,15,l
+19609,2023-04-28 18:30:00,Bundesliga,2022,Bochum,Borussia Dortmund,Home,1,1,0.57291,2.93268,13,22,d
+19617,2023-05-06 13:30:00,Bundesliga,2022,Bochum,Borussia M.Gladbach,Away,0,2,0.921673,2.31852,14,25,l
+19628,2023-05-13 13:30:00,Bundesliga,2022,Bochum,Augsburg,Home,3,2,1.32347,1.32904,13,14,w
+19636,2023-05-20 13:30:00,Bundesliga,2022,Bochum,Hertha Berlin,Away,1,1,1.65012,1.36159,16,14,d
+19646,2023-05-27 13:30:00,Bundesliga,2022,Bochum,Bayer Leverkusen,Home,3,0,1.56183,0.863964,12,11,w

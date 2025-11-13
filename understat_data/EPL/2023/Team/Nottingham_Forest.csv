@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+22276,2023-08-12 11:30:00,EPL,2023,Nottingham_Forest,Arsenal,Away,1,2,0.966305,0.84262,6,15,l
+22285,2023-08-18 18:45:00,EPL,2023,Nottingham_Forest,Sheffield United,Home,2,1,1.37181,0.551038,16,7,w
+22300,2023-08-26 14:00:00,EPL,2023,Nottingham_Forest,Manchester United,Away,2,3,0.960354,3.02803,9,18,l
+21930,2023-09-02 14:00:00,EPL,2023,Nottingham_Forest,Chelsea,Away,1,0,1.1505,2.28442,7,21,w
+21944,2023-09-18 18:45:00,EPL,2023,Nottingham_Forest,Burnley,Home,1,1,0.705795,0.807651,14,10,d
+21946,2023-09-23 14:00:00,EPL,2023,Nottingham_Forest,Manchester City,Away,0,2,0.729109,1.33984,10,7,l
+21963,2023-10-01 13:00:00,EPL,2023,Nottingham_Forest,Brentford,Home,1,1,0.800317,1.75862,6,18,d
+21968,2023-10-07 16:30:00,EPL,2023,Nottingham_Forest,Crystal Palace,Away,0,0,1.22105,0.982452,16,8,d
+21982,2023-10-21 14:00:00,EPL,2023,Nottingham_Forest,Luton,Home,2,2,3.27549,1.49555,19,13,d
+21991,2023-10-29 14:00:00,EPL,2023,Nottingham_Forest,Liverpool,Away,0,3,0.642014,2.70428,9,21,l
+22002,2023-11-05 14:00:00,EPL,2023,Nottingham_Forest,Aston Villa,Home,2,0,0.592447,1.33116,5,13,w
+22013,2023-11-12 14:00:00,EPL,2023,Nottingham_Forest,West Ham,Away,2,3,1.42128,2.06402,10,16,l
+22022,2023-11-25 15:00:00,EPL,2023,Nottingham_Forest,Brighton,Home,2,3,2.22655,1.21792,18,11,l
+22033,2023-12-02 17:30:00,EPL,2023,Nottingham_Forest,Everton,Home,0,1,0.673085,0.623789,13,12,l
+22038,2023-12-06 19:30:00,EPL,2023,Nottingham_Forest,Fulham,Away,0,5,0.218659,3.09427,4,14,l
+22054,2023-12-09 15:00:00,EPL,2023,Nottingham_Forest,Wolverhampton Wanderers,Away,1,1,1.21801,1.02199,8,10,d
+22063,2023-12-15 20:00:00,EPL,2023,Nottingham_Forest,Tottenham,Home,0,2,1.70569,1.60738,15,12,l
+22070,2023-12-23 15:00:00,EPL,2023,Nottingham_Forest,Bournemouth,Home,2,3,0.791806,1.89067,11,18,l
+22083,2023-12-26 12:30:00,EPL,2023,Nottingham_Forest,Newcastle United,Away,3,1,3.1074,2.79106,15,19,w
+22091,2023-12-30 17:30:00,EPL,2023,Nottingham_Forest,Manchester United,Home,2,1,0.744348,0.651905,8,10,w
+22104,2024-01-20 17:30:00,EPL,2023,Nottingham_Forest,Brentford,Away,2,3,1.22251,1.94219,12,11,l
+22108,2024-01-30 19:30:00,EPL,2023,Nottingham_Forest,Arsenal,Home,1,2,0.631618,1.39143,9,19,l
+22115,2024-02-04 14:00:00,EPL,2023,Nottingham_Forest,Bournemouth,Away,1,1,0.456548,1.1895,8,9,d
+22131,2024-02-10 17:30:00,EPL,2023,Nottingham_Forest,Newcastle United,Home,2,3,0.968075,0.511375,13,7,l
+22142,2024-02-17 15:00:00,EPL,2023,Nottingham_Forest,West Ham,Home,2,0,2.66942,0.520016,19,10,w
+22147,2024-02-24 15:00:00,EPL,2023,Nottingham_Forest,Aston Villa,Away,2,4,2.25569,3.48861,10,16,l
+22162,2024-03-02 15:00:00,EPL,2023,Nottingham_Forest,Liverpool,Home,0,1,0.971466,1.32259,8,22,l
+22168,2024-03-10 14:00:00,EPL,2023,Nottingham_Forest,Brighton,Away,0,1,0.687034,0.534518,10,10,l
+22181,2024-03-16 15:00:00,EPL,2023,Nottingham_Forest,Luton,Away,1,1,1.95268,0.853782,16,10,d
+22192,2024-03-30 15:00:00,EPL,2023,Nottingham_Forest,Crystal Palace,Home,1,1,0.784652,0.900972,12,10,d
+22198,2024-04-02 18:30:00,EPL,2023,Nottingham_Forest,Fulham,Home,3,1,1.94619,1.04304,16,17,w
+22213,2024-04-07 19:00:00,EPL,2023,Nottingham_Forest,Tottenham,Away,1,3,2.00122,1.61978,14,17,l
+22223,2024-04-13 14:00:00,EPL,2023,Nottingham_Forest,Wolverhampton Wanderers,Home,2,2,1.76244,1.45688,18,11,d
+22228,2024-04-21 12:30:00,EPL,2023,Nottingham_Forest,Everton,Away,0,2,1.18916,0.473233,8,7,l
+22242,2024-04-28 15:30:00,EPL,2023,Nottingham_Forest,Manchester City,Home,0,2,2.17312,0.932063,14,11,l
+22254,2024-05-04 14:00:00,EPL,2023,Nottingham_Forest,Sheffield United,Away,3,1,1.93818,2.48986,15,17,w
+22261,2024-05-11 16:30:00,EPL,2023,Nottingham_Forest,Chelsea,Home,2,3,2.44569,2.41068,20,12,l
+22268,2024-05-19 15:00:00,EPL,2023,Nottingham_Forest,Burnley,Away,2,1,1.57962,1.08222,12,20,w

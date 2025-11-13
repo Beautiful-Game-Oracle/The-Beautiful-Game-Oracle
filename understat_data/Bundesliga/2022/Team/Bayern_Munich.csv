@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+19342,2022-08-05 18:30:00,Bundesliga,2022,Bayern_Munich,Eintracht Frankfurt,Away,6,1,4.56023,0.756176,23,8,w
+19359,2022-08-14 15:30:00,Bundesliga,2022,Bayern_Munich,Wolfsburg,Home,2,0,1.4017,0.443318,24,8,w
+19368,2022-08-21 15:30:00,Bundesliga,2022,Bayern_Munich,Bochum,Away,7,0,3.98121,0.747624,22,14,w
+19375,2022-08-27 16:30:00,Bundesliga,2022,Bayern_Munich,Borussia M.Gladbach,Home,1,1,3.17378,0.548057,33,5,d
+19380,2022-09-03 13:30:00,Bundesliga,2022,Bayern_Munich,Union Berlin,Away,1,1,1.38204,0.443137,21,7,d
+19388,2022-09-10 13:30:00,Bundesliga,2022,Bayern_Munich,VfB Stuttgart,Home,2,2,2.2976,1.18754,19,7,d
+19399,2022-09-17 13:30:00,Bundesliga,2022,Bayern_Munich,Augsburg,Away,0,1,1.82063,2.20918,19,11,l
+19405,2022-09-30 18:30:00,Bundesliga,2022,Bayern_Munich,Bayer Leverkusen,Home,4,0,2.13413,0.940717,20,10,w
+19414,2022-10-08 16:30:00,Bundesliga,2022,Bayern_Munich,Borussia Dortmund,Away,2,2,1.22934,1.42928,9,12,d
+19423,2022-10-16 17:30:00,Bundesliga,2022,Bayern_Munich,Freiburg,Home,5,0,2.07998,0.328313,17,6,w
+19436,2022-10-22 13:30:00,Bundesliga,2022,Bayern_Munich,Hoffenheim,Away,2,0,3.12799,0.766181,21,7,w
+19441,2022-10-29 13:30:00,Bundesliga,2022,Bayern_Munich,Mainz 05,Home,6,2,4.33442,1.78114,24,14,w
+19455,2022-11-05 14:30:00,Bundesliga,2022,Bayern_Munich,Hertha Berlin,Away,3,2,2.23326,1.09255,14,7,w
+19459,2022-11-08 19:30:00,Bundesliga,2022,Bayern_Munich,Werder Bremen,Home,6,1,5.72728,1.44045,21,6,w
+19475,2022-11-12 17:30:00,Bundesliga,2022,Bayern_Munich,Schalke 04,Away,2,0,1.65233,0.891772,21,7,w
+19478,2023-01-20 19:30:00,Bundesliga,2022,Bayern_Munich,RasenBallsport Leipzig,Away,1,1,0.813529,1.03072,7,10,d
+19486,2023-01-24 19:30:00,Bundesliga,2022,Bayern_Munich,FC Cologne,Home,1,1,1.4893,0.782641,25,3,d
+19495,2023-01-28 17:30:00,Bundesliga,2022,Bayern_Munich,Eintracht Frankfurt,Home,1,1,1.38005,0.882875,14,8,d
+19509,2023-02-05 16:30:00,Bundesliga,2022,Bayern_Munich,Wolfsburg,Away,4,2,0.568665,2.39463,9,22,w
+19513,2023-02-11 14:30:00,Bundesliga,2022,Bayern_Munich,Bochum,Home,3,0,4.37602,0.242356,23,7,w
+19525,2023-02-18 14:30:00,Bundesliga,2022,Bayern_Munich,Borussia M.Gladbach,Away,2,3,1.22226,2.26574,13,16,l
+19531,2023-02-26 16:30:00,Bundesliga,2022,Bayern_Munich,Union Berlin,Home,3,0,3.86403,0.212984,20,3,w
+19548,2023-03-04 17:30:00,Bundesliga,2022,Bayern_Munich,VfB Stuttgart,Away,2,1,2.55612,0.596921,14,11,w
+19549,2023-03-11 14:30:00,Bundesliga,2022,Bayern_Munich,Augsburg,Home,5,3,2.49393,2.48124,23,13,w
+19559,2023-03-19 16:30:00,Bundesliga,2022,Bayern_Munich,Bayer Leverkusen,Away,1,2,1.10651,1.85014,11,11,l
+19574,2023-04-01 16:30:00,Bundesliga,2022,Bayern_Munich,Borussia Dortmund,Home,4,2,3.10094,1.57525,16,11,w
+19578,2023-04-08 13:30:00,Bundesliga,2022,Bayern_Munich,Freiburg,Away,1,0,3.09211,1.0909,22,10,w
+19585,2023-04-15 13:30:00,Bundesliga,2022,Bayern_Munich,Hoffenheim,Home,1,1,1.88997,0.27365,21,4,d
+19597,2023-04-22 13:30:00,Bundesliga,2022,Bayern_Munich,Mainz 05,Away,1,3,2.70283,1.29569,11,12,l
+19603,2023-04-30 13:30:00,Bundesliga,2022,Bayern_Munich,Hertha Berlin,Home,2,0,2.92722,0.0835934,26,2,w
+19620,2023-05-06 16:30:00,Bundesliga,2022,Bayern_Munich,Werder Bremen,Away,2,1,2.02292,0.805974,13,13,w
+19621,2023-05-13 13:30:00,Bundesliga,2022,Bayern_Munich,Schalke 04,Home,6,0,5.05599,0.33961,25,8,w
+19630,2023-05-20 16:30:00,Bundesliga,2022,Bayern_Munich,RasenBallsport Leipzig,Home,1,3,1.63955,2.63992,17,14,l
+19642,2023-05-27 13:30:00,Bundesliga,2022,Bayern_Munich,FC Cologne,Away,2,1,1.68032,1.15669,12,8,w

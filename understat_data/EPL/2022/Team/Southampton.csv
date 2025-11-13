@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+18207,2022-08-06 14:00:00,EPL,2022,Southampton,Tottenham,Away,1,4,0.386546,1.6172,10,18,l
+18215,2022-08-13 14:00:00,EPL,2022,Southampton,Leeds,Home,2,2,1.40906,1.99694,14,13,d
+18226,2022-08-20 14:00:00,EPL,2022,Southampton,Leicester,Away,2,1,1.24155,0.242948,9,6,w
+18232,2022-08-27 11:30:00,EPL,2022,Southampton,Manchester United,Home,0,1,1.35887,1.34359,17,11,l
+18244,2022-08-30 18:45:00,EPL,2022,Southampton,Chelsea,Home,2,1,1.44086,1.5047,9,10,w
+18256,2022-09-03 14:00:00,EPL,2022,Southampton,Wolverhampton Wanderers,Away,0,1,1.20838,1.10039,12,7,l
+18272,2022-09-16 19:00:00,EPL,2022,Southampton,Aston Villa,Away,0,1,0.218302,1.34365,7,11,l
+18290,2022-10-01 14:00:00,EPL,2022,Southampton,Everton,Home,1,2,1.95961,1.99979,21,12,l
+18298,2022-10-08 14:00:00,EPL,2022,Southampton,Manchester City,Away,0,4,0.101148,2.73536,5,21,l
+18309,2022-10-16 13:00:00,EPL,2022,Southampton,West Ham,Home,1,1,0.524479,1.70727,10,25,d
+18313,2022-10-19 18:30:00,EPL,2022,Southampton,Bournemouth,Away,1,0,1.23878,0.810452,8,15,w
+18328,2022-10-23 13:00:00,EPL,2022,Southampton,Arsenal,Home,1,1,0.622653,1.57897,10,12,d
+18336,2022-10-29 14:00:00,EPL,2022,Southampton,Crystal Palace,Away,0,1,1.35803,1.00384,14,12,l
+18348,2022-11-06 14:00:00,EPL,2022,Southampton,Newcastle United,Home,1,4,1.65228,1.42101,16,7,l
+18355,2022-11-12 15:00:00,EPL,2022,Southampton,Liverpool,Away,1,3,1.43427,2.74418,9,15,l
+18371,2022-12-26 15:00:00,EPL,2022,Southampton,Brighton,Home,1,3,1.70709,1.00714,15,7,l
+18374,2022-12-31 15:00:00,EPL,2022,Southampton,Fulham,Away,1,2,0.698711,1.49305,10,8,l
+18391,2023-01-04 19:30:00,EPL,2022,Southampton,Nottingham Forest,Home,0,1,0.62937,1.22324,8,11,l
+18396,2023-01-14 15:00:00,EPL,2022,Southampton,Everton,Away,2,1,1.08412,1.18191,13,12,w
+18410,2023-01-21 15:00:00,EPL,2022,Southampton,Aston Villa,Home,0,1,0.672444,1.16432,8,16,l
+18413,2023-02-04 15:00:00,EPL,2022,Southampton,Brentford,Away,0,3,0.644385,2.36747,14,14,l
+18430,2023-02-11 15:00:00,EPL,2022,Southampton,Wolverhampton Wanderers,Home,1,2,1.30203,0.615651,18,11,l
+18435,2023-02-18 15:00:00,EPL,2022,Southampton,Chelsea,Away,1,0,0.619532,1.61723,8,17,w
+18446,2023-02-25 15:00:00,EPL,2022,Southampton,Leeds,Away,0,1,0.391128,0.720048,8,14,l
+18460,2023-03-04 17:30:00,EPL,2022,Southampton,Leicester,Home,1,0,1.34332,1.67051,11,11,w
+18468,2023-03-12 14:00:00,EPL,2022,Southampton,Manchester United,Away,0,0,1.18053,0.910911,17,10,d
+18265,2023-03-15 19:30:00,EPL,2022,Southampton,Brentford,Home,0,2,0.358977,1.66591,7,11,l
+18480,2023-03-18 15:00:00,EPL,2022,Southampton,Tottenham,Home,3,3,2.52077,1.88473,19,17,d
+18491,2023-04-02 13:00:00,EPL,2022,Southampton,West Ham,Away,0,1,0.318261,1.40363,9,12,l
+18499,2023-04-08 16:30:00,EPL,2022,Southampton,Manchester City,Home,1,4,0.492801,3.05999,4,13,l
+18508,2023-04-15 14:00:00,EPL,2022,Southampton,Crystal Palace,Home,0,2,0.678449,0.86306,11,9,l
+18512,2023-04-21 19:00:00,EPL,2022,Southampton,Arsenal,Away,3,3,1.43063,2.39609,8,25,d
+18530,2023-04-27 18:45:00,EPL,2022,Southampton,Bournemouth,Home,0,1,0.477034,0.988554,11,16,l
+18541,2023-04-30 13:00:00,EPL,2022,Southampton,Newcastle United,Away,1,3,0.897175,3.91457,5,22,l
+18548,2023-05-08 19:00:00,EPL,2022,Southampton,Nottingham Forest,Away,3,4,3.31096,1.91326,19,9,l
+18561,2023-05-13 14:00:00,EPL,2022,Southampton,Fulham,Home,0,2,0.149649,1.27085,5,9,l
+18563,2023-05-21 13:00:00,EPL,2022,Southampton,Brighton,Away,1,3,0.863659,2.41418,5,26,l
+18581,2023-05-28 15:30:00,EPL,2022,Southampton,Liverpool,Home,4,4,1.33964,4.00345,15,30,d

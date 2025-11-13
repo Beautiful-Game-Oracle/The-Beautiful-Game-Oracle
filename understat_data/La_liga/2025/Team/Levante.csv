@@ -1,0 +1,12 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29161,2025-08-16 19:30:00,La_liga,2025,Levante,Alaves,Away,1,2,0.74203,1.72315,7,15,l
+29171,2025-08-23 19:30:00,La_liga,2025,Levante,Barcelona,Home,2,3,2.68812,2.48128,9,26,l
+29179,2025-08-29 17:30:00,La_liga,2025,Levante,Elche,Away,0,2,0.969663,1.44309,11,16,l
+29191,2025-09-14 14:15:00,La_liga,2025,Levante,Real Betis,Home,2,2,1.02425,2.19546,5,28,d
+29202,2025-09-20 12:00:00,La_liga,2025,Levante,Girona,Away,4,0,4.50183,0.423855,15,7,w
+29210,2025-09-23 19:30:00,La_liga,2025,Levante,Real Madrid,Home,1,4,1.70121,4.06315,11,24,l
+29222,2025-09-27 12:00:00,La_liga,2025,Levante,Getafe,Away,1,1,1.27833,0.830967,11,11,d
+29236,2025-10-04 12:00:00,La_liga,2025,Levante,Real Oviedo,Away,2,0,1.62121,1.08551,14,12,w
+29243,2025-10-19 16:30:00,La_liga,2025,Levante,Rayo Vallecano,Home,0,3,0.940509,2.53118,17,10,l
+29257,2025-10-26 13:00:00,La_liga,2025,Levante,Mallorca,Away,1,1,2.3579,1.86979,13,20,d
+29265,2025-11-02 13:00:00,La_liga,2025,Levante,Celta Vigo,Home,1,2,1.23651,1.92474,9,20,l

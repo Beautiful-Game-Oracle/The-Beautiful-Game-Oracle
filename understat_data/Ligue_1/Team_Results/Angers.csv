@@ -82,3 +82,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29610,2025-10-26 15:15:00,Ligue_1,2025,Angers,Lorient,Home,2,0,1.30397,2.00206,7,23,w,3
 29620,2025-10-29 19:05:00,Ligue_1,2025,Angers,Marseille,Away,2,2,0.996929,1.58833,12,11,d,1
 29631,2025-11-02 16:15:00,Ligue_1,2025,Angers,Lille,Away,0,1,0.277522,2.2089,6,15,l,0
+29637,2025-11-09 16:15:00,Ligue_1,2025,Angers,Auxerre,Home,2,0,1.15143,0.589602,9,13,w,3

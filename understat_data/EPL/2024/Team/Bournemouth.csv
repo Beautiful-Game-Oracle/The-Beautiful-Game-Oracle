@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+26607,2024-08-17 14:00:00,EPL,2024,Bournemouth,Nottingham Forest,Away,1,1,1.90915,1.24405,13,14,d
+26620,2024-08-25 13:00:00,EPL,2024,Bournemouth,Newcastle United,Home,1,1,2.53513,1.89287,16,14,d
+26624,2024-08-31 14:00:00,EPL,2024,Bournemouth,Everton,Away,3,2,2.95688,2.55629,17,18,w
+26639,2024-09-14 19:00:00,EPL,2024,Bournemouth,Chelsea,Home,0,1,1.53731,0.932726,19,10,l
+26645,2024-09-21 14:00:00,EPL,2024,Bournemouth,Liverpool,Away,0,3,1.46979,2.43731,19,19,l
+26661,2024-09-30 19:00:00,EPL,2024,Bournemouth,Southampton,Home,3,1,1.44215,0.696068,14,9,w
+26663,2024-10-05 14:00:00,EPL,2024,Bournemouth,Leicester,Away,0,1,1.94963,0.912063,17,6,l
+26680,2024-10-19 16:30:00,EPL,2024,Bournemouth,Arsenal,Home,2,0,2.18419,0.740758,13,6,w
+26684,2024-10-26 14:00:00,EPL,2024,Bournemouth,Aston Villa,Away,1,1,0.328651,1.974,11,18,d
+26692,2024-11-02 15:00:00,EPL,2024,Bournemouth,Manchester City,Home,2,1,2.4493,2.3527,12,19,w
+26702,2024-11-09 15:00:00,EPL,2024,Bournemouth,Brentford,Away,2,3,2.49234,1.56474,15,12,l
+26712,2024-11-23 15:00:00,EPL,2024,Bournemouth,Brighton,Home,1,2,1.91157,1.23059,18,6,l
+26731,2024-11-30 15:00:00,EPL,2024,Bournemouth,Wolverhampton Wanderers,Away,4,2,3.07901,0.866034,12,10,w
+26732,2024-12-05 20:15:00,EPL,2024,Bournemouth,Tottenham,Home,1,0,3.27716,0.623934,21,12,w
+26750,2024-12-08 14:00:00,EPL,2024,Bournemouth,Ipswich,Away,2,1,3.49127,1.5668,22,18,w
+26754,2024-12-16 20:00:00,EPL,2024,Bournemouth,West Ham,Home,1,1,2.04842,1.81827,29,16,d
+26769,2024-12-22 14:00:00,EPL,2024,Bournemouth,Manchester United,Away,3,0,1.82831,2.28533,10,23,w
+26772,2024-12-26 15:00:00,EPL,2024,Bournemouth,Crystal Palace,Home,0,0,1.20189,0.500066,18,10,d
+26786,2024-12-29 15:00:00,EPL,2024,Bournemouth,Fulham,Away,2,2,1.70692,0.961566,16,11,d
+26792,2025-01-04 15:00:00,EPL,2024,Bournemouth,Everton,Home,1,0,2.61852,0.561015,19,9,w
+26809,2025-01-14 19:30:00,EPL,2024,Bournemouth,Chelsea,Away,2,2,1.14845,2.53808,7,26,d
+26819,2025-01-18 12:30:00,EPL,2024,Bournemouth,Newcastle United,Away,4,1,2.70174,0.837801,19,13,w
+26822,2025-01-25 15:00:00,EPL,2024,Bournemouth,Nottingham Forest,Home,5,0,2.8254,0.996166,16,18,w
+26832,2025-02-01 15:00:00,EPL,2024,Bournemouth,Liverpool,Home,0,2,1.65273,2.7219,14,19,l
+26849,2025-02-15 15:00:00,EPL,2024,Bournemouth,Southampton,Away,3,1,2.08722,0.974418,14,11,w
+26852,2025-02-22 15:00:00,EPL,2024,Bournemouth,Wolverhampton Wanderers,Home,0,1,0.629691,2.10124,8,13,l
+26863,2025-02-25 19:30:00,EPL,2024,Bournemouth,Brighton,Away,1,2,1.70169,2.57927,19,11,l
+26879,2025-03-09 14:00:00,EPL,2024,Bournemouth,Tottenham,Away,2,2,2.22536,1.35053,17,12,d
+26882,2025-03-15 17:30:00,EPL,2024,Bournemouth,Brentford,Home,1,2,2.02714,1.60321,17,11,l
+26896,2025-04-02 19:45:00,EPL,2024,Bournemouth,Ipswich,Home,1,2,1.99637,1.41263,24,10,l
+26911,2025-04-05 14:00:00,EPL,2024,Bournemouth,West Ham,Away,2,2,1.94869,0.907832,11,9,d
+26912,2025-04-14 19:00:00,EPL,2024,Bournemouth,Fulham,Home,1,0,1.8577,1.07203,12,12,w
+26924,2025-04-19 14:00:00,EPL,2024,Bournemouth,Crystal Palace,Away,0,0,0.664093,0.337818,15,5,d
+26932,2025-04-27 13:00:00,EPL,2024,Bournemouth,Manchester United,Home,1,1,0.60995,1.91039,8,25,d
+26945,2025-05-03 16:30:00,EPL,2024,Bournemouth,Arsenal,Away,2,1,1.41783,2.05484,9,13,w
+26955,2025-05-10 16:30:00,EPL,2024,Bournemouth,Aston Villa,Home,0,1,1.02272,1.12376,10,6,l
+26970,2025-05-20 19:00:00,EPL,2024,Bournemouth,Manchester City,Away,1,3,0.962014,1.59779,8,12,l
+26979,2025-05-25 15:00:00,EPL,2024,Bournemouth,Leicester,Home,2,0,2.72449,0.156702,20,3,w

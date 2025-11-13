@@ -1,0 +1,11 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29846,2025-08-23 18:45:00,Serie_A,2025,AC_Milan,Cremonese,Home,1,2,2.08498,0.363576,24,4,l
+29855,2025-08-29 18:45:00,Serie_A,2025,AC_Milan,Lecce,Away,2,0,2.13175,0.481693,14,7,w
+29871,2025-09-14 18:45:00,Serie_A,2025,AC_Milan,Bologna,Home,1,0,1.15538,0.198634,14,5,w
+29875,2025-09-20 18:45:00,Serie_A,2025,AC_Milan,Udinese,Away,3,0,1.70251,0.298364,13,10,w
+29889,2025-09-28 18:45:00,Serie_A,2025,AC_Milan,Napoli,Home,2,1,0.952575,2.23894,6,19,w
+29898,2025-10-05 18:45:00,Serie_A,2025,AC_Milan,Juventus,Away,0,0,1.55707,0.570595,13,12,d
+29911,2025-10-19 18:45:00,Serie_A,2025,AC_Milan,Fiorentina,Home,2,1,2.01853,0.965997,14,5,w
+29919,2025-10-24 18:45:00,Serie_A,2025,AC_Milan,Pisa,Home,2,2,1.97232,1.22514,19,8,d
+29924,2025-10-28 18:45:00,Serie_A,2025,AC_Milan,Atalanta,Away,1,1,0.626418,1.28167,6,17,d
+29937,2025-11-02 19:45:00,Serie_A,2025,AC_Milan,Roma,Home,1,0,3.76419,1.95443,17,20,w

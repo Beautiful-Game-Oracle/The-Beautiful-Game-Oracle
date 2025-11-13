@@ -123,3 +123,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28848,2025-10-18 14:00:00,EPL,2025,Brighton,Newcastle United,Home,2,1,0.857104,1.28313,13,16,w,3
 28865,2025-10-25 16:30:00,EPL,2025,Brighton,Manchester United,Away,2,4,0.947154,1.96231,17,13,l,0
 28868,2025-11-01 15:00:00,EPL,2025,Brighton,Leeds,Home,3,0,2.64127,0.35919,14,5,w,3
+28881,2025-11-09 14:00:00,EPL,2025,Brighton,Crystal Palace,Away,0,0,0.637037,0.839547,7,10,d,1

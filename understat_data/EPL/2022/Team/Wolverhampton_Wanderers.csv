@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+18205,2022-08-06 14:00:00,EPL,2022,Wolverhampton_Wanderers,Leeds,Away,1,2,1.10119,0.88917,16,12,l
+18216,2022-08-13 14:00:00,EPL,2022,Wolverhampton_Wanderers,Fulham,Home,0,0,0.975375,1.08813,7,9,d
+18222,2022-08-20 11:30:00,EPL,2022,Wolverhampton_Wanderers,Tottenham,Away,0,1,0.686123,1.46608,20,11,l
+18240,2022-08-28 13:00:00,EPL,2022,Wolverhampton_Wanderers,Newcastle United,Home,1,1,1.13248,1.93362,10,21,d
+18248,2022-08-31 18:30:00,EPL,2022,Wolverhampton_Wanderers,Bournemouth,Away,0,0,1.53246,0.362035,17,5,d
+18256,2022-09-03 14:00:00,EPL,2022,Wolverhampton_Wanderers,Southampton,Home,1,0,1.10039,1.20838,7,12,w
+18274,2022-09-17 11:30:00,EPL,2022,Wolverhampton_Wanderers,Manchester City,Home,0,3,0.310995,1.4242,6,16,l
+18291,2022-10-01 16:30:00,EPL,2022,Wolverhampton_Wanderers,West Ham,Away,0,2,0.575988,1.03934,15,18,l
+18295,2022-10-08 14:00:00,EPL,2022,Wolverhampton_Wanderers,Chelsea,Away,0,3,0.748449,2.43092,8,20,l
+18311,2022-10-15 14:00:00,EPL,2022,Wolverhampton_Wanderers,Nottingham Forest,Home,1,0,1.22368,1.24761,9,10,w
+18318,2022-10-18 19:15:00,EPL,2022,Wolverhampton_Wanderers,Crystal Palace,Away,1,2,0.857837,1.25617,10,14,l
+18331,2022-10-23 13:00:00,EPL,2022,Wolverhampton_Wanderers,Leicester,Home,0,4,1.61785,0.989075,21,5,l
+18334,2022-10-29 14:00:00,EPL,2022,Wolverhampton_Wanderers,Brentford,Away,1,1,0.557605,1.29257,14,12,d
+18351,2022-11-05 15:00:00,EPL,2022,Wolverhampton_Wanderers,Brighton,Home,2,3,1.29252,1.87375,8,19,l
+18361,2022-11-12 19:45:00,EPL,2022,Wolverhampton_Wanderers,Arsenal,Home,0,2,0.512339,2.27996,11,14,l
+18367,2022-12-26 15:00:00,EPL,2022,Wolverhampton_Wanderers,Everton,Away,2,1,1.22076,1.22653,7,12,w
+18381,2022-12-31 12:30:00,EPL,2022,Wolverhampton_Wanderers,Manchester United,Home,0,1,0.587672,2.44728,10,16,l
+18383,2023-01-04 20:00:00,EPL,2022,Wolverhampton_Wanderers,Aston Villa,Away,1,1,0.832522,1.03226,10,13,d
+18401,2023-01-14 15:00:00,EPL,2022,Wolverhampton_Wanderers,West Ham,Home,1,0,0.806232,0.735105,17,16,w
+18409,2023-01-22 14:00:00,EPL,2022,Wolverhampton_Wanderers,Manchester City,Away,0,3,0.469277,3.32757,10,13,l
+18421,2023-02-04 15:00:00,EPL,2022,Wolverhampton_Wanderers,Liverpool,Home,3,0,2.63328,1.30193,12,23,w
+18430,2023-02-11 15:00:00,EPL,2022,Wolverhampton_Wanderers,Southampton,Away,2,1,0.615651,1.30203,11,18,w
+18441,2023-02-18 15:00:00,EPL,2022,Wolverhampton_Wanderers,Bournemouth,Home,0,1,0.911415,1.15274,15,5,l
+18445,2023-02-24 20:00:00,EPL,2022,Wolverhampton_Wanderers,Fulham,Away,1,1,0.997097,0.913133,8,10,d
+18264,2023-03-01 20:00:00,EPL,2022,Wolverhampton_Wanderers,Liverpool,Away,0,2,0.78681,2.70191,4,15,l
+18461,2023-03-04 15:00:00,EPL,2022,Wolverhampton_Wanderers,Tottenham,Home,1,0,0.562477,1.25588,8,22,w
+18469,2023-03-12 16:30:00,EPL,2022,Wolverhampton_Wanderers,Newcastle United,Away,1,2,0.709895,2.45527,7,19,l
+18481,2023-03-18 15:00:00,EPL,2022,Wolverhampton_Wanderers,Leeds,Home,2,4,2.76358,1.6549,23,11,l
+18490,2023-04-01 14:00:00,EPL,2022,Wolverhampton_Wanderers,Nottingham Forest,Away,1,1,0.383739,1.11441,8,17,d
+18501,2023-04-08 14:00:00,EPL,2022,Wolverhampton_Wanderers,Chelsea,Home,1,0,0.601153,0.815308,9,13,w
+18511,2023-04-15 14:00:00,EPL,2022,Wolverhampton_Wanderers,Brentford,Home,2,0,0.93912,1.5133,11,10,w
+18518,2023-04-22 14:00:00,EPL,2022,Wolverhampton_Wanderers,Leicester,Away,1,2,0.59626,2.66929,16,15,l
+18527,2023-04-25 18:30:00,EPL,2022,Wolverhampton_Wanderers,Crystal Palace,Home,2,0,1.12829,0.580294,9,15,w
+18535,2023-04-29 14:00:00,EPL,2022,Wolverhampton_Wanderers,Brighton,Away,0,6,0.603985,3.60471,10,22,l
+18551,2023-05-06 14:00:00,EPL,2022,Wolverhampton_Wanderers,Aston Villa,Home,1,0,0.80605,1.50158,6,16,w
+18560,2023-05-13 14:00:00,EPL,2022,Wolverhampton_Wanderers,Manchester United,Away,0,2,0.268789,3.10118,5,27,l
+18571,2023-05-20 14:00:00,EPL,2022,Wolverhampton_Wanderers,Everton,Home,1,1,1.28976,2.46976,13,19,d
+18572,2023-05-28 15:30:00,EPL,2022,Wolverhampton_Wanderers,Arsenal,Away,0,5,0.38772,3.02466,6,14,l

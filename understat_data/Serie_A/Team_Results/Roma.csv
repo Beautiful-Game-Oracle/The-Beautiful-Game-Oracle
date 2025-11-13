@@ -123,3 +123,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29922,2025-10-26 13:00:00,Serie_A,2025,Roma,Sassuolo,Away,1,0,2.25968,0.949353,15,11,w,3
 29933,2025-10-29 16:30:00,Serie_A,2025,Roma,Parma Calcio 1913,Home,2,1,1.15685,1.17796,18,8,w,3
 29937,2025-11-02 19:45:00,Serie_A,2025,Roma,AC Milan,Away,0,1,1.95443,3.76419,20,17,l,0
+29953,2025-11-09 17:00:00,Serie_A,2025,Roma,Udinese,Home,2,0,1.75728,0.928685,13,10,w,3

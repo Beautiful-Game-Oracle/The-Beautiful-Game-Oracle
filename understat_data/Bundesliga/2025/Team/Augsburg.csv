@@ -1,0 +1,10 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+30229,2025-08-23 13:30:00,Bundesliga,2025,Augsburg,Freiburg,Away,3,1,1.30191,2.27247,12,16,w
+30238,2025-08-30 16:30:00,Bundesliga,2025,Augsburg,Bayern Munich,Home,2,3,0.506028,3.37523,10,20,l
+30249,2025-09-14 13:30:00,Bundesliga,2025,Augsburg,St. Pauli,Away,1,2,0.934223,1.95499,10,13,l
+30253,2025-09-20 13:30:00,Bundesliga,2025,Augsburg,Mainz 05,Home,1,4,0.870451,2.57047,18,12,l
+30261,2025-09-27 13:30:00,Bundesliga,2025,Augsburg,FC Heidenheim,Away,1,2,0.619833,1.79097,8,11,l
+30276,2025-10-04 13:30:00,Bundesliga,2025,Augsburg,Wolfsburg,Home,3,1,1.75326,1.22584,10,14,w
+30279,2025-10-18 13:30:00,Bundesliga,2025,Augsburg,FC Cologne,Away,1,1,1.11917,0.523854,10,9,d
+30287,2025-10-25 13:30:00,Bundesliga,2025,Augsburg,RasenBallsport Leipzig,Home,0,6,0.639182,2.69438,15,15,l
+30296,2025-10-31 19:30:00,Bundesliga,2025,Augsburg,Borussia Dortmund,Home,0,1,0.969501,0.588196,9,5,l

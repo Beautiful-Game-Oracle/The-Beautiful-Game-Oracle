@@ -110,3 +110,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30282,2025-10-18 13:30:00,Bundesliga,2025,Mainz 05,Bayer Leverkusen,Home,3,4,1.62978,4.43462,12,20,l,0
 30294,2025-10-26 15:30:00,Bundesliga,2025,Mainz 05,VfB Stuttgart,Away,1,2,1.40956,1.66805,13,19,l,0
 30300,2025-11-01 14:30:00,Bundesliga,2025,Mainz 05,Werder Bremen,Home,1,1,1.90161,0.880505,10,5,d,1
+30307,2025-11-09 18:30:00,Bundesliga,2025,Mainz 05,Eintracht Frankfurt,Away,0,1,0.121469,1.77854,3,14,l,0

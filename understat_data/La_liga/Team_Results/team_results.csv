@@ -288,6 +288,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29244,2025-10-19 12:00:00,La_liga,2025,Athletic Club,Elche,Away,0,0,0.240214,0.823916,4,15,d,1
 29248,2025-10-25 16:30:00,La_liga,2025,Athletic Club,Getafe,Home,0,1,0.358524,1.00378,7,8,l,0
 29264,2025-11-01 17:30:00,La_liga,2025,Athletic Club,Real Sociedad,Away,2,3,1.13112,1.8412,11,9,l,0
+29268,2025-11-09 13:00:00,La_liga,2025,Athletic Club,Real Oviedo,Home,1,0,2.65219,0.182696,21,4,w,3
 18970,2022-08-15 17:30:00,La_liga,2022,Atletico Madrid,Getafe,Away,3,0,1.48417,1.14045,12,10,w,3
 18978,2022-08-21 17:30:00,La_liga,2022,Atletico Madrid,Villarreal,Home,0,2,1.5852,1.9825,13,19,l,0
 18991,2022-08-29 20:00:00,La_liga,2022,Atletico Madrid,Valencia,Away,1,0,1.97507,0.65396,13,12,w,3
@@ -539,6 +540,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29240,2025-10-18 14:15:00,La_liga,2025,Barcelona,Girona,Home,2,1,2.41958,1.69375,27,11,w,3
 29254,2025-10-26 15:15:00,La_liga,2025,Barcelona,Real Madrid,Away,1,2,1.12434,3.41322,15,23,l,0
 29260,2025-11-02 17:30:00,La_liga,2025,Barcelona,Elche,Home,3,1,2.8073,0.549079,17,9,w,3
+29274,2025-11-09 20:00:00,La_liga,2025,Barcelona,Celta Vigo,Away,4,2,3.42936,0.512253,21,5,w,3
 18966,2022-08-14 15:30:00,La_liga,2022,Cadiz,Real Sociedad,Home,0,1,0.294358,2.64367,7,15,l,0
 18974,2022-08-20 15:30:00,La_liga,2022,Cadiz,Osasuna,Away,0,2,1.01741,2.92362,9,16,l,0
 18990,2022-08-29 18:00:00,La_liga,2022,Cadiz,Athletic Club,Home,0,4,0.239303,3.18677,9,20,l,0
@@ -740,6 +742,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29241,2025-10-19 14:15:00,La_liga,2025,Celta Vigo,Real Sociedad,Home,1,1,0.717367,2.13562,4,17,d,1
 29255,2025-10-26 17:30:00,La_liga,2025,Celta Vigo,Osasuna,Away,3,2,1.54054,2.318,11,17,w,3
 29265,2025-11-02 13:00:00,La_liga,2025,Celta Vigo,Levante,Away,2,1,1.92474,1.23651,20,9,w,3
+29274,2025-11-09 20:00:00,La_liga,2025,Celta Vigo,Barcelona,Home,2,4,0.512253,3.42936,5,21,l,0
 18971,2022-08-15 19:30:00,La_liga,2022,Elche,Real Betis,Away,0,3,0.29379,3.99664,4,17,l,0
 18980,2022-08-22 18:00:00,La_liga,2022,Elche,Almeria,Home,1,1,0.899007,0.969747,13,12,d,1
 18984,2022-08-27 15:30:00,La_liga,2022,Elche,Real Sociedad,Home,0,1,1.23504,1.81171,12,9,l,0
@@ -877,6 +880,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29246,2025-10-17 19:00:00,La_liga,2025,Espanyol,Real Oviedo,Away,2,0,4.46256,1.21155,19,13,w,3
 29256,2025-10-25 14:15:00,La_liga,2025,Espanyol,Elche,Home,1,0,1.70342,1.11414,16,13,w,3
 29258,2025-11-02 15:15:00,La_liga,2025,Espanyol,Alaves,Away,1,2,1.04283,2.18038,18,13,l,0
+29271,2025-11-08 20:00:00,La_liga,2025,Espanyol,Villarreal,Home,0,2,0.476157,1.47118,14,9,l,0
 18970,2022-08-15 17:30:00,La_liga,2022,Getafe,Atletico Madrid,Home,0,3,1.14045,1.48417,10,12,l,0
 18981,2022-08-22 20:00:00,La_liga,2022,Getafe,Girona,Away,1,3,0.692785,1.52171,8,12,l,0
 18987,2022-08-28 15:30:00,La_liga,2022,Getafe,Villarreal,Home,0,0,0.273957,1.13195,8,11,d,1
@@ -1002,6 +1006,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29242,2025-10-19 19:00:00,La_liga,2025,Getafe,Real Madrid,Home,0,1,0.530119,2.14595,7,23,l,0
 29248,2025-10-25 16:30:00,La_liga,2025,Getafe,Athletic Club,Away,1,0,1.00378,0.358524,8,7,w,3
 29262,2025-10-31 20:00:00,La_liga,2025,Getafe,Girona,Home,2,1,1.40213,1.54366,12,8,w,3
+29276,2025-11-09 17:30:00,La_liga,2025,Getafe,Mallorca,Away,0,1,0.539674,1.30353,14,6,l,0
 18967,2022-08-14 17:30:00,La_liga,2022,Girona,Valencia,Away,0,1,0.132198,1.87878,5,17,l,0
 18981,2022-08-22 20:00:00,La_liga,2022,Girona,Getafe,Home,3,1,1.52171,0.692785,12,8,w,3
 18982,2022-08-26 18:00:00,La_liga,2022,Girona,Celta Vigo,Home,0,1,0.566228,0.625546,11,11,l,0
@@ -1417,6 +1422,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29247,2025-10-18 12:00:00,La_liga,2025,Mallorca,Sevilla,Away,3,1,1.95555,1.25884,7,13,w,3
 29257,2025-10-26 13:00:00,La_liga,2025,Mallorca,Levante,Home,1,1,1.86979,2.3579,20,13,d,1
 29261,2025-11-02 20:00:00,La_liga,2025,Mallorca,Real Betis,Away,0,3,0.749852,2.82134,14,15,l,0
+29276,2025-11-09 17:30:00,La_liga,2025,Mallorca,Getafe,Home,1,0,1.30353,0.539674,6,14,w,3
 18962,2022-08-12 19:00:00,La_liga,2022,Osasuna,Sevilla,Home,2,1,1.35571,0.965574,12,10,w,3
 18974,2022-08-20 15:30:00,La_liga,2022,Osasuna,Cadiz,Home,2,0,2.92362,1.01741,16,9,w,3
 18983,2022-08-26 20:00:00,La_liga,2022,Osasuna,Real Betis,Away,0,1,0.910349,0.507146,12,7,l,0
@@ -1668,6 +1674,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29243,2025-10-19 16:30:00,La_liga,2025,Rayo Vallecano,Levante,Away,3,0,2.53118,0.940509,10,17,w,3
 29252,2025-10-26 20:00:00,La_liga,2025,Rayo Vallecano,Alaves,Home,1,0,1.54971,1.41466,15,12,w,3
 29267,2025-11-01 13:00:00,La_liga,2025,Rayo Vallecano,Villarreal,Away,0,4,1.08632,2.7136,13,16,l,0
+29272,2025-11-09 15:15:00,La_liga,2025,Rayo Vallecano,Real Madrid,Home,0,0,1.60641,0.841463,13,21,d,1
 18971,2022-08-15 19:30:00,La_liga,2022,Real Betis,Elche,Home,3,0,3.99664,0.29379,17,4,w,3
 18975,2022-08-20 17:30:00,La_liga,2022,Real Betis,Mallorca,Away,2,1,2.21648,1.46761,8,13,w,3
 18983,2022-08-26 20:00:00,La_liga,2022,Real Betis,Osasuna,Home,1,0,0.507146,0.910349,7,12,w,3
@@ -1793,6 +1800,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29245,2025-10-18 16:30:00,La_liga,2025,Real Betis,Villarreal,Away,2,2,0.895532,0.980598,16,7,d,1
 29253,2025-10-27 20:00:00,La_liga,2025,Real Betis,Atletico Madrid,Home,0,2,1.33792,0.876554,17,9,l,0
 29261,2025-11-02 20:00:00,La_liga,2025,Real Betis,Mallorca,Home,3,0,2.82134,0.749852,15,14,w,3
+29275,2025-11-09 17:30:00,La_liga,2025,Real Betis,Valencia,Away,1,1,1.58932,1.95148,9,17,d,1
 18968,2022-08-14 20:00:00,La_liga,2022,Real Madrid,Almeria,Away,2,1,3.11412,0.80073,29,10,w,3
 18976,2022-08-20 20:00:00,La_liga,2022,Real Madrid,Celta Vigo,Away,4,1,3.59631,1.31973,16,15,w,3
 18989,2022-08-28 20:00:00,La_liga,2022,Real Madrid,Espanyol,Away,3,1,2.04602,1.63359,19,15,w,3
@@ -1918,6 +1926,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29242,2025-10-19 19:00:00,La_liga,2025,Real Madrid,Getafe,Away,1,0,2.14595,0.530119,23,7,w,3
 29254,2025-10-26 15:15:00,La_liga,2025,Real Madrid,Barcelona,Home,2,1,3.41322,1.12434,23,15,w,3
 29263,2025-11-01 20:00:00,La_liga,2025,Real Madrid,Valencia,Home,4,0,2.89965,0.292177,21,4,w,3
+29272,2025-11-09 15:15:00,La_liga,2025,Real Madrid,Rayo Vallecano,Away,0,0,0.841463,1.60641,21,13,d,1
 29159,2025-08-15 19:30:00,La_liga,2025,Real Oviedo,Villarreal,Away,0,2,0.85578,2.60739,5,25,l,0
 29175,2025-08-24 19:30:00,La_liga,2025,Real Oviedo,Real Madrid,Home,0,3,0.33749,1.82072,6,26,l,0
 29182,2025-08-30 17:00:00,La_liga,2025,Real Oviedo,Real Sociedad,Home,1,0,0.45706,0.92221,8,18,w,3
@@ -1929,6 +1938,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29246,2025-10-17 19:00:00,La_liga,2025,Real Oviedo,Espanyol,Home,0,2,1.21155,4.46256,13,19,l,0
 29249,2025-10-25 12:00:00,La_liga,2025,Real Oviedo,Girona,Away,3,3,2.22406,2.24132,10,8,d,1
 29266,2025-11-03 20:00:00,La_liga,2025,Real Oviedo,Osasuna,Home,0,0,0.717473,0.626317,8,11,d,1
+29268,2025-11-09 13:00:00,La_liga,2025,Real Oviedo,Athletic Club,Away,0,1,0.182696,2.65219,4,21,l,0
 18966,2022-08-14 15:30:00,La_liga,2022,Real Sociedad,Cadiz,Away,1,0,2.64367,0.294358,15,7,w,3
 18979,2022-08-21 20:00:00,La_liga,2022,Real Sociedad,Barcelona,Home,1,4,0.79913,2.04035,10,15,l,0
 18984,2022-08-27 15:30:00,La_liga,2022,Real Sociedad,Elche,Away,1,0,1.81171,1.23504,9,12,w,3
@@ -2382,6 +2392,7 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29238,2025-10-20 19:00:00,La_liga,2025,Valencia,Alaves,Away,0,0,0.318076,1.05624,5,13,d,1
 29251,2025-10-25 19:00:00,La_liga,2025,Valencia,Villarreal,Home,0,2,0.641435,2.62387,15,12,l,0
 29263,2025-11-01 20:00:00,La_liga,2025,Valencia,Real Madrid,Away,0,4,0.292177,2.89965,4,21,l,0
+29275,2025-11-09 17:30:00,La_liga,2025,Valencia,Real Betis,Home,1,1,1.95148,1.58932,17,9,d,1
 18964,2022-08-13 17:00:00,La_liga,2022,Villarreal,Real Valladolid,Away,3,0,1.39509,0.859075,10,12,w,3
 18978,2022-08-21 17:30:00,La_liga,2022,Villarreal,Atletico Madrid,Away,2,0,1.9825,1.5852,19,13,w,3
 18987,2022-08-28 15:30:00,La_liga,2022,Villarreal,Getafe,Away,0,0,1.13195,0.273957,11,8,d,1
@@ -2507,3 +2518,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29245,2025-10-18 16:30:00,La_liga,2025,Villarreal,Real Betis,Home,2,2,0.980598,0.895532,7,16,d,1
 29251,2025-10-25 19:00:00,La_liga,2025,Villarreal,Valencia,Away,2,0,2.62387,0.641435,12,15,w,3
 29267,2025-11-01 13:00:00,La_liga,2025,Villarreal,Rayo Vallecano,Home,4,0,2.7136,1.08632,16,13,w,3
+29271,2025-11-08 20:00:00,La_liga,2025,Villarreal,Espanyol,Away,2,0,1.47118,0.476157,9,14,w,3

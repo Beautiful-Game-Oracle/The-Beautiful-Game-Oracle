@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+23072,2023-08-20 13:30:00,Bundesliga,2023,Mainz_05,Union Berlin,Away,1,4,2.51995,2.11281,10,11,l
+23081,2023-08-27 13:30:00,Bundesliga,2023,Mainz_05,Eintracht Frankfurt,Home,1,1,1.44234,1.15731,12,7,d
+23086,2023-09-02 13:30:00,Bundesliga,2023,Mainz_05,Werder Bremen,Away,0,4,0.65805,3.01318,13,13,l
+23096,2023-09-16 13:30:00,Bundesliga,2023,Mainz_05,VfB Stuttgart,Home,1,3,1.16545,2.06366,15,15,l
+23102,2023-09-23 13:30:00,Bundesliga,2023,Mainz_05,Augsburg,Away,1,2,0.487325,1.04683,12,5,l
+23114,2023-09-30 13:30:00,Bundesliga,2023,Mainz_05,Bayer Leverkusen,Home,0,3,0.388975,0.811962,11,6,l
+23119,2023-10-06 18:30:00,Bundesliga,2023,Mainz_05,Borussia M.Gladbach,Away,2,2,1.21309,3.01512,14,21,d
+23134,2023-10-21 16:30:00,Bundesliga,2023,Mainz_05,Bayern Munich,Home,1,3,0.975025,1.68693,16,13,l
+23143,2023-10-27 18:30:00,Bundesliga,2023,Mainz_05,Bochum,Away,2,2,0.443599,2.13405,9,12,d
+23150,2023-11-04 14:30:00,Bundesliga,2023,Mainz_05,RasenBallsport Leipzig,Home,2,0,1.49686,0.507864,10,10,w
+23163,2023-11-11 14:30:00,Bundesliga,2023,Mainz_05,Darmstadt,Away,0,0,0.624718,0.449952,11,10,d
+23170,2023-11-26 16:30:00,Bundesliga,2023,Mainz_05,Hoffenheim,Away,1,1,1.96701,0.7002,13,15,d
+23176,2023-12-03 14:30:00,Bundesliga,2023,Mainz_05,Freiburg,Home,0,1,2.86869,1.34097,20,13,l
+23186,2023-12-10 16:30:00,Bundesliga,2023,Mainz_05,FC Cologne,Away,0,0,1.87569,0.248621,13,5,d
+23195,2023-12-16 14:30:00,Bundesliga,2023,Mainz_05,FC Heidenheim,Home,0,1,1.21178,0.756363,19,6,l
+23200,2023-12-19 19:30:00,Bundesliga,2023,Mainz_05,Borussia Dortmund,Away,1,1,1.06262,1.33337,11,23,d
+23212,2024-01-13 14:30:00,Bundesliga,2023,Mainz_05,Wolfsburg,Home,1,1,0.366084,0.419404,11,9,d
+23230,2024-01-26 19:30:00,Bundesliga,2023,Mainz_05,Eintracht Frankfurt,Away,0,1,0.815239,1.13826,7,11,l
+23240,2024-02-03 14:30:00,Bundesliga,2023,Mainz_05,Werder Bremen,Home,0,1,1.04044,0.395044,23,6,l
+23221,2024-02-07 17:30:00,Bundesliga,2023,Mainz_05,Union Berlin,Home,1,1,1.37814,1.53583,16,16,d
+23253,2024-02-11 14:30:00,Bundesliga,2023,Mainz_05,VfB Stuttgart,Away,1,3,1.61535,2.17007,17,11,l
+23257,2024-02-17 14:30:00,Bundesliga,2023,Mainz_05,Augsburg,Home,1,0,2.62289,0.612185,18,10,w
+23268,2024-02-23 19:30:00,Bundesliga,2023,Mainz_05,Bayer Leverkusen,Away,1,2,0.471019,1.47222,12,17,l
+23275,2024-03-02 14:30:00,Bundesliga,2023,Mainz_05,Borussia M.Gladbach,Home,1,1,1.08864,1.55082,19,14,d
+23281,2024-03-09 14:30:00,Bundesliga,2023,Mainz_05,Bayern Munich,Away,1,8,1.07439,6.78137,14,24,l
+23294,2024-03-16 14:30:00,Bundesliga,2023,Mainz_05,Bochum,Home,2,0,2.33802,0.590727,15,11,w
+23300,2024-03-30 14:30:00,Bundesliga,2023,Mainz_05,RasenBallsport Leipzig,Away,0,0,1.00565,2.91967,8,20,d
+23313,2024-04-06 13:30:00,Bundesliga,2023,Mainz_05,Darmstadt,Home,4,0,3.84973,0.558152,18,14,w
+23320,2024-04-13 13:30:00,Bundesliga,2023,Mainz_05,Hoffenheim,Home,4,1,2.58388,0.529727,25,5,w
+23328,2024-04-21 17:30:00,Bundesliga,2023,Mainz_05,Freiburg,Away,1,1,1.47938,1.25572,16,6,d
+23339,2024-04-28 15:30:00,Bundesliga,2023,Mainz_05,FC Cologne,Home,1,1,1.88933,2.85686,16,17,d
+23352,2024-05-05 17:30:00,Bundesliga,2023,Mainz_05,FC Heidenheim,Away,1,1,2.2312,1.42565,10,15,d
+23356,2024-05-11 16:30:00,Bundesliga,2023,Mainz_05,Borussia Dortmund,Home,3,0,3.05403,0.398966,14,9,w
+23366,2024-05-18 13:30:00,Bundesliga,2023,Mainz_05,Wolfsburg,Away,3,1,2.37382,1.5246,12,14,w

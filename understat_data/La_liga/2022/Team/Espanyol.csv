@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+18963,2022-08-13 15:00:00,La_liga,2022,Espanyol,Celta Vigo,Away,2,2,1.0334,0.347363,10,8,d
+18972,2022-08-19 18:00:00,La_liga,2022,Espanyol,Rayo Vallecano,Home,0,2,0.904012,1.69789,13,8,l
+18989,2022-08-28 20:00:00,La_liga,2022,Espanyol,Real Madrid,Home,1,3,1.63359,2.04602,15,19,l
+18992,2022-09-04 14:15:00,La_liga,2022,Espanyol,Athletic Club,Away,1,0,1.11365,1.24661,9,17,w
+19005,2022-09-10 14:15:00,La_liga,2022,Espanyol,Sevilla,Home,2,3,2.37055,2.32043,20,11,l
+19018,2022-09-18 16:30:00,La_liga,2022,Espanyol,Real Sociedad,Away,1,2,1.28945,2.35791,14,14,l
+19024,2022-10-02 12:00:00,La_liga,2022,Espanyol,Valencia,Home,2,2,0.738099,1.35604,10,12,d
+19036,2022-10-09 14:15:00,La_liga,2022,Espanyol,Cadiz,Away,2,2,1.47057,1.33811,9,8,d
+19045,2022-10-16 16:30:00,La_liga,2022,Espanyol,Real Valladolid,Home,1,0,1.63127,0.552288,15,14,w
+19061,2022-10-20 18:00:00,La_liga,2022,Espanyol,Osasuna,Away,0,1,1.44867,1.02851,5,17,l
+19067,2022-10-23 12:00:00,La_liga,2022,Espanyol,Elche,Home,2,2,2.18547,0.318561,13,9,d
+19079,2022-10-28 19:00:00,La_liga,2022,Espanyol,Mallorca,Away,1,1,0.248446,1.19,7,12,d
+19082,2022-11-06 13:00:00,La_liga,2022,Espanyol,Atletico Madrid,Away,1,1,0.870622,2.02314,6,27,d
+19094,2022-11-09 19:00:00,La_liga,2022,Espanyol,Villarreal,Home,0,1,0.841866,0.750078,15,10,l
+19103,2022-12-31 13:00:00,La_liga,2022,Espanyol,Barcelona,Away,1,1,0.846842,2.74555,4,21,d
+19115,2023-01-07 20:00:00,La_liga,2022,Espanyol,Girona,Home,2,2,1.26728,1.65781,12,12,d
+19130,2023-01-15 13:00:00,La_liga,2022,Espanyol,Getafe,Away,2,1,0.460177,0.496479,10,10,w
+19137,2023-01-21 15:15:00,La_liga,2022,Espanyol,Real Betis,Home,1,0,2.16171,0.835514,8,13,w
+19144,2023-01-27 20:00:00,La_liga,2022,Espanyol,Almeria,Away,1,3,0.805809,2.17998,6,19,l
+19158,2023-02-04 13:00:00,La_liga,2022,Espanyol,Osasuna,Home,1,1,1.56394,0.919455,9,9,d
+19164,2023-02-13 20:00:00,La_liga,2022,Espanyol,Real Sociedad,Home,2,3,1.25733,1.20722,11,11,l
+19174,2023-02-19 13:00:00,La_liga,2022,Espanyol,Elche,Away,1,0,1.35887,1.60154,11,19,w
+19187,2023-02-25 13:00:00,La_liga,2022,Espanyol,Mallorca,Home,2,1,1.99389,0.557974,9,15,w
+19201,2023-03-05 13:00:00,La_liga,2022,Espanyol,Real Valladolid,Away,1,2,0.946065,1.38048,12,15,l
+19209,2023-03-11 13:00:00,La_liga,2022,Espanyol,Real Madrid,Away,1,3,1.10182,1.78234,10,22,l
+19219,2023-03-18 17:30:00,La_liga,2022,Espanyol,Celta Vigo,Home,1,3,1.7106,1.63211,11,8,l
+19228,2023-04-01 12:00:00,La_liga,2022,Espanyol,Girona,Away,1,2,0.946182,1.45036,5,14,l
+19236,2023-04-08 14:15:00,La_liga,2022,Espanyol,Athletic Club,Home,1,2,1.16752,2.73876,9,12,l
+19243,2023-04-15 16:30:00,La_liga,2022,Espanyol,Real Betis,Away,1,3,0.616302,1.965,13,15,l
+19259,2023-04-21 19:00:00,La_liga,2022,Espanyol,Cadiz,Home,0,0,1.52285,1.12699,14,11,d
+19270,2023-04-27 17:30:00,La_liga,2022,Espanyol,Villarreal,Away,2,4,1.12119,4.94822,14,31,l
+19275,2023-04-30 16:30:00,La_liga,2022,Espanyol,Getafe,Home,1,0,2.44417,0.410072,17,7,w
+19291,2023-05-04 17:30:00,La_liga,2022,Espanyol,Sevilla,Away,2,3,0.61847,2.902,7,19,l
+19299,2023-05-14 19:00:00,La_liga,2022,Espanyol,Barcelona,Home,2,4,2.72734,3.6498,15,15,l
+19307,2023-05-21 12:00:00,La_liga,2022,Espanyol,Rayo Vallecano,Away,2,1,1.3061,1.83113,10,15,w
+19317,2023-05-24 20:00:00,La_liga,2022,Espanyol,Atletico Madrid,Home,3,3,3.03603,2.76349,26,16,d
+19330,2023-05-28 17:00:00,La_liga,2022,Espanyol,Valencia,Away,2,2,1.78056,2.5327,9,19,d
+19337,2023-06-04 18:00:00,La_liga,2022,Espanyol,Almeria,Home,3,3,0.500084,2.03499,12,11,d

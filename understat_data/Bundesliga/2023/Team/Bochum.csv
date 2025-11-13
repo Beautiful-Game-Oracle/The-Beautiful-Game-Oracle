@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+23070,2023-08-19 13:30:00,Bundesliga,2023,Bochum,VfB Stuttgart,Away,0,5,0.669108,3.98664,3,21,l
+23077,2023-08-26 13:30:00,Bundesliga,2023,Bochum,Borussia Dortmund,Home,1,1,1.01164,1.17241,20,14,d
+23087,2023-09-02 13:30:00,Bundesliga,2023,Bochum,Augsburg,Away,2,2,1.86494,1.88106,21,11,d
+23098,2023-09-16 16:30:00,Bundesliga,2023,Bochum,Eintracht Frankfurt,Home,1,1,2.17324,0.737999,22,8,d
+23104,2023-09-23 13:30:00,Bundesliga,2023,Bochum,Bayern Munich,Away,0,7,0.0892044,6.02607,4,26,l
+23111,2023-09-30 13:30:00,Bundesliga,2023,Bochum,Borussia M.Gladbach,Home,1,3,1.46515,2.86793,23,27,l
+23121,2023-10-07 13:30:00,Bundesliga,2023,Bochum,RasenBallsport Leipzig,Away,0,0,0.741054,2.22631,9,17,d
+23130,2023-10-21 13:30:00,Bundesliga,2023,Bochum,Freiburg,Away,1,2,1.37705,2.5274,13,17,l
+23143,2023-10-27 18:30:00,Bundesliga,2023,Bochum,Mainz 05,Home,2,2,2.13405,0.443599,12,9,d
+23154,2023-11-03 19:30:00,Bundesliga,2023,Bochum,Darmstadt,Away,2,1,1.56273,0.854923,9,15,w
+23160,2023-11-11 17:30:00,Bundesliga,2023,Bochum,FC Cologne,Home,1,1,5.05629,1.07591,25,11,d
+23172,2023-11-26 14:30:00,Bundesliga,2023,Bochum,FC Heidenheim,Away,0,0,0.359399,0.748895,10,9,d
+23178,2023-12-02 14:30:00,Bundesliga,2023,Bochum,Wolfsburg,Home,3,1,2.07603,1.03452,20,16,w
+23187,2023-12-08 19:30:00,Bundesliga,2023,Bochum,Hoffenheim,Away,1,3,1.82523,2.27533,23,17,l
+23197,2023-12-16 14:30:00,Bundesliga,2023,Bochum,Union Berlin,Home,3,0,3.57797,0.670719,22,9,w
+23202,2023-12-20 19:30:00,Bundesliga,2023,Bochum,Bayer Leverkusen,Away,0,4,0.325421,3.32375,6,16,l
+23215,2024-01-14 14:30:00,Bundesliga,2023,Bochum,Werder Bremen,Home,1,1,1.24017,0.934194,14,16,d
+23224,2024-01-20 14:30:00,Bundesliga,2023,Bochum,VfB Stuttgart,Home,1,0,0.71453,1.99316,6,19,w
+23227,2024-01-28 16:30:00,Bundesliga,2023,Bochum,Borussia Dortmund,Away,1,3,0.388377,3.09919,11,19,l
+23242,2024-02-03 14:30:00,Bundesliga,2023,Bochum,Augsburg,Home,1,1,1.16731,1.39431,10,14,d
+23252,2024-02-10 14:30:00,Bundesliga,2023,Bochum,Eintracht Frankfurt,Away,1,1,1.27691,2.44154,14,9,d
+23260,2024-02-18 16:30:00,Bundesliga,2023,Bochum,Bayern Munich,Home,3,2,2.08495,2.86883,13,27,w
+23266,2024-02-24 14:30:00,Bundesliga,2023,Bochum,Borussia M.Gladbach,Away,2,5,2.13723,3.64941,16,22,l
+23278,2024-03-02 14:30:00,Bundesliga,2023,Bochum,RasenBallsport Leipzig,Home,1,4,0.562887,2.11704,15,12,l
+23287,2024-03-10 14:30:00,Bundesliga,2023,Bochum,Freiburg,Home,1,2,1.28237,1.43573,24,9,l
+23294,2024-03-16 14:30:00,Bundesliga,2023,Bochum,Mainz 05,Away,0,2,0.590727,2.33802,11,15,l
+23305,2024-03-31 18:30:00,Bundesliga,2023,Bochum,Darmstadt,Home,2,2,2.29251,0.879015,21,12,d
+23316,2024-04-06 13:30:00,Bundesliga,2023,Bochum,FC Cologne,Away,1,2,0.777136,1.23733,10,20,l
+23322,2024-04-13 13:30:00,Bundesliga,2023,Bochum,FC Heidenheim,Home,1,1,1.11714,1.40689,24,11,d
+23330,2024-04-20 13:30:00,Bundesliga,2023,Bochum,Wolfsburg,Away,0,1,1.37904,1.34814,13,9,l
+23341,2024-04-26 18:30:00,Bundesliga,2023,Bochum,Hoffenheim,Home,3,2,3.91029,1.28293,36,10,w
+23345,2024-05-05 13:30:00,Bundesliga,2023,Bochum,Union Berlin,Away,4,3,1.84679,1.49561,18,12,w
+23359,2024-05-12 17:30:00,Bundesliga,2023,Bochum,Bayer Leverkusen,Home,0,5,0.221516,4.59495,3,29,l
+23368,2024-05-18 13:30:00,Bundesliga,2023,Bochum,Werder Bremen,Away,1,4,2.14301,3.80667,27,26,l

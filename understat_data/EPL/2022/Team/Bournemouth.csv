@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+18204,2022-08-06 14:00:00,EPL,2022,Bournemouth,Aston Villa,Home,2,0,0.588341,0.488895,7,15,w
+18214,2022-08-13 14:00:00,EPL,2022,Bournemouth,Manchester City,Away,0,4,0.123946,1.69064,4,19,l
+18227,2022-08-20 16:30:00,EPL,2022,Bournemouth,Arsenal,Home,0,3,0.211335,1.71081,6,14,l
+18236,2022-08-27 14:00:00,EPL,2022,Bournemouth,Liverpool,Away,0,9,0.180991,4.86035,6,19,l
+18248,2022-08-31 18:30:00,EPL,2022,Bournemouth,Wolverhampton Wanderers,Home,0,0,0.362035,1.53246,5,17,d
+18254,2022-09-03 14:00:00,EPL,2022,Bournemouth,Nottingham Forest,Away,3,2,0.905041,1.32895,8,11,w
+18275,2022-09-17 14:00:00,EPL,2022,Bournemouth,Newcastle United,Away,1,1,0.976948,1.54758,10,20,d
+18283,2022-10-01 14:00:00,EPL,2022,Bournemouth,Brentford,Home,0,0,0.758128,1.046,7,13,d
+18293,2022-10-08 14:00:00,EPL,2022,Bournemouth,Leicester,Home,2,1,1.14891,1.18125,10,9,w
+18304,2022-10-15 14:00:00,EPL,2022,Bournemouth,Fulham,Away,2,2,1.62829,1.61738,10,19,d
+18313,2022-10-19 18:30:00,EPL,2022,Bournemouth,Southampton,Home,0,1,0.810452,1.23878,15,8,l
+18330,2022-10-24 19:00:00,EPL,2022,Bournemouth,West Ham,Away,0,2,0.730443,1.97715,5,20,l
+18333,2022-10-29 14:00:00,EPL,2022,Bournemouth,Tottenham,Home,2,3,0.887533,2.1946,6,23,l
+18345,2022-11-05 15:00:00,EPL,2022,Bournemouth,Leeds,Away,3,4,1.55594,2.22532,9,18,l
+18352,2022-11-12 15:00:00,EPL,2022,Bournemouth,Everton,Home,3,0,2.45642,0.768756,16,15,w
+18365,2022-12-27 17:30:00,EPL,2022,Bournemouth,Chelsea,Away,0,2,0.44307,1.91378,9,15,l
+18372,2022-12-31 15:00:00,EPL,2022,Bournemouth,Crystal Palace,Home,0,2,0.895819,1.75264,6,15,l
+18390,2023-01-03 20:00:00,EPL,2022,Bournemouth,Manchester United,Away,0,3,0.679022,2.97383,7,18,l
+18393,2023-01-14 17:30:00,EPL,2022,Bournemouth,Brentford,Away,0,2,0.269283,1.29815,7,12,l
+18403,2023-01-21 15:00:00,EPL,2022,Bournemouth,Nottingham Forest,Home,1,1,1.80549,1.57544,16,20,d
+18414,2023-02-04 15:00:00,EPL,2022,Bournemouth,Brighton,Away,0,1,0.908298,2.55696,12,20,l
+18423,2023-02-11 17:30:00,EPL,2022,Bournemouth,Newcastle United,Home,1,1,1.54458,1.54853,11,15,d
+18441,2023-02-18 15:00:00,EPL,2022,Bournemouth,Wolverhampton Wanderers,Away,1,0,1.15274,0.911415,5,15,w
+18442,2023-02-25 17:30:00,EPL,2022,Bournemouth,Manchester City,Home,1,4,1.08527,2.98206,14,20,l
+18452,2023-03-04 15:00:00,EPL,2022,Bournemouth,Arsenal,Away,2,3,1.74267,2.46279,4,30,l
+18462,2023-03-11 12:30:00,EPL,2022,Bournemouth,Liverpool,Home,1,0,1.10128,2.13465,5,15,w
+18473,2023-03-18 15:00:00,EPL,2022,Bournemouth,Aston Villa,Away,0,3,0.50014,3.45474,9,20,l
+18483,2023-04-01 14:00:00,EPL,2022,Bournemouth,Fulham,Home,2,1,3.14054,0.601049,12,10,w
+18266,2023-04-04 18:45:00,EPL,2022,Bournemouth,Brighton,Home,0,2,1.15322,2.63392,14,16,l
+18496,2023-04-08 14:00:00,EPL,2022,Bournemouth,Leicester,Away,1,0,1.92396,0.731965,19,14,w
+18509,2023-04-15 14:00:00,EPL,2022,Bournemouth,Tottenham,Away,3,2,1.20598,2.30604,9,24,w
+18513,2023-04-23 13:00:00,EPL,2022,Bournemouth,West Ham,Home,0,4,0.974687,2.52322,17,18,l
+18530,2023-04-27 18:45:00,EPL,2022,Bournemouth,Southampton,Away,1,0,0.988554,0.477034,16,11,w
+18533,2023-04-30 13:00:00,EPL,2022,Bournemouth,Leeds,Home,4,1,2.51723,1.33691,12,15,w
+18542,2023-05-06 14:00:00,EPL,2022,Bournemouth,Chelsea,Home,1,3,1.21755,1.76852,10,11,l
+18556,2023-05-13 14:00:00,EPL,2022,Bournemouth,Crystal Palace,Away,0,2,0.262022,1.40237,5,17,l
+18562,2023-05-20 14:00:00,EPL,2022,Bournemouth,Manchester United,Home,0,1,0.815723,1.71783,10,20,l
+18577,2023-05-28 15:30:00,EPL,2022,Bournemouth,Everton,Away,0,1,0.432084,1.12933,7,13,l

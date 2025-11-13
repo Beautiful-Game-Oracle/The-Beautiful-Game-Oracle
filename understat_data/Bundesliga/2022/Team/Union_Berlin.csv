@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+19343,2022-08-06 13:30:00,Bundesliga,2022,Union_Berlin,Hertha Berlin,Home,3,1,1.18263,0.350984,19,7,w
+19358,2022-08-14 13:30:00,Bundesliga,2022,Union_Berlin,Mainz 05,Away,0,0,0.301432,0.648549,10,11,d
+19366,2022-08-20 16:30:00,Bundesliga,2022,Union_Berlin,RasenBallsport Leipzig,Home,2,1,0.642263,0.958767,7,16,w
+19374,2022-08-27 13:30:00,Bundesliga,2022,Union_Berlin,Schalke 04,Away,6,1,1.0651,1.86616,12,16,w
+19380,2022-09-03 13:30:00,Bundesliga,2022,Union_Berlin,Bayern Munich,Home,1,1,0.443137,1.38204,7,21,d
+19394,2022-09-11 13:30:00,Bundesliga,2022,Union_Berlin,FC Cologne,Away,1,0,1.51157,0.878517,12,9,w
+19402,2022-09-18 13:30:00,Bundesliga,2022,Union_Berlin,Wolfsburg,Home,2,0,1.07406,0.218049,16,5,w
+19409,2022-10-01 13:30:00,Bundesliga,2022,Union_Berlin,Eintracht Frankfurt,Away,0,2,0.767128,1.18241,16,13,l
+19421,2022-10-09 17:30:00,Bundesliga,2022,Union_Berlin,VfB Stuttgart,Away,1,0,0.73441,1.09713,7,9,w
+19425,2022-10-16 15:30:00,Bundesliga,2022,Union_Berlin,Borussia Dortmund,Home,2,0,1.47199,0.797656,15,14,w
+19438,2022-10-23 13:30:00,Bundesliga,2022,Union_Berlin,Bochum,Away,1,2,1.00303,1.11544,8,8,l
+19443,2022-10-30 14:30:00,Bundesliga,2022,Union_Berlin,Borussia M.Gladbach,Home,2,1,1.28667,1.01241,14,7,w
+19458,2022-11-06 14:30:00,Bundesliga,2022,Union_Berlin,Bayer Leverkusen,Away,0,5,0.231839,1.7807,7,11,l
+19461,2022-11-09 19:30:00,Bundesliga,2022,Union_Berlin,Augsburg,Home,2,2,1.84012,0.29444,19,7,d
+19469,2022-11-13 16:30:00,Bundesliga,2022,Union_Berlin,Freiburg,Away,1,4,1.65553,2.69015,4,7,l
+19479,2023-01-21 14:30:00,Bundesliga,2022,Union_Berlin,Hoffenheim,Home,3,1,2.48055,0.966541,22,12,w
+19494,2023-01-25 19:30:00,Bundesliga,2022,Union_Berlin,Werder Bremen,Away,2,1,1.05412,0.566574,9,9,w
+19501,2023-01-28 14:30:00,Bundesliga,2022,Union_Berlin,Hertha Berlin,Away,2,0,0.884274,0.46457,7,10,w
+19505,2023-02-04 14:30:00,Bundesliga,2022,Union_Berlin,Mainz 05,Home,2,1,0.978155,1.09283,9,12,w
+19514,2023-02-11 17:30:00,Bundesliga,2022,Union_Berlin,RasenBallsport Leipzig,Away,2,1,1.04126,0.891399,6,10,w
+19524,2023-02-19 14:30:00,Bundesliga,2022,Union_Berlin,Schalke 04,Home,0,0,0.827192,0.385916,9,8,d
+19531,2023-02-26 16:30:00,Bundesliga,2022,Union_Berlin,Bayern Munich,Away,0,3,0.212984,3.86403,3,20,l
+19542,2023-03-04 14:30:00,Bundesliga,2022,Union_Berlin,FC Cologne,Home,0,0,0.456889,0.798698,8,10,d
+19554,2023-03-12 18:30:00,Bundesliga,2022,Union_Berlin,Wolfsburg,Away,1,1,1.22513,1.33065,12,15,d
+19560,2023-03-19 14:30:00,Bundesliga,2022,Union_Berlin,Eintracht Frankfurt,Home,2,0,1.23036,2.20535,14,19,w
+19567,2023-04-01 13:30:00,Bundesliga,2022,Union_Berlin,VfB Stuttgart,Home,3,0,1.70372,2.62164,12,18,w
+19576,2023-04-08 13:30:00,Bundesliga,2022,Union_Berlin,Borussia Dortmund,Away,1,2,0.522776,2.5021,7,15,l
+19587,2023-04-16 15:30:00,Bundesliga,2022,Union_Berlin,Bochum,Home,1,1,1.05608,1.51987,10,14,d
+19599,2023-04-23 17:30:00,Bundesliga,2022,Union_Berlin,Borussia M.Gladbach,Away,1,0,1.21726,0.40847,13,8,w
+19605,2023-04-29 13:30:00,Bundesliga,2022,Union_Berlin,Bayer Leverkusen,Home,0,0,0.580861,0.550938,9,9,d
+19618,2023-05-06 13:30:00,Bundesliga,2022,Union_Berlin,Augsburg,Away,0,1,0.485635,1.00945,12,13,l
+19624,2023-05-13 13:30:00,Bundesliga,2022,Union_Berlin,Freiburg,Home,4,2,1.44733,2.08886,10,11,w
+19634,2023-05-20 13:30:00,Bundesliga,2022,Union_Berlin,Hoffenheim,Away,2,4,1.67535,2.49016,18,10,l
+19641,2023-05-27 13:30:00,Bundesliga,2022,Union_Berlin,Werder Bremen,Home,1,0,0.783196,0.399601,15,7,w

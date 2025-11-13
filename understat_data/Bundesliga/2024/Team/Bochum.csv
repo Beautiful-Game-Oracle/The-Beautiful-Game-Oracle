@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+27743,2024-08-24 13:30:00,Bundesliga,2024,Bochum,RasenBallsport Leipzig,Away,0,1,1.31541,0.937134,10,13,l
+27752,2024-08-31 13:30:00,Bundesliga,2024,Bochum,Borussia M.Gladbach,Home,0,2,0.918629,2.66887,15,15,l
+27762,2024-09-14 13:30:00,Bundesliga,2024,Bochum,Freiburg,Away,1,2,1.10732,3.95617,13,26,l
+27771,2024-09-21 13:30:00,Bundesliga,2024,Bochum,Holstein Kiel,Home,2,2,1.32383,2.26878,14,14,d
+27778,2024-09-27 18:30:00,Bundesliga,2024,Bochum,Borussia Dortmund,Away,2,4,1.02915,4.1712,10,23,l
+27792,2024-10-05 13:30:00,Bundesliga,2024,Bochum,Wolfsburg,Home,1,3,2.28586,2.37344,18,17,l
+27799,2024-10-19 13:30:00,Bundesliga,2024,Bochum,Hoffenheim,Away,1,3,2.3454,2.46268,13,12,l
+27812,2024-10-27 14:30:00,Bundesliga,2024,Bochum,Bayern Munich,Home,0,5,0.205046,3.1499,6,19,l
+27817,2024-11-02 14:30:00,Bundesliga,2024,Bochum,Eintracht Frankfurt,Away,2,7,2.08714,3.83028,11,18,l
+27830,2024-11-09 14:30:00,Bundesliga,2024,Bochum,Bayer Leverkusen,Home,1,1,0.777554,1.40554,15,11,d
+27833,2024-11-23 14:30:00,Bundesliga,2024,Bochum,VfB Stuttgart,Away,0,2,0.652259,2.05767,9,15,l
+27846,2024-11-30 14:30:00,Bundesliga,2024,Bochum,Augsburg,Away,0,1,0.250706,2.15529,7,16,l
+27855,2024-12-07 14:30:00,Bundesliga,2024,Bochum,Werder Bremen,Home,0,1,1.16256,1.20754,12,9,l
+27866,2024-12-14 14:30:00,Bundesliga,2024,Bochum,Union Berlin,Away,1,1,1.23723,3.0131,13,22,d
+27875,2024-12-22 14:30:00,Bundesliga,2024,Bochum,FC Heidenheim,Home,2,0,1.68369,0.512353,14,10,w
+27883,2025-01-11 14:30:00,Bundesliga,2024,Bochum,Mainz 05,Away,0,2,0.697735,1.7238,11,10,l
+27893,2025-01-15 17:30:00,Bundesliga,2024,Bochum,St. Pauli,Home,1,0,1.8213,1.15308,13,12,w
+27902,2025-01-18 14:30:00,Bundesliga,2024,Bochum,RasenBallsport Leipzig,Home,3,3,2.75969,2.38567,14,11,d
+27908,2025-01-25 17:30:00,Bundesliga,2024,Bochum,Borussia M.Gladbach,Away,0,3,0.759449,2.93153,10,16,l
+27914,2025-02-01 14:30:00,Bundesliga,2024,Bochum,Freiburg,Home,0,1,0.843049,3.33243,22,13,l
+27930,2025-02-09 13:30:00,Bundesliga,2024,Bochum,Holstein Kiel,Away,2,2,2.0,2.0,0,0,d
+27938,2025-02-15 14:30:00,Bundesliga,2024,Bochum,Borussia Dortmund,Home,2,0,3.3688,2.70519,18,17,w
+27945,2025-02-22 14:30:00,Bundesliga,2024,Bochum,Wolfsburg,Away,1,1,1.46609,2.16138,11,13,d
+27957,2025-03-01 14:30:00,Bundesliga,2024,Bochum,Hoffenheim,Home,0,1,1.4452,0.525952,13,10,l
+27959,2025-03-08 14:30:00,Bundesliga,2024,Bochum,Bayern Munich,Away,3,2,1.36274,2.72891,8,14,w
+27974,2025-03-16 15:30:00,Bundesliga,2024,Bochum,Eintracht Frankfurt,Home,1,3,1.88062,3.29403,17,18,l
+27976,2025-03-28 19:30:00,Bundesliga,2024,Bochum,Bayer Leverkusen,Away,1,3,0.702152,2.08076,8,14,l
+27992,2025-04-05 13:30:00,Bundesliga,2024,Bochum,VfB Stuttgart,Home,0,4,0.815791,2.64663,11,14,l
+28001,2025-04-12 13:30:00,Bundesliga,2024,Bochum,Augsburg,Home,1,2,1.86097,1.02536,25,12,l
+28006,2025-04-19 13:30:00,Bundesliga,2024,Bochum,Werder Bremen,Away,0,1,0.4947,2.70919,12,14,l
+28019,2025-04-27 13:30:00,Bundesliga,2024,Bochum,Union Berlin,Home,1,1,1.5178,0.498974,10,5,d
+28023,2025-05-02 18:30:00,Bundesliga,2024,Bochum,FC Heidenheim,Away,0,0,1.81311,0.463987,13,11,d
+28037,2025-05-10 13:30:00,Bundesliga,2024,Bochum,Mainz 05,Home,1,4,0.734972,2.48765,11,22,l
+28047,2025-05-17 13:30:00,Bundesliga,2024,Bochum,St. Pauli,Away,2,0,1.34252,0.802748,9,10,w

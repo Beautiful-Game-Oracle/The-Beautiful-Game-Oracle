@@ -86,3 +86,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29246,2025-10-17 19:00:00,La_liga,2025,Espanyol,Real Oviedo,Away,2,0,4.46256,1.21155,19,13,w,3
 29256,2025-10-25 14:15:00,La_liga,2025,Espanyol,Elche,Home,1,0,1.70342,1.11414,16,13,w,3
 29258,2025-11-02 15:15:00,La_liga,2025,Espanyol,Alaves,Away,1,2,1.04283,2.18038,18,13,l,0
+29271,2025-11-08 20:00:00,La_liga,2025,Espanyol,Villarreal,Home,0,2,0.476157,1.47118,14,9,l,0

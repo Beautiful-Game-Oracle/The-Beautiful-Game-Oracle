@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+27749,2024-08-25 13:30:00,Bundesliga,2024,Bayern_Munich,Wolfsburg,Away,3,2,2.17538,2.08125,15,11,w
+27759,2024-09-01 15:30:00,Bundesliga,2024,Bayern_Munich,Freiburg,Home,2,0,1.62797,0.970892,12,9,w
+27766,2024-09-14 16:30:00,Bundesliga,2024,Bayern_Munich,Holstein Kiel,Away,6,1,4.13442,0.299776,23,6,w
+27773,2024-09-21 13:30:00,Bundesliga,2024,Bayern_Munich,Werder Bremen,Away,5,0,3.34451,0.0,25,0,w
+27784,2024-09-28 16:30:00,Bundesliga,2024,Bayern_Munich,Bayer Leverkusen,Home,1,1,1.19457,0.0870163,18,3,d
+27787,2024-10-06 15:30:00,Bundesliga,2024,Bayern_Munich,Eintracht Frankfurt,Away,3,3,2.83119,1.49515,24,6,d
+27797,2024-10-19 16:30:00,Bundesliga,2024,Bayern_Munich,VfB Stuttgart,Home,4,0,3.61889,0.286656,22,4,w
+27812,2024-10-27 14:30:00,Bundesliga,2024,Bayern_Munich,Bochum,Away,5,0,3.1499,0.205046,19,6,w
+27815,2024-11-02 14:30:00,Bundesliga,2024,Bayern_Munich,Union Berlin,Home,3,0,2.76181,0.4664,16,8,w
+27831,2024-11-09 14:30:00,Bundesliga,2024,Bayern_Munich,St. Pauli,Away,1,0,1.67296,0.0751538,13,3,w
+27834,2024-11-22 19:30:00,Bundesliga,2024,Bayern_Munich,Augsburg,Home,3,0,4.02659,0.149096,33,2,w
+27842,2024-11-30 17:30:00,Bundesliga,2024,Bayern_Munich,Borussia Dortmund,Away,1,1,1.83117,0.55981,14,7,d
+27857,2024-12-07 14:30:00,Bundesliga,2024,Bayern_Munich,FC Heidenheim,Home,4,2,3.08538,1.16879,21,2,w
+27864,2024-12-14 14:30:00,Bundesliga,2024,Bayern_Munich,Mainz 05,Away,1,2,0.992002,1.64219,13,8,l
+27870,2024-12-20 19:30:00,Bundesliga,2024,Bayern_Munich,RasenBallsport Leipzig,Home,5,1,4.35715,0.552564,22,4,w
+27884,2025-01-11 17:30:00,Bundesliga,2024,Bayern_Munich,Borussia M.Gladbach,Away,1,0,4.47736,0.326195,23,5,w
+27888,2025-01-15 19:30:00,Bundesliga,2024,Bayern_Munich,Hoffenheim,Home,5,0,3.80458,0.222965,25,5,w
+27897,2025-01-18 14:30:00,Bundesliga,2024,Bayern_Munich,Wolfsburg,Home,3,2,3.23282,0.702414,25,7,w
+27912,2025-01-25 14:30:00,Bundesliga,2024,Bayern_Munich,Freiburg,Away,2,1,0.787581,0.271308,7,7,w
+27918,2025-02-01 14:30:00,Bundesliga,2024,Bayern_Munich,Holstein Kiel,Home,4,3,4.93236,2.05752,29,10,w
+27922,2025-02-07 19:30:00,Bundesliga,2024,Bayern_Munich,Werder Bremen,Home,3,0,4.47713,0.151051,21,2,w
+27931,2025-02-15 17:30:00,Bundesliga,2024,Bayern_Munich,Bayer Leverkusen,Away,0,0,0.0720406,2.55729,2,15,d
+27940,2025-02-23 16:30:00,Bundesliga,2024,Bayern_Munich,Eintracht Frankfurt,Home,4,0,4.48699,0.49278,19,7,w
+27949,2025-02-28 19:30:00,Bundesliga,2024,Bayern_Munich,VfB Stuttgart,Away,3,1,2.29942,0.653703,17,12,w
+27959,2025-03-08 14:30:00,Bundesliga,2024,Bayern_Munich,Bochum,Home,2,3,2.72891,1.36274,14,8,l
+27973,2025-03-15 14:30:00,Bundesliga,2024,Bayern_Munich,Union Berlin,Away,1,1,1.83549,0.8044,18,7,d
+27977,2025-03-29 14:30:00,Bundesliga,2024,Bayern_Munich,St. Pauli,Home,3,2,4.00213,0.841269,19,10,w
+27989,2025-04-04 18:30:00,Bundesliga,2024,Bayern_Munich,Augsburg,Away,3,1,1.91653,0.567653,19,7,w
+27996,2025-04-12 16:30:00,Bundesliga,2024,Bayern_Munich,Borussia Dortmund,Home,2,2,2.94706,1.71681,28,11,d
+28005,2025-04-19 13:30:00,Bundesliga,2024,Bayern_Munich,FC Heidenheim,Away,4,0,3.54191,0.529774,18,4,w
+28014,2025-04-26 13:30:00,Bundesliga,2024,Bayern_Munich,Mainz 05,Home,3,0,1.70143,0.923874,14,8,w
+28021,2025-05-03 13:30:00,Bundesliga,2024,Bayern_Munich,RasenBallsport Leipzig,Away,3,3,1.97214,1.74905,20,8,d
+28032,2025-05-10 16:30:00,Bundesliga,2024,Bayern_Munich,Borussia M.Gladbach,Home,2,0,2.78307,1.35544,24,16,w
+28041,2025-05-17 13:30:00,Bundesliga,2024,Bayern_Munich,Hoffenheim,Away,4,0,2.21427,0.661398,14,6,w

@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+22685,2023-08-11 17:30:00,La_liga,2023,Rayo_Vallecano,Almeria,Away,2,0,2.09532,1.1196,10,19,w
+22704,2023-08-21 19:30:00,La_liga,2023,Rayo_Vallecano,Granada,Away,2,0,2.7851,0.837141,17,13,w
+22714,2023-08-28 19:30:00,La_liga,2023,Rayo_Vallecano,Atletico Madrid,Home,0,7,0.542939,3.29424,12,17,l
+22717,2023-09-02 19:00:00,La_liga,2023,Rayo_Vallecano,Real Betis,Away,0,1,1.53554,0.91924,15,14,l
+22734,2023-09-15 19:00:00,La_liga,2023,Rayo_Vallecano,Alaves,Home,2,0,2.64605,0.556231,20,9,w
+22741,2023-09-24 14:15:00,La_liga,2023,Rayo_Vallecano,Villarreal,Home,1,1,1.0345,1.0365,11,13,d
+22746,2023-09-27 19:30:00,La_liga,2023,Rayo_Vallecano,Cadiz,Away,0,0,0.258447,0.35761,9,9,d
+22764,2023-09-30 14:15:00,La_liga,2023,Rayo_Vallecano,Mallorca,Home,2,2,1.78616,1.33689,19,9,d
+22773,2023-10-07 19:00:00,La_liga,2023,Rayo_Vallecano,Sevilla,Away,2,2,0.998714,0.807105,7,22,d
+22775,2023-10-22 12:00:00,La_liga,2023,Rayo_Vallecano,Las Palmas,Away,1,0,1.25598,1.18559,12,12,w
+22790,2023-10-29 15:15:00,La_liga,2023,Rayo_Vallecano,Real Sociedad,Home,2,2,0.844003,1.93178,16,15,d
+22803,2023-11-05 20:00:00,La_liga,2023,Rayo_Vallecano,Real Madrid,Away,0,0,0.134981,1.85349,4,22,d
+22812,2023-11-11 13:00:00,La_liga,2023,Rayo_Vallecano,Girona,Home,1,2,1.67584,4.2691,22,19,l
+22822,2023-11-25 13:00:00,La_liga,2023,Rayo_Vallecano,Barcelona,Home,1,1,0.912299,1.30627,11,15,d
+22826,2023-12-02 15:15:00,La_liga,2023,Rayo_Vallecano,Athletic Club,Away,0,4,0.34629,1.6869,12,9,l
+22843,2023-12-11 20:00:00,La_liga,2023,Rayo_Vallecano,Celta Vigo,Home,0,0,1.32415,0.126167,18,4,d
+22848,2023-12-15 20:00:00,La_liga,2023,Rayo_Vallecano,Osasuna,Away,0,1,1.15316,1.77561,9,10,l
+22860,2023-12-19 18:00:00,La_liga,2023,Rayo_Vallecano,Valencia,Home,0,1,0.51265,0.33485,7,8,l
+22865,2024-01-02 16:00:00,La_liga,2023,Rayo_Vallecano,Getafe,Away,2,0,2.73568,0.651184,12,5,w
+22894,2024-01-20 13:00:00,La_liga,2023,Rayo_Vallecano,Las Palmas,Home,0,2,2.16832,0.786109,16,10,l
+22903,2024-01-27 13:00:00,La_liga,2023,Rayo_Vallecano,Real Sociedad,Away,0,0,0.129675,0.251108,5,6,d
+22877,2024-01-31 20:00:00,La_liga,2023,Rayo_Vallecano,Atletico Madrid,Away,1,2,0.426602,1.29884,10,8,l
+22908,2024-02-05 20:00:00,La_liga,2023,Rayo_Vallecano,Sevilla,Home,1,2,2.1306,1.77647,22,10,l
+22917,2024-02-11 15:15:00,La_liga,2023,Rayo_Vallecano,Mallorca,Away,1,2,1.40787,0.82898,11,8,l
+22928,2024-02-18 13:00:00,La_liga,2023,Rayo_Vallecano,Real Madrid,Home,1,1,1.1431,1.0219,8,11,d
+22938,2024-02-26 20:00:00,La_liga,2023,Rayo_Vallecano,Girona,Away,0,3,0.564655,2.81311,7,14,l
+22949,2024-03-02 15:15:00,La_liga,2023,Rayo_Vallecano,Cadiz,Home,1,1,0.688061,1.21648,9,15,d
+22960,2024-03-10 13:00:00,La_liga,2023,Rayo_Vallecano,Alaves,Away,0,1,0.579451,0.640241,9,12,l
+22969,2024-03-17 17:30:00,La_liga,2023,Rayo_Vallecano,Real Betis,Home,2,0,0.790186,0.69375,8,11,w
+22978,2024-03-31 13:00:00,La_liga,2023,Rayo_Vallecano,Celta Vigo,Away,0,0,0.515128,0.838396,8,13,d
+22993,2024-04-13 14:15:00,La_liga,2023,Rayo_Vallecano,Getafe,Home,0,0,0.777828,0.25153,10,7,d
+23004,2024-04-20 14:15:00,La_liga,2023,Rayo_Vallecano,Osasuna,Home,2,1,0.560289,0.930714,17,6,w
+23013,2024-04-28 16:30:00,La_liga,2023,Rayo_Vallecano,Villarreal,Away,0,3,0.896929,1.98091,20,15,l
+23016,2024-05-05 19:00:00,La_liga,2023,Rayo_Vallecano,Almeria,Home,0,1,2.09609,0.555982,27,7,l
+23032,2024-05-12 16:30:00,La_liga,2023,Rayo_Vallecano,Valencia,Away,0,0,0.785651,1.1633,12,13,d
+23043,2024-05-15 17:30:00,La_liga,2023,Rayo_Vallecano,Granada,Home,2,1,3.00296,0.933417,18,10,w
+23047,2024-05-19 17:00:00,La_liga,2023,Rayo_Vallecano,Barcelona,Away,0,3,1.68527,1.69959,15,14,l
+23060,2024-05-25 16:30:00,La_liga,2023,Rayo_Vallecano,Athletic Club,Home,0,1,1.47462,0.930597,17,7,l

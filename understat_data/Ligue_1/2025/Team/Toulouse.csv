@@ -1,0 +1,12 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29541,2025-08-16 19:05:00,Ligue_1,2025,Toulouse,Nice,Away,1,0,0.56945,0.95554,10,13,w
+29554,2025-08-24 15:15:00,Ligue_1,2025,Toulouse,Brest,Home,2,0,1.32432,0.750148,6,16,w
+29559,2025-08-30 19:05:00,Ligue_1,2025,Toulouse,Paris Saint Germain,Home,3,6,2.33006,2.49609,14,13,l
+29567,2025-09-14 13:00:00,Ligue_1,2025,Toulouse,Lille,Away,1,2,1.15678,2.42116,9,21,l
+29574,2025-09-21 15:15:00,Ligue_1,2025,Toulouse,Auxerre,Away,0,1,1.50957,0.883373,13,6,l
+29591,2025-09-27 17:00:00,Ligue_1,2025,Toulouse,Nantes,Home,2,2,1.98573,1.8303,20,12,d
+29596,2025-10-05 13:00:00,Ligue_1,2025,Toulouse,Lyon,Away,2,1,1.36525,1.42206,14,13,w
+29607,2025-10-19 15:15:00,Ligue_1,2025,Toulouse,Metz,Home,4,0,2.73037,0.119104,16,2,w
+29615,2025-10-25 17:00:00,Ligue_1,2025,Toulouse,Monaco,Away,0,1,0.584122,3.37276,10,14,l
+29626,2025-10-29 19:05:00,Ligue_1,2025,Toulouse,Rennes,Home,2,2,1.62131,1.26096,15,11,d
+29636,2025-11-02 16:15:00,Ligue_1,2025,Toulouse,Le Havre,Home,0,0,1.07851,1.07299,19,9,d

@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+22275,2023-08-11 19:00:00,EPL,2023,Manchester_City,Burnley,Away,3,0,2.40074,0.311032,17,6,w
+22291,2023-08-19 19:00:00,EPL,2023,Manchester_City,Newcastle United,Home,1,0,1.22528,0.257154,14,7,w
+22303,2023-08-27 13:00:00,EPL,2023,Manchester_City,Sheffield United,Away,2,1,3.84804,0.762232,30,6,w
+21927,2023-09-02 14:00:00,EPL,2023,Manchester_City,Fulham,Home,5,1,2.00152,1.46427,7,6,w
+21937,2023-09-16 14:00:00,EPL,2023,Manchester_City,West Ham,Away,3,1,4.15046,0.895632,29,6,w
+21946,2023-09-23 14:00:00,EPL,2023,Manchester_City,Nottingham Forest,Home,2,0,1.33984,0.729109,7,10,w
+21961,2023-09-30 14:00:00,EPL,2023,Manchester_City,Wolverhampton Wanderers,Away,1,2,0.98075,0.673985,24,3,l
+21965,2023-10-08 15:30:00,EPL,2023,Manchester_City,Arsenal,Away,0,1,0.858071,0.386558,4,12,l
+21980,2023-10-21 14:00:00,EPL,2023,Manchester_City,Brighton,Home,2,1,0.962509,0.963733,10,5,w
+21992,2023-10-29 15:30:00,EPL,2023,Manchester_City,Manchester United,Away,3,0,4.54595,0.714628,21,7,w
+22000,2023-11-04 15:00:00,EPL,2023,Manchester_City,Bournemouth,Home,6,1,2.39949,0.643127,21,5,w
+22009,2023-11-12 16:30:00,EPL,2023,Manchester_City,Chelsea,Away,4,4,3.19324,3.47238,15,17,d
+22020,2023-11-25 12:30:00,EPL,2023,Manchester_City,Liverpool,Home,1,1,1.79622,0.766278,16,8,d
+22031,2023-12-03 16:30:00,EPL,2023,Manchester_City,Tottenham,Home,3,3,2.90729,0.433077,18,9,d
+22035,2023-12-06 20:15:00,EPL,2023,Manchester_City,Aston Villa,Away,0,1,1.00198,2.1922,2,22,l
+22050,2023-12-10 14:00:00,EPL,2023,Manchester_City,Luton,Away,2,1,2.23353,0.689037,18,4,w
+22061,2023-12-16 15:00:00,EPL,2023,Manchester_City,Crystal Palace,Home,2,2,2.41646,1.64977,19,5,d
+22081,2023-12-27 20:15:00,EPL,2023,Manchester_City,Everton,Away,3,1,2.28321,1.23529,23,7,w
+22090,2023-12-30 15:00:00,EPL,2023,Manchester_City,Sheffield United,Home,2,0,2.24229,0.263211,18,4,w
+22100,2024-01-13 17:30:00,EPL,2023,Manchester_City,Newcastle United,Away,3,2,2.55452,1.23638,27,12,w
+22114,2024-01-31 19:30:00,EPL,2023,Manchester_City,Burnley,Home,3,1,1.84756,1.49114,14,8,w
+22117,2024-02-05 20:00:00,EPL,2023,Manchester_City,Brentford,Away,3,1,2.10785,0.865741,25,9,w
+22130,2024-02-10 12:30:00,EPL,2023,Manchester_City,Everton,Home,2,0,1.58971,0.192072,19,5,w
+22140,2024-02-17 17:30:00,EPL,2023,Manchester_City,Chelsea,Home,1,1,2.77713,1.82903,32,9,d
+22074,2024-02-20 18:30:00,EPL,2023,Manchester_City,Brentford,Home,1,0,2.53766,0.503799,25,6,w
+22145,2024-02-24 17:30:00,EPL,2023,Manchester_City,Bournemouth,Away,1,0,1.79636,0.925889,15,13,w
+22160,2024-03-03 15:30:00,EPL,2023,Manchester_City,Manchester United,Home,3,1,2.64173,0.153764,27,2,w
+22171,2024-03-10 15:45:00,EPL,2023,Manchester_City,Liverpool,Away,1,1,1.37289,2.25492,10,19,d
+22190,2024-03-31 16:30:00,EPL,2023,Manchester_City,Arsenal,Home,0,0,1.22009,0.511402,12,6,d
+22204,2024-04-03 19:15:00,EPL,2023,Manchester_City,Aston Villa,Home,4,1,3.87704,1.18643,25,8,w
+22207,2024-04-06 11:30:00,EPL,2023,Manchester_City,Crystal Palace,Away,4,2,2.26381,1.49472,18,7,w
+22221,2024-04-13 14:00:00,EPL,2023,Manchester_City,Luton,Home,5,1,4.64245,0.809775,37,5,w
+22176,2024-04-25 19:00:00,EPL,2023,Manchester_City,Brighton,Away,4,0,1.90507,0.572021,14,7,w
+22242,2024-04-28 15:30:00,EPL,2023,Manchester_City,Nottingham Forest,Away,2,0,0.932063,2.17312,11,14,w
+22253,2024-05-04 16:30:00,EPL,2023,Manchester_City,Wolverhampton Wanderers,Home,5,1,4.52542,0.396887,20,2,w
+22258,2024-05-11 11:30:00,EPL,2023,Manchester_City,Fulham,Away,4,0,3.15218,0.0886245,16,1,w
+22233,2024-05-14 19:00:00,EPL,2023,Manchester_City,Tottenham,Away,2,0,2.70331,1.84285,8,10,w
+22273,2024-05-19 15:00:00,EPL,2023,Manchester_City,West Ham,Home,3,1,2.31504,0.240159,28,3,w

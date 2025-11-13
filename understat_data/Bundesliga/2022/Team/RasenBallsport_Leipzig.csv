@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+19349,2022-08-07 13:30:00,Bundesliga,2022,RasenBallsport_Leipzig,VfB Stuttgart,Away,1,1,2.13153,0.565488,27,11,d
+19353,2022-08-13 13:30:00,Bundesliga,2022,RasenBallsport_Leipzig,FC Cologne,Home,2,2,1.17885,1.51583,10,13,d
+19366,2022-08-20 16:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Union Berlin,Away,1,2,0.958767,0.642263,16,7,l
+19370,2022-08-27 13:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Wolfsburg,Home,2,0,3.79244,0.520425,16,9,w
+19384,2022-09-03 16:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Eintracht Frankfurt,Away,0,4,0.220403,3.62625,4,14,l
+19389,2022-09-10 13:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Borussia Dortmund,Home,3,0,1.70495,0.334567,15,5,w
+19401,2022-09-17 16:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Borussia M.Gladbach,Away,0,3,1.25609,2.97746,12,21,l
+19406,2022-10-01 13:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Bochum,Home,4,0,4.21544,0.146803,17,2,w
+19416,2022-10-08 13:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Mainz 05,Away,1,1,1.4696,0.649518,13,9,d
+19424,2022-10-15 16:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Hertha Berlin,Home,3,2,3.30191,2.42152,15,15,w
+19439,2022-10-22 13:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Augsburg,Away,3,3,2.38989,1.91261,18,9,d
+19442,2022-10-29 13:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Bayer Leverkusen,Home,2,0,1.63234,0.141987,10,4,w
+19452,2022-11-05 14:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Hoffenheim,Away,3,1,1.66347,1.16126,17,11,w
+19460,2022-11-09 19:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Freiburg,Home,3,1,3.28873,0.148116,16,3,w
+19476,2022-11-12 14:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Werder Bremen,Away,2,1,2.1323,1.03468,14,7,w
+19478,2023-01-20 19:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Bayern Munich,Home,1,1,1.03072,0.813529,10,7,d
+19493,2023-01-24 17:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Schalke 04,Away,6,1,4.23438,0.503614,21,9,w
+19497,2023-01-27 19:30:00,Bundesliga,2022,RasenBallsport_Leipzig,VfB Stuttgart,Home,2,1,1.59146,1.86965,10,12,w
+19506,2023-02-04 14:30:00,Bundesliga,2022,RasenBallsport_Leipzig,FC Cologne,Away,0,0,1.00025,0.607143,7,9,d
+19514,2023-02-11 17:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Union Berlin,Home,1,2,0.891399,1.04126,10,6,l
+19527,2023-02-18 14:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Wolfsburg,Away,3,0,3.04805,0.26411,16,7,w
+19532,2023-02-25 14:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Eintracht Frankfurt,Home,2,1,1.89992,0.85563,10,7,w
+19540,2023-03-03 19:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Borussia Dortmund,Away,1,2,2.19847,1.12897,17,8,l
+19550,2023-03-11 14:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Borussia M.Gladbach,Home,3,0,2.26747,1.44596,14,7,w
+19564,2023-03-18 14:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Bochum,Away,0,1,1.92026,1.31052,22,8,l
+19575,2023-04-01 13:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Mainz 05,Home,0,3,0.584058,2.54838,12,19,l
+19584,2023-04-08 16:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Hertha Berlin,Away,1,0,2.57231,0.503827,18,11,w
+19586,2023-04-15 13:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Augsburg,Home,3,2,1.13772,0.864778,12,12,w
+19595,2023-04-23 15:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Bayer Leverkusen,Away,0,2,2.11824,1.03404,26,7,l
+19604,2023-04-29 13:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Hoffenheim,Home,1,0,1.70758,0.217156,15,4,w
+19614,2023-05-06 13:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Freiburg,Away,1,0,1.89448,0.150751,13,3,w
+19623,2023-05-14 15:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Werder Bremen,Home,2,1,1.7972,1.17378,20,6,w
+19630,2023-05-20 16:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Bayern Munich,Away,3,1,2.63992,1.63955,14,17,w
+19640,2023-05-27 13:30:00,Bundesliga,2022,RasenBallsport_Leipzig,Schalke 04,Home,4,2,2.97191,1.21648,19,15,w

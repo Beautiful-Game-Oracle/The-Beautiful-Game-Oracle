@@ -1,0 +1,11 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+28787,2025-08-18 19:00:00,EPL,2025,Everton,Leeds,Away,0,1,0.674338,2.3812,7,21,l
+28795,2025-08-24 13:00:00,EPL,2025,Everton,Brighton,Home,2,0,1.80116,2.08487,11,13,w
+28800,2025-08-30 14:00:00,EPL,2025,Everton,Wolverhampton Wanderers,Away,3,2,2.03791,0.943257,10,12,w
+28812,2025-09-13 14:00:00,EPL,2025,Everton,Aston Villa,Home,0,0,1.8927,0.354327,20,7,d
+28818,2025-09-20 11:30:00,EPL,2025,Everton,Liverpool,Away,1,2,0.721371,1.06166,9,11,l
+28837,2025-09-29 19:00:00,EPL,2025,Everton,West Ham,Home,1,1,0.909703,0.775766,12,14,d
+28843,2025-10-05 13:00:00,EPL,2025,Everton,Crystal Palace,Home,2,1,2.13876,2.17789,14,15,w
+28853,2025-10-18 14:00:00,EPL,2025,Everton,Manchester City,Away,0,2,0.794622,2.4799,5,19,l
+28863,2025-10-26 15:30:00,EPL,2025,Everton,Tottenham,Home,0,3,1.4032,2.09327,12,7,l
+28875,2025-11-03 20:00:00,EPL,2025,Everton,Sunderland,Away,1,1,1.00741,1.18068,8,17,d

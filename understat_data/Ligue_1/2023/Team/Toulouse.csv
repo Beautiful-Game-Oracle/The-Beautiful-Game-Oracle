@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+23374,2023-08-13 13:00:00,Ligue_1,2023,Toulouse,Nantes,Away,2,1,2.06035,1.07028,9,9,w
+23380,2023-08-19 19:00:00,Ligue_1,2023,Toulouse,Paris Saint Germain,Home,1,1,1.15991,2.00415,8,16,d
+23390,2023-08-27 13:00:00,Ligue_1,2023,Toulouse,Strasbourg,Away,0,2,0.308716,2.84995,7,11,l
+23398,2023-09-03 11:00:00,Ligue_1,2023,Toulouse,Clermont Foot,Home,2,2,0.64111,1.40431,9,14,d
+23410,2023-09-17 15:05:00,Ligue_1,2023,Toulouse,Marseille,Away,0,0,0.882315,1.16853,10,24,d
+23419,2023-09-24 13:00:00,Ligue_1,2023,Toulouse,Lens,Away,1,2,0.649363,3.08782,7,26,l
+23427,2023-10-01 13:00:00,Ligue_1,2023,Toulouse,Metz,Home,3,0,2.3397,0.598514,15,8,w
+23442,2023-10-08 13:00:00,Ligue_1,2023,Toulouse,Brest,Away,1,1,1.23903,1.61363,9,13,d
+23444,2023-10-22 13:00:00,Ligue_1,2023,Toulouse,Reims,Home,1,1,0.900833,0.96583,11,15,d
+23459,2023-10-29 14:00:00,Ligue_1,2023,Toulouse,Montpellier,Away,0,3,0.877804,3.2823,16,19,l
+23463,2023-11-05 14:00:00,Ligue_1,2023,Toulouse,Le Havre,Home,1,2,2.31734,1.21056,17,15,l
+23471,2023-11-12 14:00:00,Ligue_1,2023,Toulouse,Lille,Away,1,1,0.41683,2.6899,2,13,d
+23484,2023-11-26 12:00:00,Ligue_1,2023,Toulouse,Nice,Away,0,1,1.27183,1.00133,19,8,l
+23488,2023-12-03 14:00:00,Ligue_1,2023,Toulouse,Lorient,Home,1,1,1.10351,0.645774,11,11,d
+23501,2023-12-10 16:05:00,Ligue_1,2023,Toulouse,Lyon,Away,0,3,1.6021,3.13849,16,15,l
+23506,2023-12-17 14:00:00,Ligue_1,2023,Toulouse,Rennes,Home,0,0,0.686037,1.08165,15,11,d
+23517,2023-12-20 20:00:00,Ligue_1,2023,Toulouse,Monaco,Home,1,2,1.58928,2.26628,20,12,l
+23531,2024-01-14 14:00:00,Ligue_1,2023,Toulouse,Metz,Away,1,0,0.952191,0.558992,4,14,w
+23534,2024-01-28 16:05:00,Ligue_1,2023,Toulouse,Lens,Home,0,2,2.4207,1.17066,13,13,l
+23547,2024-02-04 14:00:00,Ligue_1,2023,Toulouse,Reims,Away,3,2,1.74173,2.02418,9,17,w
+23552,2024-02-11 14:00:00,Ligue_1,2023,Toulouse,Nantes,Home,1,2,0.893343,0.497993,16,5,l
+23562,2024-02-18 14:00:00,Ligue_1,2023,Toulouse,Monaco,Away,2,1,1.57778,1.69534,14,22,w
+23576,2024-02-25 14:00:00,Ligue_1,2023,Toulouse,Lille,Home,3,1,1.95824,0.599376,14,12,w
+23579,2024-03-03 12:00:00,Ligue_1,2023,Toulouse,Nice,Home,2,1,1.50074,1.91177,17,9,w
+23594,2024-03-10 14:00:00,Ligue_1,2023,Toulouse,Le Havre,Away,0,1,0.212288,1.2502,5,12,l
+23597,2024-03-15 20:00:00,Ligue_1,2023,Toulouse,Lyon,Home,2,3,2.0594,1.49785,13,18,l
+23611,2024-03-31 14:00:00,Ligue_1,2023,Toulouse,Clermont Foot,Away,3,0,2.30312,0.897271,11,15,w
+23615,2024-04-07 13:00:00,Ligue_1,2023,Toulouse,Strasbourg,Home,0,0,0.825103,0.582127,11,8,d
+23627,2024-04-13 19:00:00,Ligue_1,2023,Toulouse,Rennes,Away,2,1,0.783871,0.877819,10,18,w
+23633,2024-04-21 17:00:00,Ligue_1,2023,Toulouse,Marseille,Home,2,2,0.654707,1.06509,10,11,d
+23645,2024-04-28 13:00:00,Ligue_1,2023,Toulouse,Lorient,Away,2,1,2.23471,1.3574,14,15,w
+23650,2024-05-03 17:00:00,Ligue_1,2023,Toulouse,Montpellier,Home,1,2,1.98611,0.660372,15,5,l
+23659,2024-05-12 19:00:00,Ligue_1,2023,Toulouse,Paris Saint Germain,Away,3,1,1.71089,1.50414,18,15,w
+23676,2024-05-19 19:00:00,Ligue_1,2023,Toulouse,Brest,Home,0,3,0.984204,1.02904,8,12,l

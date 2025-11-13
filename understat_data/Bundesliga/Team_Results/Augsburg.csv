@@ -110,3 +110,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30279,2025-10-18 13:30:00,Bundesliga,2025,Augsburg,FC Cologne,Away,1,1,1.11917,0.523854,10,9,d,1
 30287,2025-10-25 13:30:00,Bundesliga,2025,Augsburg,RasenBallsport Leipzig,Home,0,6,0.639182,2.69438,15,15,l,0
 30296,2025-10-31 19:30:00,Bundesliga,2025,Augsburg,Borussia Dortmund,Home,0,1,0.969501,0.588196,9,5,l,0
+30311,2025-11-09 16:30:00,Bundesliga,2025,Augsburg,VfB Stuttgart,Away,2,3,1.90345,2.44526,16,17,l,0

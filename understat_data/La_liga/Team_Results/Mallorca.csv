@@ -124,3 +124,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29247,2025-10-18 12:00:00,La_liga,2025,Mallorca,Sevilla,Away,3,1,1.95555,1.25884,7,13,w,3
 29257,2025-10-26 13:00:00,La_liga,2025,Mallorca,Levante,Home,1,1,1.86979,2.3579,20,13,d,1
 29261,2025-11-02 20:00:00,La_liga,2025,Mallorca,Real Betis,Away,0,3,0.749852,2.82134,14,15,l,0
+29276,2025-11-09 17:30:00,La_liga,2025,Mallorca,Getafe,Home,1,0,1.30353,0.539674,6,14,w,3

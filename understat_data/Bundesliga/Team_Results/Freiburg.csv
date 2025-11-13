@@ -110,3 +110,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30280,2025-10-19 13:30:00,Bundesliga,2025,Freiburg,Eintracht Frankfurt,Home,2,2,1.12896,0.772638,12,8,d,1
 30288,2025-10-26 13:30:00,Bundesliga,2025,Freiburg,Bayer Leverkusen,Away,0,2,0.542897,2.46787,10,19,l,0
 30303,2025-11-01 14:30:00,Bundesliga,2025,Freiburg,Union Berlin,Away,0,0,1.16519,1.34842,13,11,d,1
+30308,2025-11-09 14:30:00,Bundesliga,2025,Freiburg,St. Pauli,Home,2,1,1.66558,0.640748,8,7,w,3

@@ -1,0 +1,11 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+28786,2025-08-17 15:30:00,EPL,2025,Arsenal,Manchester United,Away,1,0,1.3304,1.37653,9,22,w
+28793,2025-08-23 16:30:00,EPL,2025,Arsenal,Leeds,Home,5,0,2.73761,0.156761,18,3,w
+28806,2025-08-31 15:30:00,EPL,2025,Arsenal,Liverpool,Away,0,1,0.485679,0.481404,11,9,l
+28808,2025-09-13 11:30:00,EPL,2025,Arsenal,Nottingham Forest,Home,3,0,2.8817,0.293681,16,5,w
+28827,2025-09-21 15:30:00,EPL,2025,Arsenal,Manchester City,Home,1,1,0.718575,1.1227,12,5,d
+28836,2025-09-28 15:30:00,EPL,2025,Arsenal,Newcastle United,Away,2,1,2.07048,0.739851,20,8,w
+28839,2025-10-04 14:00:00,EPL,2025,Arsenal,West Ham,Home,2,0,3.0585,0.864549,21,4,w
+28851,2025-10-18 16:30:00,EPL,2025,Arsenal,Fulham,Away,1,0,2.07823,0.502332,16,9,w
+28859,2025-10-26 13:00:00,EPL,2025,Arsenal,Crystal Palace,Home,1,0,0.856175,0.350534,10,7,w
+28869,2025-11-01 15:00:00,EPL,2025,Arsenal,Burnley,Away,2,0,2.51649,0.679177,12,3,w

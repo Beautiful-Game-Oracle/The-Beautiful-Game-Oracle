@@ -1,0 +1,12 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29538,2025-08-15 18:45:00,Ligue_1,2025,Marseille,Rennes,Away,0,1,2.07298,1.31418,24,12,l
+29548,2025-08-23 15:00:00,Ligue_1,2025,Marseille,Paris FC,Home,5,2,3.337,1.05457,11,8,w
+29564,2025-08-31 18:45:00,Ligue_1,2025,Marseille,Lyon,Away,0,1,0.896862,3.15727,6,17,l
+29568,2025-09-12 18:45:00,Ligue_1,2025,Marseille,Lorient,Home,4,0,2.83367,0.187377,15,4,w
+29579,2025-09-22 18:45:00,Ligue_1,2025,Marseille,Paris Saint Germain,Home,1,0,1.77744,0.919565,9,12,w
+29590,2025-09-26 18:45:00,Ligue_1,2025,Marseille,Strasbourg,Away,2,1,2.00258,1.0976,16,9,w
+29597,2025-10-04 15:00:00,Ligue_1,2025,Marseille,Metz,Away,3,0,2.67719,0.1529,21,4,w
+29604,2025-10-18 19:05:00,Ligue_1,2025,Marseille,Le Havre,Home,6,2,4.20445,0.352985,18,8,w
+29612,2025-10-25 19:05:00,Ligue_1,2025,Marseille,Lens,Away,1,2,0.765479,1.87596,18,8,l
+29620,2025-10-29 19:05:00,Ligue_1,2025,Marseille,Angers,Home,2,2,1.58833,0.996929,11,12,d
+29628,2025-11-01 20:05:00,Ligue_1,2025,Marseille,Auxerre,Away,1,0,0.698037,1.09464,6,9,w

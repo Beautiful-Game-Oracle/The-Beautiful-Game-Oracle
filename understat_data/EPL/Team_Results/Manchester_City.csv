@@ -123,3 +123,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28853,2025-10-18 14:00:00,EPL,2025,Manchester City,Everton,Home,2,0,2.4799,0.794622,19,5,w,3
 28860,2025-10-26 13:00:00,EPL,2025,Manchester City,Aston Villa,Away,0,1,1.36914,0.843906,18,9,l,0
 28873,2025-11-02 16:30:00,EPL,2025,Manchester City,Bournemouth,Home,3,1,2.48999,0.899846,15,8,w,3
+28883,2025-11-09 16:30:00,EPL,2025,Manchester City,Liverpool,Home,3,0,1.59542,1.0281,14,7,w,3

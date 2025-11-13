@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+19657,2022-08-07 18:45:00,Ligue_1,2022,Marseille,Reims,Home,4,1,2.77019,0.676094,16,17,w
+19667,2022-08-14 18:45:00,Ligue_1,2022,Marseille,Brest,Away,1,1,1.30958,1.64132,5,17,d
+19674,2022-08-20 19:00:00,Ligue_1,2022,Marseille,Nantes,Home,2,1,1.71654,2.35832,16,13,w
+19682,2022-08-28 13:00:00,Ligue_1,2022,Marseille,Nice,Away,3,0,1.41427,0.797222,13,16,w
+19693,2022-08-31 19:00:00,Ligue_1,2022,Marseille,Clermont Foot,Home,1,0,2.50885,0.164123,21,3,w
+19699,2022-09-03 15:00:00,Ligue_1,2022,Marseille,Auxerre,Away,2,0,1.54448,0.623034,15,8,w
+19712,2022-09-10 19:00:00,Ligue_1,2022,Marseille,Lille,Home,2,1,2.25737,0.774912,14,7,w
+19725,2022-09-18 13:00:00,Ligue_1,2022,Marseille,Rennes,Home,1,1,1.05864,0.858108,16,12,d
+19731,2022-09-30 19:00:00,Ligue_1,2022,Marseille,Angers,Away,3,0,2.3782,1.29217,15,16,w
+19744,2022-10-08 15:00:00,Ligue_1,2022,Marseille,Ajaccio,Home,1,2,1.66314,0.16416,11,6,l
+19752,2022-10-16 18:45:00,Ligue_1,2022,Marseille,Paris Saint Germain,Away,0,1,0.78459,2.99871,18,23,l
+19764,2022-10-22 19:00:00,Ligue_1,2022,Marseille,Lens,Home,0,1,1.99963,0.612715,13,12,l
+19775,2022-10-29 19:00:00,Ligue_1,2022,Marseille,Strasbourg,Away,2,2,1.93874,0.890654,14,12,d
+19784,2022-11-06 19:45:00,Ligue_1,2022,Marseille,Lyon,Home,1,0,1.07268,0.632118,6,11,w
+19788,2022-11-13 19:45:00,Ligue_1,2022,Marseille,Monaco,Away,3,2,2.71425,1.52658,11,11,w
+19803,2022-12-29 20:00:00,Ligue_1,2022,Marseille,Toulouse,Home,6,1,3.90797,1.73074,12,11,w
+19812,2023-01-02 18:00:00,Ligue_1,2022,Marseille,Montpellier,Away,2,1,1.33992,1.10931,18,9,w
+19827,2023-01-11 20:00:00,Ligue_1,2022,Marseille,Troyes,Away,2,0,2.65167,0.207647,13,5,w
+19833,2023-01-14 18:00:00,Ligue_1,2022,Marseille,Lorient,Home,3,1,2.03482,0.491556,15,11,w
+19843,2023-01-28 20:00:00,Ligue_1,2022,Marseille,Monaco,Home,1,1,1.772,1.55187,23,11,d
+19850,2023-02-01 18:00:00,Ligue_1,2022,Marseille,Nantes,Away,2,0,1.94315,1.40304,13,13,w
+19862,2023-02-05 19:45:00,Ligue_1,2022,Marseille,Nice,Home,1,3,2.61067,1.4814,22,14,l
+19870,2023-02-11 20:00:00,Ligue_1,2022,Marseille,Clermont Foot,Away,2,0,2.10938,1.08989,17,9,w
+19886,2023-02-19 19:45:00,Ligue_1,2022,Marseille,Toulouse,Away,3,2,1.21797,2.09816,15,15,w
+19896,2023-02-26 19:45:00,Ligue_1,2022,Marseille,Paris Saint Germain,Home,0,3,2.28992,3.73353,19,12,l
+19904,2023-03-05 19:45:00,Ligue_1,2022,Marseille,Rennes,Away,1,0,1.45275,1.03495,11,13,w
+19916,2023-03-12 19:45:00,Ligue_1,2022,Marseille,Strasbourg,Home,2,2,1.67973,2.2222,7,24,d
+19925,2023-03-19 19:45:00,Ligue_1,2022,Marseille,Reims,Away,2,1,1.39201,1.91783,12,19,w
+19934,2023-03-31 19:00:00,Ligue_1,2022,Marseille,Montpellier,Home,1,1,1.43396,0.849684,13,9,d
+19940,2023-04-09 18:45:00,Ligue_1,2022,Marseille,Lorient,Away,0,0,0.782867,0.637221,13,9,d
+19952,2023-04-16 18:45:00,Ligue_1,2022,Marseille,Troyes,Home,3,1,3.75094,0.405591,28,4,w
+19965,2023-04-23 18:45:00,Ligue_1,2022,Marseille,Lyon,Away,2,1,2.21507,1.45711,14,8,w
+19971,2023-04-30 18:45:00,Ligue_1,2022,Marseille,Auxerre,Home,2,1,3.56928,0.456496,26,11,w
+19985,2023-05-06 19:00:00,Ligue_1,2022,Marseille,Lens,Away,1,2,1.27465,1.33558,13,9,l
+19991,2023-05-14 18:45:00,Ligue_1,2022,Marseille,Angers,Home,3,1,2.99154,0.559445,14,4,w
+20002,2023-05-20 19:00:00,Ligue_1,2022,Marseille,Lille,Away,1,2,1.19915,1.86027,8,12,l
+20013,2023-05-27 19:00:00,Ligue_1,2022,Marseille,Brest,Home,1,2,0.968914,1.5307,10,15,l
+20018,2023-06-03 17:00:00,Ligue_1,2022,Marseille,Ajaccio,Away,0,1,1.22431,0.129389,17,3,l

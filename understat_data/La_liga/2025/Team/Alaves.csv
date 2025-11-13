@@ -1,0 +1,12 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29161,2025-08-16 19:30:00,La_liga,2025,Alaves,Levante,Home,2,1,1.72315,0.74203,15,7,w
+29168,2025-08-22 19:30:00,La_liga,2025,Alaves,Real Betis,Away,0,1,1.43838,2.13985,11,16,l
+29181,2025-08-30 15:00:00,La_liga,2025,Alaves,Atletico Madrid,Home,1,1,0.855094,0.960547,5,15,d
+29196,2025-09-13 16:30:00,La_liga,2025,Alaves,Athletic Club,Away,1,0,0.090756,0.866662,4,13,w
+29208,2025-09-20 16:30:00,La_liga,2025,Alaves,Sevilla,Home,1,2,0.910257,0.891992,8,9,l
+29212,2025-09-24 17:00:00,La_liga,2025,Alaves,Getafe,Away,1,1,1.21176,0.576203,10,8,d
+29224,2025-09-27 16:30:00,La_liga,2025,Alaves,Mallorca,Away,0,1,0.566415,1.04267,12,12,l
+29228,2025-10-05 12:00:00,La_liga,2025,Alaves,Elche,Home,3,1,2.85063,0.661537,25,6,w
+29238,2025-10-20 19:00:00,La_liga,2025,Alaves,Valencia,Home,0,0,1.05624,0.318076,13,5,d
+29252,2025-10-26 20:00:00,La_liga,2025,Alaves,Rayo Vallecano,Away,0,1,1.41466,1.54971,12,15,l
+29258,2025-11-02 15:15:00,La_liga,2025,Alaves,Espanyol,Home,2,1,2.18038,1.04283,13,18,w

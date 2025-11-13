@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+27750,2024-08-25 15:30:00,Bundesliga,2024,FC_Heidenheim,St. Pauli,Away,2,0,1.16833,1.1609,5,11,w
+27758,2024-09-01 13:30:00,Bundesliga,2024,FC_Heidenheim,Augsburg,Home,4,0,3.09376,0.641534,15,15,w
+27760,2024-09-13 18:30:00,Bundesliga,2024,FC_Heidenheim,Borussia Dortmund,Away,2,4,1.61406,2.84066,11,13,l
+27772,2024-09-21 13:30:00,Bundesliga,2024,FC_Heidenheim,Freiburg,Home,0,3,0.379656,1.23884,7,15,l
+27781,2024-09-28 13:30:00,Bundesliga,2024,FC_Heidenheim,Mainz 05,Away,2,0,1.09304,0.371434,14,7,w
+27788,2024-10-06 13:30:00,Bundesliga,2024,FC_Heidenheim,RasenBallsport Leipzig,Home,0,1,1.08159,1.81585,14,13,l
+27803,2024-10-19 13:30:00,Bundesliga,2024,FC_Heidenheim,Borussia M.Gladbach,Away,2,3,1.89766,4.14976,18,20,l
+27807,2024-10-27 18:30:00,Bundesliga,2024,FC_Heidenheim,Hoffenheim,Home,0,0,1.57817,0.692793,17,12,d
+27822,2024-11-02 14:30:00,Bundesliga,2024,FC_Heidenheim,Holstein Kiel,Away,0,1,1.27585,2.13316,17,11,l
+27825,2024-11-10 18:30:00,Bundesliga,2024,FC_Heidenheim,Wolfsburg,Home,1,3,2.62448,1.55233,19,13,l
+27832,2024-11-23 14:30:00,Bundesliga,2024,FC_Heidenheim,Bayer Leverkusen,Away,2,5,1.03141,2.02581,6,20,l
+27843,2024-12-01 16:30:00,Bundesliga,2024,FC_Heidenheim,Eintracht Frankfurt,Home,0,4,0.861094,3.19019,8,14,l
+27857,2024-12-07 14:30:00,Bundesliga,2024,FC_Heidenheim,Bayern Munich,Away,2,4,1.16879,3.08538,2,21,l
+27861,2024-12-15 14:30:00,Bundesliga,2024,FC_Heidenheim,VfB Stuttgart,Home,1,3,0.808275,3.46171,9,18,l
+27875,2024-12-22 14:30:00,Bundesliga,2024,FC_Heidenheim,Bochum,Away,0,2,0.512353,1.68369,10,14,l
+27880,2025-01-11 14:30:00,Bundesliga,2024,FC_Heidenheim,Union Berlin,Home,2,0,1.75563,1.03435,16,10,w
+27890,2025-01-15 19:30:00,Bundesliga,2024,FC_Heidenheim,Werder Bremen,Away,3,3,1.91878,1.87497,14,12,d
+27899,2025-01-18 14:30:00,Bundesliga,2024,FC_Heidenheim,St. Pauli,Home,0,2,0.923964,2.23242,8,7,l
+27911,2025-01-25 14:30:00,Bundesliga,2024,FC_Heidenheim,Augsburg,Away,1,2,0.94738,1.63821,11,11,l
+27920,2025-02-01 14:30:00,Bundesliga,2024,FC_Heidenheim,Borussia Dortmund,Home,1,2,0.525888,2.68284,11,16,l
+27926,2025-02-08 14:30:00,Bundesliga,2024,FC_Heidenheim,Freiburg,Away,0,1,0.434356,1.33195,11,9,l
+27934,2025-02-16 18:30:00,Bundesliga,2024,FC_Heidenheim,Mainz 05,Home,0,2,0.545205,1.94932,12,6,l
+27941,2025-02-23 14:30:00,Bundesliga,2024,FC_Heidenheim,RasenBallsport Leipzig,Away,2,2,0.834882,1.6451,4,17,d
+27952,2025-03-01 14:30:00,Bundesliga,2024,FC_Heidenheim,Borussia M.Gladbach,Home,0,3,1.87707,1.7158,20,13,l
+27962,2025-03-09 16:30:00,Bundesliga,2024,FC_Heidenheim,Hoffenheim,Away,1,1,2.31324,1.78028,23,16,d
+27969,2025-03-16 16:30:00,Bundesliga,2024,FC_Heidenheim,Holstein Kiel,Home,3,1,1.6572,1.14988,14,16,w
+27981,2025-03-29 14:30:00,Bundesliga,2024,FC_Heidenheim,Wolfsburg,Away,1,0,1.31407,1.23886,11,11,w
+27986,2025-04-05 13:30:00,Bundesliga,2024,FC_Heidenheim,Bayer Leverkusen,Home,0,1,1.30234,0.367393,10,6,l
+27997,2025-04-13 15:30:00,Bundesliga,2024,FC_Heidenheim,Eintracht Frankfurt,Away,0,3,1.28841,3.64515,14,19,l
+28005,2025-04-19 13:30:00,Bundesliga,2024,FC_Heidenheim,Bayern Munich,Home,0,4,0.529774,3.54191,4,18,l
+28013,2025-04-25 18:30:00,Bundesliga,2024,FC_Heidenheim,VfB Stuttgart,Away,1,0,0.522621,1.91698,6,19,w
+28023,2025-05-02 18:30:00,Bundesliga,2024,FC_Heidenheim,Bochum,Home,0,0,0.463987,1.81311,11,13,d
+28036,2025-05-10 13:30:00,Bundesliga,2024,FC_Heidenheim,Union Berlin,Away,3,0,1.86184,0.528885,8,10,w
+28042,2025-05-17 13:30:00,Bundesliga,2024,FC_Heidenheim,Werder Bremen,Home,1,4,1.75706,2.20606,21,13,l

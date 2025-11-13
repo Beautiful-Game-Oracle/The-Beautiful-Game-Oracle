@@ -1,0 +1,12 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29163,2025-08-17 15:00:00,La_liga,2025,Getafe,Celta Vigo,Away,2,0,1.50131,0.744247,10,11,w
+29177,2025-08-25 19:30:00,La_liga,2025,Getafe,Sevilla,Away,2,1,1.32944,0.833075,9,12,w
+29180,2025-08-29 19:30:00,La_liga,2025,Getafe,Valencia,Away,0,3,0.757418,1.54336,11,7,l
+29190,2025-09-13 12:00:00,La_liga,2025,Getafe,Real Oviedo,Home,2,0,0.954087,0.369812,10,5,w
+29199,2025-09-21 19:00:00,La_liga,2025,Getafe,Barcelona,Away,0,3,0.215949,2.96429,3,16,l
+29212,2025-09-24 17:00:00,La_liga,2025,Getafe,Alaves,Home,1,1,0.576203,1.21176,8,10,d
+29222,2025-09-27 12:00:00,La_liga,2025,Getafe,Levante,Home,1,1,0.830967,1.27833,11,11,d
+29235,2025-10-03 19:00:00,La_liga,2025,Getafe,Osasuna,Away,1,2,0.856515,0.692026,6,7,l
+29242,2025-10-19 19:00:00,La_liga,2025,Getafe,Real Madrid,Home,0,1,0.530119,2.14595,7,23,l
+29248,2025-10-25 16:30:00,La_liga,2025,Getafe,Athletic Club,Away,1,0,1.00378,0.358524,8,7,w
+29262,2025-10-31 20:00:00,La_liga,2025,Getafe,Girona,Home,2,1,1.40213,1.54366,12,8,w

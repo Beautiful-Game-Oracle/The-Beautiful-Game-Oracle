@@ -1,0 +1,11 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+28785,2025-08-17 13:00:00,EPL,2025,Brentford,Nottingham Forest,Away,1,3,1.32516,1.7555,10,11,l
+28790,2025-08-23 14:00:00,EPL,2025,Brentford,Aston Villa,Home,1,0,1.12964,0.976852,9,17,w
+28801,2025-08-30 14:00:00,EPL,2025,Brentford,Sunderland,Away,1,2,1.44604,1.57127,8,12,l
+28815,2025-09-13 19:00:00,EPL,2025,Brentford,Chelsea,Home,2,2,1.17533,0.755999,7,16,d
+28825,2025-09-20 19:00:00,EPL,2025,Brentford,Fulham,Away,1,3,0.826556,1.52431,9,14,l
+28828,2025-09-27 11:30:00,EPL,2025,Brentford,Manchester United,Home,3,1,2.78726,2.23609,10,14,w
+28841,2025-10-05 15:30:00,EPL,2025,Brentford,Manchester City,Home,0,1,0.693758,1.09647,6,10,l
+28857,2025-10-20 19:00:00,EPL,2025,Brentford,West Ham,Away,2,0,3.46635,0.260251,22,7,w
+28861,2025-10-25 19:00:00,EPL,2025,Brentford,Liverpool,Home,3,2,3.27126,2.11838,17,14,w
+28870,2025-11-01 15:00:00,EPL,2025,Brentford,Crystal Palace,Away,0,2,0.820498,0.734558,7,9,l

@@ -123,3 +123,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29916,2025-10-25 18:45:00,Serie_A,2025,Atalanta,Cremonese,Away,1,1,1.62371,0.967146,20,9,d,1
 29924,2025-10-28 18:45:00,Serie_A,2025,Atalanta,AC Milan,Home,1,1,1.28167,0.626418,17,6,d,1
 29942,2025-11-01 14:00:00,Serie_A,2025,Atalanta,Udinese,Away,0,1,0.270197,0.707338,5,11,l,0
+29944,2025-11-09 11:30:00,Serie_A,2025,Atalanta,Sassuolo,Home,0,3,0.707859,2.20132,14,8,l,0

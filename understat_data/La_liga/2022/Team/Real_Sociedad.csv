@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+18966,2022-08-14 15:30:00,La_liga,2022,Real_Sociedad,Cadiz,Away,1,0,2.64367,0.294358,15,7,w
+18979,2022-08-21 20:00:00,La_liga,2022,Real_Sociedad,Barcelona,Home,1,4,0.79913,2.04035,10,15,l
+18984,2022-08-27 15:30:00,La_liga,2022,Real_Sociedad,Elche,Away,1,0,1.81171,1.23504,9,12,w
+18994,2022-09-03 16:30:00,La_liga,2022,Real_Sociedad,Atletico Madrid,Home,1,1,1.75154,2.24791,12,16,d
+19004,2022-09-11 16:30:00,La_liga,2022,Real_Sociedad,Getafe,Away,1,2,1.32142,1.06907,13,8,l
+19018,2022-09-18 16:30:00,La_liga,2022,Real_Sociedad,Espanyol,Home,2,1,2.35791,1.28945,14,14,w
+19025,2022-10-02 16:30:00,La_liga,2022,Real_Sociedad,Girona,Away,5,3,2.23639,0.932579,11,16,w
+19038,2022-10-09 16:30:00,La_liga,2022,Real_Sociedad,Villarreal,Home,1,0,2.37138,0.221593,17,5,w
+19043,2022-10-16 12:00:00,La_liga,2022,Real_Sociedad,Celta Vigo,Away,2,1,1.17936,0.482536,8,10,w
+19060,2022-10-19 18:00:00,La_liga,2022,Real_Sociedad,Mallorca,Home,1,0,2.16436,1.09436,14,12,w
+19070,2022-10-22 14:15:00,La_liga,2022,Real_Sociedad,Real Valladolid,Away,0,1,0.82513,0.785666,20,9,l
+19078,2022-10-30 20:00:00,La_liga,2022,Real_Sociedad,Real Betis,Home,0,2,1.28165,1.34514,14,10,l
+19085,2022-11-06 15:15:00,La_liga,2022,Real_Sociedad,Valencia,Home,1,1,1.45821,0.795825,9,15,d
+19101,2022-11-09 18:00:00,La_liga,2022,Real_Sociedad,Sevilla,Away,2,1,2.18846,0.69755,17,6,w
+19108,2022-12-31 15:15:00,La_liga,2022,Real_Sociedad,Osasuna,Home,2,0,1.54314,0.305627,9,11,w
+19116,2023-01-08 13:00:00,La_liga,2022,Real_Sociedad,Almeria,Away,2,0,2.11666,0.30978,9,6,w
+19127,2023-01-14 20:00:00,La_liga,2022,Real_Sociedad,Athletic Club,Home,3,1,1.88839,0.265103,11,6,w
+19136,2023-01-21 13:00:00,La_liga,2022,Real_Sociedad,Rayo Vallecano,Away,2,0,1.43612,0.64183,12,14,w
+19143,2023-01-29 20:00:00,La_liga,2022,Real_Sociedad,Real Madrid,Away,0,0,0.370087,1.40476,8,20,d
+19159,2023-02-05 17:30:00,La_liga,2022,Real_Sociedad,Real Valladolid,Home,0,1,1.21593,0.781504,15,7,l
+19164,2023-02-13 20:00:00,La_liga,2022,Real_Sociedad,Espanyol,Away,3,2,1.20722,1.25733,11,11,w
+19180,2023-02-18 10:00:00,La_liga,2022,Real_Sociedad,Celta Vigo,Home,1,1,1.52902,1.34253,10,18,d
+19183,2023-02-25 20:00:00,La_liga,2022,Real_Sociedad,Valencia,Away,0,1,0.817876,0.636111,12,8,l
+19200,2023-03-03 20:00:00,La_liga,2022,Real_Sociedad,Cadiz,Home,0,0,1.07575,0.847252,14,6,d
+19205,2023-03-12 13:00:00,La_liga,2022,Real_Sociedad,Mallorca,Away,1,1,0.683339,1.4638,8,8,d
+19220,2023-03-19 15:15:00,La_liga,2022,Real_Sociedad,Elche,Home,2,0,2.69405,0.0819691,17,4,w
+19229,2023-04-02 16:30:00,La_liga,2022,Real_Sociedad,Villarreal,Away,0,2,0.912497,2.80501,16,16,l
+19241,2023-04-08 16:30:00,La_liga,2022,Real_Sociedad,Getafe,Home,2,0,2.1178,0.243923,11,6,w
+19242,2023-04-15 14:15:00,La_liga,2022,Real_Sociedad,Athletic Club,Away,0,2,1.71232,1.00026,13,13,l
+19260,2023-04-22 16:30:00,La_liga,2022,Real_Sociedad,Rayo Vallecano,Home,2,1,0.814682,0.359842,7,8,w
+19264,2023-04-25 20:00:00,La_liga,2022,Real_Sociedad,Real Betis,Away,0,0,0.607061,0.7286,10,10,d
+19276,2023-04-28 19:00:00,La_liga,2022,Real_Sociedad,Osasuna,Away,2,0,2.09575,0.987164,12,14,w
+19285,2023-05-02 20:00:00,La_liga,2022,Real_Sociedad,Real Madrid,Home,2,0,2.26252,0.867228,9,10,w
+19292,2023-05-13 12:00:00,La_liga,2022,Real_Sociedad,Girona,Home,2,2,3.05494,1.4691,15,13,d
+19310,2023-05-20 19:00:00,La_liga,2022,Real_Sociedad,Barcelona,Away,2,1,2.8035,1.8413,13,13,w
+19321,2023-05-23 17:30:00,La_liga,2022,Real_Sociedad,Almeria,Home,1,0,1.91983,0.0996009,15,2,w
+19323,2023-05-28 17:00:00,La_liga,2022,Real_Sociedad,Atletico Madrid,Away,1,2,0.943774,0.818599,10,11,l
+19341,2023-06-04 18:00:00,La_liga,2022,Real_Sociedad,Sevilla,Home,2,1,2.35387,0.461529,17,9,w

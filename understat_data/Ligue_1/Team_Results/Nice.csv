@@ -116,3 +116,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29618,2025-10-26 15:15:00,Ligue_1,2025,Nice,Rennes,Away,2,1,0.88734,1.54435,8,19,w,3
 29623,2025-10-29 17:00:00,Ligue_1,2025,Nice,Lille,Home,2,0,1.74459,0.661109,8,21,w,3
 29634,2025-11-01 16:00:00,Ligue_1,2025,Nice,Paris Saint Germain,Away,0,1,0.3867,1.88647,5,28,l,0
+29642,2025-11-09 16:15:00,Ligue_1,2025,Nice,Metz,Away,1,2,0.784993,1.32977,11,9,l,0

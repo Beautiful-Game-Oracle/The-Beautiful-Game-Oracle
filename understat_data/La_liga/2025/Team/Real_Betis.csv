@@ -1,0 +1,12 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29166,2025-08-18 19:00:00,La_liga,2025,Real_Betis,Elche,Away,1,1,1.59562,0.981494,12,6,d
+29168,2025-08-22 19:30:00,La_liga,2025,Real_Betis,Alaves,Home,1,0,2.13985,1.43838,16,11,w
+29178,2025-08-27 19:00:00,La_liga,2025,Real_Betis,Celta Vigo,Away,1,1,0.714458,0.905201,7,14,d
+29186,2025-08-31 17:00:00,La_liga,2025,Real_Betis,Athletic Club,Home,1,2,0.716186,1.11141,10,15,l
+29191,2025-09-14 14:15:00,La_liga,2025,Real_Betis,Levante,Away,2,2,2.19546,1.02425,28,5,d
+29200,2025-09-19 19:00:00,La_liga,2025,Real_Betis,Real Sociedad,Home,3,1,2.53579,0.606673,21,12,w
+29221,2025-09-28 19:00:00,La_liga,2025,Real_Betis,Osasuna,Home,2,0,1.18955,0.578485,12,12,w
+29234,2025-10-05 16:30:00,La_liga,2025,Real_Betis,Espanyol,Away,2,1,1.43721,2.0699,12,14,w
+29245,2025-10-18 16:30:00,La_liga,2025,Real_Betis,Villarreal,Away,2,2,0.895532,0.980598,16,7,d
+29253,2025-10-27 20:00:00,La_liga,2025,Real_Betis,Atletico Madrid,Home,0,2,1.33792,0.876554,17,9,l
+29261,2025-11-02 20:00:00,La_liga,2025,Real_Betis,Mallorca,Home,3,0,2.82134,0.749852,15,14,w

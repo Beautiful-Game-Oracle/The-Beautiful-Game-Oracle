@@ -1,0 +1,11 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+28783,2025-08-16 16:30:00,EPL,2025,Wolverhampton_Wanderers,Manchester City,Home,0,4,0.519436,2.29903,9,15,l
+28792,2025-08-23 14:00:00,EPL,2025,Wolverhampton_Wanderers,Bournemouth,Away,0,1,0.373367,1.78462,6,14,l
+28800,2025-08-30 14:00:00,EPL,2025,Wolverhampton_Wanderers,Everton,Home,2,3,0.943257,2.03791,12,10,l
+28809,2025-09-13 14:00:00,EPL,2025,Wolverhampton_Wanderers,Newcastle United,Away,0,1,0.375942,1.19186,8,16,l
+28820,2025-09-20 14:00:00,EPL,2025,Wolverhampton_Wanderers,Leeds,Home,1,3,1.5661,0.456988,16,6,l
+28835,2025-09-27 19:00:00,EPL,2025,Wolverhampton_Wanderers,Tottenham,Away,1,1,1.15951,0.818711,9,10,d
+28847,2025-10-05 13:00:00,EPL,2025,Wolverhampton_Wanderers,Brighton,Home,1,1,0.369404,1.39158,6,18,d
+28855,2025-10-18 14:00:00,EPL,2025,Wolverhampton_Wanderers,Sunderland,Away,0,2,0.676323,1.02481,17,8,l
+28867,2025-10-26 13:00:00,EPL,2025,Wolverhampton_Wanderers,Burnley,Home,2,3,2.58132,1.54544,15,11,l
+28871,2025-11-01 15:00:00,EPL,2025,Wolverhampton_Wanderers,Fulham,Away,0,3,0.209934,1.91207,6,19,l

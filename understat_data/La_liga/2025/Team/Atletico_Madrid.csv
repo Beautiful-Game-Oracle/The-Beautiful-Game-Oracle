@@ -1,0 +1,12 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29165,2025-08-17 19:30:00,La_liga,2025,Atletico_Madrid,Espanyol,Away,1,2,1.29319,1.41508,15,9,l
+29170,2025-08-23 17:30:00,La_liga,2025,Atletico_Madrid,Elche,Home,1,1,1.68159,0.313268,13,6,d
+29181,2025-08-30 15:00:00,La_liga,2025,Atletico_Madrid,Alaves,Away,1,1,0.960547,0.855094,15,5,d
+29193,2025-09-13 19:00:00,La_liga,2025,Atletico_Madrid,Villarreal,Home,2,0,1.5106,0.668177,8,8,w
+29204,2025-09-21 14:15:00,La_liga,2025,Atletico_Madrid,Mallorca,Away,1,1,2.08772,0.530939,12,8,d
+29216,2025-09-24 19:30:00,La_liga,2025,Atletico_Madrid,Rayo Vallecano,Home,3,2,4.95017,1.61988,20,9,w
+29219,2025-09-27 14:15:00,La_liga,2025,Atletico_Madrid,Real Madrid,Home,5,2,2.79075,1.02797,13,6,w
+29232,2025-10-05 19:00:00,La_liga,2025,Atletico_Madrid,Celta Vigo,Away,1,1,0.710823,2.27285,6,19,d
+29239,2025-10-18 19:00:00,La_liga,2025,Atletico_Madrid,Osasuna,Home,1,0,2.24415,0.981492,18,9,w
+29253,2025-10-27 20:00:00,La_liga,2025,Atletico_Madrid,Real Betis,Away,2,0,0.876554,1.33792,9,17,w
+29259,2025-11-01 15:15:00,La_liga,2025,Atletico_Madrid,Sevilla,Home,3,0,2.98632,0.376887,15,10,w

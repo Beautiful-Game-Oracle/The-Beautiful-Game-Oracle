@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+26989,2024-08-18 19:30:00,La_liga,2024,Real_Madrid,Mallorca,Away,1,1,0.608052,1.30561,13,12,d
+26998,2024-08-25 15:00:00,La_liga,2024,Real_Madrid,Real Valladolid,Home,3,0,2.17954,0.378528,17,8,w
+27011,2024-08-29 19:30:00,La_liga,2024,Real_Madrid,Las Palmas,Away,1,1,3.28322,0.809213,25,7,d
+27021,2024-09-01 19:30:00,La_liga,2024,Real_Madrid,Real Betis,Home,2,0,2.37168,0.831429,22,11,w
+27031,2024-09-14 19:00:00,La_liga,2024,Real_Madrid,Real Sociedad,Away,2,0,2.2759,1.41828,16,11,w
+27041,2024-09-21 19:00:00,La_liga,2024,Real_Madrid,Espanyol,Home,4,1,4.89487,0.318831,32,10,w
+27051,2024-09-24 19:00:00,La_liga,2024,Real_Madrid,Alaves,Home,3,2,1.79791,0.853455,10,12,w
+27053,2024-09-29 19:00:00,La_liga,2024,Real_Madrid,Atletico Madrid,Away,1,1,0.660987,1.05477,12,12,d
+27063,2024-10-05 19:00:00,La_liga,2024,Real_Madrid,Villarreal,Home,2,0,0.459582,1.4618,11,12,w
+27075,2024-10-19 19:00:00,La_liga,2024,Real_Madrid,Celta Vigo,Away,2,1,1.19816,1.79112,10,13,w
+27085,2024-10-26 19:00:00,La_liga,2024,Real_Madrid,Barcelona,Home,0,4,1.40359,2.51566,9,15,l
+27109,2024-11-09 13:00:00,La_liga,2024,Real_Madrid,Osasuna,Home,4,0,3.27315,0.0678926,18,2,w
+27116,2024-11-24 17:30:00,La_liga,2024,Real_Madrid,Leganes,Away,3,0,2.73014,0.108948,16,4,w
+27127,2024-12-01 15:15:00,La_liga,2024,Real_Madrid,Getafe,Home,2,0,3.23626,0.34657,13,8,w
+27162,2024-12-04 20:00:00,La_liga,2024,Real_Madrid,Athletic Club,Away,1,2,1.97732,2.08134,10,9,l
+27137,2024-12-07 20:00:00,La_liga,2024,Real_Madrid,Girona,Away,3,0,1.16034,0.351337,10,10,w
+27144,2024-12-14 20:00:00,La_liga,2024,Real_Madrid,Rayo Vallecano,Away,3,3,1.15429,1.60769,13,14,d
+27157,2024-12-22 15:15:00,La_liga,2024,Real_Madrid,Sevilla,Home,4,2,2.90098,1.41183,16,10,w
+27099,2025-01-03 20:00:00,La_liga,2024,Real_Madrid,Valencia,Away,2,1,2.69157,1.35313,17,8,w
+27180,2025-01-19 15:15:00,La_liga,2024,Real_Madrid,Las Palmas,Home,4,1,6.40549,1.06201,26,6,w
+27190,2025-01-25 20:00:00,La_liga,2024,Real_Madrid,Real Valladolid,Away,3,0,2.45677,0.234653,20,6,w
+27201,2025-02-01 20:00:00,La_liga,2024,Real_Madrid,Espanyol,Away,0,1,1.52796,0.52719,21,5,l
+27205,2025-02-08 20:00:00,La_liga,2024,Real_Madrid,Atletico Madrid,Home,1,1,2.55575,1.62463,23,10,d
+27220,2025-02-15 15:15:00,La_liga,2024,Real_Madrid,Osasuna,Away,1,1,2.73344,1.64382,17,11,d
+27228,2025-02-23 15:15:00,La_liga,2024,Real_Madrid,Girona,Home,2,0,2.36313,0.325619,22,6,w
+27233,2025-03-01 17:30:00,La_liga,2024,Real_Madrid,Real Betis,Away,1,2,1.05072,2.23957,9,18,l
+27251,2025-03-09 15:15:00,La_liga,2024,Real_Madrid,Rayo Vallecano,Home,2,1,1.59439,1.21003,10,20,w
+27259,2025-03-15 17:30:00,La_liga,2024,Real_Madrid,Villarreal,Away,2,1,1.10001,2.00539,9,23,w
+27268,2025-03-29 20:00:00,La_liga,2024,Real_Madrid,Leganes,Home,3,2,3.59257,2.38359,24,10,w
+27273,2025-04-05 14:15:00,La_liga,2024,Real_Madrid,Valencia,Home,1,2,3.36121,1.08997,21,10,l
+27287,2025-04-13 14:15:00,La_liga,2024,Real_Madrid,Alaves,Away,1,0,1.26541,0.607781,11,13,w
+27294,2025-04-20 19:00:00,La_liga,2024,Real_Madrid,Athletic Club,Home,1,0,2.40667,0.132511,22,3,w
+27308,2025-04-23 19:30:00,La_liga,2024,Real_Madrid,Getafe,Away,1,0,1.74803,2.53565,14,20,w
+27317,2025-05-04 12:00:00,La_liga,2024,Real_Madrid,Celta Vigo,Home,3,2,3.07408,2.13071,17,14,w
+27324,2025-05-11 14:15:00,La_liga,2024,Real_Madrid,Barcelona,Away,3,4,2.5616,4.10632,9,23,l
+27339,2025-05-14 19:30:00,La_liga,2024,Real_Madrid,Mallorca,Home,2,1,3.46174,0.475193,39,4,w
+27348,2025-05-18 17:00:00,La_liga,2024,Real_Madrid,Sevilla,Away,2,0,1.95992,0.484891,16,6,w
+27355,2025-05-24 14:15:00,La_liga,2024,Real_Madrid,Real Sociedad,Home,2,0,2.61915,1.18496,16,9,w

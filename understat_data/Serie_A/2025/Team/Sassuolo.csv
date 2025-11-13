@@ -1,0 +1,11 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29845,2025-08-23 16:30:00,Serie_A,2025,Sassuolo,Napoli,Home,0,2,0.298477,1.55456,7,13,l
+29854,2025-08-29 16:30:00,Serie_A,2025,Sassuolo,Cremonese,Away,2,3,1.32978,3.52949,9,11,l
+29870,2025-09-14 16:00:00,Serie_A,2025,Sassuolo,Lazio,Home,1,0,1.2156,0.858246,10,13,w
+29880,2025-09-21 18:45:00,Serie_A,2025,Sassuolo,Inter,Away,1,2,0.850824,3.12186,10,20,l
+29893,2025-09-28 10:30:00,Serie_A,2025,Sassuolo,Udinese,Home,3,1,2.31332,1.19344,11,12,w
+29903,2025-10-03 18:45:00,Serie_A,2025,Sassuolo,Verona,Away,1,0,1.5058,0.810981,11,17,w
+29910,2025-10-18 13:00:00,Serie_A,2025,Sassuolo,Lecce,Away,0,0,0.77146,0.66998,9,11,d
+29922,2025-10-26 13:00:00,Serie_A,2025,Sassuolo,Roma,Home,0,1,0.949353,2.25968,11,15,l
+29926,2025-10-30 16:30:00,Serie_A,2025,Sassuolo,Cagliari,Away,2,1,0.937652,0.845219,12,8,w
+29940,2025-11-03 17:30:00,Serie_A,2025,Sassuolo,Genoa,Home,1,2,1.31641,1.83271,13,16,l

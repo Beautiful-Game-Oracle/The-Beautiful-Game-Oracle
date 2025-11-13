@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+23070,2023-08-19 13:30:00,Bundesliga,2023,VfB_Stuttgart,Bochum,Home,5,0,3.98664,0.669108,21,3,w
+23074,2023-08-25 18:30:00,Bundesliga,2023,VfB_Stuttgart,RasenBallsport Leipzig,Away,1,5,1.18326,2.0934,8,20,l
+23088,2023-09-02 13:30:00,Bundesliga,2023,VfB_Stuttgart,Freiburg,Home,5,0,2.09598,1.50372,13,13,w
+23096,2023-09-16 13:30:00,Bundesliga,2023,VfB_Stuttgart,Mainz 05,Away,3,1,2.06366,1.16545,15,15,w
+23101,2023-09-22 18:30:00,Bundesliga,2023,VfB_Stuttgart,Darmstadt,Home,3,1,3.04946,0.272376,19,3,w
+23115,2023-09-30 13:30:00,Bundesliga,2023,VfB_Stuttgart,FC Cologne,Away,2,0,2.06666,0.803426,18,14,w
+23123,2023-10-07 13:30:00,Bundesliga,2023,VfB_Stuttgart,Wolfsburg,Home,3,1,3.02575,1.06355,14,12,w
+23129,2023-10-21 13:30:00,Bundesliga,2023,VfB_Stuttgart,Union Berlin,Away,3,0,1.87513,0.573025,10,9,w
+23145,2023-10-28 13:30:00,Bundesliga,2023,VfB_Stuttgart,Hoffenheim,Home,2,3,3.15109,1.74412,23,7,l
+23153,2023-11-05 16:30:00,Bundesliga,2023,VfB_Stuttgart,FC Heidenheim,Away,0,2,2.57296,0.78335,16,19,l
+23162,2023-11-11 14:30:00,Bundesliga,2023,VfB_Stuttgart,Borussia Dortmund,Home,2,1,4.1718,0.7643,22,5,w
+23167,2023-11-25 17:30:00,Bundesliga,2023,VfB_Stuttgart,Eintracht Frankfurt,Away,2,1,2.29764,0.787582,12,14,w
+23180,2023-12-02 17:30:00,Bundesliga,2023,VfB_Stuttgart,Werder Bremen,Home,2,0,4.01803,0.65905,19,12,w
+23189,2023-12-10 14:30:00,Bundesliga,2023,VfB_Stuttgart,Bayer Leverkusen,Home,1,1,2.61136,1.47429,22,18,d
+23191,2023-12-17 18:30:00,Bundesliga,2023,VfB_Stuttgart,Bayern Munich,Away,0,3,0.309157,3.41522,6,17,l
+23207,2023-12-20 19:30:00,Bundesliga,2023,VfB_Stuttgart,Augsburg,Home,3,0,2.65007,0.224572,17,6,w
+23213,2024-01-14 16:30:00,Bundesliga,2023,VfB_Stuttgart,Borussia M.Gladbach,Away,1,3,1.24703,2.02288,15,8,l
+23224,2024-01-20 14:30:00,Bundesliga,2023,VfB_Stuttgart,Bochum,Away,0,1,1.99316,0.71453,19,6,l
+23235,2024-01-27 14:30:00,Bundesliga,2023,VfB_Stuttgart,RasenBallsport Leipzig,Home,5,2,3.13056,0.495967,18,4,w
+23238,2024-02-03 14:30:00,Bundesliga,2023,VfB_Stuttgart,Freiburg,Away,3,1,2.73728,1.15964,17,6,w
+23253,2024-02-11 14:30:00,Bundesliga,2023,VfB_Stuttgart,Mainz 05,Home,3,1,2.17007,1.61535,11,17,w
+23262,2024-02-17 14:30:00,Bundesliga,2023,VfB_Stuttgart,Darmstadt,Away,2,1,1.74454,2.66748,13,20,w
+23263,2024-02-24 14:30:00,Bundesliga,2023,VfB_Stuttgart,FC Cologne,Home,1,1,1.87785,1.43669,13,12,d
+23274,2024-03-02 17:30:00,Bundesliga,2023,VfB_Stuttgart,Wolfsburg,Away,3,2,1.04058,0.964288,7,12,w
+23289,2024-03-08 19:30:00,Bundesliga,2023,VfB_Stuttgart,Union Berlin,Home,2,0,1.30933,0.839212,14,9,w
+23296,2024-03-16 17:30:00,Bundesliga,2023,VfB_Stuttgart,Hoffenheim,Away,3,0,3.1752,0.229186,25,7,w
+23307,2024-03-31 16:30:00,Bundesliga,2023,VfB_Stuttgart,FC Heidenheim,Home,3,3,3.0588,1.62523,21,6,d
+23308,2024-04-06 16:30:00,Bundesliga,2023,VfB_Stuttgart,Borussia Dortmund,Away,1,0,1.82865,2.95333,10,16,w
+23324,2024-04-13 16:30:00,Bundesliga,2023,VfB_Stuttgart,Eintracht Frankfurt,Home,3,0,1.26199,0.565621,9,10,w
+23333,2024-04-21 13:30:00,Bundesliga,2023,VfB_Stuttgart,Werder Bremen,Away,1,2,3.32355,1.40776,14,9,l
+23338,2024-04-27 16:30:00,Bundesliga,2023,VfB_Stuttgart,Bayer Leverkusen,Away,2,2,2.02009,1.66579,11,14,d
+23351,2024-05-04 13:30:00,Bundesliga,2023,VfB_Stuttgart,Bayern Munich,Home,3,1,2.0106,1.92761,24,10,w
+23360,2024-05-10 18:30:00,Bundesliga,2023,VfB_Stuttgart,Augsburg,Away,1,0,1.82603,0.562362,19,9,w
+23369,2024-05-18 13:30:00,Bundesliga,2023,VfB_Stuttgart,Borussia M.Gladbach,Home,4,0,2.1075,1.65395,21,14,w

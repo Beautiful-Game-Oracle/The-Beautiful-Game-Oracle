@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+22309,2023-08-20 16:30:00,Serie_A,2023,Salernitana,Roma,Away,2,2,0.364297,2.00607,3,13,d
+22323,2023-08-28 16:30:00,Serie_A,2023,Salernitana,Udinese,Home,1,1,0.559371,0.548425,9,14,d
+22334,2023-09-03 18:45:00,Serie_A,2023,Salernitana,Lecce,Away,0,2,1.05367,1.83665,11,20,l
+22343,2023-09-18 16:30:00,Serie_A,2023,Salernitana,Torino,Home,0,3,0.694683,1.54562,14,11,l
+22350,2023-09-22 16:30:00,Serie_A,2023,Salernitana,Frosinone,Home,1,1,0.834621,0.98737,19,9,d
+22356,2023-09-27 16:30:00,Serie_A,2023,Salernitana,Empoli,Away,0,1,0.477434,2.29107,14,13,l
+22372,2023-09-30 18:45:00,Serie_A,2023,Salernitana,Inter,Home,0,4,0.620122,2.5554,12,16,l
+22381,2023-10-08 10:30:00,Serie_A,2023,Salernitana,Monza,Away,0,3,0.999628,3.73783,8,16,l
+22388,2023-10-22 13:00:00,Serie_A,2023,Salernitana,Cagliari,Home,2,2,1.33333,1.4958,13,13,d
+22396,2023-10-27 18:45:00,Serie_A,2023,Salernitana,Genoa,Away,0,1,0.778619,0.40726,7,8,l
+22413,2023-11-04 14:00:00,Serie_A,2023,Salernitana,Napoli,Home,0,2,0.322231,1.67658,10,21,l
+22423,2023-11-10 17:30:00,Serie_A,2023,Salernitana,Sassuolo,Away,2,2,0.946956,2.4684,9,29,d
+22431,2023-11-25 14:00:00,Serie_A,2023,Salernitana,Lazio,Home,2,1,1.40102,1.83536,13,13,w
+22435,2023-12-03 14:00:00,Serie_A,2023,Salernitana,Fiorentina,Away,0,3,0.780756,3.06935,11,22,l
+22452,2023-12-10 17:00:00,Serie_A,2023,Salernitana,Bologna,Home,1,2,0.601235,1.67302,9,10,l
+22455,2023-12-18 19:45:00,Serie_A,2023,Salernitana,Atalanta,Away,1,4,0.976758,2.34764,10,20,l
+22473,2023-12-22 19:45:00,Serie_A,2023,Salernitana,AC Milan,Home,2,2,1.14336,2.9432,19,21,d
+22479,2023-12-30 17:00:00,Serie_A,2023,Salernitana,Verona,Away,1,0,0.768493,0.812164,9,11,w
+22492,2024-01-07 17:00:00,Serie_A,2023,Salernitana,Juventus,Home,1,2,0.930992,1.82515,8,18,l
+22501,2024-01-13 14:00:00,Serie_A,2023,Salernitana,Napoli,Away,1,2,0.151576,2.73312,6,20,l
+22509,2024-01-21 17:00:00,Serie_A,2023,Salernitana,Genoa,Home,1,2,1.1539,1.11078,11,5,l
+22524,2024-01-29 19:45:00,Serie_A,2023,Salernitana,Roma,Home,1,2,1.42906,1.48834,15,5,l
+22529,2024-02-04 11:30:00,Serie_A,2023,Salernitana,Torino,Away,0,0,0.0814573,0.742534,3,13,d
+22541,2024-02-09 19:45:00,Serie_A,2023,Salernitana,Empoli,Home,1,3,0.799924,2.14988,14,17,l
+22550,2024-02-16 20:00:00,Serie_A,2023,Salernitana,Inter,Away,0,4,0.0464174,4.48759,1,26,l
+22564,2024-02-24 17:00:00,Serie_A,2023,Salernitana,Monza,Home,0,2,0.728802,2.6089,11,17,l
+22574,2024-03-02 14:00:00,Serie_A,2023,Salernitana,Udinese,Away,1,1,0.839171,1.98278,17,18,d
+22576,2024-03-09 14:00:00,Serie_A,2023,Salernitana,Cagliari,Away,2,4,1.17253,3.41823,12,12,l
+22594,2024-03-16 17:00:00,Serie_A,2023,Salernitana,Lecce,Home,0,1,1.45145,2.01475,16,17,l
+22596,2024-04-01 11:30:00,Serie_A,2023,Salernitana,Bologna,Away,0,3,0.702173,1.85322,8,14,l
+22611,2024-04-05 18:45:00,Serie_A,2023,Salernitana,Sassuolo,Home,2,2,1.2795,1.88042,5,16,d
+22615,2024-04-12 18:45:00,Serie_A,2023,Salernitana,Lazio,Away,1,4,0.544591,2.50164,8,17,l
+22631,2024-04-21 16:00:00,Serie_A,2023,Salernitana,Fiorentina,Home,0,2,0.32683,2.45106,5,12,l
+22640,2024-04-26 18:45:00,Serie_A,2023,Salernitana,Frosinone,Away,0,3,1.03098,1.75172,17,11,l
+22647,2024-05-06 16:00:00,Serie_A,2023,Salernitana,Atalanta,Home,1,2,0.497067,2.26499,9,17,l
+22660,2024-05-12 16:00:00,Serie_A,2023,Salernitana,Juventus,Away,1,1,0.921042,2.36999,13,25,d
+22673,2024-05-20 16:30:00,Serie_A,2023,Salernitana,Verona,Home,1,2,0.900837,2.33362,9,17,l
+22682,2024-05-25 18:45:00,Serie_A,2023,Salernitana,AC Milan,Away,3,3,1.80163,2.82527,14,23,d

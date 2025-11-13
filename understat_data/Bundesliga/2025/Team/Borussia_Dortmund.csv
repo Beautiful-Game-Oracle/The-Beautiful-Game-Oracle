@@ -1,0 +1,10 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+30230,2025-08-23 16:30:00,Bundesliga,2025,Borussia_Dortmund,St. Pauli,Away,3,3,2.10289,1.46772,8,11,d
+30240,2025-08-31 15:30:00,Bundesliga,2025,Borussia_Dortmund,Union Berlin,Home,3,0,1.82606,0.971167,11,12,w
+30244,2025-09-13 13:30:00,Bundesliga,2025,Borussia_Dortmund,FC Heidenheim,Away,2,0,2.84999,0.299026,17,6,w
+30259,2025-09-21 17:30:00,Bundesliga,2025,Borussia_Dortmund,Wolfsburg,Home,1,0,1.24747,0.975457,12,9,w
+30262,2025-09-27 13:30:00,Bundesliga,2025,Borussia_Dortmund,Mainz 05,Away,2,0,1.75519,0.525149,10,8,w
+30271,2025-10-04 13:30:00,Bundesliga,2025,Borussia_Dortmund,RasenBallsport Leipzig,Home,1,1,0.668613,1.14077,15,13,d
+30278,2025-10-18 16:30:00,Bundesliga,2025,Borussia_Dortmund,Bayern Munich,Away,1,2,1.41011,2.81994,8,15,l
+30290,2025-10-25 16:30:00,Bundesliga,2025,Borussia_Dortmund,FC Cologne,Home,1,0,2.09125,0.70563,27,5,w
+30296,2025-10-31 19:30:00,Bundesliga,2025,Borussia_Dortmund,Augsburg,Away,1,0,0.588196,0.969501,5,9,w

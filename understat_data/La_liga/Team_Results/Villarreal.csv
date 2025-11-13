@@ -124,3 +124,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29245,2025-10-18 16:30:00,La_liga,2025,Villarreal,Real Betis,Home,2,2,0.980598,0.895532,7,16,d,1
 29251,2025-10-25 19:00:00,La_liga,2025,Villarreal,Valencia,Away,2,0,2.62387,0.641435,12,15,w,3
 29267,2025-11-01 13:00:00,La_liga,2025,Villarreal,Rayo Vallecano,Home,4,0,2.7136,1.08632,16,13,w,3
+29271,2025-11-08 20:00:00,La_liga,2025,Villarreal,Espanyol,Away,2,0,1.47118,0.476157,9,14,w,3

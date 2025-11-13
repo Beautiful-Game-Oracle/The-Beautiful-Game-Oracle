@@ -1,0 +1,11 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29850,2025-08-24 18:45:00,Serie_A,2025,Atalanta,Pisa,Home,1,1,2.04697,1.02901,22,11,d
+29857,2025-08-30 16:30:00,Serie_A,2025,Atalanta,Parma Calcio 1913,Away,1,1,1.19727,0.751112,11,7,d
+29869,2025-09-14 13:00:00,Serie_A,2025,Atalanta,Lecce,Home,4,1,2.62415,0.532382,19,12,w
+29874,2025-09-21 13:00:00,Serie_A,2025,Atalanta,Torino,Away,3,0,1.67723,1.31336,9,11,w
+29887,2025-09-27 16:00:00,Serie_A,2025,Atalanta,Juventus,Away,1,1,0.885278,1.84242,12,24,d
+29894,2025-10-04 18:45:00,Serie_A,2025,Atalanta,Como,Home,1,1,1.74169,0.959121,16,12,d
+29904,2025-10-19 16:00:00,Serie_A,2025,Atalanta,Lazio,Home,0,0,2.38095,0.220276,16,4,d
+29916,2025-10-25 18:45:00,Serie_A,2025,Atalanta,Cremonese,Away,1,1,1.62371,0.967146,20,9,d
+29924,2025-10-28 18:45:00,Serie_A,2025,Atalanta,AC Milan,Home,1,1,1.28167,0.626418,17,6,d
+29942,2025-11-01 14:00:00,Serie_A,2025,Atalanta,Udinese,Away,0,1,0.270197,0.707338,5,11,l

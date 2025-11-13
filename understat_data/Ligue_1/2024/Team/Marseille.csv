@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+28049,2024-08-17 15:00:00,Ligue_1,2024,Marseille,Brest,Away,5,1,2.96496,1.51475,7,10,w
+28065,2024-08-25 18:45:00,Ligue_1,2024,Marseille,Reims,Home,2,2,2.94016,1.01201,21,13,d
+28069,2024-08-31 19:00:00,Ligue_1,2024,Marseille,Toulouse,Away,3,1,1.29819,0.485368,12,4,w
+28076,2024-09-14 15:00:00,Ligue_1,2024,Marseille,Nice,Home,2,0,1.02694,1.72041,10,11,w
+28084,2024-09-22 18:45:00,Ligue_1,2024,Marseille,Lyon,Away,3,2,0.675578,3.89273,9,22,w
+28093,2024-09-29 18:45:00,Ligue_1,2024,Marseille,Strasbourg,Away,0,1,0.782395,1.67455,10,14,l
+28109,2024-10-04 18:45:00,Ligue_1,2024,Marseille,Angers,Home,1,1,0.896807,1.19435,16,10,d
+28112,2024-10-20 18:45:00,Ligue_1,2024,Marseille,Montpellier,Away,5,0,3.88109,1.75684,21,13,w
+28127,2024-10-27 19:45:00,Ligue_1,2024,Marseille,Paris Saint Germain,Home,0,3,0.277951,4.04221,6,19,l
+28135,2024-11-03 19:45:00,Ligue_1,2024,Marseille,Nantes,Away,2,1,0.876221,1.25901,9,7,w
+28146,2024-11-08 19:45:00,Ligue_1,2024,Marseille,Auxerre,Home,1,3,2.02831,2.09466,19,10,l
+28148,2024-11-23 16:00:00,Ligue_1,2024,Marseille,Lens,Away,3,1,1.37895,2.1723,10,16,w
+28162,2024-12-01 19:45:00,Ligue_1,2024,Marseille,Monaco,Home,2,1,1.65632,0.958578,9,7,w
+28167,2024-12-08 19:45:00,Ligue_1,2024,Marseille,Saint-Etienne,Away,2,0,2.9851,0.166752,21,3,w
+28181,2024-12-14 16:00:00,Ligue_1,2024,Marseille,Lille,Home,1,1,1.21515,1.24013,9,10,d
+28189,2025-01-05 19:45:00,Ligue_1,2024,Marseille,Le Havre,Home,5,1,3.17491,0.885341,15,4,w
+28200,2025-01-11 20:00:00,Ligue_1,2024,Marseille,Rennes,Away,2,1,2.49254,1.76569,13,5,w
+28201,2025-01-19 19:45:00,Ligue_1,2024,Marseille,Strasbourg,Home,1,1,3.29082,0.854933,18,7,d
+28217,2025-01-26 19:45:00,Ligue_1,2024,Marseille,Nice,Away,0,2,1.11157,2.10992,18,14,l
+28219,2025-02-02 19:45:00,Ligue_1,2024,Marseille,Lyon,Home,3,2,3.61972,1.83806,20,10,w
+28235,2025-02-09 19:45:00,Ligue_1,2024,Marseille,Angers,Away,2,0,2.87581,0.367397,18,5,w
+28238,2025-02-15 16:00:00,Ligue_1,2024,Marseille,Saint-Etienne,Home,5,1,5.94236,1.0312,28,7,w
+28252,2025-02-22 20:05:00,Ligue_1,2024,Marseille,Auxerre,Away,0,3,1.22185,1.96607,8,9,l
+28256,2025-03-02 19:45:00,Ligue_1,2024,Marseille,Nantes,Home,2,0,2.61727,0.838148,21,8,w
+28272,2025-03-08 20:05:00,Ligue_1,2024,Marseille,Lens,Home,0,1,1.18945,1.23993,15,3,l
+28273,2025-03-16 19:45:00,Ligue_1,2024,Marseille,Paris Saint Germain,Away,1,3,0.734284,2.60859,12,16,l
+28288,2025-03-29 16:00:00,Ligue_1,2024,Marseille,Reims,Away,1,3,1.07885,1.05547,20,7,l
+28291,2025-04-06 18:45:00,Ligue_1,2024,Marseille,Toulouse,Home,3,2,1.13222,1.30619,9,9,w
+28308,2025-04-12 15:00:00,Ligue_1,2024,Marseille,Monaco,Away,0,3,0.877673,2.91516,8,15,l
+28314,2025-04-19 19:05:00,Ligue_1,2024,Marseille,Montpellier,Home,5,1,3.82233,0.304052,17,7,w
+28325,2025-04-27 18:45:00,Ligue_1,2024,Marseille,Brest,Home,4,1,1.12568,2.00913,11,9,w
+28331,2025-05-04 18:45:00,Ligue_1,2024,Marseille,Lille,Away,1,1,1.42571,0.682721,13,5,d
+28339,2025-05-10 19:00:00,Ligue_1,2024,Marseille,Le Havre,Away,3,1,2.16132,1.10297,22,10,w
+28346,2025-05-17 19:00:00,Ligue_1,2024,Marseille,Rennes,Home,4,2,4.06558,1.40321,17,9,w

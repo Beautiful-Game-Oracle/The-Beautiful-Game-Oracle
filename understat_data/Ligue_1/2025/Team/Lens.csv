@@ -1,0 +1,12 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29539,2025-08-16 15:00:00,Ligue_1,2025,Lens,Lyon,Home,0,1,1.87447,1.615,18,11,l
+29553,2025-08-24 15:15:00,Ligue_1,2025,Lens,Le Havre,Away,2,1,1.29098,2.0398,6,18,w
+29556,2025-08-29 18:45:00,Ligue_1,2025,Lens,Brest,Home,3,1,4.42054,0.963409,30,9,w
+29571,2025-09-14 15:15:00,Ligue_1,2025,Lens,Paris Saint Germain,Away,0,2,1.2242,1.05815,11,14,l
+29577,2025-09-20 19:05:00,Ligue_1,2025,Lens,Lille,Home,3,0,3.8174,1.89889,15,17,w
+29589,2025-09-28 18:45:00,Ligue_1,2025,Lens,Rennes,Away,0,0,1.51932,1.57438,13,14,d
+29592,2025-10-04 19:05:00,Ligue_1,2025,Lens,Auxerre,Away,2,1,0.471027,1.27422,7,18,w
+29602,2025-10-19 13:00:00,Ligue_1,2025,Lens,Paris FC,Home,2,1,1.98018,0.583966,11,9,w
+29612,2025-10-25 19:05:00,Ligue_1,2025,Lens,Marseille,Home,2,1,1.87596,0.765479,8,18,w
+29625,2025-10-29 17:00:00,Ligue_1,2025,Lens,Metz,Away,0,2,1.23771,3.11925,10,16,l
+29630,2025-11-02 16:15:00,Ligue_1,2025,Lens,Lorient,Home,3,0,3.21467,1.98367,9,12,w

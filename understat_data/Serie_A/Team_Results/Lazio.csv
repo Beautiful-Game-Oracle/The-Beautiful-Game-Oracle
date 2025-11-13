@@ -123,3 +123,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29918,2025-10-26 18:45:00,Serie_A,2025,Lazio,Juventus,Home,1,0,0.905304,1.24614,13,14,w,3
 29932,2025-10-30 18:45:00,Serie_A,2025,Lazio,Pisa,Away,0,0,0.657914,0.780185,11,10,d,1
 29936,2025-11-03 19:45:00,Serie_A,2025,Lazio,Cagliari,Home,2,0,0.587684,1.48457,8,17,w,3
+29948,2025-11-09 19:45:00,Serie_A,2025,Lazio,Inter,Away,0,2,0.54928,1.73965,8,8,l,0

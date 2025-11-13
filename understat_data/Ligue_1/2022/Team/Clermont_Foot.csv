@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+19650,2022-08-06 19:00:00,Ligue_1,2022,Clermont_Foot,Paris Saint Germain,Home,0,5,0.194932,4.11887,7,18,l
+19664,2022-08-14 13:00:00,Ligue_1,2022,Clermont_Foot,Reims,Away,4,2,1.56704,2.65438,10,9,w
+19670,2022-08-21 13:00:00,Ligue_1,2022,Clermont_Foot,Nice,Home,1,0,0.712338,1.63135,7,13,w
+19680,2022-08-28 13:00:00,Ligue_1,2022,Clermont_Foot,Lorient,Away,1,2,0.432527,3.46625,9,22,l
+19693,2022-08-31 19:00:00,Ligue_1,2022,Clermont_Foot,Marseille,Away,0,1,0.164123,2.50885,3,21,l
+19700,2022-09-04 13:00:00,Ligue_1,2022,Clermont_Foot,Toulouse,Home,2,0,1.50732,1.44839,12,14,w
+19715,2022-09-11 11:00:00,Ligue_1,2022,Clermont_Foot,Strasbourg,Away,0,0,0.959426,2.60466,10,12,d
+19719,2022-09-18 13:00:00,Ligue_1,2022,Clermont_Foot,Troyes,Home,1,3,1.25973,1.3715,14,9,l
+19728,2022-10-02 13:00:00,Ligue_1,2022,Clermont_Foot,Ajaccio,Away,3,1,1.29246,1.28297,7,12,w
+19739,2022-10-09 13:00:00,Ligue_1,2022,Clermont_Foot,Auxerre,Home,2,1,1.41698,1.00824,10,14,w
+19749,2022-10-16 15:05:00,Ligue_1,2022,Clermont_Foot,Monaco,Away,1,1,2.49917,1.00523,21,6,d
+19760,2022-10-23 13:00:00,Ligue_1,2022,Clermont_Foot,Brest,Home,1,3,0.70294,2.73014,14,19,l
+19771,2022-10-30 14:00:00,Ligue_1,2022,Clermont_Foot,Nantes,Away,1,1,0.713991,1.95172,10,13,d
+19780,2022-11-06 14:00:00,Ligue_1,2022,Clermont_Foot,Montpellier,Home,1,1,3.88422,1.22262,16,7,d
+19794,2022-11-12 16:00:00,Ligue_1,2022,Clermont_Foot,Lens,Away,1,2,0.213092,1.4242,5,17,l
+19800,2022-12-28 18:00:00,Ligue_1,2022,Clermont_Foot,Lille,Home,0,2,0.511123,1.79335,9,14,l
+19813,2023-01-01 16:00:00,Ligue_1,2022,Clermont_Foot,Lyon,Away,1,0,1.2056,0.736196,13,13,w
+19820,2023-01-11 18:00:00,Ligue_1,2022,Clermont_Foot,Rennes,Home,2,1,1.92657,0.900551,11,9,w
+19829,2023-01-15 14:00:00,Ligue_1,2022,Clermont_Foot,Angers,Away,2,1,2.1061,0.394709,10,5,w
+19840,2023-01-29 14:00:00,Ligue_1,2022,Clermont_Foot,Nantes,Home,0,0,0.639165,0.124573,9,4,d
+19851,2023-02-01 18:00:00,Ligue_1,2022,Clermont_Foot,Lille,Away,0,0,1.53598,1.75188,13,22,d
+19860,2023-02-05 12:00:00,Ligue_1,2022,Clermont_Foot,Monaco,Home,0,2,0.276781,1.46634,8,14,l
+19870,2023-02-11 20:00:00,Ligue_1,2022,Clermont_Foot,Marseille,Home,0,2,1.08989,2.10938,9,17,l
+19885,2023-02-19 14:00:00,Ligue_1,2022,Clermont_Foot,Rennes,Away,0,2,0.86584,1.67258,7,18,l
+19891,2023-02-26 14:00:00,Ligue_1,2022,Clermont_Foot,Strasbourg,Home,1,1,1.74774,0.920081,11,11,d
+19906,2023-03-05 14:00:00,Ligue_1,2022,Clermont_Foot,Toulouse,Away,1,0,0.647727,1.02505,12,9,w
+19912,2023-03-12 12:00:00,Ligue_1,2022,Clermont_Foot,Lens,Home,0,4,1.86085,2.00502,9,13,l
+19919,2023-03-19 14:00:00,Ligue_1,2022,Clermont_Foot,Montpellier,Away,1,2,1.40585,3.01981,16,23,l
+19931,2023-04-02 13:00:00,Ligue_1,2022,Clermont_Foot,Ajaccio,Home,2,1,2.13637,0.411997,14,3,w
+19947,2023-04-09 13:00:00,Ligue_1,2022,Clermont_Foot,Troyes,Away,2,0,1.86113,0.488321,12,9,w
+19950,2023-04-16 13:00:00,Ligue_1,2022,Clermont_Foot,Angers,Home,2,1,2.01768,0.327937,12,7,w
+19964,2023-04-23 13:00:00,Ligue_1,2022,Clermont_Foot,Nice,Away,2,1,0.917427,1.52279,9,15,w
+19969,2023-04-30 13:00:00,Ligue_1,2022,Clermont_Foot,Reims,Home,1,0,1.12839,0.483303,6,13,w
+19979,2023-05-07 13:00:00,Ligue_1,2022,Clermont_Foot,Auxerre,Away,1,1,1.82065,1.57698,9,11,d
+19989,2023-05-14 11:00:00,Ligue_1,2022,Clermont_Foot,Lyon,Home,2,1,1.73834,1.90489,9,15,w
+20005,2023-05-21 13:00:00,Ligue_1,2022,Clermont_Foot,Brest,Away,1,2,0.36306,1.14332,8,10,l
+20009,2023-05-27 19:00:00,Ligue_1,2022,Clermont_Foot,Lorient,Home,2,0,1.34675,0.9985,18,6,w
+20024,2023-06-03 17:00:00,Ligue_1,2022,Clermont_Foot,Paris Saint Germain,Away,3,2,2.97907,2.23509,12,16,w

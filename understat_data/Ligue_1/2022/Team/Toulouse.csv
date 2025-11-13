@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+19651,2022-08-07 11:00:00,Ligue_1,2022,Toulouse,Nice,Home,1,1,1.85439,0.69938,6,11,d
+19665,2022-08-14 13:00:00,Ligue_1,2022,Toulouse,Troyes,Away,3,0,2.07677,0.925402,10,13,w
+19677,2022-08-21 13:00:00,Ligue_1,2022,Toulouse,Lorient,Home,2,2,2.48022,2.96569,16,14,d
+19681,2022-08-28 11:00:00,Ligue_1,2022,Toulouse,Nantes,Away,1,3,0.531418,1.80364,9,16,l
+19697,2022-08-31 19:00:00,Ligue_1,2022,Toulouse,Paris Saint Germain,Home,0,3,0.582625,3.93565,14,20,l
+19700,2022-09-04 13:00:00,Ligue_1,2022,Toulouse,Clermont Foot,Away,0,2,1.44839,1.50732,14,12,l
+19717,2022-09-11 13:00:00,Ligue_1,2022,Toulouse,Reims,Home,1,0,2.111,0.461404,14,10,w
+19721,2022-09-17 19:00:00,Ligue_1,2022,Toulouse,Lille,Away,1,2,0.882322,1.16749,14,10,l
+19736,2022-10-02 13:00:00,Ligue_1,2022,Toulouse,Montpellier,Home,4,2,1.92662,1.73475,12,23,w
+19743,2022-10-07 19:00:00,Ligue_1,2022,Toulouse,Lyon,Away,1,1,0.582894,1.74178,5,19,d
+19756,2022-10-16 11:00:00,Ligue_1,2022,Toulouse,Angers,Home,3,2,2.46525,1.50535,14,13,w
+19766,2022-10-23 13:00:00,Ligue_1,2022,Toulouse,Strasbourg,Home,2,2,1.86579,1.63235,17,11,d
+19774,2022-10-28 19:00:00,Ligue_1,2022,Toulouse,Lens,Away,0,3,0.845923,2.64413,9,13,l
+19786,2022-11-06 14:00:00,Ligue_1,2022,Toulouse,Monaco,Home,0,2,0.569642,2.03182,13,24,l
+19797,2022-11-12 20:00:00,Ligue_1,2022,Toulouse,Rennes,Away,1,2,1.11684,1.94787,10,16,l
+19803,2022-12-29 20:00:00,Ligue_1,2022,Toulouse,Marseille,Away,1,6,1.73074,3.90797,11,12,l
+19817,2023-01-01 14:00:00,Ligue_1,2022,Toulouse,Ajaccio,Home,2,0,1.33519,0.0445009,11,1,w
+19819,2023-01-11 18:00:00,Ligue_1,2022,Toulouse,Auxerre,Away,5,0,2.32789,1.19864,9,19,w
+19837,2023-01-15 14:00:00,Ligue_1,2022,Toulouse,Brest,Home,1,1,1.54762,0.754561,16,17,d
+19845,2023-01-29 14:00:00,Ligue_1,2022,Toulouse,Strasbourg,Away,2,1,2.05016,0.899943,10,11,w
+19857,2023-02-01 18:00:00,Ligue_1,2022,Toulouse,Troyes,Home,4,1,2.94929,1.25445,13,11,w
+19863,2023-02-04 16:00:00,Ligue_1,2022,Toulouse,Paris Saint Germain,Away,1,2,0.72878,1.80428,14,22,l
+19877,2023-02-12 12:00:00,Ligue_1,2022,Toulouse,Rennes,Home,3,1,2.71302,1.19649,14,13,w
+19886,2023-02-19 19:45:00,Ligue_1,2022,Toulouse,Marseille,Home,2,3,2.09816,1.21797,15,15,l
+19897,2023-02-26 14:00:00,Ligue_1,2022,Toulouse,Reims,Away,0,3,0.52285,2.17445,13,18,l
+19906,2023-03-05 14:00:00,Ligue_1,2022,Toulouse,Clermont Foot,Home,0,1,1.02505,0.647727,9,12,l
+19911,2023-03-12 14:00:00,Ligue_1,2022,Toulouse,Angers,Away,2,0,1.56928,1.02056,8,13,w
+19926,2023-03-18 16:00:00,Ligue_1,2022,Toulouse,Lille,Home,0,2,2.05248,1.96469,16,18,l
+19936,2023-04-02 13:00:00,Ligue_1,2022,Toulouse,Brest,Away,1,3,1.77942,1.47173,8,17,l
+19942,2023-04-09 13:00:00,Ligue_1,2022,Toulouse,Montpellier,Away,2,1,2.20627,1.79324,15,15,w
+19957,2023-04-14 19:00:00,Ligue_1,2022,Toulouse,Lyon,Home,1,2,1.51685,2.988,14,14,l
+19961,2023-04-23 13:00:00,Ligue_1,2022,Toulouse,Lorient,Away,1,0,1.25506,0.506852,13,9,w
+19976,2023-05-02 19:00:00,Ligue_1,2022,Toulouse,Lens,Home,0,1,0.396677,1.35975,8,11,l
+19978,2023-05-07 13:00:00,Ligue_1,2022,Toulouse,Ajaccio,Away,0,0,2.52738,0.211301,15,4,d
+19997,2023-05-14 13:00:00,Ligue_1,2022,Toulouse,Nantes,Home,0,0,1.24578,0.621868,14,8,d
+20003,2023-05-21 13:00:00,Ligue_1,2022,Toulouse,Nice,Away,0,0,0.964577,2.78131,7,21,d
+20017,2023-05-27 19:00:00,Ligue_1,2022,Toulouse,Auxerre,Home,1,1,1.21674,0.653455,10,16,d
+20020,2023-06-03 17:00:00,Ligue_1,2022,Toulouse,Monaco,Away,2,1,2.66693,2.1529,22,19,w

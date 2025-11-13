@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+27363,2024-08-17 16:30:00,Serie_A,2024,Fiorentina,Parma Calcio 1913,Away,1,1,0.81313,1.83796,15,14,d
+27376,2024-08-25 16:30:00,Serie_A,2024,Fiorentina,Venezia,Home,0,0,0.660213,1.01295,14,8,d
+27388,2024-09-01 16:30:00,Serie_A,2024,Fiorentina,Monza,Home,2,2,2.41541,0.489982,18,4,d
+27393,2024-09-15 13:00:00,Serie_A,2024,Fiorentina,Atalanta,Away,2,3,1.96392,2.4507,13,13,l
+27404,2024-09-22 10:30:00,Serie_A,2024,Fiorentina,Lazio,Home,2,1,2.85634,1.14467,14,20,w
+27415,2024-09-29 16:00:00,Serie_A,2024,Fiorentina,Empoli,Away,0,0,1.25438,0.44778,13,8,d
+27426,2024-10-06 18:45:00,Serie_A,2024,Fiorentina,AC Milan,Home,2,1,1.94286,2.83446,12,16,w
+27439,2024-10-20 13:00:00,Serie_A,2024,Fiorentina,Lecce,Away,6,0,2.21676,0.223823,19,5,w
+27445,2024-10-27 19:45:00,Serie_A,2024,Fiorentina,Roma,Home,5,1,4.56893,0.657353,21,15,w
+27456,2024-10-31 17:30:00,Serie_A,2024,Fiorentina,Genoa,Away,1,0,0.909048,0.848655,12,14,w
+27470,2024-11-03 14:00:00,Serie_A,2024,Fiorentina,Torino,Away,1,0,0.523302,0.590362,8,9,w
+27479,2024-11-10 14:00:00,Serie_A,2024,Fiorentina,Verona,Home,3,1,2.77034,0.53544,11,8,w
+27482,2024-11-24 14:00:00,Serie_A,2024,Fiorentina,Como,Away,2,0,0.947266,1.27005,8,10,w
+27504,2024-12-08 11:30:00,Serie_A,2024,Fiorentina,Cagliari,Home,1,0,0.412045,1.00073,8,8,w
+27518,2024-12-15 14:00:00,Serie_A,2024,Fiorentina,Bologna,Away,0,1,1.14307,2.32266,10,16,l
+27523,2024-12-23 17:30:00,Serie_A,2024,Fiorentina,Udinese,Home,1,2,1.55716,0.858846,14,11,l
+27537,2024-12-29 17:00:00,Serie_A,2024,Fiorentina,Juventus,Away,2,2,1.02946,1.74742,11,15,d
+27544,2025-01-04 17:00:00,Serie_A,2024,Fiorentina,Napoli,Home,0,3,0.877617,1.59728,14,10,l
+27552,2025-01-13 19:45:00,Serie_A,2024,Fiorentina,Monza,Away,1,2,1.60714,0.988429,11,10,l
+27565,2025-01-19 11:30:00,Serie_A,2024,Fiorentina,Torino,Home,1,1,1.81758,0.540016,20,6,d
+27574,2025-01-26 19:45:00,Serie_A,2024,Fiorentina,Lazio,Away,2,1,1.20023,2.01121,7,22,w
+27587,2025-02-02 14:00:00,Serie_A,2024,Fiorentina,Genoa,Home,2,1,0.695448,1.96523,7,17,w
+27497,2025-02-06 19:30:00,Serie_A,2024,Fiorentina,Inter,Home,3,0,1.05274,0.589261,10,11,w
+27596,2025-02-10 19:45:00,Serie_A,2024,Fiorentina,Inter,Away,1,2,1.03291,1.87526,8,22,l
+27611,2025-02-16 11:30:00,Serie_A,2024,Fiorentina,Como,Home,0,2,0.431215,0.875449,5,8,l
+27613,2025-02-23 14:00:00,Serie_A,2024,Fiorentina,Verona,Away,0,1,1.15567,0.450798,8,7,l
+27624,2025-02-28 19:45:00,Serie_A,2024,Fiorentina,Lecce,Home,1,0,1.43821,1.11638,10,8,w
+27640,2025-03-09 14:00:00,Serie_A,2024,Fiorentina,Napoli,Away,1,2,1.05617,2.93764,8,19,l
+27644,2025-03-16 17:00:00,Serie_A,2024,Fiorentina,Juventus,Home,3,0,0.508254,0.597644,9,11,w
+27661,2025-03-30 14:00:00,Serie_A,2024,Fiorentina,Atalanta,Home,1,0,1.92673,0.918743,12,9,w
+27669,2025-04-05 18:45:00,Serie_A,2024,Fiorentina,AC Milan,Away,2,2,3.04937,2.17819,15,20,d
+27676,2025-04-13 13:00:00,Serie_A,2024,Fiorentina,Parma Calcio 1913,Home,0,0,0.670714,0.616318,9,7,d
+27683,2025-04-23 16:30:00,Serie_A,2024,Fiorentina,Cagliari,Away,2,1,0.701424,0.367407,8,8,w
+27695,2025-04-27 13:00:00,Serie_A,2024,Fiorentina,Empoli,Home,2,1,0.655092,0.465943,6,8,w
+27710,2025-05-04 16:00:00,Serie_A,2024,Fiorentina,Roma,Away,0,1,0.760529,1.00134,13,12,l
+27721,2025-05-12 16:30:00,Serie_A,2024,Fiorentina,Venezia,Away,1,2,0.994541,2.25991,16,9,l
+27723,2025-05-18 18:45:00,Serie_A,2024,Fiorentina,Bologna,Home,3,2,1.43018,1.51953,6,15,w
+27741,2025-05-25 18:45:00,Serie_A,2024,Fiorentina,Udinese,Away,3,2,3.06465,1.61711,25,12,w

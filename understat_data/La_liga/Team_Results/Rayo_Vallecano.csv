@@ -124,3 +124,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29243,2025-10-19 16:30:00,La_liga,2025,Rayo Vallecano,Levante,Away,3,0,2.53118,0.940509,10,17,w,3
 29252,2025-10-26 20:00:00,La_liga,2025,Rayo Vallecano,Alaves,Home,1,0,1.54971,1.41466,15,12,w,3
 29267,2025-11-01 13:00:00,La_liga,2025,Rayo Vallecano,Villarreal,Away,0,4,1.08632,2.7136,13,16,l,0
+29272,2025-11-09 15:15:00,La_liga,2025,Rayo Vallecano,Real Madrid,Home,0,0,1.60641,0.841463,13,21,d,1

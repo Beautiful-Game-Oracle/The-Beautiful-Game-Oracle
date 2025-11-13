@@ -1,0 +1,10 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+30225,2025-08-23 13:30:00,Bundesliga,2025,Wolfsburg,FC Heidenheim,Away,3,1,2.57718,0.783156,15,7,w
+30239,2025-08-31 13:30:00,Bundesliga,2025,Wolfsburg,Mainz 05,Home,1,1,0.616661,1.81482,11,17,d
+30246,2025-09-13 13:30:00,Bundesliga,2025,Wolfsburg,FC Cologne,Home,3,3,1.79835,1.72631,14,14,d
+30259,2025-09-21 17:30:00,Bundesliga,2025,Wolfsburg,Borussia Dortmund,Away,0,1,0.975457,1.24747,9,12,l
+30264,2025-09-27 13:30:00,Bundesliga,2025,Wolfsburg,RasenBallsport Leipzig,Home,0,1,2.59654,2.61107,22,20,l
+30276,2025-10-04 13:30:00,Bundesliga,2025,Wolfsburg,Augsburg,Away,1,3,1.22584,1.75326,14,10,l
+30286,2025-10-18 13:30:00,Bundesliga,2025,Wolfsburg,VfB Stuttgart,Home,0,3,0.392885,2.39474,11,15,l
+30292,2025-10-25 13:30:00,Bundesliga,2025,Wolfsburg,Hamburger SV,Away,1,0,0.695528,2.40547,6,26,w
+30304,2025-11-02 16:30:00,Bundesliga,2025,Wolfsburg,Hoffenheim,Home,2,3,1.40117,1.74291,12,10,l

@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+22280,2023-08-12 14:00:00,EPL,2023,Sheffield_United,Crystal Palace,Home,0,1,0.422704,2.27616,8,24,l
+22285,2023-08-18 18:45:00,EPL,2023,Sheffield_United,Nottingham Forest,Away,1,2,0.551038,1.37181,7,16,l
+22303,2023-08-27 13:00:00,EPL,2023,Sheffield_United,Manchester City,Home,1,2,0.762232,3.84804,6,30,l
+21926,2023-09-02 11:30:00,EPL,2023,Sheffield_United,Everton,Home,2,2,1.575,2.73871,13,17,d
+21936,2023-09-16 14:00:00,EPL,2023,Sheffield_United,Tottenham,Away,1,2,0.790655,2.15909,7,28,l
+21954,2023-09-24 15:30:00,EPL,2023,Sheffield_United,Newcastle United,Home,0,8,0.579392,5.1082,9,22,l
+21960,2023-09-30 14:00:00,EPL,2023,Sheffield_United,West Ham,Away,0,2,0.911997,3.19753,16,20,l
+21970,2023-10-07 14:00:00,EPL,2023,Sheffield_United,Fulham,Away,1,3,0.251809,2.26612,6,21,l
+21983,2023-10-21 19:00:00,EPL,2023,Sheffield_United,Manchester United,Home,1,2,1.41074,1.46187,12,14,l
+21986,2023-10-28 14:00:00,EPL,2023,Sheffield_United,Arsenal,Away,0,5,0.0281554,3.03496,2,13,l
+22003,2023-11-04 15:00:00,EPL,2023,Sheffield_United,Wolverhampton Wanderers,Home,2,1,1.10165,1.14803,11,10,w
+22008,2023-11-12 14:00:00,EPL,2023,Sheffield_United,Brighton,Away,1,1,0.84434,1.08601,9,12,d
+22023,2023-11-25 15:00:00,EPL,2023,Sheffield_United,Bournemouth,Home,1,3,0.816227,3.13975,10,23,l
+22028,2023-12-02 15:00:00,EPL,2023,Sheffield_United,Burnley,Away,0,5,0.618131,2.60469,6,19,l
+22040,2023-12-06 19:30:00,EPL,2023,Sheffield_United,Liverpool,Home,0,2,0.834172,1.80116,5,15,l
+22052,2023-12-09 15:00:00,EPL,2023,Sheffield_United,Brentford,Home,1,0,0.841976,0.644638,9,10,w
+22059,2023-12-16 15:00:00,EPL,2023,Sheffield_United,Chelsea,Away,0,2,0.44014,3.27322,6,15,l
+22065,2023-12-22 20:00:00,EPL,2023,Sheffield_United,Aston Villa,Away,1,1,0.646159,1.21861,5,11,d
+22084,2023-12-26 15:00:00,EPL,2023,Sheffield_United,Luton,Home,2,3,3.61788,0.715575,23,12,l
+22090,2023-12-30 15:00:00,EPL,2023,Sheffield_United,Manchester City,Away,0,2,0.263211,2.24229,4,18,l
+22101,2024-01-21 14:00:00,EPL,2023,Sheffield_United,West Ham,Home,2,2,2.61362,2.4241,21,16,d
+22112,2024-01-30 20:00:00,EPL,2023,Sheffield_United,Crystal Palace,Away,2,3,0.768467,1.1601,9,12,l
+22124,2024-02-03 17:30:00,EPL,2023,Sheffield_United,Aston Villa,Home,0,5,1.52784,2.99015,10,14,l
+22129,2024-02-10 15:00:00,EPL,2023,Sheffield_United,Luton,Away,3,1,1.98283,1.76215,7,20,w
+22143,2024-02-18 14:00:00,EPL,2023,Sheffield_United,Brighton,Home,0,5,0.586214,3.35549,7,24,l
+22154,2024-02-25 13:30:00,EPL,2023,Sheffield_United,Wolverhampton Wanderers,Away,0,1,0.654342,1.21618,12,13,l
+22163,2024-03-04 20:00:00,EPL,2023,Sheffield_United,Arsenal,Home,0,6,0.201374,2.47294,5,22,l
+22165,2024-03-09 15:00:00,EPL,2023,Sheffield_United,Bournemouth,Away,2,2,1.91752,3.92657,13,32,d
+22193,2024-03-30 15:00:00,EPL,2023,Sheffield_United,Fulham,Home,3,3,1.78824,1.10254,8,24,d
+22203,2024-04-04 18:30:00,EPL,2023,Sheffield_United,Liverpool,Away,1,3,0.720948,2.51772,5,30,l
+22212,2024-04-07 16:30:00,EPL,2023,Sheffield_United,Chelsea,Home,2,2,1.74265,0.521789,11,6,d
+22217,2024-04-13 14:00:00,EPL,2023,Sheffield_United,Brentford,Away,0,2,0.834498,1.09071,9,9,l
+22232,2024-04-20 14:00:00,EPL,2023,Sheffield_United,Burnley,Home,1,4,1.97816,2.42338,18,16,l
+22182,2024-04-24 19:00:00,EPL,2023,Sheffield_United,Manchester United,Away,2,4,1.20517,3.51311,10,25,l
+22240,2024-04-27 14:00:00,EPL,2023,Sheffield_United,Newcastle United,Away,1,5,1.82408,2.93477,16,20,l
+22254,2024-05-04 14:00:00,EPL,2023,Sheffield_United,Nottingham Forest,Home,1,3,2.48986,1.93818,17,15,l
+22257,2024-05-11 14:00:00,EPL,2023,Sheffield_United,Everton,Away,0,1,0.465523,1.82411,13,15,l
+22274,2024-05-19 15:00:00,EPL,2023,Sheffield_United,Tottenham,Home,0,3,0.697312,3.19675,6,18,l

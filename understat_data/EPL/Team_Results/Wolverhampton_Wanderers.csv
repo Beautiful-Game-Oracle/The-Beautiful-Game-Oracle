@@ -123,3 +123,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 28855,2025-10-18 14:00:00,EPL,2025,Wolverhampton Wanderers,Sunderland,Away,0,2,0.676323,1.02481,17,8,l,0
 28867,2025-10-26 13:00:00,EPL,2025,Wolverhampton Wanderers,Burnley,Home,2,3,2.58132,1.54544,15,11,l,0
 28871,2025-11-01 15:00:00,EPL,2025,Wolverhampton Wanderers,Fulham,Away,0,3,0.209934,1.91207,6,19,l,0
+28880,2025-11-08 20:00:00,EPL,2025,Wolverhampton Wanderers,Chelsea,Away,0,3,0.111462,3.98342,3,20,l,0

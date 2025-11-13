@@ -44,3 +44,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29617,2025-10-26 13:00:00,Ligue_1,2025,Metz,Lille,Away,1,6,1.01476,3.85054,10,23,l,0
 29625,2025-10-29 17:00:00,Ligue_1,2025,Metz,Lens,Home,2,0,3.11925,1.23771,16,10,w,3
 29633,2025-11-02 16:15:00,Ligue_1,2025,Metz,Nantes,Away,2,0,1.36245,1.07598,14,16,w,3
+29642,2025-11-09 16:15:00,Ligue_1,2025,Metz,Nice,Home,2,1,1.32977,0.784993,9,11,w,3

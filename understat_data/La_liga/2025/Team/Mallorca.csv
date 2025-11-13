@@ -1,0 +1,12 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29160,2025-08-16 17:30:00,La_liga,2025,Mallorca,Barcelona,Home,0,3,0.529217,2.0243,4,24,l
+29169,2025-08-23 15:00:00,La_liga,2025,Mallorca,Celta Vigo,Home,1,1,0.664974,0.917413,12,8,d
+29184,2025-08-30 19:30:00,La_liga,2025,Mallorca,Real Madrid,Away,1,2,0.549872,1.84116,9,17,l
+29198,2025-09-15 19:00:00,La_liga,2025,Mallorca,Espanyol,Away,2,3,2.03185,2.67405,23,9,l
+29204,2025-09-21 14:15:00,La_liga,2025,Mallorca,Atletico Madrid,Home,1,1,0.530939,2.08772,8,12,d
+29215,2025-09-24 19:30:00,La_liga,2025,Mallorca,Real Sociedad,Away,0,1,0.641137,2.82857,7,17,l
+29224,2025-09-27 16:30:00,La_liga,2025,Mallorca,Alaves,Home,1,0,1.04267,0.566415,12,12,w
+29229,2025-10-04 16:30:00,La_liga,2025,Mallorca,Athletic Club,Away,1,2,0.213773,1.73351,6,18,l
+29247,2025-10-18 12:00:00,La_liga,2025,Mallorca,Sevilla,Away,3,1,1.95555,1.25884,7,13,w
+29257,2025-10-26 13:00:00,La_liga,2025,Mallorca,Levante,Home,1,1,1.86979,2.3579,20,13,d
+29261,2025-11-02 20:00:00,La_liga,2025,Mallorca,Real Betis,Away,0,3,0.749852,2.82134,14,15,l

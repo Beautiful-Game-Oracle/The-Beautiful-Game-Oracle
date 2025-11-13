@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+26984,2024-08-16 17:00:00,La_liga,2024,Alaves,Celta Vigo,Away,1,2,1.9391,0.793797,10,6,l
+27000,2024-08-25 17:15:00,La_liga,2024,Alaves,Real Betis,Home,0,0,0.172545,1.36012,5,15,d
+27008,2024-08-28 19:30:00,La_liga,2024,Alaves,Real Sociedad,Away,2,1,2.62561,0.951647,14,10,w
+27017,2024-09-01 15:00:00,La_liga,2024,Alaves,Las Palmas,Home,2,0,2.01026,0.547308,15,12,w
+27022,2024-09-14 14:15:00,La_liga,2024,Alaves,Espanyol,Away,2,3,2.3693,1.95102,18,9,l
+27035,2024-09-20 19:00:00,La_liga,2024,Alaves,Sevilla,Home,2,1,1.40641,0.623937,10,8,w
+27051,2024-09-24 19:00:00,La_liga,2024,Alaves,Real Madrid,Away,2,3,0.853455,1.79791,12,10,l
+27059,2024-09-28 12:00:00,La_liga,2024,Alaves,Getafe,Away,0,2,0.415348,2.55847,9,14,l
+27064,2024-10-06 14:15:00,La_liga,2024,Alaves,Barcelona,Home,0,3,0.794829,2.49367,11,14,l
+27078,2024-10-18 19:00:00,La_liga,2024,Alaves,Real Valladolid,Home,2,3,0.433035,2.33646,10,12,l
+27090,2024-10-26 14:15:00,La_liga,2024,Alaves,Rayo Vallecano,Away,0,1,0.871439,2.89009,16,16,l
+27097,2024-11-01 20:00:00,La_liga,2024,Alaves,Mallorca,Home,1,0,1.43582,0.708287,13,7,w
+27111,2024-11-09 15:15:00,La_liga,2024,Alaves,Villarreal,Away,0,3,0.608571,1.44293,9,13,l
+27120,2024-11-23 15:15:00,La_liga,2024,Alaves,Atletico Madrid,Away,1,2,0.785902,2.05318,4,11,l
+27124,2024-11-30 15:15:00,La_liga,2024,Alaves,Leganes,Home,1,1,1.28884,1.3688,18,6,d
+27141,2024-12-08 17:30:00,La_liga,2024,Alaves,Osasuna,Away,2,2,1.50067,2.31345,6,16,d
+27149,2024-12-15 15:15:00,La_liga,2024,Alaves,Athletic Club,Home,1,1,0.803776,0.843706,6,9,d
+27161,2024-12-22 13:00:00,La_liga,2024,Alaves,Valencia,Away,2,2,1.54294,1.34762,11,7,d
+27166,2025-01-11 13:00:00,La_liga,2024,Alaves,Girona,Home,0,1,1.72201,0.625652,11,3,l
+27181,2025-01-18 17:30:00,La_liga,2024,Alaves,Real Betis,Away,3,1,1.6539,0.501492,9,7,w
+27186,2025-01-27 20:00:00,La_liga,2024,Alaves,Celta Vigo,Home,1,1,0.891741,0.155093,3,5,d
+27200,2025-02-02 13:00:00,La_liga,2024,Alaves,Barcelona,Away,0,1,0.126278,1.18526,3,11,l
+27204,2025-02-09 13:00:00,La_liga,2024,Alaves,Getafe,Home,0,1,1.25855,0.825065,12,4,l
+27219,2025-02-15 13:00:00,La_liga,2024,Alaves,Leganes,Away,3,3,1.4212,1.76328,16,8,d
+27231,2025-02-22 13:00:00,La_liga,2024,Alaves,Espanyol,Home,0,1,1.54627,0.495881,15,9,l
+27240,2025-03-02 17:30:00,La_liga,2024,Alaves,Mallorca,Away,1,1,1.63763,1.83195,19,15,d
+27249,2025-03-08 15:15:00,La_liga,2024,Alaves,Villarreal,Home,1,0,1.21479,2.63287,5,24,w
+27260,2025-03-14 20:00:00,La_liga,2024,Alaves,Las Palmas,Away,2,2,1.49888,1.94387,9,14,d
+27266,2025-03-29 17:30:00,La_liga,2024,Alaves,Rayo Vallecano,Home,0,2,1.60064,0.681703,12,11,l
+27280,2025-04-05 12:00:00,La_liga,2024,Alaves,Girona,Away,1,0,0.805674,1.73306,9,16,w
+27287,2025-04-13 14:15:00,La_liga,2024,Alaves,Real Madrid,Home,0,1,0.607781,1.26541,13,11,l
+27299,2025-04-20 16:30:00,La_liga,2024,Alaves,Sevilla,Away,1,1,1.30312,1.89613,11,10,d
+27310,2025-04-23 19:30:00,La_liga,2024,Alaves,Real Sociedad,Home,1,0,0.815479,0.472083,10,6,w
+27314,2025-05-03 12:00:00,La_liga,2024,Alaves,Atletico Madrid,Home,0,0,0.908148,0.391409,8,9,d
+27331,2025-05-11 16:30:00,La_liga,2024,Alaves,Athletic Club,Away,0,1,0.642793,1.35049,4,11,l
+27333,2025-05-14 17:00:00,La_liga,2024,Alaves,Valencia,Home,1,0,2.06262,0.584778,11,10,w
+27349,2025-05-18 17:00:00,La_liga,2024,Alaves,Real Valladolid,Away,1,0,1.22692,0.890453,14,7,w
+27356,2025-05-24 19:00:00,La_liga,2024,Alaves,Osasuna,Home,1,1,1.57466,1.88098,14,19,d

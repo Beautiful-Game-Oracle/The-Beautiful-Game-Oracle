@@ -110,3 +110,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 30280,2025-10-19 13:30:00,Bundesliga,2025,Eintracht Frankfurt,Freiburg,Away,2,2,0.772638,1.12896,8,12,d,1
 30291,2025-10-25 13:30:00,Bundesliga,2025,Eintracht Frankfurt,St. Pauli,Home,2,0,2.42632,0.519973,10,9,w,3
 30299,2025-11-01 14:30:00,Bundesliga,2025,Eintracht Frankfurt,FC Heidenheim,Away,1,1,1.22406,0.831882,16,9,d,1
+30307,2025-11-09 18:30:00,Bundesliga,2025,Eintracht Frankfurt,Mainz 05,Home,1,0,1.77854,0.121469,14,3,w,3

@@ -1,0 +1,10 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+30226,2025-08-23 13:30:00,Bundesliga,2025,Bayer_Leverkusen,Hoffenheim,Home,1,2,1.05253,0.505193,8,10,l
+30236,2025-08-30 13:30:00,Bundesliga,2025,Bayer_Leverkusen,Werder Bremen,Away,3,3,2.03733,2.32676,10,12,d
+30242,2025-09-12 18:30:00,Bundesliga,2025,Bayer_Leverkusen,Eintracht Frankfurt,Home,3,1,2.31465,0.791863,18,13,w
+30258,2025-09-21 15:30:00,Bundesliga,2025,Bayer_Leverkusen,Borussia M.Gladbach,Home,1,1,1.9461,1.29876,13,13,d
+30263,2025-09-27 13:30:00,Bundesliga,2025,Bayer_Leverkusen,St. Pauli,Away,2,1,1.28912,0.813325,5,13,w
+30269,2025-10-04 13:30:00,Bundesliga,2025,Bayer_Leverkusen,Union Berlin,Home,2,0,3.35673,1.19684,20,10,w
+30282,2025-10-18 13:30:00,Bundesliga,2025,Bayer_Leverkusen,Mainz 05,Away,4,3,4.43462,1.62978,20,12,w
+30288,2025-10-26 13:30:00,Bundesliga,2025,Bayer_Leverkusen,Freiburg,Home,2,0,2.46787,0.542897,19,10,w
+30297,2025-11-01 17:30:00,Bundesliga,2025,Bayer_Leverkusen,Bayern Munich,Away,0,3,0.382774,2.28295,8,18,l

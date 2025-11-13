@@ -1,0 +1,12 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29545,2025-08-17 15:15:00,Ligue_1,2025,Metz,Strasbourg,Home,0,1,0.184483,0.731013,2,9,l
+29550,2025-08-23 19:05:00,Ligue_1,2025,Metz,Lyon,Away,0,3,0.504863,2.35479,11,13,l
+29562,2025-08-31 15:15:00,Ligue_1,2025,Metz,Paris FC,Away,2,3,1.6248,3.39898,14,24,l
+29569,2025-09-14 15:15:00,Ligue_1,2025,Metz,Angers,Home,1,1,1.76271,1.98184,9,10,d
+29580,2025-09-21 15:15:00,Ligue_1,2025,Metz,Monaco,Away,2,5,1.91296,3.497,9,16,l
+29586,2025-09-28 15:15:00,Ligue_1,2025,Metz,Le Havre,Home,0,0,0.39939,0.395921,7,11,d
+29597,2025-10-04 15:00:00,Ligue_1,2025,Metz,Marseille,Home,0,3,0.1529,2.67719,4,21,l
+29607,2025-10-19 15:15:00,Ligue_1,2025,Metz,Toulouse,Away,0,4,0.119104,2.73037,2,16,l
+29617,2025-10-26 13:00:00,Ligue_1,2025,Metz,Lille,Away,1,6,1.01476,3.85054,10,23,l
+29625,2025-10-29 17:00:00,Ligue_1,2025,Metz,Lens,Home,2,0,3.11925,1.23771,16,10,w
+29633,2025-11-02 16:15:00,Ligue_1,2025,Metz,Nantes,Away,2,0,1.36245,1.07598,14,16,w

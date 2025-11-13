@@ -123,3 +123,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29919,2025-10-24 18:45:00,Serie_A,2025,AC Milan,Pisa,Home,2,2,1.97232,1.22514,19,8,d,1
 29924,2025-10-28 18:45:00,Serie_A,2025,AC Milan,Atalanta,Away,1,1,0.626418,1.28167,6,17,d,1
 29937,2025-11-02 19:45:00,Serie_A,2025,AC Milan,Roma,Home,1,0,3.76419,1.95443,17,20,w,3
+29951,2025-11-08 19:45:00,Serie_A,2025,AC Milan,Parma Calcio 1913,Away,2,2,2.05467,1.45012,9,14,d,1

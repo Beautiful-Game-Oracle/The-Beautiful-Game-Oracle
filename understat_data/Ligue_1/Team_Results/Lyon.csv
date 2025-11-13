@@ -116,3 +116,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29616,2025-10-26 18:45:00,Ligue_1,2025,Lyon,Strasbourg,Home,2,1,1.14566,0.798152,8,8,w,3
 29622,2025-10-29 19:05:00,Ligue_1,2025,Lyon,Paris FC,Away,3,3,1.21871,0.581508,7,11,d,1
 29629,2025-11-02 19:45:00,Ligue_1,2025,Lyon,Brest,Away,0,0,0.143862,1.63942,4,13,d,1
+29640,2025-11-09 19:45:00,Ligue_1,2025,Lyon,Paris Saint Germain,Home,2,3,0.712588,1.69872,9,9,l,0

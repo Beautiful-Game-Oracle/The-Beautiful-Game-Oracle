@@ -10,3 +10,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29246,2025-10-17 19:00:00,La_liga,2025,Real Oviedo,Espanyol,Home,0,2,1.21155,4.46256,13,19,l,0
 29249,2025-10-25 12:00:00,La_liga,2025,Real Oviedo,Girona,Away,3,3,2.22406,2.24132,10,8,d,1
 29266,2025-11-03 20:00:00,La_liga,2025,Real Oviedo,Osasuna,Home,0,0,0.717473,0.626317,8,11,d,1
+29268,2025-11-09 13:00:00,La_liga,2025,Real Oviedo,Athletic Club,Away,0,1,0.182696,2.65219,4,21,l,0

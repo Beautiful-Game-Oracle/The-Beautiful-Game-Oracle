@@ -124,3 +124,4 @@ match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,x
 29241,2025-10-19 14:15:00,La_liga,2025,Celta Vigo,Real Sociedad,Home,1,1,0.717367,2.13562,4,17,d,1
 29255,2025-10-26 17:30:00,La_liga,2025,Celta Vigo,Osasuna,Away,3,2,1.54054,2.318,11,17,w,3
 29265,2025-11-02 13:00:00,La_liga,2025,Celta Vigo,Levante,Away,2,1,1.92474,1.23651,20,9,w,3
+29274,2025-11-09 20:00:00,La_liga,2025,Celta Vigo,Barcelona,Home,2,4,0.512253,3.42936,5,21,l,0

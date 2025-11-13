@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+22685,2023-08-11 17:30:00,La_liga,2023,Almeria,Rayo Vallecano,Home,0,2,1.1196,2.09532,19,10,l
+22698,2023-08-19 17:30:00,La_liga,2023,Almeria,Real Madrid,Home,1,3,1.81328,2.8802,20,25,l
+22707,2023-08-26 17:00:00,La_liga,2023,Almeria,Cadiz,Away,1,1,0.271622,1.56203,5,11,d
+22715,2023-09-01 20:00:00,La_liga,2023,Almeria,Celta Vigo,Home,2,3,3.16421,1.96028,16,14,l
+22730,2023-09-17 14:15:00,La_liga,2023,Almeria,Villarreal,Away,1,2,1.76794,1.43205,17,10,l
+22735,2023-09-23 19:00:00,La_liga,2023,Almeria,Valencia,Home,2,2,2.46387,0.995742,17,7,d
+22747,2023-09-26 17:00:00,La_liga,2023,Almeria,Sevilla,Away,1,5,1.37069,2.90509,10,18,l
+22755,2023-10-01 12:00:00,La_liga,2023,Almeria,Granada,Home,3,3,2.24188,3.51421,17,19,d
+22770,2023-10-06 19:00:00,La_liga,2023,Almeria,Athletic Club,Away,0,3,0.0892217,3.02889,4,23,l
+22776,2023-10-22 14:15:00,La_liga,2023,Almeria,Girona,Away,2,5,0.878392,2.1972,9,19,l
+22785,2023-10-28 12:00:00,La_liga,2023,Almeria,Las Palmas,Home,1,2,0.275712,1.06446,10,10,l
+22797,2023-11-05 13:00:00,La_liga,2023,Almeria,Alaves,Away,0,1,0.893084,2.57982,9,23,l
+22805,2023-11-11 15:15:00,La_liga,2023,Almeria,Real Sociedad,Home,1,3,0.637245,2.53693,7,18,l
+22820,2023-11-25 17:30:00,La_liga,2023,Almeria,Getafe,Away,1,2,1.72918,1.39391,13,18,l
+22825,2023-12-03 15:15:00,La_liga,2023,Almeria,Real Betis,Home,0,0,2.69938,0.769817,20,6,d
+22841,2023-12-10 13:00:00,La_liga,2023,Almeria,Atletico Madrid,Away,1,2,1.6656,2.16876,18,13,l
+22845,2023-12-17 13:00:00,La_liga,2023,Almeria,Mallorca,Home,0,0,0.314828,1.51369,7,20,d
+22863,2023-12-20 18:00:00,La_liga,2023,Almeria,Barcelona,Away,2,3,1.39703,4.04903,10,30,l
+22867,2024-01-04 16:00:00,La_liga,2023,Almeria,Osasuna,Away,0,1,0.239636,2.03356,4,14,l
+22875,2024-01-14 13:00:00,La_liga,2023,Almeria,Girona,Home,0,0,2.20551,0.246622,20,5,d
+22888,2024-01-21 15:15:00,La_liga,2023,Almeria,Real Madrid,Away,2,3,0.928735,3.07258,10,18,l
+22904,2024-01-26 20:00:00,La_liga,2023,Almeria,Alaves,Home,0,3,1.80182,2.061,19,11,l
+22911,2024-02-03 13:00:00,La_liga,2023,Almeria,Valencia,Away,1,2,1.5882,1.38646,15,7,l
+22915,2024-02-12 20:00:00,La_liga,2023,Almeria,Athletic Club,Home,0,0,0.900611,0.621857,10,12,d
+22929,2024-02-18 15:15:00,La_liga,2023,Almeria,Granada,Away,1,1,0.693843,1.79616,13,19,d
+22935,2024-02-24 20:00:00,La_liga,2023,Almeria,Atletico Madrid,Home,2,2,0.352281,1.87638,9,18,d
+22948,2024-03-01 20:00:00,La_liga,2023,Almeria,Celta Vigo,Away,0,1,0.3259,1.82317,3,15,l
+22955,2024-03-11 20:00:00,La_liga,2023,Almeria,Sevilla,Home,2,2,1.81235,2.6495,14,19,d
+22968,2024-03-17 16:15:00,La_liga,2023,Almeria,Las Palmas,Away,1,0,0.688106,0.793707,3,21,w
+22975,2024-03-30 15:15:00,La_liga,2023,Almeria,Osasuna,Home,0,3,0.745696,1.00888,12,6,l
+22991,2024-04-14 19:00:00,La_liga,2023,Almeria,Real Sociedad,Away,2,2,1.77546,1.68743,7,17,d
+22995,2024-04-21 14:15:00,La_liga,2023,Almeria,Villarreal,Home,1,2,2.14538,1.60008,24,11,l
+23005,2024-04-27 14:15:00,La_liga,2023,Almeria,Getafe,Home,1,3,2.748,1.67485,21,8,l
+23016,2024-05-05 19:00:00,La_liga,2023,Almeria,Rayo Vallecano,Away,1,0,0.555982,2.09609,7,27,w
+23031,2024-05-12 19:00:00,La_liga,2023,Almeria,Real Betis,Away,2,3,1.08304,1.69343,14,14,l
+23035,2024-05-16 19:30:00,La_liga,2023,Almeria,Barcelona,Home,0,2,1.03949,2.13122,12,16,l
+23051,2024-05-19 17:00:00,La_liga,2023,Almeria,Mallorca,Away,2,2,0.238391,2.45608,7,29,d
+23055,2024-05-25 16:30:00,La_liga,2023,Almeria,Cadiz,Home,6,1,3.23442,0.494605,27,13,w

@@ -1,0 +1,11 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+28780,2025-08-16 14:00:00,EPL,2025,Brighton,Fulham,Home,1,1,1.44008,0.902883,10,7,d
+28795,2025-08-24 13:00:00,EPL,2025,Brighton,Everton,Away,0,2,2.08487,1.80116,13,11,l
+28805,2025-08-31 13:00:00,EPL,2025,Brighton,Manchester City,Home,2,1,2.20864,2.13418,12,12,w
+28810,2025-09-13 14:00:00,EPL,2025,Brighton,Bournemouth,Away,1,2,0.624923,1.44187,6,13,l
+28821,2025-09-20 14:00:00,EPL,2025,Brighton,Tottenham,Home,2,2,1.40466,1.19181,13,11,d
+28829,2025-09-27 14:00:00,EPL,2025,Brighton,Chelsea,Away,3,1,2.4751,2.02653,12,13,w
+28847,2025-10-05 13:00:00,EPL,2025,Brighton,Wolverhampton Wanderers,Away,1,1,1.39158,0.369404,18,6,d
+28848,2025-10-18 14:00:00,EPL,2025,Brighton,Newcastle United,Home,2,1,0.857104,1.28313,13,16,w
+28865,2025-10-25 16:30:00,EPL,2025,Brighton,Manchester United,Away,2,4,0.947154,1.96231,17,13,l
+28868,2025-11-01 15:00:00,EPL,2025,Brighton,Leeds,Home,3,0,2.64127,0.35919,14,5,w

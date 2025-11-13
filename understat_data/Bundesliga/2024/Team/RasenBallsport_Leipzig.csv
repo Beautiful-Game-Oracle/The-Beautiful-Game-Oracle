@@ -1,0 +1,35 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+27743,2024-08-24 13:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Bochum,Home,1,0,0.937134,1.31541,13,10,w
+27757,2024-08-31 16:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Bayer Leverkusen,Away,3,2,1.50532,3.42266,8,26,w
+27763,2024-09-14 13:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Union Berlin,Home,0,0,1.29462,0.859112,14,10,d
+27777,2024-09-22 17:30:00,Bundesliga,2024,RasenBallsport_Leipzig,St. Pauli,Away,0,0,0.841324,1.67285,10,17,d
+27783,2024-09-28 13:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Augsburg,Home,4,0,2.81593,1.07415,17,7,w
+27788,2024-10-06 13:30:00,Bundesliga,2024,RasenBallsport_Leipzig,FC Heidenheim,Away,1,0,1.81585,1.08159,13,14,w
+27802,2024-10-19 13:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Mainz 05,Away,2,0,2.16084,0.611288,11,16,w
+27806,2024-10-26 13:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Freiburg,Home,3,1,2.69047,1.75887,12,15,w
+27816,2024-11-02 17:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Borussia Dortmund,Away,1,2,0.23928,3.30102,6,19,l
+27824,2024-11-09 17:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Borussia M.Gladbach,Home,0,0,0.849803,1.31521,11,14,d
+27837,2024-11-23 14:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Hoffenheim,Away,3,4,1.72976,2.60143,14,21,l
+27841,2024-11-30 14:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Wolfsburg,Home,1,5,1.4486,2.69881,9,13,l
+27856,2024-12-07 14:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Holstein Kiel,Away,2,0,1.72704,1.14963,9,17,w
+27859,2024-12-15 18:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Eintracht Frankfurt,Home,2,1,2.4958,0.839379,19,16,w
+27870,2024-12-20 19:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Bayern Munich,Away,1,5,0.552564,4.35715,4,22,l
+27877,2025-01-12 14:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Werder Bremen,Home,4,2,2.65039,1.32687,18,7,w
+27887,2025-01-15 19:30:00,Bundesliga,2024,RasenBallsport_Leipzig,VfB Stuttgart,Away,1,2,0.710278,2.42754,6,14,l
+27902,2025-01-18 14:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Bochum,Away,3,3,2.38567,2.75969,11,14,d
+27904,2025-01-25 14:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Bayer Leverkusen,Home,2,2,0.708246,2.57674,7,14,d
+27913,2025-02-01 17:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Union Berlin,Away,0,0,0.237923,1.74847,6,21,d
+27923,2025-02-09 16:30:00,Bundesliga,2024,RasenBallsport_Leipzig,St. Pauli,Home,2,0,1.89601,0.72321,11,7,w
+27936,2025-02-14 19:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Augsburg,Away,0,0,1.6452,1.05445,14,11,d
+27941,2025-02-23 14:30:00,Bundesliga,2024,RasenBallsport_Leipzig,FC Heidenheim,Home,2,2,1.6451,0.834882,17,4,d
+27950,2025-03-01 14:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Mainz 05,Home,1,2,1.78404,1.64735,13,15,l
+27963,2025-03-08 17:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Freiburg,Away,0,0,2.02806,0.510953,18,10,d
+27968,2025-03-15 17:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Borussia Dortmund,Home,2,0,2.55875,4.09542,15,25,w
+27980,2025-03-29 14:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Borussia M.Gladbach,Away,0,1,0.929047,1.79539,19,16,l
+27985,2025-04-05 13:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Hoffenheim,Home,3,1,1.40121,1.18624,16,9,w
+27999,2025-04-11 18:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Wolfsburg,Away,3,2,1.60065,1.84361,16,17,w
+28003,2025-04-19 13:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Holstein Kiel,Home,1,1,2.16761,1.017,10,13,d
+28015,2025-04-26 16:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Eintracht Frankfurt,Away,0,4,0.316263,2.23942,7,9,l
+28021,2025-05-03 13:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Bayern Munich,Home,3,3,1.74905,1.97214,8,20,d
+28034,2025-05-10 13:30:00,Bundesliga,2024,RasenBallsport_Leipzig,Werder Bremen,Away,0,0,1.39403,3.20616,16,21,d
+28039,2025-05-17 13:30:00,Bundesliga,2024,RasenBallsport_Leipzig,VfB Stuttgart,Home,2,3,1.42373,3.34624,8,15,l

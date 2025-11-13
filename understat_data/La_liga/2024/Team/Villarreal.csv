@@ -1,0 +1,39 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+26991,2024-08-19 19:30:00,La_liga,2024,Villarreal,Atletico Madrid,Home,2,2,0.68684,1.13868,9,10,d
+26993,2024-08-23 19:30:00,La_liga,2024,Villarreal,Sevilla,Away,2,1,1.39825,1.23826,8,16,w
+27002,2024-08-26 19:30:00,La_liga,2024,Villarreal,Celta Vigo,Home,4,3,4.3817,3.79183,24,21,w
+27015,2024-08-31 19:30:00,La_liga,2024,Villarreal,Valencia,Away,1,1,0.885369,1.14322,9,22,d
+27026,2024-09-14 12:00:00,La_liga,2024,Villarreal,Mallorca,Away,2,1,2.41884,0.345425,22,9,w
+27037,2024-09-22 16:30:00,La_liga,2024,Villarreal,Barcelona,Home,1,5,2.39605,4.1937,13,17,l
+27042,2024-09-26 17:00:00,La_liga,2024,Villarreal,Espanyol,Away,2,1,1.96233,0.355072,15,9,w
+27058,2024-09-30 19:00:00,La_liga,2024,Villarreal,Las Palmas,Home,3,1,4.07869,0.802357,20,7,w
+27063,2024-10-05 19:00:00,La_liga,2024,Villarreal,Real Madrid,Away,0,2,1.4618,0.459582,12,11,l
+27080,2024-10-20 16:30:00,La_liga,2024,Villarreal,Getafe,Home,1,1,1.14683,2.02638,10,21,d
+27089,2024-10-26 12:00:00,La_liga,2024,Villarreal,Real Valladolid,Away,2,1,2.68435,0.97802,21,7,w
+27111,2024-11-09 15:15:00,La_liga,2024,Villarreal,Alaves,Home,3,0,1.44293,0.608571,13,9,w
+27114,2024-11-24 13:00:00,La_liga,2024,Villarreal,Osasuna,Away,2,2,2.68193,1.3273,17,4,d
+27128,2024-12-01 13:00:00,La_liga,2024,Villarreal,Girona,Home,2,2,1.96842,0.516301,13,13,d
+27134,2024-12-08 15:15:00,La_liga,2024,Villarreal,Athletic Club,Away,0,2,0.796459,1.31484,11,12,l
+27148,2024-12-15 17:30:00,La_liga,2024,Villarreal,Real Betis,Home,1,2,1.60957,1.6735,17,10,l
+27098,2024-12-18 20:30:00,La_liga,2024,Villarreal,Rayo Vallecano,Home,1,1,2.52908,1.85712,14,18,d
+27158,2024-12-22 17:30:00,La_liga,2024,Villarreal,Leganes,Away,5,2,4.01011,1.47457,18,5,w
+27164,2025-01-13 20:00:00,La_liga,2024,Villarreal,Real Sociedad,Away,0,1,1.22527,0.805968,15,6,l
+27178,2025-01-20 20:00:00,La_liga,2024,Villarreal,Mallorca,Home,4,0,2.35437,0.390989,14,9,w
+27183,2025-01-25 15:15:00,La_liga,2024,Villarreal,Atletico Madrid,Away,1,1,1.78456,1.72274,11,20,d
+27196,2025-02-01 15:15:00,La_liga,2024,Villarreal,Real Valladolid,Home,5,1,3.89354,0.747261,22,8,w
+27203,2025-02-08 17:30:00,La_liga,2024,Villarreal,Las Palmas,Away,2,1,1.26021,1.90619,9,20,w
+27216,2025-02-15 20:00:00,La_liga,2024,Villarreal,Valencia,Home,1,1,1.04228,0.740954,13,12,d
+27224,2025-02-22 15:15:00,La_liga,2024,Villarreal,Rayo Vallecano,Away,1,0,0.79404,0.514336,10,10,w
+27249,2025-03-08 15:15:00,La_liga,2024,Villarreal,Alaves,Away,0,1,2.63287,1.21479,24,5,l
+27259,2025-03-15 17:30:00,La_liga,2024,Villarreal,Real Madrid,Home,1,2,2.00539,1.10001,23,9,l
+27264,2025-03-30 13:00:00,La_liga,2024,Villarreal,Getafe,Away,2,1,1.38471,0.940085,9,11,w
+27276,2025-04-06 19:00:00,La_liga,2024,Villarreal,Athletic Club,Home,0,0,1.59491,0.998653,12,11,d
+27285,2025-04-13 16:30:00,La_liga,2024,Villarreal,Real Betis,Away,2,1,1.32607,2.04046,8,24,w
+27298,2025-04-20 14:15:00,La_liga,2024,Villarreal,Real Sociedad,Home,2,2,2.14498,2.29777,20,4,d
+27307,2025-04-23 17:00:00,La_liga,2024,Villarreal,Celta Vigo,Away,0,3,0.5946,3.19678,4,21,l
+27241,2025-04-27 14:15:00,La_liga,2024,Villarreal,Espanyol,Home,1,0,1.35413,1.53522,14,12,w
+27319,2025-05-03 14:15:00,La_liga,2024,Villarreal,Osasuna,Home,4,2,2.30041,1.41412,15,11,w
+27327,2025-05-10 16:30:00,La_liga,2024,Villarreal,Girona,Away,1,0,2.28245,0.280235,14,7,w
+27341,2025-05-14 17:00:00,La_liga,2024,Villarreal,Leganes,Home,3,0,2.28885,1.19032,17,23,w
+27343,2025-05-18 17:00:00,La_liga,2024,Villarreal,Barcelona,Away,3,2,1.96183,1.569,7,24,w
+27361,2025-05-25 14:15:00,La_liga,2024,Villarreal,Sevilla,Home,4,2,1.28805,1.64829,12,17,w

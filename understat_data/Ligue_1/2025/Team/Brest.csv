@@ -1,0 +1,12 @@
+match_id,date,league,season,team,opponent,venue,goals_for,goals_against,xg_for,xg_against,shots_for,shots_against,result
+29542,2025-08-17 13:00:00,Ligue_1,2025,Brest,Lille,Home,3,3,1.49573,1.84218,18,10,d
+29554,2025-08-24 15:15:00,Ligue_1,2025,Brest,Toulouse,Away,0,2,0.750148,1.32432,16,6,l
+29556,2025-08-29 18:45:00,Ligue_1,2025,Brest,Lens,Away,1,3,0.963409,4.42054,9,30,l
+29566,2025-09-14 15:15:00,Ligue_1,2025,Brest,Paris FC,Home,1,2,2.60519,1.85008,24,7,l
+29575,2025-09-20 17:00:00,Ligue_1,2025,Brest,Nice,Home,4,1,2.07376,2.26393,11,20,w
+29583,2025-09-28 15:15:00,Ligue_1,2025,Brest,Angers,Away,2,0,1.34192,0.501827,7,11,w
+29593,2025-10-04 17:00:00,Ligue_1,2025,Brest,Nantes,Home,0,0,1.44552,0.489862,17,6,d
+29603,2025-10-19 15:15:00,Ligue_1,2025,Brest,Lorient,Away,3,3,1.56803,1.5878,8,13,d
+29613,2025-10-25 15:00:00,Ligue_1,2025,Brest,Paris Saint Germain,Home,0,3,1.89257,2.92453,8,18,l
+29619,2025-10-29 17:00:00,Ligue_1,2025,Brest,Le Havre,Away,0,1,0.370311,0.556063,8,13,l
+29629,2025-11-02 19:45:00,Ligue_1,2025,Brest,Lyon,Home,0,0,1.63942,0.143862,13,4,d
