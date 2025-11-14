@@ -42,6 +42,23 @@ This document summarizes every feature currently used by the performance-view de
 | `log_shot_ratio_avg5` | Log ratio of shot production with EPS stabilizer. | `log((home_shots_for_avg5 + 1e-3)/(away_shots_for_avg5 + 1e-3))` (replace inf/nan with 0). |
 | `shots_tempo_avg5` | Average attacking tempo expected in the fixture. | `(home_shots_for_avg5 + away_shots_for_avg5) / 2`. |
 
+## Volatility & Momentum Differentials
+
+| Feature | Description | Formula / Construction |
+| --- | --- | --- |
+| `home_goal_diff_std5`, `away_goal_diff_std5` | Rolling standard deviation of each team’s goal difference over its last five matches; higher values imply erratic outcomes. | Maintain per-team deque of size 5 over goal differences, compute population std dev. |
+| `goal_diff_std_gap5` | Relative volatility in goal difference between the two teams. | `home_goal_diff_std5 - away_goal_diff_std5`. |
+| `home_goal_diff_exp_decay`, `away_goal_diff_exp_decay` | Exponential moving average of recent goal differences (α = 0.55) to capture fast-moving form swings. | `exp_avg_t = α * goal_diff_t + (1-α) * exp_avg_{t-1}` per team. |
+| `goal_diff_exp_decay_gap` | Differential in exponential goal-diff momentum. | `home_goal_diff_exp_decay - away_goal_diff_exp_decay`. |
+| `home_xg_diff_std5`, `away_xg_diff_std5` | Standard deviation of expected-goal differential per side across the trailing five fixtures. | Same std computation applied to xG differences. |
+| `xg_diff_std_gap5` | Gap in xG volatility. | `home_xg_diff_std5 - away_xg_diff_std5`. |
+| `home_xg_diff_exp_decay`, `away_xg_diff_exp_decay` | Exponential moving averages of xG differential, weighting latest matches more. | Same EMA with α = 0.55 on xG diffs. |
+| `xg_diff_exp_decay_gap` | Differential of xG EMA momentum. | `home_xg_diff_exp_decay - away_xg_diff_exp_decay`. |
+| `home_shot_diff_std5`, `away_shot_diff_std5` | Standard deviation of shot differential (shots for – shots against) across five matches. | Std over rolling deque fed by team_results shot data. |
+| `shot_diff_std_gap5` | Relative shot volatility gap. | `home_shot_diff_std5 - away_shot_diff_std5`. |
+| `home_shot_diff_exp_decay`, `away_shot_diff_exp_decay` | Exponential moving average of shot differential for each team. | EMA (α = 0.55) on shot differential. |
+| `shot_diff_exp_decay_gap` | Difference in shot-based momentum proxies. | `home_shot_diff_exp_decay - away_shot_diff_exp_decay`. |
+
 ## Elo & Market Alignment Signals
 
 | Feature | Description | Formula / Construction |
@@ -52,6 +69,6 @@ This document summarizes every feature currently used by the performance-view de
 | `elo_gap_pre` | Elo differential (positive favors home). | `elo_home_pre - elo_away_pre`. |
 | `elo_home_expectation` | Elo-implied win probability for the home side. | Pulled from `E_home` in the Elo timeseries; defaults to 0.5 when missing. |
 | `elo_expectation_gap` | Probability gap implied by Elo. | `elo_home_expectation - (1 - elo_home_expectation)` (or 0 when expectations missing). |
-| `market_vs_elo_edge` | Difference between bookmaker home-win probability and Elo expectation, clipped to ±0.35. | `clip(forecast_home_win - elo_home_expectation, -0.35, 0.35)`. |
+| ~~`market_vs_elo_edge`~~ | ~~Difference between bookmaker home-win probability and Elo expectation, clipped to ±0.35. Removed from the performance view to avoid market odds leakage.~~ | ~~`clip(forecast_home_win - elo_home_expectation, -0.35, 0.35)`~~ |
 
 These definitions should make it easier to spot redundant groups when pruning the performance model to a tighter, less biased feature slate.
