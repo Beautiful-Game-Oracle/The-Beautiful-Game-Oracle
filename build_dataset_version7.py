@@ -491,24 +491,31 @@ def main() -> None:
         variance = sum((val - mean_val) ** 2 for val in values) / len(values)
         return variance ** 0.5
 
-    def _update_volatility(
+    def _current_volatility(
+        team: str,
+        history: Dict[str, deque],
+        exp_avgs: Dict[str, float],
+    ) -> Tuple[Optional[float], Optional[float]]:
+        buffer = history.get(team)
+        std_val = _rolling_std(buffer) if buffer and len(buffer) > 0 else None
+        exp_val = exp_avgs.get(team)
+        return std_val, exp_val
+
+    def _append_volatility_value(
         team: str,
         value: Optional[float],
         history: Dict[str, deque],
         exp_avgs: Dict[str, float],
-    ) -> Tuple[Optional[float], Optional[float]]:
+    ) -> None:
         if value is None:
-            return None, None
+            return
         buffer = history.setdefault(team, deque(maxlen=VOLATILITY_WINDOW))
         buffer.append(value)
-        std_val = _rolling_std(buffer) if buffer else None
         prev = exp_avgs.get(team)
         if prev is None:
-            exp_val = value
+            exp_avgs[team] = value
         else:
-            exp_val = EXP_DECAY_ALPHA * value + (1.0 - EXP_DECAY_ALPHA) * prev
-        exp_avgs[team] = exp_val
-        return std_val, exp_val
+            exp_avgs[team] = EXP_DECAY_ALPHA * value + (1.0 - EXP_DECAY_ALPHA) * prev
 
     goal_history: Dict[str, deque] = defaultdict(lambda: deque(maxlen=VOLATILITY_WINDOW))
     xg_history: Dict[str, deque] = defaultdict(lambda: deque(maxlen=VOLATILITY_WINDOW))
@@ -646,16 +653,12 @@ def main() -> None:
         # Rolling volatility + decay metrics
         goal_diff = _safe_float(row.get("goal_difference"))
         xg_diff = _safe_float(row.get("xg_difference"))
-        home_goal_std, home_goal_exp = _update_volatility(home_team, goal_diff, goal_history, goal_exp_avgs)
-        away_goal_std, away_goal_exp = _update_volatility(
-            away_team, -goal_diff if goal_diff is not None else None, goal_history, goal_exp_avgs
-        )
-        home_xg_std, home_xg_exp = _update_volatility(home_team, xg_diff, xg_history, xg_exp_avgs)
-        away_xg_std, away_xg_exp = _update_volatility(
-            away_team, -xg_diff if xg_diff is not None else None, xg_history, xg_exp_avgs
-        )
-        home_shot_std, home_shot_exp = _update_volatility(home_team, home_shot_diff, shot_history, shot_exp_avgs)
-        away_shot_std, away_shot_exp = _update_volatility(away_team, away_shot_diff, shot_history, shot_exp_avgs)
+        home_goal_std, home_goal_exp = _current_volatility(home_team, goal_history, goal_exp_avgs)
+        away_goal_std, away_goal_exp = _current_volatility(away_team, goal_history, goal_exp_avgs)
+        home_xg_std, home_xg_exp = _current_volatility(home_team, xg_history, xg_exp_avgs)
+        away_xg_std, away_xg_exp = _current_volatility(away_team, xg_history, xg_exp_avgs)
+        home_shot_std, home_shot_exp = _current_volatility(home_team, shot_history, shot_exp_avgs)
+        away_shot_std, away_shot_exp = _current_volatility(away_team, shot_history, shot_exp_avgs)
 
         def _assign_metric(key: str, value: Optional[float], decimals: int = 4) -> None:
             row[key] = _format_float(value, decimals=decimals) if value is not None else ""
@@ -686,6 +689,13 @@ def main() -> None:
                 row[key] = _format_float(home_val - away_val, decimals=4)
             else:
                 row[key] = ""
+
+        _append_volatility_value(home_team, goal_diff, goal_history, goal_exp_avgs)
+        _append_volatility_value(away_team, -goal_diff if goal_diff is not None else None, goal_history, goal_exp_avgs)
+        _append_volatility_value(home_team, xg_diff, xg_history, xg_exp_avgs)
+        _append_volatility_value(away_team, -xg_diff if xg_diff is not None else None, xg_history, xg_exp_avgs)
+        _append_volatility_value(home_team, home_shot_diff, shot_history, shot_exp_avgs)
+        _append_volatility_value(away_team, away_shot_diff, shot_history, shot_exp_avgs)
 
     def _compute_stats(values: Dict[Tuple[str, str], list[float]]) -> Dict[Tuple[str, str], Tuple[float, float]]:
         stats: Dict[Tuple[str, str], Tuple[float, float]] = {}

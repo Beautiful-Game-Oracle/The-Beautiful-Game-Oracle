@@ -4,9 +4,9 @@
 Dataset_Version_7 extends the Version 5 enrichment flow by layering volatility and momentum-differential diagnostics plus ensuring the modeling stack targets the new CSV. This release pairs with `build_dataset_version7.py`, which mirrors the V5 builder while writing `Dataset_Version_7.csv` and populating the new feature set.
 
 ## Data Engineering Updates
-- **Volatility window (5 matches)** – Each team now maintains rolling standard deviations for goal difference, expected-goal difference, and shot differential (`*_goal_diff_std5`, `*_xg_diff_std5`, `*_shot_diff_std5`).
+- **Volatility window (5 matches)** – Each team now maintains rolling standard deviations for goal difference, expected-goal difference, and shot differential ( `*_xg_diff_std5`, `*_shot_diff_std5`).
 - **Exponential momentum (α = 0.55)** – Exponential moving averages for the same signals capture rapid swings (`*_goal_diff_exp_decay`, `*_xg_diff_exp_decay`, `*_shot_diff_exp_decay`).
-- **Gap features** – Home vs away differentials for both std-dev and EMA metrics (`*_std_gap5`, `*_exp_decay_gap`) highlight relative instability.
+- **Gap features** – Home vs away differentials for both std-dev and EMA metrics (`*_std_gap5`, `*_exp_decay_gvap`) highlight relative instability.
 - **Sorted processing** – `build_dataset_version5.py` (and the derived V7 variant) now sorts matches chronologically before computing volatility so early fixtures receive proper warm-up handling.
 - **Legacy fallbacks** – Notebook config now prioritises `Dataset_Version_7.csv` while retaining Version 6/3/1 paths as fallbacks.
 
