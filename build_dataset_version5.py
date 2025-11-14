@@ -4,7 +4,9 @@ Build Dataset_Version_5.csv by extending the Dataset_Version_4 enrichment flow
 with cleaner market-vs-Elo comparisons and ready-to-use Elo gap features.
 
 Steps:
-    1) Start from understat_data/Dataset.csv (baseline curated table).
+    1) Rebuild the EPL base table directly from season-level exports inside
+       understat_data/EPL/<season>/league_results.csv so new seasons + fixtures
+       are always captured without relying on collated CSVs.
     2) Merge team shot counts sourced from Team_Results/*.csv files.
     3) Reconstruct pre-match Elo + expectation values from
        Team_Results/team_elos_timeseries.csv (produced by getTeamEloV2.py).
@@ -19,13 +21,22 @@ can treat missingness explicitly.
 
 from __future__ import annotations
 
+import ast
 import csv
+import json
+import math
+from datetime import datetime
 from pathlib import Path
-from typing import Dict, Optional, Tuple
+from typing import Dict, List, Optional, Tuple
+
+import pandas as pd
+
+from analysis import build_league_results_v2 as league_v2
 
 BASE_DIR = Path("understat_data")
-SOURCE_DATASET = BASE_DIR / "Dataset.csv"
 OUTPUT_DATASET = BASE_DIR / "Dataset_Version_5.csv"
+TARGET_LEAGUE = "EPL"
+LEAGUE_ROOT = BASE_DIR / TARGET_LEAGUE
 
 TEAM_RESULTS_SUBPATH = Path("Team_Results") / "team_results.csv"
 TEAM_ELO_TIMESERIES_SUBPATH = Path("Team_Results") / "team_elos_timeseries.csv"
@@ -39,11 +50,15 @@ SummaryKey = Tuple[str, str]  # (league, team_name)
 def _safe_int(value: Optional[str]) -> Optional[int]:
     if value is None:
         return None
-    value = value.strip()
-    if not value:
+    if isinstance(value, (int, float)) and not isinstance(value, bool):
+        if isinstance(value, float) and math.isnan(value):
+            return None
+        return int(value)
+    value_str = str(value).strip()
+    if not value_str:
         return None
     try:
-        return int(float(value))
+        return int(float(value_str))
     except ValueError:
         return None
 
@@ -51,11 +66,15 @@ def _safe_int(value: Optional[str]) -> Optional[int]:
 def _safe_float(value: Optional[str]) -> Optional[float]:
     if value is None:
         return None
-    value = value.strip()
-    if not value:
+    if isinstance(value, (int, float)) and not isinstance(value, bool):
+        if isinstance(value, float) and math.isnan(value):
+            return None
+        return float(value)
+    value_str = str(value).strip()
+    if not value_str:
         return None
     try:
-        return float(value)
+        return float(value_str)
     except ValueError:
         return None
 
@@ -82,6 +101,205 @@ def _points_pct(wins: Optional[int], draws: Optional[int], played: Optional[int]
         return None
     total_points = wins * 3 + draws
     return total_points / (played * 3)
+
+
+def _parse_nested(value: object) -> Dict[str, object]:
+    if value in ("", None):
+        return {}
+    if isinstance(value, dict):
+        return value
+    if isinstance(value, str):
+        text = value.strip()
+        if not text:
+            return {}
+        try:
+            return ast.literal_eval(text)
+        except (SyntaxError, ValueError):
+            try:
+                return json.loads(text.replace("'", '"'))
+            except (json.JSONDecodeError, TypeError):
+                return {}
+    return {}
+
+
+def _parse_bool(value: object) -> bool:
+    if isinstance(value, bool):
+        return value
+    if value is None:
+        return False
+    if isinstance(value, (int, float)):
+        return bool(value)
+    return str(value).strip().lower() in {"true", "1", "yes", "y", "t"}
+
+
+def _parse_datetime(value: object) -> Optional[datetime]:
+    if value is None:
+        return None
+    if isinstance(value, datetime):
+        return value
+    text = str(value).strip()
+    if not text:
+        return None
+    try:
+        return datetime.fromisoformat(text)
+    except ValueError:
+        return None
+
+
+def _derive_outcome(home_goals: int, away_goals: int) -> Tuple[str, str, int, int, int]:
+    if home_goals > away_goals:
+        return "Home Win", "H", 1, 0, 0
+    if home_goals < away_goals:
+        return "Away Win", "A", 0, 0, 1
+    return "Draw", "D", 0, 1, 0
+
+
+def _build_match_record(row: Dict[str, object], season_label: str) -> Optional[Dict[str, object]]:
+    match_id = _safe_int(row.get("id"))
+    if match_id is None:
+        return None
+
+    if not _parse_bool(row.get("isResult")):
+        return None
+
+    season_val = _safe_int(season_label)
+    if season_val is None:
+        return None
+
+    match_dt = _parse_datetime(row.get("datetime"))
+    match_dt_str = match_dt.strftime("%Y-%m-%d %H:%M:%S") if match_dt else str(row.get("datetime", "")).strip()
+    match_date_str = match_dt.date().isoformat() if match_dt else ""
+    match_time_str = match_dt.time().isoformat() if match_dt else ""
+
+    home_meta = _parse_nested(row.get("h"))
+    away_meta = _parse_nested(row.get("a"))
+    goals_meta = _parse_nested(row.get("goals"))
+    xg_meta = _parse_nested(row.get("xG"))
+    forecast_meta = _parse_nested(row.get("forecast"))
+
+    home_goals = _safe_int(goals_meta.get("h")) if goals_meta else None
+    away_goals = _safe_int(goals_meta.get("a")) if goals_meta else None
+    home_xg = _safe_float(xg_meta.get("h")) if xg_meta else None
+    away_xg = _safe_float(xg_meta.get("a")) if xg_meta else None
+
+    home_goals = 0 if home_goals is None else home_goals
+    away_goals = 0 if away_goals is None else away_goals
+    home_xg = 0.0 if home_xg is None else home_xg
+    away_xg = 0.0 if away_xg is None else away_xg
+
+    match_outcome, outcome_code, home_flag, draw_flag, away_flag = _derive_outcome(home_goals, away_goals)
+
+    forecast_home = _safe_float(forecast_meta.get("w")) if forecast_meta else None
+    forecast_draw = _safe_float(forecast_meta.get("d")) if forecast_meta else None
+    forecast_away = _safe_float(forecast_meta.get("l")) if forecast_meta else None
+
+    return {
+        "match_id": match_id,
+        "league": TARGET_LEAGUE,
+        "season": season_val,
+        "match_datetime_utc": match_dt_str,
+        "match_date": match_date_str,
+        "match_time": match_time_str,
+        "is_result": True,
+        "home_team_id": _safe_int(home_meta.get("id")) if home_meta else None,
+        "home_team_name": home_meta.get("title", "") if home_meta else "",
+        "home_team_short": home_meta.get("short_title", "") if home_meta else "",
+        "away_team_id": _safe_int(away_meta.get("id")) if away_meta else None,
+        "away_team_name": away_meta.get("title", "") if away_meta else "",
+        "away_team_short": away_meta.get("short_title", "") if away_meta else "",
+        "home_goals": home_goals,
+        "away_goals": away_goals,
+        "total_goals": home_goals + away_goals,
+        "goal_difference": home_goals - away_goals,
+        "home_xg": round(home_xg, 6),
+        "away_xg": round(away_xg, 6),
+        "xg_difference": round(home_xg - away_xg, 6),
+        "forecast_home_win": forecast_home if forecast_home is not None else 0.0,
+        "forecast_draw": forecast_draw if forecast_draw is not None else 0.0,
+        "forecast_away_win": forecast_away if forecast_away is not None else 0.0,
+        "match_outcome": match_outcome,
+        "match_outcome_code": outcome_code,
+        "home_win_flag": home_flag,
+        "draw_flag": draw_flag,
+        "away_win_flag": away_flag,
+    }
+
+
+def _collect_league_results() -> List[Dict[str, object]]:
+    if not LEAGUE_ROOT.exists():
+        raise FileNotFoundError(f"League directory missing at {LEAGUE_ROOT}")
+
+    records: List[Dict[str, object]] = []
+    for season_dir in sorted(LEAGUE_ROOT.iterdir()):
+        if not season_dir.is_dir():
+            continue
+        season_label = season_dir.name
+        if not season_label.isdigit():
+            continue
+        results_path = season_dir / "league_results.csv"
+        if not results_path.exists():
+            continue
+        with open(results_path, newline="") as fp:
+            reader = csv.DictReader(fp)
+            for row in reader:
+                record = _build_match_record(row, season_label)
+                if record:
+                    records.append(record)
+    if not records:
+        raise RuntimeError(f"No league results found under {LEAGUE_ROOT}")
+    return records
+
+
+def _load_cleaned_league_results() -> Tuple[List[Dict[str, object]], List[str]]:
+    records = _collect_league_results()
+    df = pd.DataFrame(records)
+
+    df["match_datetime_utc"] = pd.to_datetime(df["match_datetime_utc"])
+    df["match_date"] = df["match_datetime_utc"].dt.normalize()
+    df["match_weekday"] = df["match_date"].dt.day_name()
+    df["season"] = df["season"].astype(int)
+
+    numeric_cols = [
+        "home_goals",
+        "away_goals",
+        "total_goals",
+        "goal_difference",
+        "home_xg",
+        "away_xg",
+        "xg_difference",
+        "forecast_home_win",
+        "forecast_draw",
+        "forecast_away_win",
+    ]
+    for col in numeric_cols:
+        df[col] = pd.to_numeric(df[col], errors="coerce")
+
+    df = df.sort_values("match_datetime_utc").reset_index(drop=True)
+
+    long_df = league_v2.compute_team_view(df.copy())
+    long_df = league_v2.add_rolling_features(long_df)
+    enriched = league_v2.pivot_features(df.copy(), long_df)
+    enriched = league_v2.add_market_features(enriched)
+    enriched = league_v2.add_targets(enriched)
+    enriched = league_v2.add_momentum_standardisation(enriched)
+    enriched = league_v2.prune_inference_columns(enriched)
+    enriched = league_v2.reorder_columns(enriched)
+
+    for col, fmt in (("match_datetime_utc", "%Y-%m-%d %H:%M:%S"), ("match_date", "%Y-%m-%d")):
+        if col in enriched.columns and pd.api.types.is_datetime64_any_dtype(enriched[col]):
+            enriched[col] = enriched[col].dt.strftime(fmt)
+
+    output_records: List[Dict[str, object]] = []
+    for record in enriched.to_dict(orient="records"):
+        cleaned_record: Dict[str, object] = {}
+        for key, value in record.items():
+            if pd.isna(value):
+                cleaned_record[key] = ""
+            else:
+                cleaned_record[key] = value
+        output_records.append(cleaned_record)
+
+    return output_records, list(enriched.columns)
 
 
 def load_team_shot_counts() -> Dict[ShotsKey, Dict[str, Optional[int]]]:
@@ -196,17 +414,11 @@ def load_elo_summary() -> Dict[SummaryKey, Dict[str, Optional[float]]]:
 
 
 def main() -> None:
-    if not SOURCE_DATASET.exists():
-        raise FileNotFoundError(f"Base dataset missing at {SOURCE_DATASET}")
+    base_rows, base_fieldnames = _load_cleaned_league_results()
 
     shot_map = load_team_shot_counts()
     elo_map = load_elo_timeseries()
     elo_summary = load_elo_summary()
-
-    with open(SOURCE_DATASET, newline="") as fp:
-        reader = csv.DictReader(fp)
-        base_rows = list(reader)
-        base_fieldnames = reader.fieldnames or []
 
     new_columns = [
         "home_shots_for",
@@ -249,11 +461,11 @@ def main() -> None:
         bucket.setdefault(key, []).append(value)
 
     for row in base_rows:
-        league = row.get("league", "").strip()
-        match_id = row.get("match_id", "").strip()
-        home_team = row.get("home_team_name", "").strip()
-        away_team = row.get("away_team_name", "").strip()
-        season = row.get("season", "").strip()
+        league = str(row.get("league", "")).strip()
+        match_id = str(row.get("match_id", "")).strip()
+        home_team = str(row.get("home_team_name", "")).strip()
+        away_team = str(row.get("away_team_name", "")).strip()
+        season = str(row.get("season", "")).strip()
 
         # Team shot counts
         home_shots = shot_map.get((league, match_id, home_team))
@@ -376,8 +588,8 @@ def main() -> None:
     expect_gap_stats = _compute_stats(expectation_gap_values)
 
     for row in base_rows:
-        league = row.get("league", "").strip()
-        season = row.get("season", "").strip()
+        league = str(row.get("league", "")).strip()
+        season = str(row.get("season", "")).strip()
         key = (league, season)
 
         gap_val = row.pop("_elo_gap_pre_value", None)
