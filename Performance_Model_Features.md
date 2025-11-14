@@ -52,6 +52,6 @@ This document summarizes every feature currently used by the performance-view de
 | `elo_gap_pre` | Elo differential (positive favors home). | `elo_home_pre - elo_away_pre`. |
 | `elo_home_expectation` | Elo-implied win probability for the home side. | Pulled from `E_home` in the Elo timeseries; defaults to 0.5 when missing. |
 | `elo_expectation_gap` | Probability gap implied by Elo. | `elo_home_expectation - (1 - elo_home_expectation)` (or 0 when expectations missing). |
-| `market_vs_elo_edge` | Difference between bookmaker home-win probability and Elo expectation, clipped to ±0.35. | `clip(forecast_home_win - elo_home_expectation, -0.35, 0.35)`. |
+| ~~`market_vs_elo_edge`~~ | ~~Difference between bookmaker home-win probability and Elo expectation, clipped to ±0.35. Removed from the performance view to avoid market odds leakage.~~ | ~~`clip(forecast_home_win - elo_home_expectation, -0.35, 0.35)`~~ |
 
 These definitions should make it easier to spot redundant groups when pruning the performance model to a tighter, less biased feature slate.
