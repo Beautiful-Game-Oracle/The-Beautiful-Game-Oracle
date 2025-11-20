@@ -45,7 +45,7 @@ async def save_team_data(league, season, team_name, data):
     for key, filename in [
         ("players", "team_players.csv"),
         ("results", "team_results.csv"),
-        ("fixtures", "team_fixtures.csv")
+        ("fixtures", "CMPT 419 Presentation 2")
     ]:
         if data[key]:
             pd.DataFrame(data[key]).to_csv(output_dir / filename, index=False)

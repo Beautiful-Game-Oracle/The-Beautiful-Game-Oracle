@@ -16,6 +16,14 @@ export type FinancialFeatures = {
   wageGap: number;
   netSpendGap: number;
   valuationGap: number;
+  squad_value_ratio?: number;
+  squad_value_diff?: number;
+  avg_player_value_ratio?: number;
+  avg_player_value_diff?: number;
+  wage_bill_ratio?: number;
+  wage_bill_diff?: number;
+  avg_salary_ratio?: number;
+  avg_salary_diff?: number;
 };
 
 export type MarketFeatures = {

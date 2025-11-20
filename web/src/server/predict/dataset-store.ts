@@ -9,6 +9,12 @@ import {
   getTeamCacheDir,
   getPredictionTargetSeason,
 } from "@/config/env";
+import {
+  FINANCIAL_FEATURE_COLUMNS,
+  getFinancialFeatureMap,
+  buildApproximateFinancialSnapshot,
+} from "@/server/predict/financial-data";
+import { buildFixtureKey } from "@/server/predict/fixture-key";
 
 // dataset-store.ts centralizes CSV loading, feature derivation, and synthetic fixture creation for the web API.
 
@@ -71,10 +77,6 @@ function datasetPathFor(version: string) {
   return path.resolve(DATASET_ROOT, `Dataset_Version_${version}.csv`);
 }
 
-function buildKey(season: string, home: string, away: string) {
-  return `${season.toLowerCase()}|${home.toLowerCase()}|${away.toLowerCase()}`;
-}
-
 function resolveDatasetVersion(
   input?: string | number | null,
 ): string {
@@ -102,6 +104,7 @@ function loadDataset(version: string) {
   }) as Array<Record<string, string>>;
   const parsed = records.map((record, idx) => buildRecord(record, idx));
   enrichRecords(parsed);
+  mergeFinancialRecords(parsed, version);
   const latestSeason = determineLatestSeason(parsed);
   latestSeasonByVersion.set(version, latestSeason);
   ensureTeamCaches(parsed);
@@ -138,7 +141,7 @@ function buildRecord(record: Record<string, string>, idx: number): DatasetRecord
 function buildFixtureMap(records: DatasetRecord[]) {
   const map = new Map<string, FixtureRow>();
   for (const record of records) {
-    const key = buildKey(record.season, record.home, record.away);
+    const key = buildFixtureKey(record.season, record.home, record.away);
     map.set(key, {
       season: record.season,
       league: record.league,
@@ -171,14 +174,14 @@ export function getFixtureRow(
   const version = resolveDatasetVersion(datasetVersion);
   const map = loadDataset(version);
   const requestedSeason = String(season);
-  const key = buildKey(requestedSeason, home, away);
+  const key = buildFixtureKey(requestedSeason, home, away);
   const match = map.get(key);
   if (match) {
     return match;
   }
   const fallbackSeason = latestSeasonByVersion.get(version);
   if (fallbackSeason && fallbackSeason !== requestedSeason) {
-    const fallbackMatch = map.get(buildKey(fallbackSeason, home, away));
+    const fallbackMatch = map.get(buildFixtureKey(fallbackSeason, home, away));
     if (fallbackMatch) {
       return {
         ...fallbackMatch,
@@ -506,6 +509,46 @@ function seasonZScore(
   });
 }
 
+function mergeFinancialRecords(records: DatasetRecord[], version: string) {
+  const financialMap = getFinancialFeatureMap(version);
+  let merged = 0;
+  for (const record of records) {
+    const key = buildFixtureKey(record.season, record.home, record.away);
+    let snapshot = financialMap.get(key);
+    if (!snapshot) {
+      snapshot = buildApproximateFinancialSnapshot(version, record.season, record.home, record.away);
+      if (snapshot) {
+        financialMap.set(key, snapshot);
+      }
+    }
+    if (!snapshot) {
+      continue;
+    }
+    merged += 1;
+    for (const column of FINANCIAL_FEATURE_COLUMNS) {
+      const value = snapshot[column];
+      if (typeof value === "number" && Number.isFinite(value)) {
+        record.values[column] = value;
+      }
+    }
+    record.values.valuationGap = normalizeFinancialGap(snapshot.squad_value_diff, 1e8);
+    record.values.wageGap = normalizeFinancialGap(snapshot.wage_bill_diff, 1e7);
+    record.values.netSpendGap = normalizeFinancialGap(snapshot.avg_salary_diff, 1e6);
+  }
+  if (merged === 0) {
+    throw new Error(
+      `[dataset-store] Financial dataset loaded but no fixtures merged for version ${version}. Ensure financial_dataset.csv aligns with main fixture CSV.`,
+    );
+  }
+}
+
+function normalizeFinancialGap(value: number | undefined, scale: number) {
+  if (typeof value !== "number" || Number.isNaN(value) || !Number.isFinite(value)) {
+    return 0;
+  }
+  return value / scale;
+}
+
 function fillMedian(records: DatasetRecord[], column: string) {
   const values = records
     .map((record) => record.values[column])
@@ -572,7 +615,8 @@ function writeTeamCacheIfMissing(league: string, season: string, teamNames: stri
 
 function teamCachePath(league: string, season: string) {
   const safeLeague = slugify(league).toUpperCase();
-  return path.join(TEAM_CACHE_DIR, `${safeLeague}_${2025}.json`);
+  const safeSeason = String(season ?? "").replace(/[^0-9a-z]+/gi, "_") || "latest";
+  return path.join(TEAM_CACHE_DIR, `${safeLeague}_${safeSeason}.json`);
 }
 
 function slugify(value: string) {

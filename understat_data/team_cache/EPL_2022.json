@@ -1,0 +1,106 @@
+{
+  "league": "EPL",
+  "season": "2022",
+  "teams": [
+    {
+      "name": "Arsenal",
+      "canonical": "arsenal",
+      "shortName": "ARS"
+    },
+    {
+      "name": "Aston Villa",
+      "canonical": "aston_villa",
+      "shortName": "AV"
+    },
+    {
+      "name": "Bournemouth",
+      "canonical": "bournemouth",
+      "shortName": "BOU"
+    },
+    {
+      "name": "Brentford",
+      "canonical": "brentford",
+      "shortName": "BRE"
+    },
+    {
+      "name": "Brighton",
+      "canonical": "brighton",
+      "shortName": "BRI"
+    },
+    {
+      "name": "Chelsea",
+      "canonical": "chelsea",
+      "shortName": "CHE"
+    },
+    {
+      "name": "Crystal Palace",
+      "canonical": "crystal_palace",
+      "shortName": "CP"
+    },
+    {
+      "name": "Everton",
+      "canonical": "everton",
+      "shortName": "EVE"
+    },
+    {
+      "name": "Fulham",
+      "canonical": "fulham",
+      "shortName": "FUL"
+    },
+    {
+      "name": "Leeds",
+      "canonical": "leeds",
+      "shortName": "LEE"
+    },
+    {
+      "name": "Leicester",
+      "canonical": "leicester",
+      "shortName": "LEI"
+    },
+    {
+      "name": "Liverpool",
+      "canonical": "liverpool",
+      "shortName": "LIV"
+    },
+    {
+      "name": "Manchester City",
+      "canonical": "manchester_city",
+      "shortName": "MC"
+    },
+    {
+      "name": "Manchester United",
+      "canonical": "manchester_united",
+      "shortName": "MU"
+    },
+    {
+      "name": "Newcastle United",
+      "canonical": "newcastle_united",
+      "shortName": "NU"
+    },
+    {
+      "name": "Nottingham Forest",
+      "canonical": "nottingham_forest",
+      "shortName": "NF"
+    },
+    {
+      "name": "Southampton",
+      "canonical": "southampton",
+      "shortName": "SOU"
+    },
+    {
+      "name": "Tottenham",
+      "canonical": "tottenham",
+      "shortName": "TOT"
+    },
+    {
+      "name": "West Ham",
+      "canonical": "west_ham",
+      "shortName": "WH"
+    },
+    {
+      "name": "Wolverhampton Wanderers",
+      "canonical": "wolverhampton_wanderers",
+      "shortName": "WW"
+    }
+  ]
+}

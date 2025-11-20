@@ -1,0 +1,14 @@
+{
+  "feature_schema_version": "Dataset_Version_7",
+  "feature_names": [
+    "squad_value_ratio",
+    "squad_value_diff",
+    "avg_player_value_ratio",
+    "avg_player_value_diff",
+    "wage_bill_ratio",
+    "wage_bill_diff",
+    "avg_salary_ratio",
+    "avg_salary_diff"
+  ],
+  "trainer": "xgboost"
+}

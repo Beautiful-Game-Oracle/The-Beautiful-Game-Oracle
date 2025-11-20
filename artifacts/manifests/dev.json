@@ -18,6 +18,15 @@
       "local_path": "artifacts/run_export/market_gradient_boost.onnx",
       "sha256": "ce348c9856c3d5a4e280fa825ff4d0c1a8b15919be042f75fb701504f9da8897",
       "size_bytes": 205608
+    },
+    {
+      "id": "financial_lens",
+      "format": "onnx",
+      "path": "artifacts/run_export/financial_lens.onnx",
+      "local_path": "artifacts/run_export/financial_lens.onnx",
+      "sha256": "ea828a9694de8ffbf0852cd129007bcc08e2ee9b5095e221fedbb961f6d7fa84",
+      "size_bytes": 329201,
+      "view": "financial"
     }
   ],
   "preprocessing": [
@@ -34,6 +43,13 @@
       "local_path": "artifacts/run_export/market_gradient_boost_preprocessing.json",
       "sha256": "1266cf2cad405df9a252c61f05c0a3b068e7a47fb45077e08fd49fee8c9bee0e",
       "size_bytes": 522
+    },
+    {
+      "id": "financial_lens",
+      "path": "artifacts/run_export/financial_lens_preprocessing.json",
+      "local_path": "artifacts/run_export/financial_lens_preprocessing.json",
+      "sha256": "11af42ab7a17807d3c7ba69236281ae0755ffffb739928469cff050565e637e9",
+      "size_bytes": 300
     }
   ],
   "attribution": [],

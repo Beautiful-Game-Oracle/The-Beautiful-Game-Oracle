@@ -36,6 +36,16 @@ def export_model(run_dir: Path, view: str, output_dir: Path) -> None:
 
     booster.save_config = sanitized_save_config  # type: ignore[assignment]
     initial_types = [("input", FloatTensorType([None, len(feature_names)]))]
+    normalized_feature_names = [f"f{i}" for i in range(len(feature_names))]
+    if booster.feature_names is None or len(booster.feature_names) != len(feature_names):
+        booster.feature_names = normalized_feature_names  # type: ignore[assignment]
+    else:
+        try:
+            [int(name[1:]) for name in booster.feature_names]
+        except Exception:
+            booster.feature_names = normalized_feature_names  # type: ignore[assignment]
+    booster.feature_types = None  # type: ignore[assignment]
+
     onnx_model = convert_xgboost(booster, initial_types=initial_types, target_opset=15)
 
     output_dir.mkdir(parents=True, exist_ok=True)

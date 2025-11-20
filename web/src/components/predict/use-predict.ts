@@ -12,6 +12,7 @@ export type PredictionResponse = {
     id: string;
     format: string | null;
     location: { kind: "local"; path: string } | { kind: "remote"; uri: string } | null;
+    view: string | null;
     probs: { home: number; draw: number; away: number };
     logits: { home: number; draw: number; away: number };
     note: string;

@@ -19,6 +19,15 @@
       "local_path": "fixtures/market_gradient_boost.onnx",
       "sha256": "0",
       "size_bytes": 0
+    },
+    {
+      "id": "financial_lens",
+      "format": "onnx",
+      "path": "fixtures/financial_lens.onnx",
+      "local_path": "fixtures/financial_lens.onnx",
+      "sha256": "ea828a9694de8ffbf0852cd129007bcc08e2ee9b5095e221fedbb961f6d7fa84",
+      "size_bytes": 329201,
+      "view": "financial"
     }
   ],
   "preprocessing": [
@@ -35,6 +44,13 @@
       "local_path": "fixtures/market_gradient_boost_preprocessing.json",
       "sha256": "dev",
       "size_bytes": 0
+    },
+    {
+      "id": "financial_lens",
+      "path": "fixtures/financial_lens_preprocessing.json",
+      "local_path": "fixtures/financial_lens_preprocessing.json",
+      "sha256": "11af42ab7a17807d3c7ba69236281ae0755ffffb739928469cff050565e637e9",
+      "size_bytes": 300
     }
   ],
   "attribution": []

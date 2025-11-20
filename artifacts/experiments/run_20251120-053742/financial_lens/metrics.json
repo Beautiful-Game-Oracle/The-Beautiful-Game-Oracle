@@ -1,0 +1,32 @@
+{
+  "trainer": "xgboost",
+  "feature_cols": [
+    "squad_value_ratio",
+    "squad_value_diff",
+    "avg_player_value_ratio",
+    "avg_player_value_diff",
+    "wage_bill_ratio",
+    "wage_bill_diff",
+    "avg_salary_ratio",
+    "avg_salary_diff"
+  ],
+  "dataset_label": "Dataset_Version_7",
+  "train": {
+    "accuracy": 0.7950138504155124,
+    "logloss": 0.7522944174021408
+  },
+  "val": {
+    "accuracy": 0.48947368421052634,
+    "logloss": 1.0271369259401963
+  },
+  "test": {
+    "accuracy": 0.509090909090909,
+    "logloss": 0.9999390839115595
+  },
+  "best_iteration": 20,
+  "class_mapping": {
+    "0": "home",
+    "1": "draw",
+    "2": "away"
+  }
+}
