@@ -1,0 +1,24 @@
+{
+  "feature_schema_version": "Dataset_Version_7",
+  "feature_names": [
+    "forecast_home_win",
+    "forecast_draw",
+    "forecast_away_win",
+    "market_home_edge",
+    "market_entropy",
+    "market_logit_home",
+    "market_max_prob",
+    "prob_edge",
+    "elo_home_pre",
+    "elo_away_pre",
+    "elo_mean_pre",
+    "elo_gap_pre",
+    "elo_home_expectation",
+    "elo_expectation_gap",
+    "market_vs_elo_edge",
+    "match_day_index",
+    "match_day_of_year_norm",
+    "match_weekday_index"
+  ],
+  "trainer": "xgboost"
+}

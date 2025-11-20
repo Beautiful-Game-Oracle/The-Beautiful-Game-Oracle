@@ -209,5 +209,5 @@ AGENTS.md
 .DS_Store
 
 # Local runs
-artifacts/
+#artifacts/
 

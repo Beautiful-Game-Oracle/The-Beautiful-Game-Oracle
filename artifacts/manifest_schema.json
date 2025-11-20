@@ -1,0 +1,134 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Oracle Model Manifest",
+  "type": "object",
+  "required": [
+    "run_id",
+    "dataset_version",
+    "trained_at",
+    "models",
+    "preprocessing",
+    "attribution"
+  ],
+  "properties": {
+    "run_id": {
+      "type": "string",
+      "pattern": "^[a-zA-Z0-9._-]+$",
+      "description": "Unique identifier for this training run."
+    },
+    "dataset_version": {
+      "type": ["string", "number"],
+      "description": "Dataset version used when training (e.g., 7)."
+    },
+    "trained_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO8601 timestamp indicating when the model was trained."
+    },
+    "notes": {
+      "type": "string",
+      "description": "Optional notes about the run."
+    },
+    "artefact_base_url": {
+      "type": "string",
+      "description": "Optional base URL where artefacts are hosted."
+    },
+    "metrics": {
+      "type": "object",
+      "description": "Aggregated evaluation metrics per model or ensemble.",
+      "additionalProperties": {
+        "type": ["number", "object", "array", "string", "null"]
+      }
+    },
+    "feature_schema_version": {
+      "type": ["string", "number"],
+      "description": "Version of the feature engineering schema used when exporting preprocessing bundles."
+    },
+    "models": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "path", "sha256", "size_bytes", "format"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Logical model identifier (e.g., performance_dense)."
+          },
+          "local_path": {
+            "type": "string",
+            "description": "Local filesystem path (relative or absolute) for consuming artefacts without remote hosting."
+          },
+          "format": {
+            "type": "string",
+            "enum": ["tf", "tfjs", "onnx", "tflite", "torchscript", "other"]
+          },
+          "path": {
+            "type": "string",
+            "description": "Path (relative or absolute) to the exported weights."
+          },
+          "sha256": {
+            "type": "string",
+            "pattern": "^[A-Fa-f0-9]{64}$",
+            "description": "SHA256 checksum of the artefact."
+          },
+          "size_bytes": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "uri": {
+            "type": "string",
+            "description": "Resolved URI combining base URL + relative path."
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "preprocessing": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "path", "sha256", "size_bytes"],
+        "properties": {
+          "id": { "type": "string" },
+          "local_path": {
+            "type": "string",
+            "description": "Local filesystem path (relative or absolute) for consuming artefacts without remote hosting."
+          },
+          "path": { "type": "string" },
+          "sha256": {
+            "type": "string",
+            "pattern": "^[A-Fa-f0-9]{64}$"
+          },
+          "size_bytes": { "type": "integer", "minimum": 0 },
+          "uri": { "type": "string" }
+        },
+        "additionalProperties": true
+      }
+    },
+    "attribution": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "path", "sha256", "size_bytes"],
+        "properties": {
+          "id": { "type": "string" },
+          "local_path": {
+            "type": "string",
+            "description": "Local filesystem path (relative or absolute) for consuming artefacts without remote hosting."
+          },
+          "path": { "type": "string" },
+          "sha256": {
+            "type": "string",
+            "pattern": "^[A-Fa-f0-9]{64}$"
+          },
+          "size_bytes": { "type": "integer", "minimum": 0 },
+          "uri": { "type": "string" },
+          "view": { "type": "string" }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": false
+}

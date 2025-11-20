@@ -1,0 +1,38 @@
+{
+  "trainer": "xgboost",
+  "train": {
+    "accuracy": 0.7692307692307693,
+    "logloss": 0.7676822543144226
+  },
+  "val": {
+    "accuracy": 0.47333333333333333,
+    "logloss": 1.0443707704544067
+  },
+  "test": {
+    "accuracy": 0.4666666666666667,
+    "logloss": 1.0715643167495728
+  },
+  "epochs_trained": 4,
+  "feature_cols": [
+    "home_recent_games_frac",
+    "away_recent_games_frac",
+    "log_shot_ratio_avg5",
+    "att_gap_avg5",
+    "def_gap_avg5",
+    "points_gap_avg5",
+    "xg_att_gap_avg5",
+    "xg_def_gap_avg5",
+    "log_xg_ratio_avg5",
+    "home_goals_for_avg5",
+    "home_goals_against_avg5",
+    "away_goals_for_avg5",
+    "away_goals_against_avg5",
+    "elo_home_pre",
+    "elo_away_pre",
+    "elo_mean_pre",
+    "elo_gap_pre",
+    "elo_home_expectation",
+    "elo_expectation_gap"
+  ],
+  "dataset_label": "Dataset_Version_6"
+}

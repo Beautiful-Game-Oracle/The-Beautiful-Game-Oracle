@@ -1,0 +1,56 @@
+{
+  "trainer": "reinforce",
+  "train": {
+    "accuracy": 0.4868421052631579,
+    "logloss": 1.3711622953414917
+  },
+  "val": {
+    "accuracy": 0.4868421052631579,
+    "logloss": 1.5159363746643066
+  },
+  "test": {
+    "accuracy": 0.4868421052631579,
+    "logloss": 1.397711992263794
+  },
+  "epochs_trained": 60,
+  "feature_cols": [
+    "momentum_points_last3_delta_season_z",
+    "momentum_points_last2_delta_season_z",
+    "momentum_points_last8_delta_season_z",
+    "momentum_points_pct_last3_delta_season_z",
+    "momentum_goal_diff_last3_delta_season_z",
+    "momentum_goal_diff_last2_delta_season_z",
+    "momentum_goal_diff_last8_delta_season_z",
+    "momentum_xg_diff_last3_delta_season_z",
+    "momentum_xg_diff_last2_delta_season_z",
+    "momentum_xg_diff_last8_delta_season_z",
+    "momentum_points_exp_decay_delta_season_z",
+    "momentum_xg_exp_decay_delta_season_z",
+    "momentum_matches_last14_delta_season_z",
+    "momentum_travel_rest_ratio_delta_season_z",
+    "momentum_forecast_win_prev_delta_season_z",
+    "momentum_forecast_trend_delta_season_z",
+    "shot_volume_gap_avg3_season_z",
+    "shot_suppress_gap_avg3_season_z",
+    "shots_tempo_avg3_season_z",
+    "elo_gap_pre_season_z",
+    "market_vs_elo_edge",
+    "form_pct_diff_last5_season_z",
+    "form_diff_last5_season_z",
+    "rest_diff_season_z",
+    "fixture_congestion_flag_pair",
+    "momentum_fixture_congestion_delta",
+    "rest_reset_flag_pair",
+    "match_day_index_season_z",
+    "match_day_of_year_norm_season_z",
+    "match_weekday_index_season_z",
+    "match_weekday_Friday",
+    "match_weekday_Monday",
+    "match_weekday_Saturday",
+    "match_weekday_Sunday",
+    "match_weekday_Thursday",
+    "match_weekday_Tuesday",
+    "match_weekday_Wednesday"
+  ],
+  "dataset_label": "Dataset_Version_4"
+}

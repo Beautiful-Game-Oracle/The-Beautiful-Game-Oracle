@@ -209,11 +209,17 @@ def sync_run_history(
         rows.append(normalised)
 
     def _sort_key(row: dict) -> datetime:
-        ts = row.get("timestamp", "")
+        ts = _format_value(row.get("timestamp", ""))
         try:
-            return datetime.fromisoformat(ts)
+            parsed = datetime.fromisoformat(ts)
         except ValueError:
-            return datetime.min
+            parsed = datetime.min
+        # csv rows may contain naive timestamps from older logs, so normalise to UTC
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=timezone.utc)
+        else:
+            parsed = parsed.astimezone(timezone.utc)
+        return parsed
 
     rows.sort(key=_sort_key)
 

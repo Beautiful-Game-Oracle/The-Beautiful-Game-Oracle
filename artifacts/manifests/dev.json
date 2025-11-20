@@ -1,0 +1,41 @@
+{
+  "run_id": "run_20251117-032023",
+  "dataset_version": "7",
+  "trained_at": "2025-11-17T00:15:00Z",
+  "models": [
+    {
+      "id": "performance_dense",
+      "format": "onnx",
+      "path": "artifacts/run_export/performance_dense.onnx",
+      "local_path": "artifacts/run_export/performance_dense.onnx",
+      "sha256": "60deb4ded705212823b5eb14f9ccaf7653557d2c9d6f2013e5bd6567be53f4c7",
+      "size_bytes": 239248
+    },
+    {
+      "id": "market_gradient_boost",
+      "format": "onnx",
+      "path": "artifacts/run_export/market_gradient_boost.onnx",
+      "local_path": "artifacts/run_export/market_gradient_boost.onnx",
+      "sha256": "ce348c9856c3d5a4e280fa825ff4d0c1a8b15919be042f75fb701504f9da8897",
+      "size_bytes": 205608
+    }
+  ],
+  "preprocessing": [
+    {
+      "id": "performance_dense",
+      "path": "artifacts/run_export/performance_dense_preprocessing.json",
+      "local_path": "artifacts/run_export/performance_dense_preprocessing.json",
+      "sha256": "a93bdfd48ef656daa3ddb79fcf77216aa2f9e2690c94f1e9973dd4aba0839a08",
+      "size_bytes": 1279
+    },
+    {
+      "id": "market_gradient_boost",
+      "path": "artifacts/run_export/market_gradient_boost_preprocessing.json",
+      "local_path": "artifacts/run_export/market_gradient_boost_preprocessing.json",
+      "sha256": "1266cf2cad405df9a252c61f05c0a3b068e7a47fb45077e08fd49fee8c9bee0e",
+      "size_bytes": 522
+    }
+  ],
+  "attribution": [],
+  "feature_schema_version": "v7"
+}
