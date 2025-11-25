@@ -33,6 +33,30 @@ export function getDatasetRoot(): string {
   return path.resolve(process.cwd(), "./public/fixtures");
 }
 
+export function getFinancialDatasetPath(version?: string | number | null): string | null {
+  const override = process.env.FINANCIAL_DATASET_PATH;
+  if (override && override.trim().length > 0) {
+    return path.resolve(override.trim());
+  }
+  const processedRoot = path.resolve(process.cwd(), "../data/processed");
+  const candidates: string[] = [];
+  if (version) {
+    const normalized = String(version).replace(/[^0-9a-z]/gi, "");
+    if (normalized) {
+      candidates.push(`financial_dataset_v${normalized}.csv`);
+      candidates.push(`financial_dataset_${normalized}.csv`);
+    }
+  }
+  candidates.push("financial_dataset.csv");
+  for (const candidate of candidates) {
+    const target = path.resolve(processedRoot, candidate);
+    if (fs.existsSync(target)) {
+      return target;
+    }
+  }
+  return null;
+}
+
 export function getTeamCacheDir(): string {
   const dir = process.env.FEATURE_TEAM_CACHE_DIR;
   if (dir && dir.trim().length > 0) {
@@ -68,5 +92,6 @@ export function getEnvSummary() {
     reloadTokenConfigured: Boolean(process.env.RELOAD_TOKEN),
     featureDatasetVersion: getFeatureDatasetVersion(),
     predictionTargetSeason: getPredictionTargetSeason(),
+    financialDatasetPath: getFinancialDatasetPath(getFeatureDatasetVersion()) ?? null,
   };
 }

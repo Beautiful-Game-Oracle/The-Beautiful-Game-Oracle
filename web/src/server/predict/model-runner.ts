@@ -11,6 +11,7 @@ export type ModelPrediction = {
   id: string;
   format: string | null;
   location: ReturnType<typeof serializeLocation>;
+  view: string | null;
   logits: ProbabilityTriplet;
   probs: ProbabilityTriplet;
   note: string;
@@ -38,6 +39,7 @@ async function producePrediction(
   vector: FixtureFeatureVector,
   preprocessingHandles: ResourceHandle[],
 ): Promise<ModelPrediction> {
+  const view = inferView(handle);
   if (handle.entry.format === "onnx") {
     try {
       const probs = await runOnnxModel(handle, vector, preprocessingHandles);
@@ -46,6 +48,7 @@ async function producePrediction(
         id: handle.id,
         format: "onnx",
         location: serializeLocation(handle),
+        view,
         logits,
         probs,
         note: "Inference via onnxruntime-node",
@@ -69,6 +72,7 @@ async function producePrediction(
     id: handle.id,
     format: handle.entry.format ?? null,
     location: serializeLocation(handle),
+    view,
     logits,
     probs,
     note: "Heuristic fallback (model export not available).",
@@ -177,4 +181,15 @@ function serializeLocation(handle: ResourceHandle) {
 
 function round(value: number) {
   return Math.round(value * 1000) / 1000;
+}
+
+function inferView(handle: ResourceHandle) {
+  if (handle.entry.view) {
+    return handle.entry.view;
+  }
+  const id = handle.id.toLowerCase();
+  if (id.includes("financial")) return "financial";
+  if (id.includes("market")) return "market";
+  if (id.includes("performance")) return "performance";
+  return null;
 }

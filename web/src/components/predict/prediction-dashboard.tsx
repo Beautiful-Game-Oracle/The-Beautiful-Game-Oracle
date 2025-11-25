@@ -42,11 +42,12 @@ export function PredictionDashboard({ onSelectionChange }: Props) {
   const isSameTeam = home === away;
 
   return (
-    <section className="grid gap-8 lg:grid-cols-[0.9fr_1.1fr]">
-      <Card className="bg-panel/80">
-        <CardTitle className="text-xl">Fixture Selector</CardTitle>
-        <CardBody className="mt-2 text-sm text-muted">
-          Choose two Premier League clubs and run the prediction suite above the
+    <section className="space-y-8">
+      <div className="grid gap-6 lg:grid-cols-[1.05fr_0.95fr]">
+        <Card className="bg-panel/80">
+          <CardTitle className="text-xl">Fixture Selector</CardTitle>
+          <CardBody className="mt-2 text-sm text-muted">
+            Choose two Premier League clubs and run the prediction suite above the
           latest manifest-exported models. Target season:{" "}
           <span className="text-foreground font-semibold">
             {season ?? "loading…"}
@@ -100,36 +101,74 @@ export function PredictionDashboard({ onSelectionChange }: Props) {
             {prediction.status === "loading" ? "Predicting…" : "Run Prediction"}
           </button>
         </form>
-        <div className="mt-6 rounded-2xl border border-white/10 bg-white/5 p-4 text-sm">
-          <p className="font-semibold text-foreground">Active Manifest</p>
-          {loaderStatus.status === "ready" && loaderStatus.data ? (
-            <ul className="mt-2 space-y-1 text-muted">
-              <li>
-                Run ID:{" "}
-                <span className="text-foreground">
-                  {loaderStatus.data.run_id ?? "n/a"}
-                </span>
-              </li>
-              <li>
-                Dataset version:{" "}
-                <span className="text-foreground">
-                  {loaderStatus.data.dataset_version ?? "n/a"}
-                </span>
-              </li>
-              <li>
-                Source:{" "}
-                <span className="text-foreground">
-                  {loaderStatus.data.manifest_source?.kind}
-                </span>
-              </li>
-            </ul>
-          ) : loaderStatus.status === "error" ? (
-            <p className="text-danger">{loaderStatus.error}</p>
+          <div className="mt-6 rounded-2xl border border-white/10 bg-white/5 p-4 text-sm">
+            <p className="font-semibold text-foreground">Active Manifest</p>
+            {loaderStatus.status === "ready" && loaderStatus.data ? (
+              <ul className="mt-2 space-y-1 text-muted">
+                <li>
+                  Run ID:{" "}
+                  <span className="text-foreground">
+                    {loaderStatus.data.run_id ?? "n/a"}
+                  </span>
+                </li>
+                <li>
+                  Dataset version:{" "}
+                  <span className="text-foreground">
+                    {loaderStatus.data.dataset_version ?? "n/a"}
+                  </span>
+                </li>
+                <li>
+                  Source:{" "}
+                  <span className="text-foreground">
+                    {loaderStatus.data.manifest_source?.kind}
+                  </span>
+                </li>
+              </ul>
+            ) : loaderStatus.status === "error" ? (
+              <p className="text-danger">{loaderStatus.error}</p>
+            ) : (
+              <p className="text-muted">Loading manifest status…</p>
+            )}
+          </div>
+        </Card>
+        <div className="flex flex-col gap-4">
+          {prediction.data && (
+            <div className="rounded-3xl border border-white/10 bg-white/5 p-5">
+              <p className="text-xs uppercase tracking-[0.3em] text-muted">
+                {prediction.data.fixture.season}
+              </p>
+              <h2 className="mt-2 text-2xl font-semibold text-foreground">
+                {prediction.data.fixture.home.name} vs {prediction.data.fixture.away.name}
+              </h2>
+              <p className="text-sm text-muted">
+                Ensemble method: {prediction.data.ensemble.method}
+              </p>
+            </div>
+          )}
+          {prediction.data ? (
+            <ModelCard
+              model={{
+                id: "Ensemble",
+                format: prediction.data.ensemble.method,
+                location: null,
+                view: null,
+                probs: prediction.data.ensemble.probs,
+                logits: prediction.data.ensemble.probs,
+                note: "Log probability average across loaded models.",
+              }}
+              isEnsemble
+            />
           ) : (
-            <p className="text-muted">Loading manifest status…</p>
+            <Card className="h-full min-h-[220px] bg-panel/60">
+              <CardTitle>Ensemble</CardTitle>
+              <CardBody className="mt-3 text-sm text-muted">
+                Run a prediction to view ensemble probabilities alongside the
+                individual model cards.
+              </CardBody>
+            </Card>
           )}
         </div>
-      </Card>
+      </div>
 
       <div className="space-y-5">
         {prediction.status === "error" && (
@@ -150,38 +189,13 @@ export function PredictionDashboard({ onSelectionChange }: Props) {
           </Card>
         )}
         {prediction.data && (
-          <div className="space-y-4">
-            <div className="rounded-3xl border border-white/10 bg-white/5 p-5">
-              <p className="text-xs uppercase tracking-[0.3em] text-muted">
-                {prediction.data.fixture.season}
-              </p>
-              <h2 className="mt-2 text-2xl font-semibold text-foreground">
-                {prediction.data.fixture.home.name} vs{" "}
-                {prediction.data.fixture.away.name}
-              </h2>
-              <p className="text-sm text-muted">
-                Ensemble method: {prediction.data.ensemble.method}
-              </p>
-            </div>
-            <ModelCard
-              model={{
-                id: "Ensemble",
-                format: prediction.data.ensemble.method,
-                location: null,
-                probs: prediction.data.ensemble.probs,
-                logits: prediction.data.ensemble.probs,
-                note: "Log probability average across loaded models.",
-              }}
-              isEnsemble
-            />
-            <div className="grid gap-4 md:grid-cols-2">
-              {prediction.data.models.map((model) => (
-                <ModelCard
-                  key={model.id}
-                  model={model}
-                />
-              ))}
-            </div>
+          <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
+            {prediction.data.models.map((model) => (
+              <ModelCard
+                key={model.id}
+                model={model}
+              />
+            ))}
           </div>
         )}
       </div>
