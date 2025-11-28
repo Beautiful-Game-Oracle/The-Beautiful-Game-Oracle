@@ -6,6 +6,7 @@
     {
       "id": "performance_dense",
       "format": "onnx",
+      "uri": "https://raw.githubusercontent.com/Beautiful-Game-Oracle/The-Beautiful-Game-Oracle/main/artifacts/run_export/performance_dense.onnx",
       "path": "artifacts/run_export/performance_dense.onnx",
       "local_path": "artifacts/run_export/performance_dense.onnx",
       "sha256": "60deb4ded705212823b5eb14f9ccaf7653557d2c9d6f2013e5bd6567be53f4c7",
@@ -14,6 +15,7 @@
     {
       "id": "market_gradient_boost",
       "format": "onnx",
+      "uri": "https://raw.githubusercontent.com/Beautiful-Game-Oracle/The-Beautiful-Game-Oracle/main/artifacts/run_export/market_gradient_boost.onnx",
       "path": "artifacts/run_export/market_gradient_boost.onnx",
       "local_path": "artifacts/run_export/market_gradient_boost.onnx",
       "sha256": "ce348c9856c3d5a4e280fa825ff4d0c1a8b15919be042f75fb701504f9da8897",
@@ -22,6 +24,7 @@
     {
       "id": "financial_lens",
       "format": "onnx",
+      "uri": "https://raw.githubusercontent.com/Beautiful-Game-Oracle/The-Beautiful-Game-Oracle/main/artifacts/run_export/financial_lens.onnx",
       "path": "artifacts/run_export/financial_lens.onnx",
       "local_path": "artifacts/run_export/financial_lens.onnx",
       "sha256": "ea828a9694de8ffbf0852cd129007bcc08e2ee9b5095e221fedbb961f6d7fa84",
@@ -32,6 +35,7 @@
   "preprocessing": [
     {
       "id": "performance_dense",
+      "uri": "https://raw.githubusercontent.com/Beautiful-Game-Oracle/The-Beautiful-Game-Oracle/main/artifacts/run_export/performance_dense_preprocessing.json",
       "path": "artifacts/run_export/performance_dense_preprocessing.json",
       "local_path": "artifacts/run_export/performance_dense_preprocessing.json",
       "sha256": "a93bdfd48ef656daa3ddb79fcf77216aa2f9e2690c94f1e9973dd4aba0839a08",
@@ -39,6 +43,7 @@
     },
     {
       "id": "market_gradient_boost",
+      "uri": "https://raw.githubusercontent.com/Beautiful-Game-Oracle/The-Beautiful-Game-Oracle/main/artifacts/run_export/market_gradient_boost_preprocessing.json",
       "path": "artifacts/run_export/market_gradient_boost_preprocessing.json",
       "local_path": "artifacts/run_export/market_gradient_boost_preprocessing.json",
       "sha256": "1266cf2cad405df9a252c61f05c0a3b068e7a47fb45077e08fd49fee8c9bee0e",
@@ -46,6 +51,7 @@
     },
     {
       "id": "financial_lens",
+      "uri": "https://raw.githubusercontent.com/Beautiful-Game-Oracle/The-Beautiful-Game-Oracle/main/artifacts/run_export/financial_lens_preprocessing.json",
       "path": "artifacts/run_export/financial_lens_preprocessing.json",
       "local_path": "artifacts/run_export/financial_lens_preprocessing.json",
       "sha256": "11af42ab7a17807d3c7ba69236281ae0755ffffb739928469cff050565e637e9",

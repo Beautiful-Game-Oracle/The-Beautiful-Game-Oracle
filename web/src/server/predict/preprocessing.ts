@@ -13,14 +13,27 @@ export type PreprocessingBundle = {
 const cache = new Map<string, PreprocessingBundle>();
 
 export async function loadPreprocessing(handle: ResourceHandle | undefined) {
-  if (!handle || !handle.location || handle.location.kind !== "local") {
+  if (!handle || !handle.location) {
     return null;
   }
-  const cached = cache.get(handle.location.path);
+  const key = handle.location.kind === "local" ? handle.location.path : handle.location.uri;
+  const cached = cache.get(key);
   if (cached) return cached;
-  const data = await fs.readFile(handle.location.path, "utf-8");
-  const bundle = JSON.parse(data) as PreprocessingBundle;
-  cache.set(handle.location.path, bundle);
+
+  let bundle: PreprocessingBundle;
+  if (handle.location.kind === "local") {
+    const data = await fs.readFile(handle.location.path, "utf-8");
+    bundle = JSON.parse(data) as PreprocessingBundle;
+  } else {
+    console.log(`[preprocessing] Fetching remote bundle: ${handle.location.uri}`);
+    const response = await fetch(handle.location.uri);
+    if (!response.ok) {
+      throw new Error(`Failed to fetch remote bundle ${handle.location.uri}: ${response.statusText}`);
+    }
+    bundle = (await response.json()) as PreprocessingBundle;
+  }
+
+  cache.set(key, bundle);
   return bundle;
 }
 

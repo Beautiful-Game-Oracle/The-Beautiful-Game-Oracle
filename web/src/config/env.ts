@@ -38,8 +38,14 @@ export function getFinancialDatasetPath(version?: string | number | null): strin
   if (override && override.trim().length > 0) {
     return path.resolve(override.trim());
   }
+
+  // Check public/data first (for production/Vercel)
+  const publicDataRoot = path.resolve(process.cwd(), "./public/data");
   const processedRoot = path.resolve(process.cwd(), "../data/processed");
+
+  const roots = [publicDataRoot, processedRoot];
   const candidates: string[] = [];
+
   if (version) {
     const normalized = String(version).replace(/[^0-9a-z]/gi, "");
     if (normalized) {
@@ -48,10 +54,13 @@ export function getFinancialDatasetPath(version?: string | number | null): strin
     }
   }
   candidates.push("financial_dataset.csv");
-  for (const candidate of candidates) {
-    const target = path.resolve(processedRoot, candidate);
-    if (fs.existsSync(target)) {
-      return target;
+
+  for (const root of roots) {
+    for (const candidate of candidates) {
+      const target = path.resolve(root, candidate);
+      if (fs.existsSync(target)) {
+        return target;
+      }
     }
   }
   return null;
