@@ -11,6 +11,6 @@ subprocess.run([sys.executable, "gatherDataTeam.py"])
 subprocess.run([sys.executable, "gatherDataPlayer.py"])
 subprocess.run([sys.executable, "cleanDataPlayer.py"])
 subprocess.run([sys.executable, "cleanDataTeam.py"])
-subprocess.run([sys.executable, "calculateTeamElo.py"])
+subprocess.run([sys.executable, "getReamEloV2.py"])
 
 print("\nPipeline complete!")
