@@ -211,20 +211,19 @@ AGENTS.md
 # Local runs
 #artifacts/
 
-.vercel
-artifacts/experiments/notebooks/Football_Predictor_Models_Dataset_Version_1.ipynb
-artifacts/experiments/notebooks/Football_Predictor_Models_Dataset_Version_2.ipynb
-artifacts/experiments/notebooks/Football_Predictor_Models_Dataset_Version_3.ipynb
-artifacts/experiments/notebooks/Football_Predictor_Models_Dataset_Version_4.ipynb
-artifacts/experiments/notebooks/Football_Predictor_Models_Dataset_Version_5.ipynb
-artifacts/experiments/notebooks/Football_Predictor_Models_Dataset_Version_6.ipynb
-artifacts/experiments/notebooks/Football_Predictor_Models_Dataset_Version_7.ipynb
-artifacts/experiments/notebooks/Football_Predictor_Models_Dataset.ipynb
-create_report_notebook.py
+.vercel/project.json
+.vercel/README.txt
 add_tag.py
+aggregate_shap.py
+analyze_shap_pruning_v2.py
+analyze_shap_pruning.py
+compare_datasets.py
+create_report_notebook.py
 fix_xgboost.py
+insert_shap_section.py
+inspect_v6.py
+plot_shap.py
 rename_runs.py
 run_batch_experiments.py
-.gitignore
-split_cell.py
-update_report_section.py
+shap_pruning_analysis_output.txt
+shap_pruning_analysis_v2.md
