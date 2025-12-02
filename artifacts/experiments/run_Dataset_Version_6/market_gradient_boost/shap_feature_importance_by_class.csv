@@ -1,0 +1,55 @@
+feature,class_label,mean_abs_shap
+forecast_home_win,Home Win,0.029560469734517404
+forecast_draw,Home Win,0.022929010281420786
+forecast_away_win,Home Win,0.1292165086694392
+market_home_edge,Home Win,0.27658330231004696
+market_entropy,Home Win,0.03198278110025179
+market_logit_home,Home Win,0.0816593704956933
+market_max_prob,Home Win,0.07036842619449213
+prob_edge,Home Win,0.07073330700711036
+elo_home_pre,Home Win,0.041959331602725455
+elo_away_pre,Home Win,0.030390312569634995
+elo_mean_pre,Home Win,0.0546301754069631
+elo_gap_pre,Home Win,0.07626648995547244
+elo_home_expectation,Home Win,0.024358838156249847
+elo_expectation_gap,Home Win,0.01355211899698092
+market_vs_elo_edge,Home Win,0.01277332227177297
+match_day_index,Home Win,0.027519094599798954
+match_day_of_year_norm,Home Win,0.042174134267959726
+match_weekday_index,Home Win,0.016331708448025152
+forecast_home_win,Draw,0.022861940652403656
+forecast_draw,Draw,0.1464697555691664
+forecast_away_win,Draw,0.01791940242463024
+market_home_edge,Draw,0.008873834857111799
+market_entropy,Draw,0.09410121855090836
+market_logit_home,Draw,0.008712405475019478
+market_max_prob,Draw,0.04141809801172154
+prob_edge,Draw,0.004134159606710695
+elo_home_pre,Draw,0.029136474498664022
+elo_away_pre,Draw,0.03145473323862535
+elo_mean_pre,Draw,0.15969517501755232
+elo_gap_pre,Draw,0.02302420184055227
+elo_home_expectation,Draw,0.00753120218090868
+elo_expectation_gap,Draw,0.004531944587287336
+market_vs_elo_edge,Draw,0.0166868752169966
+match_day_index,Draw,0.04642716159276896
+match_day_of_year_norm,Draw,0.009915503518873211
+match_weekday_index,Draw,0.0013100265185503881
+forecast_home_win,Away Win,0.023765024578439393
+forecast_draw,Away Win,0.07277446913517778
+forecast_away_win,Away Win,0.2456122516339723
+market_home_edge,Away Win,0.08428698804527719
+market_entropy,Away Win,0.05488610031303639
+market_logit_home,Away Win,0.3058011250186398
+market_max_prob,Away Win,0.019145311295598134
+prob_edge,Away Win,0.029550370765469677
+elo_home_pre,Away Win,0.09302206830797567
+elo_away_pre,Away Win,0.011531935331978218
+elo_mean_pre,Away Win,0.023004472221954106
+elo_gap_pre,Away Win,0.0515362981521641
+elo_home_expectation,Away Win,0.039160037748771706
+elo_expectation_gap,Away Win,0.007145656077346456
+market_vs_elo_edge,Away Win,0.011955916326073927
+match_day_index,Away Win,0.031974445227650014
+match_day_of_year_norm,Away Win,0.025691785362979894
+match_weekday_index,Away Win,0.00802954902286486

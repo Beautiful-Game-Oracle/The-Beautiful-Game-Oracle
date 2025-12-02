@@ -1,0 +1,63 @@
+{
+  "trainer": "xgboost",
+  "train": {
+    "accuracy": 0.8596153846153847,
+    "logloss": 0.6310320496559143
+  },
+  "val": {
+    "accuracy": 0.4666666666666667,
+    "logloss": 1.0507179498672485
+  },
+  "test": {
+    "accuracy": 0.45,
+    "logloss": 1.0591708421707153
+  },
+  "epochs_trained": 5,
+  "feature_cols": [
+    "home_goal_diff_std5",
+    "away_goal_diff_std5",
+    "goal_diff_std_gap5",
+    "home_goal_diff_exp_decay",
+    "away_goal_diff_exp_decay",
+    "goal_diff_exp_decay_gap",
+    "home_xg_diff_std5",
+    "away_xg_diff_std5",
+    "xg_diff_std_gap5",
+    "home_xg_diff_exp_decay",
+    "away_xg_diff_exp_decay",
+    "xg_diff_exp_decay_gap",
+    "home_shot_diff_std5",
+    "away_shot_diff_std5",
+    "shot_diff_std_gap5",
+    "home_shot_diff_exp_decay",
+    "away_shot_diff_exp_decay",
+    "shot_diff_exp_decay_gap",
+    "home_recent_games_frac",
+    "away_recent_games_frac",
+    "home_shots_for_avg5",
+    "home_shots_allowed_avg5",
+    "away_shots_for_avg5",
+    "away_shots_allowed_avg5",
+    "shot_vol_gap_avg5",
+    "shot_suppress_gap_avg5",
+    "log_shot_ratio_avg5",
+    "shots_tempo_avg5",
+    "att_gap_avg5",
+    "def_gap_avg5",
+    "points_gap_avg5",
+    "xg_att_gap_avg5",
+    "xg_def_gap_avg5",
+    "log_xg_ratio_avg5",
+    "home_goals_for_avg5",
+    "home_goals_against_avg5",
+    "away_goals_for_avg5",
+    "away_goals_against_avg5",
+    "elo_home_pre",
+    "elo_away_pre",
+    "elo_mean_pre",
+    "elo_gap_pre",
+    "elo_home_expectation",
+    "elo_expectation_gap"
+  ],
+  "dataset_label": "Dataset_Version_3"
+}

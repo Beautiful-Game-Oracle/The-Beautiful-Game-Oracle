@@ -212,3 +212,19 @@ AGENTS.md
 #artifacts/
 
 .vercel
+artifacts/experiments/notebooks/Football_Predictor_Models_Dataset_Version_1.ipynb
+artifacts/experiments/notebooks/Football_Predictor_Models_Dataset_Version_2.ipynb
+artifacts/experiments/notebooks/Football_Predictor_Models_Dataset_Version_3.ipynb
+artifacts/experiments/notebooks/Football_Predictor_Models_Dataset_Version_4.ipynb
+artifacts/experiments/notebooks/Football_Predictor_Models_Dataset_Version_5.ipynb
+artifacts/experiments/notebooks/Football_Predictor_Models_Dataset_Version_6.ipynb
+artifacts/experiments/notebooks/Football_Predictor_Models_Dataset_Version_7.ipynb
+artifacts/experiments/notebooks/Football_Predictor_Models_Dataset.ipynb
+create_report_notebook.py
+add_tag.py
+fix_xgboost.py
+rename_runs.py
+run_batch_experiments.py
+.gitignore
+split_cell.py
+update_report_section.py

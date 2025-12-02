@@ -1,0 +1,37 @@
+{
+  "trainer": "xgboost",
+  "train": {
+    "accuracy": 0.725,
+    "logloss": 0.6812993884086609
+  },
+  "val": {
+    "accuracy": 0.56,
+    "logloss": 0.9088354706764221
+  },
+  "test": {
+    "accuracy": 0.7,
+    "logloss": 0.846851110458374
+  },
+  "epochs_trained": 51,
+  "feature_cols": [
+    "forecast_home_win",
+    "forecast_draw",
+    "forecast_away_win",
+    "market_home_edge",
+    "market_entropy",
+    "market_logit_home",
+    "market_max_prob",
+    "prob_edge",
+    "elo_home_pre",
+    "elo_away_pre",
+    "elo_mean_pre",
+    "elo_gap_pre",
+    "elo_home_expectation",
+    "elo_expectation_gap",
+    "market_vs_elo_edge",
+    "match_day_index",
+    "match_day_of_year_norm",
+    "match_weekday_index"
+  ],
+  "dataset_label": "Dataset_Version_6"
+}

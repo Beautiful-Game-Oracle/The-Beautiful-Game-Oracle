@@ -1,0 +1,58 @@
+feature,class_label,mean_abs_shap
+home_recent_games_frac,Home Win,0.0
+away_recent_games_frac,Home Win,0.002470856997463853
+log_shot_ratio_avg5,Home Win,0.0
+att_gap_avg5,Home Win,0.03334747167611496
+def_gap_avg5,Home Win,0.02877318202171785
+points_gap_avg5,Home Win,0.025559822605270895
+xg_att_gap_avg5,Home Win,0.08790488704976937
+xg_def_gap_avg5,Home Win,0.07856394118561102
+log_xg_ratio_avg5,Home Win,0.026024216584426673
+home_goals_for_avg5,Home Win,0.022130161054106416
+home_goals_against_avg5,Home Win,0.030523257297238652
+away_goals_for_avg5,Home Win,0.03376870048904482
+away_goals_against_avg5,Home Win,0.02193280352271782
+elo_home_pre,Home Win,0.021998682606965306
+elo_away_pre,Home Win,0.040489999939765174
+elo_mean_pre,Home Win,0.07470041263072832
+elo_gap_pre,Home Win,0.20756043376022332
+elo_home_expectation,Home Win,0.0
+elo_expectation_gap,Home Win,0.0
+home_recent_games_frac,Draw,0.0
+away_recent_games_frac,Draw,0.0
+log_shot_ratio_avg5,Draw,0.0
+att_gap_avg5,Draw,0.020234802888473503
+def_gap_avg5,Draw,0.06252124601411632
+points_gap_avg5,Draw,0.020891309690289184
+xg_att_gap_avg5,Draw,0.03172567385563939
+xg_def_gap_avg5,Draw,0.02876897468341823
+log_xg_ratio_avg5,Draw,0.0
+home_goals_for_avg5,Draw,0.02212240877455721
+home_goals_against_avg5,Draw,0.02151998994659321
+away_goals_for_avg5,Draw,0.04270482036964967
+away_goals_against_avg5,Draw,0.0030488781819740943
+elo_home_pre,Draw,0.05177109861906309
+elo_away_pre,Draw,0.023812961382775888
+elo_mean_pre,Draw,0.14571013265320404
+elo_gap_pre,Draw,0.021492358117317784
+elo_home_expectation,Draw,0.0
+elo_expectation_gap,Draw,0.0
+home_recent_games_frac,Away Win,0.0
+away_recent_games_frac,Away Win,0.0
+log_shot_ratio_avg5,Away Win,0.0
+att_gap_avg5,Away Win,0.05609658842198551
+def_gap_avg5,Away Win,0.03540755138956008
+points_gap_avg5,Away Win,0.025355265422211958
+xg_att_gap_avg5,Away Win,0.043277221466011054
+xg_def_gap_avg5,Away Win,0.08632966281078598
+log_xg_ratio_avg5,Away Win,0.02301251227483153
+home_goals_for_avg5,Away Win,0.011126059308725723
+home_goals_against_avg5,Away Win,0.0110412968379135
+away_goals_for_avg5,Away Win,0.022849630716349923
+away_goals_against_avg5,Away Win,0.024658570584716887
+elo_home_pre,Away Win,0.1029759867388445
+elo_away_pre,Away Win,0.04578033285321046
+elo_mean_pre,Away Win,0.030019715026641875
+elo_gap_pre,Away Win,0.1793262768674331
+elo_home_expectation,Away Win,0.06139598789758358
+elo_expectation_gap,Away Win,0.0
